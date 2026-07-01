@@ -71,6 +71,6 @@ jobs:
           else
             MONTH=$(date +"%Y-%m")
             git commit -m "chore: monthly crawl ${MONTH} — draw history update"
-            git pull --rebase origin HEAD
+            git pull --rebase -X ours origin HEAD
             git push
           fi

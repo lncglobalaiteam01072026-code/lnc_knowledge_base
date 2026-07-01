@@ -68,6 +68,6 @@ jobs:
           else
             MONTH=$(date +"%Y-%m")
             git commit -m "chore: news crawl ${MONTH} — CIC News PNP update"
-            git pull --rebase origin HEAD
+            git pull --rebase -X ours origin HEAD
             git push
           fi

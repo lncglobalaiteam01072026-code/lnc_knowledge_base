@@ -71,6 +71,6 @@ jobs:
           else
             WEEK=$(date +"%Y-W%V")
             git commit -m "chore: weekly crawl ${WEEK} — BCPNP invitations update"
-            git pull --rebase origin HEAD
+            git pull --rebase -X ours origin HEAD
             git push
           fi

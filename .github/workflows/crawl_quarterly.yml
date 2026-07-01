@@ -69,6 +69,6 @@ jobs:
           else
             QUARTER=$(python3 -c "from datetime import date; d=date.today(); print('Q' + str((d.month-1)//3+1) + '-' + str(d.year))")
             git commit -m "chore: quarterly crawl ${QUARTER} — program core update"
-            git pull --rebase origin HEAD
+            git pull --rebase -X ours origin HEAD
             git push
           fi

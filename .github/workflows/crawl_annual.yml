@@ -66,6 +66,6 @@ jobs:
           else
             YEAR=$(date +"%Y")
             git commit -m "chore: annual crawl ${YEAR} — language tests, ECA update"
-            git pull --rebase origin HEAD
+            git pull --rebase -X ours origin HEAD
             git push
           fi

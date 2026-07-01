@@ -77,6 +77,6 @@ jobs:
           else
             MONTH=$(date +"%Y-%m")
             git commit -m "chore: ircc crawl ${MONTH} — processing times, PNP approvals, EE link"
-            git pull --rebase origin HEAD
+            git pull --rebase -X ours origin HEAD
             git push
           fi

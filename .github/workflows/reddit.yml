@@ -67,6 +67,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: reddit crawl $(date +%Y-%m-%d) — community posts"
-            git pull --rebase origin HEAD
+            git pull --rebase -X ours origin HEAD
             git push
           fi

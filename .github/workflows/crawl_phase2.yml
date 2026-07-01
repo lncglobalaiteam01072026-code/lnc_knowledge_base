@@ -71,6 +71,6 @@ jobs:
           else
             MONTH=$(date +"%Y-%m")
             git commit -m "chore: phase2 crawl ${MONTH} — job market update"
-            git pull --rebase origin HEAD
+            git pull --rebase -X ours origin HEAD
             git push
           fi
