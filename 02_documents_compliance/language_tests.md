@@ -1,9 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
+content_hash: b10c973960d922ac
 file_role: language_tests
 lang: en
-last_updated: '2026-06-28'
+last_updated: '2026-07-01'
 priority_weight: 1
 program: BOTH
 retrieval_strategy: direct

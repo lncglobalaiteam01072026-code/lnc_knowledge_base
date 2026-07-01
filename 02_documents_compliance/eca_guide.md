@@ -1,9 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
+content_hash: e2d242e327f36ea9
 file_role: eca_guide
 lang: en
-last_updated: '2026-06-28'
+last_updated: '2026-07-01'
 priority_weight: 1
 program: BOTH
 retrieval_strategy: direct

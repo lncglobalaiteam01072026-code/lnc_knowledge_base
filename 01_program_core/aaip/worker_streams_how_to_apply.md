@@ -1,9 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
+content_hash: f83252c2c72e2437
 file_role: worker_streams_how_to_apply
 lang: en
-last_updated: '2026-06-28'
+last_updated: '2026-07-01'
 priority_weight: 1
 program: AAIP
 province: AB

@@ -1,9 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: structured
+content_hash: 2dbacb9dfdc3ec33
 file_role: entrepreneur_pipeline
 lang: en
-last_updated: '2026-06-28'
+last_updated: '2026-07-01'
 priority_weight: 1
 program: AAIP
 province: AB

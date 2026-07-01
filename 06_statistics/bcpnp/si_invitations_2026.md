@@ -1,9 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: structured
+content_hash: a0cc146b5eacdebc
 file_role: si_invitations_2026
 lang: en
-last_updated: '2026-06-28'
+last_updated: '2026-07-01'
 priority_weight: 1
 program: BCPNP
 province: BC
