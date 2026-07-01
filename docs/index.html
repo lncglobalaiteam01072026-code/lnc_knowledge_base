@@ -509,8 +509,24 @@ function addLog(cls,text){
 })();
 
 var crawling=false;
+var GH_TOKEN='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';
+var GH_OWNER='lncglobalaiteam01072026-code';
+var GH_REPO='lnc_knowledge_base';
+var GH_WORKFLOW='crawl_ircc.yml';
+function triggerWorkflow(){
+  if(GH_TOKEN==='PASTE_YOUR_WORKFLOW_TOKEN_HERE')return;
+  fetch('https://api.github.com/repos/'+GH_OWNER+'/'+GH_REPO+'/actions/workflows/'+GH_WORKFLOW+'/dispatches',{
+    method:'POST',
+    headers:{'Authorization':'Bearer '+GH_TOKEN,'Content-Type':'application/json','Accept':'application/vnd.github+json'},
+    body:JSON.stringify({ref:'main'})
+  }).then(function(r){
+    if(r.status===204){addLog('ok','['+new Date().toLocaleTimeString('vi-VN')+'] GitHub Actions triggered ✓');}
+    else{addLog('warn','['+new Date().toLocaleTimeString('vi-VN')+'] API response: '+r.status);}
+  }).catch(function(){addLog('warn','Không kết nối được GitHub API');});
+}
 function startCrawl(){
   if(crawling)return; crawling=true;
+  triggerWorkflow();
   var btn=document.getElementById('runBtn');
   btn.disabled=true; btn.classList.add('running');
   document.getElementById('runBtnText').textContent='Đang chạy...';
