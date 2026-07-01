@@ -44,7 +44,9 @@ if os.path.isdir(kb_dir):
         [
             "rclone", "--config", "/tmp/rclone.conf",
             "sync", kb_dir, "gdrive:lnc-knowledge-base-temp",
-            "--exclude", ".git/**",
+            "--include", "*.md",
+            "--include", "*.json",
+            "--exclude", "*",
             "--transfers", "8",
             "--fast-list",
         ],
