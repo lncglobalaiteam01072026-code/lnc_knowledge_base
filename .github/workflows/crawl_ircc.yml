@@ -49,6 +49,7 @@ jobs:
         run: python crawl.py --id ircc_processing_times
 
       - name: Crawl IRCC PNP approval statistics
+        continue-on-error: true
         run: python crawl.py --id ircc_pnp_approvals
 
       - name: Crawl IRCC Express Entry PNP link
