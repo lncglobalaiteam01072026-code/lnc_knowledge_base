@@ -691,21 +691,79 @@ function renderCharts(){
     var t='['+pad(d.getHours())+':'+pad(d.getMinutes())+':'+pad(d.getSeconds())+']';
     logMsgs[i]=[logMsgs[i][0],logMsgs[i][1].replace(/\[\d{2}:\d{2}:\d{2}\]/,t)];
   }
-  var rows=document.querySelectorAll('.sched-row');
-  var now=new Date();
-  function daysTo(n){
-    var d=new Date(now.getFullYear(),now.getMonth(),n,3,0,0);
-    if(d<=now)d=new Date(now.getFullYear(),now.getMonth()+1,n,3,0,0);
-    return Math.ceil((d-now)/86400000);
-  }
-  function daysToMon(){
-    var d=new Date(now);d.setDate(d.getDate()+((1+7-d.getDay())%7||7));
-    return Math.ceil((d-now)/86400000);
-  }
-  var dArr=[null,null,daysTo(2),daysTo(3),daysToMon(),null,null];
-  rows.forEach(function(row,i){
-    if(dArr[i]!==null){var b=row.querySelector('.sched-badge');if(b)b.textContent=dArr[i]+' ngày nữa';}
-  });
+  // Dynamic schedule: date text + badge/dot
+  (function(){
+    var VM=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var VD=['Chủ Nhật','Thứ Hai','Thứ Ba','Thứ Tư','Thứ Năm','Thứ Sáu','Thứ Bảy'];
+    var now=new Date(), t=now.getTime();
+    function vnLocal(utcMs){return new Date(utcMs+7*3600*1000);}
+    function fmtD(utcMs,hm){var d=vnLocal(utcMs);return d.getUTCDate()+' '+VM[d.getUTCMonth()]+' '+d.getUTCFullYear()+' · '+hm;}
+    function fmtWD(utcMs){var d=vnLocal(utcMs);return VD[d.getUTCDay()]+' '+d.getUTCDate()+' '+VM[d.getUTCMonth()]+' '+d.getUTCFullYear();}
+    function days(utcMs){return Math.ceil((utcMs-t)/86400000);}
+    function nextNth(nth,utcH){
+      var y=now.getUTCFullYear(),m=now.getUTCMonth();
+      var d=Date.UTC(y,m,nth,utcH,0,0);
+      if(d<=t)d=Date.UTC(y,m+1,nth,utcH,0,0);
+      return d;
+    }
+    function nextQ(){
+      var qm=[0,3,6,9],y=now.getUTCFullYear();
+      for(var p=0;p<2;p++){for(var i=0;i<qm.length;i++){var d=Date.UTC(y,qm[i],1,3,0,0);if(d>t)return d;}y++;}
+    }
+    function nextMon(){
+      var skip=(1-now.getUTCDay()+7)%7||7;
+      return Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),now.getUTCDate()+skip,2,0,0);
+    }
+    function nextBiweekly(){
+      var y=now.getUTCFullYear(),m=now.getUTCMonth();
+      var d1=Date.UTC(y,m,1,3,0,0),d15=Date.UTC(y,m,15,3,0,0);
+      if(d1>t)return d1; if(d15>t)return d15;
+      return Date.UTC(y,m+1,1,3,0,0);
+    }
+    function nextAnnual(){
+      var y=now.getUTCFullYear(),d=Date.UTC(y,0,15,4,0,0);
+      return d>t?d:Date.UTC(y+1,0,15,4,0,0);
+    }
+    function setBadge(row,utcMs){
+      var d=days(utcMs),last=row.lastElementChild;
+      if(d<=0){last.innerHTML='<div class="sched-ok"></div>';}
+      else if(d===1){last.innerHTML='<span class="sched-badge">ngày mai</span>';}
+      else{last.innerHTML='<span class="sched-badge">'+d+' ngày nữa</span>';}
+    }
+    function alreadyRanToday(utcH,utcM,dom){
+      var r=Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),dom,utcH,utcM,0);
+      return now.getUTCDate()===dom && t>=r;
+    }
+    var nexts=document.querySelectorAll('.sched-next');
+    var rows=document.querySelectorAll('.sched-row');
+    if(!nexts.length)return;
+    // 0: Quarterly — 0 3 1 1,4,7,10
+    var qMs=nextQ(); nexts[0].textContent='Kế tiếp: '+fmtD(qMs,'10:00 SA'); setBadge(rows[0],qMs);
+    // 1: Monthly draw — 0 2 1 * *
+    if(alreadyRanToday(2,0,1)){
+      nexts[1].textContent='Đã chạy: '+fmtD(Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),1,2,0,0),'09:00 SA')+' ✓';
+      rows[1].lastElementChild.innerHTML='<div class="sched-ok"></div>';
+    } else {
+      var mMs=nextNth(1,2); nexts[1].textContent='Kế tiếp: '+fmtD(mMs,'09:00 SA'); setBadge(rows[1],mMs);
+    }
+    // 2: Phase 2 — 0 3 2 * *
+    var p2=nextNth(2,3); nexts[2].textContent='Kế tiếp: '+fmtD(p2,'10:00 SA'); setBadge(rows[2],p2);
+    // 3: CIC News — 0 3 3 * *
+    var cn=nextNth(3,3); nexts[3].textContent='Kế tiếp: '+fmtD(cn,'10:00 SA'); setBadge(rows[3],cn);
+    // 4: Weekly IRCC — 0 2 * * 1
+    var wMs=nextMon(); nexts[4].textContent='Kế tiếp: '+fmtWD(wMs); setBadge(rows[4],wMs);
+    // 5: Reddit — 0 3 1,15 * *
+    var ran1=alreadyRanToday(3,0,1),ran15=alreadyRanToday(3,0,15);
+    if(ran1||ran15){
+      var rRan=ran15?Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),15,3,0,0):Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),1,3,0,0);
+      nexts[5].textContent='Đã chạy: '+fmtD(rRan,'10:00 SA')+' ✓';
+      rows[5].lastElementChild.innerHTML='<div class="sched-ok"></div>';
+    } else {
+      var bw=nextBiweekly(); nexts[5].textContent='Kế tiếp: '+fmtD(bw,'10:00 SA'); setBadge(rows[5],bw);
+    }
+    // 6: Annual — 0 4 15 1 *
+    var an=nextAnnual(); nexts[6].textContent='Kế tiếp: '+fmtD(an,'11:00 SA'); setBadge(rows[6],an);
+  })();
 })();
 window.addEventListener('load',renderCharts);
 window.addEventListener('resize',renderCharts);
