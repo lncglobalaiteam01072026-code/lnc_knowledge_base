@@ -1,10 +1,9 @@
 ---
 access_level: chatbot
 chunk_strategy: structured
-content_hash: 4c40d6aa4fa4f995
 file_role: si_pool_snapshot
 lang: en
-last_updated: '2026-07-01'
+last_updated: '2026-06-28'
 priority_weight: 1
 program: BCPNP
 province: BC
