@@ -1,0 +1,82 @@
+name: Crawl — Monthly (IRCC processing times & approvals)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "crawlers/**"
+      - "config/**"
+      - "processors/**"
+      - "validators/**"
+      - "scripts/**"
+      - "crawl.py"
+      - "requirements.txt"
+  schedule:
+    - cron: "0 2 5 * *"   # ngày 5 hàng tháng lúc 2am UTC (09:00 giờ VN)
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout crawler repo
+        uses: actions/checkout@v4
+
+      - name: Checkout KB repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.KB_REPO }}
+          token: ${{ secrets.KB_REPO_TOKEN }}
+          path: output/lnc-knowledge-base
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright browsers
+        run: python -m playwright install chromium --with-deps
+
+      - name: Crawl IRCC processing times
+        run: python crawl.py --id ircc_processing_times
+
+      - name: Crawl IRCC PNP approval statistics
+        run: python crawl.py --id ircc_pnp_approvals
+
+      - name: Crawl IRCC Express Entry PNP link
+        run: python crawl.py --id ircc_ee_pnp_link
+
+      - name: Upload to Google Drive
+        continue-on-error: true
+        env:
+          GDRIVE_REFRESH_TOKEN: ${{ secrets.GDRIVE_REFRESH_TOKEN }}
+          GDRIVE_CLIENT_ID: ${{ secrets.GDRIVE_CLIENT_ID }}
+          GDRIVE_CLIENT_SECRET: ${{ secrets.GDRIVE_CLIENT_SECRET }}
+        run: |
+          curl -fsSL https://downloads.rclone.org/rclone-current-linux-amd64.zip -o /tmp/rclone.zip
+          unzip -q /tmp/rclone.zip -d /tmp/rclone && mv /tmp/rclone/rclone-*/rclone /usr/local/bin/
+          python3 scripts/build_rclone_conf.py
+          echo "Drive sync handled by build_rclone_conf.py"
+
+      - name: Commit and push changes
+        working-directory: output/lnc-knowledge-base
+        run: |
+          git config user.name "lnc-crawler-bot"
+          git config user.email "crawler@lnc.internal"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            MONTH=$(date +"%Y-%m")
+            git commit -m "chore: ircc crawl ${MONTH} — processing times, PNP approvals, EE link"
+            git pull --rebase origin HEAD
+            git push
+          fi

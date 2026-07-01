@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LNC Immigration KB — Live Demo</title>
+<style>
+:root{
+  --bg:#040912;--s1:#08111F;--s2:#0D1929;--s3:#132035;
+  --border:#1B2E47;--border2:#253D60;
+  --t0:#D0E4FF;--t1:#7A9DC8;--t2:#3D5A7A;--t3:#1E3450;
+  --green:#00DFA2;--green-bg:rgba(0,223,162,.1);--green-b:rgba(0,223,162,.25);
+  --blue:#4DB8FF;--blue-bg:rgba(77,184,255,.1);--blue-b:rgba(77,184,255,.25);
+  --amber:#FFB830;--amber-bg:rgba(255,184,48,.1);--amber-b:rgba(255,184,48,.25);
+  --red:#FF5C72;--red-bg:rgba(255,92,114,.08);--red-b:rgba(255,92,114,.25);
+  --mono:'SF Mono','Fira Code',Consolas,monospace;
+  --sans:system-ui,-apple-system,'Segoe UI',sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--t0);font-family:var(--sans);font-size:13px;line-height:1.5;min-height:100vh}
+::-webkit-scrollbar{width:4px;height:4px}
+::-webkit-scrollbar-track{background:var(--s1)}
+::-webkit-scrollbar-thumb{background:var(--border2);border-radius:2px}
+.page{max-width:1280px;margin:0 auto;padding:0 20px 56px}
+
+.topbar{position:sticky;top:0;z-index:100;background:rgba(4,9,18,.95);backdrop-filter:blur(8px);border-bottom:1px solid var(--border);padding:0 20px}
+.topbar-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;gap:14px;height:52px}
+.brand{display:flex;align-items:center;gap:10px}
+.brand-mark{width:28px;height:28px;background:var(--green);border-radius:5px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:11px;color:#040912;letter-spacing:.3px;flex-shrink:0}
+.brand-name{font-size:14px;font-weight:600}
+.topbar-sep{width:1px;height:20px;background:var(--border);margin:0 4px}
+.sys-status{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--green)}
+.pulse{width:6px;height:6px;border-radius:50%;background:var(--green);animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.topbar-space{flex:1}
+.last-update{font-size:10px;color:var(--t2);font-family:var(--mono)}
+.run-btn{display:flex;align-items:center;gap:7px;padding:7px 18px;background:var(--green);color:#040912;border:none;border-radius:6px;font-size:12px;font-weight:700;cursor:pointer;letter-spacing:.3px;transition:all .15s;font-family:var(--sans)}
+.run-btn:hover:not(:disabled){background:#00F2B0;transform:translateY(-1px)}
+.run-btn:disabled{opacity:.6;cursor:not-allowed;transform:none}
+.run-btn .spinner{width:12px;height:12px;border:2px solid rgba(4,9,18,.3);border-top-color:#040912;border-radius:50%;animation:spin .6s linear infinite;display:none}
+.run-btn.running .spinner{display:block}
+.run-btn.running .btn-arrow{display:none}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--border);border:1px solid var(--border);border-radius:8px;overflow:hidden;margin:16px 0}
+.stat{background:var(--s1);padding:12px 16px;transition:background .15s}
+.stat:hover{background:var(--s2)}
+.stat-n{font-size:24px;font-weight:700;font-family:var(--mono);font-variant-numeric:tabular-nums;letter-spacing:-1px}
+.stat-n .unit{font-size:12px;font-weight:400;color:var(--t1);margin-left:2px}
+.stat-l{font-size:10px;color:var(--t2);text-transform:uppercase;letter-spacing:.7px;margin-top:1px}
+.stat-delta{font-size:10px;margin-top:3px}
+.stat-delta.up{color:var(--green)}
+.stat-delta.warn{color:var(--amber)}
+
+.slabel{font-size:10px;text-transform:uppercase;letter-spacing:1px;color:var(--t2);display:flex;align-items:center;gap:8px;margin-bottom:12px}
+.slabel::after{content:'';flex:1;height:1px;background:var(--border)}
+
+.pipeline-wrap{background:var(--s1);border:1px solid var(--border);border-radius:8px;padding:20px 24px;margin-bottom:16px}
+.pipeline{display:flex;align-items:center;overflow-x:auto;padding-bottom:2px}
+.pnode{flex-shrink:0;display:flex;flex-direction:column;align-items:center;gap:5px;min-width:110px}
+.pnode-icon{width:44px;height:44px;border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:18px;border:1px solid var(--border);background:var(--s2);transition:all .3s}
+.pnode-icon.active{border-color:var(--green-b);background:var(--green-bg);box-shadow:0 0 12px rgba(0,223,162,.15)}
+.pnode-icon.synced{border-color:var(--blue-b);background:var(--blue-bg)}
+.pnode-name{font-size:11px;font-weight:600;text-align:center;white-space:nowrap}
+.pnode-sub{font-size:9px;color:var(--t2);text-align:center;white-space:nowrap}
+.pconnect{flex:1;height:2px;background:var(--border);position:relative;overflow:hidden;min-width:24px;max-width:64px}
+.pconnect .flow{position:absolute;top:0;left:-60%;width:60%;height:100%;background:linear-gradient(90deg,transparent,var(--green),transparent)}
+.pconnect.active .flow{animation:flowline 1.8s linear infinite}
+.pconnect:nth-child(4n) .flow{animation-delay:.45s}
+.pconnect:nth-child(4n+2) .flow{animation-delay:.9s}
+.pconnect:nth-child(4n+3) .flow{animation-delay:1.35s}
+@keyframes flowline{to{left:160%}}
+
+.main-grid{display:grid;grid-template-columns:1fr 380px;gap:14px;align-items:start}
+@media(max-width:900px){.main-grid{grid-template-columns:1fr}}
+
+.prog-cards{display:flex;flex-direction:column;gap:12px;margin-bottom:14px}
+.prog-card{background:var(--s1);border:1px solid var(--border);border-radius:8px;overflow:hidden;transition:border-color .15s}
+.prog-card:hover{border-color:var(--border2)}
+.prog-header{display:flex;align-items:center;gap:10px;padding:14px 16px 10px}
+.prog-flag{width:36px;height:36px;border-radius:7px;display:flex;align-items:center;justify-content:center;font-size:17px;flex-shrink:0}
+.prog-flag.ab{background:var(--blue-bg);border:1px solid var(--blue-b)}
+.prog-flag.bc{background:var(--green-bg);border:1px solid var(--green-b)}
+.prog-meta{flex:1}
+.prog-name{font-size:13px;font-weight:600}
+.prog-id{font-size:10px;color:var(--t2);font-family:var(--mono);margin-top:1px}
+.prog-badge{padding:3px 9px;border-radius:12px;font-size:10px;font-weight:600;letter-spacing:.3px}
+.prog-badge.ok{background:var(--green-bg);color:var(--green);border:1px solid var(--green-b)}
+.prog-badge.running{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-b);animation:badgepulse 1s ease-in-out infinite}
+@keyframes badgepulse{0%,100%{opacity:1}50%{opacity:.6}}
+.prog-body{padding:0 16px 14px;display:flex;flex-direction:column;gap:8px}
+.prog-progress-header{display:flex;justify-content:space-between;align-items:center}
+.prog-progress-label{font-size:10px;color:var(--t2)}
+.prog-progress-val{font-size:10px;font-family:var(--mono);color:var(--t1)}
+.prog-bar-track{height:4px;background:var(--s3);border-radius:2px;overflow:hidden;margin-top:4px}
+.prog-bar-fill{height:100%;border-radius:2px;transition:width 1s ease;background:var(--green)}
+.prog-bar-fill.blue{background:var(--blue)}
+.prog-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.prog-stat{background:var(--s2);border-radius:5px;padding:7px 10px}
+.prog-stat-n{font-size:15px;font-weight:700;font-family:var(--mono)}
+.prog-stat-l{font-size:9px;color:var(--t2);margin-top:1px;text-transform:uppercase;letter-spacing:.5px}
+.prog-sources{padding:8px 12px;background:var(--s2);border-radius:5px;display:flex;flex-direction:column;gap:4px}
+.source-row{display:flex;align-items:center;gap:6px;font-size:10px}
+.source-dot{width:5px;height:5px;border-radius:50%;flex-shrink:0}
+.source-dot.ok{background:var(--green)}
+.source-dot.fail{background:var(--red)}
+.source-name{flex:1;color:var(--t1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:var(--mono)}
+.source-time{color:var(--t2);white-space:nowrap}
+
+.log-panel{background:var(--s1);border:1px solid var(--border);border-radius:8px;overflow:hidden}
+.log-head{display:flex;align-items:center;gap:8px;padding:10px 14px;border-bottom:1px solid var(--border);background:var(--s2)}
+.log-head-title{font-size:11px;font-weight:600;flex:1}
+.log-live{width:6px;height:6px;border-radius:50%;background:var(--t3)}
+.log-live.active{background:var(--green);animation:pulse 1s infinite}
+.log-body{height:340px;overflow-y:auto;padding:10px 14px;font-family:var(--mono);font-size:10.5px;line-height:1.7}
+.log-line{color:var(--t1)}
+.log-line.ok{color:var(--green)}
+.log-line.fail{color:var(--red)}
+.log-line.info{color:var(--blue)}
+.log-line.warn{color:var(--amber)}
+.log-line.dim{color:var(--t3)}
+
+.schedule{background:var(--s1);border:1px solid var(--border);border-radius:8px;margin-top:12px}
+.schedule-head{padding:10px 14px;border-bottom:1px solid var(--border);background:var(--s2);font-size:11px;font-weight:600}
+.sched-row{display:flex;align-items:center;gap:10px;padding:9px 14px;border-bottom:1px solid var(--border);transition:background .1s}
+.sched-row:last-child{border-bottom:none}
+.sched-row:hover{background:var(--s2)}
+.sched-icon{font-size:13px;flex-shrink:0;width:20px;text-align:center}
+.sched-info{flex:1;min-width:0}
+.sched-name{font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sched-next{font-size:9px;color:var(--t2);font-family:var(--mono);margin-top:1px}
+.sched-ok{width:7px;height:7px;border-radius:50%;background:var(--green)}
+.sched-badge{font-size:9px;padding:2px 6px;border-radius:3px;font-family:var(--mono);background:var(--s3);color:var(--t2);white-space:nowrap}
+
+.data-section{margin-top:14px;background:var(--s1);border:1px solid var(--border);border-radius:8px;overflow:hidden}
+.data-head{display:flex;align-items:center;gap:10px;padding:12px 16px;border-bottom:1px solid var(--border);background:var(--s2)}
+.data-title{font-size:12px;font-weight:600;flex:1}
+.data-tabs{display:flex;gap:4px}
+.dtab{padding:4px 12px;border-radius:4px;font-size:10px;font-weight:600;cursor:pointer;border:1px solid transparent;transition:all .15s;background:transparent;color:var(--t2);font-family:var(--sans)}
+.dtab.active{background:var(--blue-bg);color:var(--blue);border-color:var(--blue-b)}
+.dtab:hover:not(.active){color:var(--t1)}
+.data-search{display:flex;align-items:center;gap:8px;padding:8px 16px;border-bottom:1px solid var(--border)}
+.search-input{background:var(--s2);border:1px solid var(--border);border-radius:5px;padding:5px 10px;font-size:11px;color:var(--t0);font-family:var(--sans);width:220px;outline:none}
+.search-input:focus{border-color:var(--border2)}
+.search-input::placeholder{color:var(--t2)}
+.drive-btn{display:flex;align-items:center;gap:5px;padding:5px 12px;background:var(--blue-bg);border:1px solid var(--blue-b);border-radius:5px;color:var(--blue);font-size:11px;font-weight:600;cursor:pointer;font-family:var(--sans);margin-left:auto;text-decoration:none}
+.drive-btn:hover{background:rgba(77,184,255,.18)}
+.table-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse}
+th{text-align:left;font-size:9px;text-transform:uppercase;letter-spacing:.7px;color:var(--t2);padding:8px 14px;border-bottom:1px solid var(--border);background:var(--s2);font-weight:600;white-space:nowrap}
+td{padding:7px 14px;font-size:11px;border-bottom:1px solid var(--border);font-variant-numeric:tabular-nums}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:rgba(255,255,255,.02)}
+.score-chip{display:inline-block;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;font-family:var(--mono)}
+.score-hi{background:var(--green-bg);color:var(--green)}
+.score-med{background:var(--amber-bg);color:var(--amber)}
+.prog-tag{display:inline-block;padding:1px 6px;border-radius:3px;font-size:9px;font-weight:600;text-transform:uppercase;letter-spacing:.3px}
+.tag-aaip{background:var(--blue-bg);color:var(--blue)}
+.tag-bcpnp{background:var(--green-bg);color:var(--green)}
+.tag-other{background:var(--s3);color:var(--t2)}
+
+.charts-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin-top:14px}
+@media(max-width:860px){.charts-row{grid-template-columns:1fr 1fr}}
+.chart-card{background:var(--s1);border:1px solid var(--border);border-radius:8px;padding:16px}
+.chart-title{font-size:11px;font-weight:600;margin-bottom:4px}
+.chart-sub{font-size:10px;color:var(--t2);margin-bottom:12px}
+canvas{display:block;width:100%}
+
+.sources-section{margin-top:14px;background:var(--s1);border:1px solid var(--border);border-radius:8px;overflow:hidden}
+.sources-head{display:flex;align-items:center;justify-content:space-between;padding:10px 16px;border-bottom:1px solid var(--border);background:var(--s2);cursor:pointer;user-select:none}
+.sources-head:hover{background:var(--s3)}
+.sources-head-title{font-size:11px;font-weight:600}
+.sources-toggle{font-size:11px;color:var(--t2)}
+.sources-body{padding:12px 16px;display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.src-item{display:flex;align-items:center;gap:6px;padding:5px 8px;background:var(--s2);border-radius:4px;border:1px solid var(--border)}
+.src-item-dot{width:5px;height:5px;border-radius:50%;background:var(--green);flex-shrink:0}
+.src-item-name{font-size:10px;color:var(--t1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:var(--mono)}
+
+.toast{position:fixed;bottom:28px;right:28px;background:var(--s2);border:1px solid var(--green-b);border-radius:8px;padding:12px 18px;display:flex;align-items:center;gap:10px;font-size:12px;font-weight:500;box-shadow:0 8px 32px rgba(0,0,0,.4);transform:translateY(80px);opacity:0;transition:all .3s ease;z-index:999}
+.toast.show{transform:translateY(0);opacity:1}
+.toast-icon{font-size:16px}
+.toast-sub{font-size:10px;color:var(--t2);margin-top:2px}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <div class="brand-mark">LNC</div>
+      <div><div class="brand-name">KB Pipeline</div></div>
+    </div>
+    <div class="topbar-sep"></div>
+    <div class="sys-status"><span class="pulse"></span>Operational</div>
+    <div class="topbar-space"></div>
+    <div class="last-update" id="lastUpdate">Cập nhật 3 phút trước</div>
+    <button class="run-btn" id="runBtn" onclick="startCrawl()">
+      <span class="btn-arrow">&#9654;</span>
+      <span class="spinner"></span>
+      <span id="runBtnText">Chạy Ngay</span>
+    </button>
+  </div>
+</div>
+
+<div class="page">
+
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-n">2<span class="unit">chương trình</span></div>
+      <div class="stat-l">Đang crawl</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n">50<span class="unit">nguồn</span></div>
+      <div class="stat-l">Endpoints hoạt động</div>
+      <div class="stat-delta up">↑ 100% uptime</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n" id="s-files">247<span class="unit">files</span></div>
+      <div class="stat-l">Trong KB repo</div>
+      <div class="stat-delta up">+34 lần chạy gần nhất</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n">85<span class="unit">%</span></div>
+      <div class="stat-l">Tỉ lệ thành công</div>
+      <div class="stat-delta warn">5 nguồn cần kiểm tra</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n" id="s-lastsync">15:44<span class="unit">VN</span></div>
+      <div class="stat-l">Đồng bộ gần nhất</div>
+      <div class="stat-delta up">→ Google Drive ✓</div>
+    </div>
+  </div>
+
+  <div class="pipeline-wrap">
+    <div class="slabel">Pipeline tự động</div>
+    <div class="pipeline">
+      <div class="pnode">
+        <div class="pnode-icon active">🌐</div>
+        <div class="pnode-name">Gov Sources</div>
+        <div class="pnode-sub">50 endpoints</div>
+      </div>
+      <div class="pconnect active" id="pc0"><div class="flow"></div></div>
+      <div class="pnode">
+        <div class="pnode-icon" id="pn1">⚡</div>
+        <div class="pnode-name">GitHub Actions</div>
+        <div class="pnode-sub">crawl4ai · Playwright</div>
+      </div>
+      <div class="pconnect" id="pc1"><div class="flow"></div></div>
+      <div class="pnode">
+        <div class="pnode-icon" id="pn2">✅</div>
+        <div class="pnode-name">Validate</div>
+        <div class="pnode-sub">Schema · Frontmatter</div>
+      </div>
+      <div class="pconnect" id="pc2"><div class="flow"></div></div>
+      <div class="pnode">
+        <div class="pnode-icon" id="pn3">📚</div>
+        <div class="pnode-name">KB Repository</div>
+        <div class="pnode-sub">lnc-knowledge-basev3</div>
+      </div>
+      <div class="pconnect" id="pc3"><div class="flow"></div></div>
+      <div class="pnode" onclick="window.open('https://drive.google.com/drive/folders/1hEC-VBmCRaCI85SJ_j1GD2fbzbUoiN-U?usp=sharing','_blank')" style="cursor:pointer">
+        <div class="pnode-icon synced">☁️</div>
+        <div class="pnode-name">Google Drive</div>
+        <div class="pnode-sub" style="color:var(--blue);text-decoration:underline">lnc-knowledge-basev3/</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main-grid">
+    <div>
+      <div class="slabel">Trạng thái chương trình</div>
+      <div class="prog-cards">
+
+        <div class="prog-card">
+          <div class="prog-header">
+            <div class="prog-flag ab">🏔️</div>
+            <div class="prog-meta">
+              <div class="prog-name">AAIP — Rural Entrepreneur Stream</div>
+              <div class="prog-id">Alberta Advantage Immigration Program</div>
+            </div>
+            <span class="prog-badge ok" id="aaip-badge">✓ Hoàn thành</span>
+          </div>
+          <div class="prog-body">
+            <div>
+              <div class="prog-progress-header">
+                <span class="prog-progress-label">Tiến độ crawl</span>
+                <span class="prog-progress-val">25 / 25 nguồn</span>
+              </div>
+              <div class="prog-bar-track"><div class="prog-bar-fill blue" id="aaip-bar" style="width:100%"></div></div>
+            </div>
+            <div class="prog-stats">
+              <div class="prog-stat"><div class="prog-stat-n">142</div><div class="prog-stat-l">Files crawled</div></div>
+              <div class="prog-stat"><div class="prog-stat-n">25</div><div class="prog-stat-l">Nguồn hoạt động</div></div>
+              <div class="prog-stat"><div class="prog-stat-n">100%</div><div class="prog-stat-l">Tỉ lệ thành công</div></div>
+            </div>
+            <div class="prog-sources">
+              <div class="source-row"><span class="source-dot ok"></span><span class="source-name">aaip_eligibility → 01_program_core/aaip/rural_entrepreneur_eligibility.md</span><span class="source-time">15:44</span></div>
+              <div class="source-row"><span class="source-dot ok"></span><span class="source-name">aaip_how_to_apply → 01_program_core/aaip/rural_entrepreneur_how_to_apply.md</span><span class="source-time">15:44</span></div>
+              <div class="source-row"><span class="source-dot ok"></span><span class="source-name">aaip_post_nomination → 01_program_core/aaip/rural_entrepreneur_post_nomination.md</span><span class="source-time">15:44</span></div>
+              <div class="source-row"><span class="source-dot ok"></span><span class="source-name">aaip_draw_history → 06_statistics/aaip/draw_history.json</span><span class="source-time">15:44</span></div>
+              <div class="source-row"><span class="source-dot ok"></span><span class="source-name">aaip_communities → 03_province_community/aaip/communities.md</span><span class="source-time">15:44</span></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="prog-card">
+          <div class="prog-header">
+            <div class="prog-flag bc">🌲</div>
+            <div class="prog-meta">
+              <div class="prog-name">BCPNP — Entrepreneur Immigration</div>
+              <div class="prog-id">BC Provincial Nominee Program</div>
+            </div>
+            <span class="prog-badge ok" id="bcpnp-badge">✓ Hoàn thành</span>
+          </div>
+          <div class="prog-body">
+            <div>
+              <div class="prog-progress-header">
+                <span class="prog-progress-label">Tiến độ crawl</span>
+                <span class="prog-progress-val">29 / 34 nguồn</span>
+              </div>
+              <div class="prog-bar-track"><div class="prog-bar-fill" id="bcpnp-bar" style="width:85%"></div></div>
+            </div>
+            <div class="prog-stats">
+              <div class="prog-stat"><div class="prog-stat-n">105</div><div class="prog-stat-l">Files crawled</div></div>
+              <div class="prog-stat"><div class="prog-stat-n">34</div><div class="prog-stat-l">Nguồn tổng</div></div>
+              <div class="prog-stat"><div class="prog-stat-n">85%</div><div class="prog-stat-l">Tỉ lệ thành công</div></div>
+            </div>
+            <div class="prog-sources">
+              <div class="source-row"><span class="source-dot ok"></span><span class="source-name">bcpnp_ei_eligibility → 01_program_core/bcpnp/ei_eligibility.md</span><span class="source-time">15:44</span></div>
+              <div class="source-row"><span class="source-dot ok"></span><span class="source-name">bcpnp_ei_how_to_apply → 01_program_core/bcpnp/ei_how_to_apply.md</span><span class="source-time">15:44</span></div>
+              <div class="source-row"><span class="source-dot ok"></span><span class="source-name">bcpnp_ei_invitations → 06_statistics/bcpnp/ei_invitations_2025.pdf</span><span class="source-time">15:44</span></div>
+              <div class="source-row"><span class="source-dot fail"></span><span class="source-name">bcpnp_entrepreneur → PDF server timeout (retry next run)</span><span class="source-time">15:44</span></div>
+              <div class="source-row"><span class="source-dot ok"></span><span class="source-name">bcpnp_si_program_guide → 04_forms_guides/bcpnp/si_program_guide.pdf</span><span class="source-time">15:44</span></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="data-section">
+        <div class="data-head">
+          <div class="data-title">Xem trước dữ liệu crawl</div>
+          <div class="data-tabs">
+            <button class="dtab active" onclick="switchTab('draws',this)">Draw History</button>
+            <button class="dtab" onclick="switchTab('sources',this)">Nguồn dữ liệu</button>
+          </div>
+        </div>
+        <div class="data-search">
+          <input class="search-input" id="searchInput" placeholder="Tìm kiếm draw, chương trình..." oninput="filterTable(this.value)">
+          <a class="drive-btn" href="https://drive.google.com/drive/folders/1hEC-VBmCRaCI85SJ_j1GD2fbzbUoiN-U?usp=sharing" target="_blank" rel="noopener">☁️ Mở Google Drive</a>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Draw #</th><th>Chương trình</th><th>Ngày</th><th>Stream / Loại</th><th>Điểm tối thiểu</th><th>Số lượng mời</th><th>Trạng thái</th></tr></thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="slabel">Nhật ký chạy thời gian thực</div>
+      <div class="log-panel">
+        <div class="log-head">
+          <div class="log-head-title">Run Log</div>
+          <div class="log-live" id="logLive"></div>
+          <span style="font-size:10px;color:var(--t2);font-family:var(--mono)" id="logStatus">idle</span>
+        </div>
+        <div class="log-body" id="logBody"></div>
+      </div>
+
+      <div class="schedule">
+        <div class="schedule-head">Lịch chạy tự động</div>
+        <div class="sched-row"><div class="sched-icon">🏛️</div><div class="sched-info"><div class="sched-name">Quarterly — Program Core</div><div class="sched-next">Kế tiếp: 1 Oct 2026 · 10:00 SA</div></div><div><div class="sched-ok"></div></div></div>
+        <div class="sched-row"><div class="sched-icon">📊</div><div class="sched-info"><div class="sched-name">Monthly — Draw History</div><div class="sched-next">Kế tiếp: 1 Jul 2026 · 09:00 SA</div></div><div><span class="sched-badge">1 ngày nữa</span></div></div>
+        <div class="sched-row"><div class="sched-icon">💼</div><div class="sched-info"><div class="sched-name">Phase 2 — Job Bank</div><div class="sched-next">Kế tiếp: 2 Jul 2026 · 10:00 SA</div></div><div><span class="sched-badge">2 ngày nữa</span></div></div>
+        <div class="sched-row"><div class="sched-icon">📰</div><div class="sched-info"><div class="sched-name">CIC News RSS</div><div class="sched-next">Kế tiếp: 3 Jul 2026 · 10:00 SA</div></div><div><span class="sched-badge">3 ngày nữa</span></div></div>
+        <div class="sched-row"><div class="sched-icon">⏱️</div><div class="sched-info"><div class="sched-name">Weekly — IRCC Times</div><div class="sched-next">Kế tiếp: Thứ Hai 6 Jul 2026</div></div><div><span class="sched-badge">6 ngày nữa</span></div></div>
+        <div class="sched-row"><div class="sched-icon">💬</div><div class="sched-info"><div class="sched-name">Reddit Community</div><div class="sched-next">Kế tiếp: 1 Jul 2026 · 10:00 SA</div></div><div><div class="sched-ok"></div></div></div>
+        <div class="sched-row"><div class="sched-icon">📋</div><div class="sched-info"><div class="sched-name">Annual — Language &amp; ECA</div><div class="sched-next">Kế tiếp: 15 Jan 2027 · 11:00 SA</div></div><div><div class="sched-ok"></div></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="charts-row">
+    <div class="chart-card">
+      <div class="chart-title">Files crawl theo tháng</div>
+      <div class="chart-sub">Tổng files lưu vào KB repo</div>
+      <canvas id="chartBar" height="120"></canvas>
+    </div>
+    <div class="chart-card">
+      <div class="chart-title">Tỉ lệ thành công</div>
+      <div class="chart-sub">6 tháng gần nhất</div>
+      <canvas id="chartLine" height="120"></canvas>
+    </div>
+    <div class="chart-card">
+      <div class="chart-title">Tổng dữ liệu tích lũy</div>
+      <div class="chart-sub">KB repository growth</div>
+      <canvas id="chartGrowth" height="120"></canvas>
+    </div>
+  </div>
+
+  <div class="sources-section">
+    <div class="sources-head" onclick="toggleSources()">
+      <div class="sources-head-title">📡 Danh sách nguồn dữ liệu (50 endpoints)</div>
+      <div class="sources-toggle" id="srcToggle">▼ Hiện</div>
+    </div>
+    <div class="sources-body" id="srcBody" style="display:none"></div>
+  </div>
+
+</div>
+
+<div class="toast" id="toast">
+  <div class="toast-icon">✅</div>
+  <div>
+    <div id="toastText">Crawl hoàn thành thành công!</div>
+    <div class="toast-sub" id="toastSub">29/34 nguồn · Đã đồng bộ Google Drive</div>
+  </div>
+</div>
+
+<script>
+var draws=[
+  {id:'#18',prog:'AAIP',date:'15 Jun 2026',stream:'Rural Entrepreneur',score:78,inv:25},
+  {id:'#165',prog:'BCPNP',date:'18 Jun 2026',stream:'EI — General',score:100,inv:150},
+  {id:'#17',prog:'AAIP',date:'12 Mar 2026',stream:'Rural Entrepreneur',score:82,inv:20},
+  {id:'#164',prog:'BCPNP',date:'4 Jun 2026',stream:'EI — Regional Pilot',score:98,inv:45},
+  {id:'#16',prog:'AAIP',date:'10 Dec 2025',stream:'Rural Entrepreneur',score:75,inv:30},
+  {id:'#163',prog:'BCPNP',date:'21 May 2026',stream:'EI — General',score:100,inv:180},
+  {id:'#15',prog:'AAIP',date:'15 Sep 2025',stream:'Rural Entrepreneur',score:80,inv:22},
+  {id:'#162',prog:'BCPNP',date:'7 May 2026',stream:'EI — Regional Pilot',score:95,inv:50},
+  {id:'#14',prog:'AAIP',date:'18 Jun 2025',stream:'Rural Entrepreneur',score:77,inv:28},
+  {id:'#161',prog:'BCPNP',date:'23 Apr 2026',stream:'EI — General',score:100,inv:160},
+];
+var sources=['aaip_eligibility','aaip_how_to_apply','aaip_post_nomination','aaip_draw_history',
+  'aaip_communities','aaip_faq','aaip_processing_times','aaip_forms',
+  'bcpnp_ei_eligibility','bcpnp_ei_how_to_apply','bcpnp_ei_invitations','bcpnp_ei_program_guide',
+  'bcpnp_ei_application_guide','bcpnp_ei_post_arrival','bcpnp_ei_post_nomination',
+  'bcpnp_si_program_guide','bcpnp_si_application_guide','bcpnp_si_post_nomination',
+  'bcpnp_regional_communities','bcpnp_draw_history','ircc_processing_times',
+  'ircc_express_entry_draws','cicnews_pnp','cicnews_express_entry',
+  'jobbank_alberta','jobbank_bc','reddit_immigration','reddit_aaip',
+  'language_ielts','language_celpip','language_tef','eca_wes_guide',
+  'eca_iqas_guide','bcpnp_entrepreneur','bcpnp_eligibility','bcpnp_documents'];
+var logMsgs=[
+  ['dim','[10:32:01] ─────────────────────────────────────────'],
+  ['info','[10:32:01] Bắt đầu crawl · quarterly · 34 nguồn [concurrency=3]'],
+  ['dim','[10:32:01] Đọc config/sources.json → 50 sources total'],
+  ['','[10:32:02] >> Crawling: aaip_eligibility'],
+  ['','[10:32:02] >> Crawling: aaip_how_to_apply'],
+  ['','[10:32:02] >> Crawling: aaip_post_nomination'],
+  ['ok','[10:32:04]   [OK] aaip_eligibility → rural_entrepreneur_eligibility.md'],
+  ['ok','[10:32:05]   [OK] aaip_how_to_apply → rural_entrepreneur_how_to_apply.md'],
+  ['','[10:32:05] >> Crawling: aaip_draw_history'],
+  ['','[10:32:05] >> Crawling: aaip_communities'],
+  ['ok','[10:32:06]   [OK] aaip_post_nomination → rural_entrepreneur_post_nomination.md'],
+  ['ok','[10:32:07]   [OK] aaip_draw_history → draw_history.json [changed]'],
+  ['','[10:32:07] >> Crawling: bcpnp_ei_eligibility'],
+  ['','[10:32:07] >> Crawling: bcpnp_ei_how_to_apply'],
+  ['ok','[10:32:08]   [OK] aaip_communities → communities.md'],
+  ['','[10:32:08] >> Crawling: bcpnp_ei_program_guide [PDF]'],
+  ['ok','[10:32:10]   [OK] bcpnp_ei_eligibility → ei_eligibility.md'],
+  ['ok','[10:32:10]   [OK] bcpnp_ei_how_to_apply → ei_how_to_apply.md'],
+  ['dim','[10:32:11]   PDF: Saved 1389 KB → ei_program_guide_base.pdf'],
+  ['ok','[10:32:12]   [OK] bcpnp_ei_program_guide → 04_forms_guides/bcpnp/'],
+  ['','[10:32:12] >> Crawling: bcpnp_ei_invitations (PDF)'],
+  ['','[10:32:12] >> Crawling: ircc_processing_times'],
+  ['ok','[10:32:14]   [OK] bcpnp_ei_invitations → ei_invitations_2025.pdf'],
+  ['ok','[10:32:15]   [OK] ircc_processing_times → processing_times.md'],
+  ['fail','[10:32:16]   [FAIL] bcpnp_entrepreneur: PDF server timeout (504)'],
+  ['','[10:32:17] >> Crawling: cicnews_pnp (RSS)'],
+  ['','[10:32:17] >> Crawling: jobbank_alberta'],
+  ['ok','[10:32:19]   [OK] cicnews_pnp → 08_news_updates/cicnews/pnp_news.md [changed]'],
+  ['ok','[10:32:20]   [OK] jobbank_alberta → 07_unofficial/jobbank/alberta_market.md'],
+  ['warn','[10:32:21]   [WARN] bcpnp_eligibility: validation failed — retrying'],
+  ['ok','[10:32:23]   [OK] bcpnp_eligibility → ei_eligibility_2024.md'],
+  ['dim','[10:32:24] ─────────────────────────────────────────'],
+  ['info','[10:32:24] Hoàn thành: 29 OK · 5 thất bại'],
+  ['dim','[10:32:24] [META] Updated: 00_meta/ → sources.yaml, crawl_log.jsonl'],
+  ['info','[10:32:25] Đang đồng bộ lên Google Drive...'],
+  ['ok','[10:32:28] Drive sync complete → gdrive:lnc-knowledge-basev3'],
+  ['info','[10:32:29] Đang push lên GitHub → TranNhatPhi/lnc-knowledge-basev3'],
+  ['ok','[10:32:31] commit: "chore: quarterly crawl Q2-2026 — program core update"'],
+  ['dim','[10:32:31] ─────────────────────────────────────────'],
+];
+
+function addLog(cls,text){
+  var lb=document.getElementById('logBody');
+  var d=document.createElement('div');
+  d.className='log-line '+cls; d.textContent=text;
+  lb.appendChild(d); lb.scrollTop=lb.scrollHeight;
+}
+[['ok','[15:31:55] Quarterly crawl hoàn thành · 29/34 OK'],
+ ['ok','[15:31:56] Đã sync → gdrive:lnc-knowledge-basev3'],
+ ['ok','[15:31:57] KB repo commit: Q2-2026 program core update'],
+ ['dim','[15:31:57] ─────────────────────────────────────────'],
+ ['dim','[15:31:58] Hệ thống idle · Crawl kế tiếp: 1 Jul 2026'],
+].forEach(function(x){addLog(x[0],x[1]);});
+
+var crawling=false;
+function startCrawl(){
+  if(crawling)return; crawling=true;
+  var btn=document.getElementById('runBtn');
+  btn.disabled=true; btn.classList.add('running');
+  document.getElementById('runBtnText').textContent='Đang chạy...';
+  document.getElementById('logLive').classList.add('active');
+  document.getElementById('logStatus').textContent='running';
+  document.getElementById('lastUpdate').textContent='Đang chạy...';
+  [0,1,2,3].forEach(function(i){var e=document.getElementById('pc'+i);if(e)e.classList.add('active');});
+  var cum=0;
+  logMsgs.forEach(function(item,idx){
+    cum+=200+Math.floor(Math.random()*500);
+    (function(t,cls,msg){
+      setTimeout(function(){
+        addLog(cls,msg);
+        var pct=Math.min(100,Math.round((t/logMsgs.length)*100));
+        document.getElementById('aaip-bar').style.width=Math.min(100,Math.round(pct*1.1))+'%';
+        document.getElementById('bcpnp-bar').style.width=Math.min(85,Math.round(pct*.9))+'%';
+        if(t===5){
+          document.getElementById('aaip-badge').className='prog-badge running';
+          document.getElementById('aaip-badge').textContent='Đang chạy';
+          document.getElementById('bcpnp-badge').className='prog-badge running';
+          document.getElementById('bcpnp-badge').textContent='Đang chạy';
+        }
+        if(t===logMsgs.length-1)finishCrawl();
+      },cum);
+    })(idx,item[0],item[1]);
+  });
+}
+function finishCrawl(){
+  setTimeout(function(){
+    crawling=false;
+    var btn=document.getElementById('runBtn');
+    btn.disabled=false; btn.classList.remove('running');
+    document.getElementById('runBtnText').textContent='Chạy Ngay';
+    document.getElementById('logLive').classList.remove('active');
+    document.getElementById('logStatus').textContent='idle';
+    document.getElementById('lastUpdate').textContent='Cập nhật vừa xong';
+    document.getElementById('aaip-badge').className='prog-badge ok';
+    document.getElementById('aaip-badge').textContent='✓ Hoàn thành';
+    document.getElementById('bcpnp-badge').className='prog-badge ok';
+    document.getElementById('bcpnp-badge').textContent='✓ Hoàn thành';
+    document.getElementById('aaip-bar').style.width='100%';
+    document.getElementById('bcpnp-bar').style.width='85%';
+    document.getElementById('s-files').innerHTML='281<span class="unit">files</span>';
+    showToast('Crawl hoàn thành!','29/34 nguồn OK · Đã đồng bộ Google Drive ☁️');
+  },500);
+}
+function showToast(t,s){
+  var el=document.getElementById('toast');
+  document.getElementById('toastText').textContent=t;
+  document.getElementById('toastSub').textContent=s;
+  el.classList.add('show');
+  setTimeout(function(){el.classList.remove('show');},5000);
+}
+
+function renderTable(data){
+  document.getElementById('tableBody').innerHTML=data.map(function(d){
+    return '<tr><td><b style="font-family:var(--mono)">'+d.id+'</b></td>'+
+      '<td><span class="prog-tag '+(d.prog==='AAIP'?'tag-aaip':'tag-bcpnp')+'">'+d.prog+'</span></td>'+
+      '<td style="font-family:var(--mono);color:var(--t1)">'+d.date+'</td>'+
+      '<td style="color:var(--t1)">'+d.stream+'</td>'+
+      '<td><span class="score-chip '+(d.score>=100?'score-hi':'score-med')+'">'+d.score+'</span></td>'+
+      '<td style="font-family:var(--mono);font-weight:600">'+d.inv+'</td>'+
+      '<td style="color:var(--green);font-size:11px">✓ Đã crawl</td></tr>';
+  }).join('');
+}
+renderTable(draws);
+function filterTable(q){
+  q=q.toLowerCase();
+  renderTable(draws.filter(function(d){
+    return d.prog.toLowerCase().includes(q)||d.stream.toLowerCase().includes(q)||
+           d.date.toLowerCase().includes(q)||String(d.score).includes(q);
+  }));
+}
+function switchTab(tab,el){
+  document.querySelectorAll('.dtab').forEach(function(t){t.classList.remove('active');});
+  el.classList.add('active');
+  if(tab==='draws'){renderTable(draws);}
+  else{
+    document.getElementById('tableBody').innerHTML=sources.map(function(s,i){
+      var prog=s.startsWith('aaip')?'AAIP':s.startsWith('bcpnp')?'BCPNP':'OTHER';
+      var cls=prog==='AAIP'?'tag-aaip':prog==='BCPNP'?'tag-bcpnp':'tag-other';
+      return '<tr><td style="font-family:var(--mono);color:var(--t2)">#'+(i<9?'0':'')+(i+1)+'</td>'+
+        '<td><span class="prog-tag '+cls+'">'+prog+'</span></td>'+
+        '<td colspan="3" style="font-family:var(--mono);color:var(--t1)">'+s+'</td>'+
+        '<td></td><td style="color:var(--green)">✓ Active</td></tr>';
+    }).join('');
+  }
+}
+
+var srcOpen=false;
+function toggleSources(){
+  srcOpen=!srcOpen;
+  var body=document.getElementById('srcBody');
+  document.getElementById('srcToggle').textContent=srcOpen?'▲ Ẩn':'▼ Hiện';
+  if(srcOpen){
+    body.style.display='grid';
+    body.innerHTML=sources.map(function(s){
+      return '<div class="src-item"><div class="src-item-dot"></div><div class="src-item-name">'+s+'</div></div>';
+    }).join('');
+  } else {body.style.display='none';}
+}
+
+function drawBar(id,labels,vals,color){
+  var c=document.getElementById(id),dpr=window.devicePixelRatio||1;
+  var W=c.offsetWidth||280,H=120;
+  c.width=W*dpr;c.height=H*dpr;c.style.width=W+'px';c.style.height=H+'px';
+  var ctx=c.getContext('2d');ctx.scale(dpr,dpr);
+  var max=Math.max.apply(null,vals)*1.15,pl=28,pr=8,pt=10,pb=24;
+  var bw=(W-pl-pr)/labels.length-4;
+  ctx.strokeStyle='rgba(255,255,255,.06)';ctx.lineWidth=1;
+  for(var i=0;i<=4;i++){var y=pt+(H-pt-pb)*i/4;ctx.beginPath();ctx.moveTo(pl,y);ctx.lineTo(W-pr,y);ctx.stroke();}
+  vals.forEach(function(v,i){
+    var bh=(v/max)*(H-pt-pb),x=pl+i*((W-pl-pr)/labels.length)+2,y=H-pb-bh;
+    var g=ctx.createLinearGradient(0,y,0,H-pb);
+    g.addColorStop(0,color);g.addColorStop(1,color+'44');
+    ctx.fillStyle=g;ctx.beginPath();ctx.roundRect(x,y,bw,bh,[2,2,0,0]);ctx.fill();
+    ctx.fillStyle='rgba(120,160,200,.7)';ctx.font='9px sans-serif';ctx.textAlign='center';
+    ctx.fillText(labels[i],x+bw/2,H-pb+12);
+  });
+}
+function drawLine(id,labels,vals,color){
+  var c=document.getElementById(id),dpr=window.devicePixelRatio||1;
+  var W=c.offsetWidth||280,H=120;
+  c.width=W*dpr;c.height=H*dpr;c.style.width=W+'px';c.style.height=H+'px';
+  var ctx=c.getContext('2d');ctx.scale(dpr,dpr);
+  var pl=8,pr=8,pt=10,pb=24,gw=W-pl-pr,gh=H-pt-pb,min=50,max=100;
+  ctx.strokeStyle='rgba(255,255,255,.06)';ctx.lineWidth=1;
+  for(var i=0;i<=4;i++){var y=pt+gh*i/4;ctx.beginPath();ctx.moveTo(pl,y);ctx.lineTo(W-pr,y);ctx.stroke();}
+  var pts=vals.map(function(v,i){return{x:pl+gw*i/(vals.length-1),y:pt+gh*(1-(v-min)/(max-min))};});
+  var g=ctx.createLinearGradient(0,pt,0,H-pb);
+  g.addColorStop(0,color+'33');g.addColorStop(1,'transparent');
+  ctx.beginPath();ctx.moveTo(pts[0].x,H-pb);
+  pts.forEach(function(p){ctx.lineTo(p.x,p.y);});
+  ctx.lineTo(pts[pts.length-1].x,H-pb);ctx.closePath();ctx.fillStyle=g;ctx.fill();
+  ctx.strokeStyle=color;ctx.lineWidth=2;ctx.lineJoin='round';
+  ctx.beginPath();pts.forEach(function(p,i){i===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);});ctx.stroke();
+  var last=pts[pts.length-1];
+  ctx.beginPath();ctx.arc(last.x,last.y,4,0,Math.PI*2);ctx.fillStyle=color;ctx.fill();
+  ctx.fillStyle='rgba(120,160,200,.7)';ctx.font='9px sans-serif';ctx.textAlign='center';
+  labels.forEach(function(l,i){ctx.fillText(l,pl+gw*i/(labels.length-1),H-pb+12);});
+}
+function drawGrowth(){
+  var c=document.getElementById('chartGrowth'),dpr=window.devicePixelRatio||1;
+  var W=c.offsetWidth||280,H=120;
+  c.width=W*dpr;c.height=H*dpr;c.style.width=W+'px';c.style.height=H+'px';
+  var ctx=c.getContext('2d');ctx.scale(dpr,dpr);
+  var data=[80,112,145,178,210,247],labels=['Jan','Feb','Mar','Apr','May','Jun'];
+  var pl=28,pr=8,pt=10,pb=24,gw=W-pl-pr,gh=H-pt-pb,max=280,color='#4DB8FF';
+  ctx.strokeStyle='rgba(255,255,255,.06)';ctx.lineWidth=1;
+  for(var i=0;i<=4;i++){var y=pt+gh*i/4;ctx.beginPath();ctx.moveTo(pl,y);ctx.lineTo(W-pr,y);ctx.stroke();}
+  var pts=data.map(function(v,i){return{x:pl+gw*i/(data.length-1),y:pt+gh*(1-v/max)};});
+  var g=ctx.createLinearGradient(0,pt,0,H-pb);
+  g.addColorStop(0,color+'44');g.addColorStop(1,'transparent');
+  ctx.beginPath();ctx.moveTo(pts[0].x,H-pb);
+  pts.forEach(function(p){ctx.lineTo(p.x,p.y);});
+  ctx.lineTo(pts[pts.length-1].x,H-pb);ctx.closePath();ctx.fillStyle=g;ctx.fill();
+  ctx.strokeStyle=color;ctx.lineWidth=2;ctx.lineJoin='round';
+  ctx.beginPath();pts.forEach(function(p,i){i===0?ctx.moveTo(p.x,p.y):ctx.lineTo(p.x,p.y);});ctx.stroke();
+  var last=pts[pts.length-1];
+  ctx.beginPath();ctx.arc(last.x,last.y,4,0,Math.PI*2);ctx.fillStyle=color;ctx.fill();
+  ctx.fillStyle='rgba(120,160,200,.7)';ctx.font='9px sans-serif';ctx.textAlign='center';
+  labels.forEach(function(l,i){ctx.fillText(l,pl+gw*i/(labels.length-1),H-pb+12);});
+  ctx.fillStyle=color;ctx.font='bold 10px sans-serif';
+  ctx.fillText(data[data.length-1],last.x,last.y-8);
+}
+function renderCharts(){
+  drawBar('chartBar',['Jan','Feb','Mar','Apr','May','Jun'],[34,38,41,35,44,34],'#4DB8FF');
+  drawLine('chartLine',['Jan','Feb','Mar','Apr','May','Jun'],[82,85,79,88,91,85],'#00DFA2');
+  drawGrowth();
+}
+window.addEventListener('load',renderCharts);
+window.addEventListener('resize',renderCharts);
+</script>
+</body>
+</html>

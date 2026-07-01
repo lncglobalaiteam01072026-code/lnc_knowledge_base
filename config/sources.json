@@ -1,0 +1,1304 @@
+{
+  "version": "1.0.0",
+  "astradb": {
+    "collection_text": "lnc_kb_chunks",
+    "collection_json": "lnc_kb_structured"
+  },
+  "sources": [
+    {
+      "id": "aaip_eligibility",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-rural-entrepreneur-stream-eligibility",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/eligibility.md",
+          "section_selector": "overview_to_points_grid",
+          "stop_before": "## Factors that increase"
+        },
+        {
+          "file": "01_program_core/aaip/points_grid.md",
+          "section_selector": "h2:contains('Points Grid')",
+          "start_after": "## Selection from EOI pool"
+        },
+        {
+          "file": "01_program_core/aaip/ineligible_businesses.md",
+          "section_selector": "h3:contains('Ineligible businesses')"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_how_to_apply",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-rural-entrepreneur-stream-how-to-apply",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/how_to_apply.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "process",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_after_nominated",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-rural-entrepreneur-stream-after-you-are-nominated",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/nominee_obligations.md",
+          "section_selector": "full_page",
+          "stop_before": "## Apply for permanent residence"
+        },
+        {
+          "file": "01_program_core/aaip/pr_application_guide.md",
+          "section_selector": "h2:contains('permanent residence')"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "post_nomination",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_communities",
+      "program": "AAIP",
+      "layer": "03_province_community",
+      "url": "https://www.alberta.ca/aaip-rural-entrepreneur-stream-participating-communities",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "03_province_community/alberta/communities/_index.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "communities",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_processing_info",
+      "program": "AAIP",
+      "layer": "06_statistics",
+      "url": "https://www.alberta.ca/aaip-processing-information",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "06_statistics/aaip/entrepreneur_pipeline.md",
+          "section_selector": "h2:contains('Entrepreneur')"
+        },
+        {
+          "file": "06_statistics/aaip/draw_history_{year}.json",
+          "section_selector": "table:contains('Draw date')",
+          "output_format": "json"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "structured",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "statistics",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_draw_summary_pdf",
+      "program": "AAIP",
+      "layer": "06_statistics",
+      "url": "https://www.alberta.ca/system/files/im-aaip-draw-history-summary.pdf",
+      "output_files": [
+        {
+          "file": "06_statistics/aaip/draw_history_{year}.json",
+          "output_format": "json",
+          "merge_with": "aaip_processing_info"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "pdf_page",
+      "is_pdf": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "draw_history",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_express_entry",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-alberta-express-entry-stream",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/express_entry/overview.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "program_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_express_entry_eligibility",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-alberta-express-entry-stream-eligibility",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/express_entry/eligibility.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_express_entry_after_nominated",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-alberta-express-entry-stream-after-you-are-nominated",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/express_entry/after_nominated.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "post_nomination",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_opportunity_stream",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-alberta-opportunity-stream",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/opportunity_stream/overview.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "program_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_opportunity_eligibility",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-alberta-opportunity-stream-eligibility",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/opportunity_stream/eligibility.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_opportunity_after_nominated",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-alberta-opportunity-stream-after-you-are-nominated",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/opportunity_stream/after_nominated.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "post_nomination",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_rural_renewal",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-rural-renewal-stream",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/rural_renewal/overview.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "program_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_rural_renewal_eligibility",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-rural-renewal-stream-eligibility",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/rural_renewal/eligibility.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_rural_renewal_after_nominated",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-rural-renewal-stream-after-you-are-nominated",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/rural_renewal/after_nominated.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "post_nomination",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_rural_renewal_communities",
+      "program": "AAIP",
+      "layer": "03_province_community",
+      "url": "https://www.alberta.ca/aaip-rural-renewal-stream-community-designation",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "03_province_community/alberta/rural_renewal_communities.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "communities",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_farm_stream",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-farm-stream",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/farm_stream/overview.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "program_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_farm_eligibility",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-farm-stream-eligibility",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/farm_stream/eligibility.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_farm_how_to_apply",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-farm-stream-how-to-apply",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/farm_stream/how_to_apply.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "process",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_farm_after_nominated",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-farm-stream-after-you-are-nominated",
+      "content_selector": "main",
+      "crawl_delay": 3.0,
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/farm_stream/after_nominated.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "post_nomination",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_graduate_entrepreneur",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-graduate-entrepreneur-stream",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/graduate_entrepreneur/overview.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "program_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_graduate_entrepreneur_eligibility",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-graduate-entrepreneur-stream-eligibility",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/graduate_entrepreneur/eligibility.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_foreign_graduate_entrepreneur",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/foreign_graduate_entrepreneur/overview.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "program_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_foreign_graduate_entrepreneur_eligibility",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream-eligibility",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/foreign_graduate_entrepreneur/eligibility.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_worker_how_to_apply",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/how-to-apply-to-aaip-worker-streams",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/worker_streams_how_to_apply.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "process",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_resources",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.alberta.ca/aaip-resources",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/resources.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "resources",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_eoi_points_grid",
+      "program": "AAIP",
+      "layer": "04_forms_guides",
+      "url": "https://www.alberta.ca/system/files/im-worker-stream-expression-of-interest-points-grid.pdf",
+      "output_files": [
+        {
+          "file": "04_forms_guides/aaip/eoi_points_grid.pdf"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "pdf_page",
+      "raw_download": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "forms_guides",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_worker_doc_checklist",
+      "program": "AAIP",
+      "layer": "04_forms_guides",
+      "url": "https://www.alberta.ca/system/files/jeti-aaip-worker-streams-document-checklist.pdf",
+      "output_files": [
+        {
+          "file": "04_forms_guides/aaip/worker_document_checklist.pdf"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "pdf_page",
+      "raw_download": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "forms_guides",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_helpful_hints",
+      "program": "AAIP",
+      "layer": "04_forms_guides",
+      "url": "https://www.alberta.ca/system/files/jeti-aaip-helpful-hints.pdf",
+      "output_files": [
+        {
+          "file": "04_forms_guides/aaip/helpful_hints_portal.pdf"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "pdf_page",
+      "raw_download": true,
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "forms_guides",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_representative_form",
+      "program": "AAIP",
+      "layer": "04_forms_guides",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf",
+      "output_files": [
+        {
+          "file": "04_forms_guides/aaip/representative_form.pdf"
+        }
+      ],
+      "frequency": "annual",
+      "chunk_strategy": "pdf_page",
+      "raw_download": true,
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "forms_guides",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_dependants_auth_form",
+      "program": "AAIP",
+      "layer": "04_forms_guides",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/lbr-aaip-authorization-spouse-dependants-information-form.pdf",
+      "output_files": [
+        {
+          "file": "04_forms_guides/aaip/dependants_authorization_form.pdf"
+        }
+      ],
+      "frequency": "annual",
+      "chunk_strategy": "pdf_page",
+      "raw_download": true,
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "forms_guides",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "aaip_faq",
+      "program": "AAIP",
+      "layer": "05_policies_rules",
+      "url": "https://www.alberta.ca/aaip-answers-for-common-questions",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "05_policies_rules/aaip/faq.md",
+          "section_selector": "full_page",
+          "stop_before": "## Contact"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "faq",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "bcpnp_entrepreneur",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-entrepreneurs-and-businesses",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/base_stream.md",
+          "section_selector": "h2:contains('Base Stream')"
+        },
+        {
+          "file": "01_program_core/bcpnp/regional_stream.md",
+          "section_selector": "h2:contains('Regional Stream')",
+          "stop_before": "Be fraud aware"
+        },
+        {
+          "file": "01_program_core/bcpnp/strategic_projects.md",
+          "section_selector": "h2:contains('Strategic Projects')",
+          "stop_before": "Be fraud aware"
+        },
+        {
+          "file": "01_program_core/bcpnp/ineligible_businesses.md",
+          "section_selector": "h3:contains('Ineligible businesses')"
+        },
+        {
+          "file": "01_program_core/bcpnp/performance_agreement.md",
+          "section_selector": "h3:contains('Performance Agreement')"
+        },
+        {
+          "file": "01_program_core/bcpnp/fees.md",
+          "section_selector": "h2:contains('Fees')"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "program_core",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "bcpnp_eligibility",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/entrepreneur-immigration",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/eligibility.md",
+          "section_selector": "h2:contains('Eligibility')"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "bcpnp_ei_invitations_2025",
+      "program": "BCPNP",
+      "layer": "06_statistics",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-invitations-to-apply-ei-2025-pdf",
+      "output_files": [
+        {
+          "file": "06_statistics/bcpnp/ei_invitations_2025.pdf"
+        }
+      ],
+      "frequency": "annual",
+      "chunk_strategy": "pdf_page",
+      "raw_download": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "draw_history",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "bcpnp_documents",
+      "program": "BCPNP",
+      "layer": "02_documents_compliance",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "02_documents_compliance/checklists/bcpnp_document_checklist.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "documents",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "bcpnp_guides_pdf",
+      "program": "BCPNP",
+      "layer": "04_forms_guides",
+      "url": "",
+      "output_files": [
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-program-guide-pdf",
+          "file": "04_forms_guides/bcpnp/ei_program_guide_base.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-regional-pilot-program-guide-pdf",
+          "file": "04_forms_guides/bcpnp/ei_program_guide_regional.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-application-guide-pdf",
+          "file": "04_forms_guides/bcpnp/ei_application_guide.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-post-arrival-guide-pdf",
+          "file": "04_forms_guides/bcpnp/ei_post_arrival_guide.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-post-nomination-guide-pdf",
+          "file": "04_forms_guides/bcpnp/ei_post_nomination_guide.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/use-of-a-representative-form-applicant-pdf",
+          "file": "04_forms_guides/bcpnp/representative_form_applicant.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-use-of-an-interpreter-form-pdf",
+          "file": "04_forms_guides/bcpnp/ei_interpreter_form.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-program-guide-pdf",
+          "file": "04_forms_guides/bcpnp/si_program_guide.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-technical-guide-pdf",
+          "file": "04_forms_guides/bcpnp/si_application_guide.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-post-nomination-guide-pdf",
+          "file": "04_forms_guides/bcpnp/si_post_nomination_guide.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-employer-declaration-form-pdf",
+          "file": "04_forms_guides/bcpnp/si_employer_declaration_form.pdf"
+        },
+        {
+          "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-use-of-a-representative-form-employer-pdf",
+          "file": "04_forms_guides/bcpnp/si_representative_form_employer.pdf"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "pdf_page",
+      "raw_download": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "forms_guides",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "bcpnp_regional_communities",
+      "program": "BCPNP",
+      "layer": "03_province_community",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "03_province_community/bc/economic_regions/_index.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "communities",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "bcpnp_invitations",
+      "program": "BCPNP",
+      "layer": "06_statistics",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "06_statistics/bcpnp/ei_draw_history_{year}.json",
+          "section_selector": "h2:contains('Entrepreneur Immigration invitations')",
+          "output_format": "json"
+        },
+        {
+          "file": "06_statistics/bcpnp/si_invitations_{year}.md",
+          "section_selector": "h2:contains('Skills Immigration invitations')",
+          "stop_before": "## Entrepreneur Immigration invitations"
+        },
+        {
+          "file": "06_statistics/bcpnp/si_pool_snapshot.md",
+          "section_selector": "h3:contains('registration pool')"
+        }
+      ],
+      "frequency": "weekly",
+      "chunk_strategy": "structured",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "draw_history",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_language_tests",
+      "program": "IRCC",
+      "layer": "02_documents_compliance",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "02_documents_compliance/language_tests.md",
+          "section_selector": "h1:contains('Language test')"
+        }
+      ],
+      "frequency": "annual",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BOTH",
+        "topic": "language_requirements",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_eca",
+      "program": "IRCC",
+      "layer": "02_documents_compliance",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/how.html",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "02_documents_compliance/eca_guide.md",
+          "section_selector": "h1:contains('Educational credential assessment')"
+        }
+      ],
+      "frequency": "annual",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BOTH",
+        "topic": "education_credential",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_processing_times",
+      "program": "IRCC",
+      "layer": "06_statistics",
+      "url": "https://www.canada.ca/content/dam/ircc/documents/json/flpt-en.json",
+      "is_json_api": true,
+      "json_keys": [
+        "pnp-base",
+        "pnp-ee"
+      ],
+      "output_files": [
+        {
+          "file": "06_statistics/ircc/pnp_processing_times.md"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "IRCC",
+        "topic": "processing_times",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_pnp_approvals",
+      "program": "IRCC",
+      "layer": "06_statistics",
+      "url": "https://ircc.canada.ca/opendata-donneesouvertes/data/ODP-PR-PT_IMMCAT.csv",
+      "output_files": [
+        {
+          "file": "06_statistics/ircc/pnp_approvals.csv"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "structured",
+      "raw_download": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pr_approvals",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_ee_pnp_link",
+      "program": "IRCC",
+      "layer": "06_statistics",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html",
+      "output_files": [
+        {
+          "file": "06_statistics/ircc/express_entry_pnp_link.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "priority_weight": 1,
+      "metadata": {
+        "program": "IRCC",
+        "topic": "program_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      },
+      "content_selector": "main"
+    },
+    {
+      "id": "jobbank_alberta",
+      "program": "JOBBANK",
+      "layer": "07_unofficial",
+      "url": "https://www.jobbank.gc.ca/trend-analysis/job-market-reports/alberta",
+      "content_selector": "main",
+      "use_httpx": true,
+      "output_files": [
+        {
+          "file": "07_unofficial/jobbank/alberta_job_market.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "JOBBANK",
+        "province": "AB",
+        "topic": "job_market",
+        "lang": "en",
+        "access_level": "internal"
+      }
+    },
+    {
+      "id": "jobbank_bc",
+      "program": "JOBBANK",
+      "layer": "07_unofficial",
+      "url": "https://www.jobbank.gc.ca/trend-analysis/job-market-reports/british-columbia",
+      "content_selector": "main",
+      "use_httpx": true,
+      "output_files": [
+        {
+          "file": "07_unofficial/jobbank/bc_job_market.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "JOBBANK",
+        "province": "BC",
+        "topic": "job_market",
+        "lang": "en",
+        "access_level": "internal"
+      }
+    },
+    {
+      "id": "cicnews_pnp",
+      "program": "CICNEWS",
+      "layer": "08_news_updates",
+      "url": "https://www.cicnews.com/category/provincial-nominees/feed/",
+      "is_rss": true,
+      "feed_title": "CIC News — Provincial Nominees",
+      "max_items": 20,
+      "output_files": [
+        {
+          "file": "08_news_updates/cicnews/pnp_news.md"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "standard",
+      "priority_weight": 0.7,
+      "metadata": {
+        "program": "CICNEWS",
+        "topic": "news_pnp",
+        "lang": "en",
+        "access_level": "internal"
+      }
+    },
+    {
+      "id": "cicnews_express_entry",
+      "program": "CICNEWS",
+      "layer": "08_news_updates",
+      "url": "https://www.cicnews.com/category/express-entry/feed/",
+      "is_rss": true,
+      "feed_title": "CIC News — Express Entry",
+      "max_items": 20,
+      "output_files": [
+        {
+          "file": "08_news_updates/cicnews/express_entry_news.md"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "standard",
+      "priority_weight": 0.7,
+      "metadata": {
+        "program": "CICNEWS",
+        "topic": "news_express_entry",
+        "lang": "en",
+        "access_level": "internal"
+      }
+    },
+    {
+      "id": "reddit_alberta",
+      "program": "REDDIT",
+      "url": "https://www.reddit.com/r/alberta",
+      "subreddits": [
+        "r/alberta",
+        "r/ImmigrationCanada",
+        "r/expressentry",
+        "r/PersonalFinanceCanada"
+      ],
+      "province": "alberta",
+      "frequency": "biweekly",
+      "layer": "03_province_community",
+      "chunk_strategy": "standard",
+      "priority_weight": 0.5,
+      "metadata": {
+        "program": "REDDIT",
+        "topic": "communities",
+        "lang": "en",
+        "access_level": "internal"
+      }
+    },
+    {
+      "id": "reddit_bc",
+      "program": "REDDIT",
+      "url": "https://www.reddit.com/r/britishcolumbia",
+      "subreddits": [
+        "r/britishcolumbia",
+        "r/ImmigrationCanada",
+        "r/expressentry",
+        "r/PersonalFinanceCanada"
+      ],
+      "province": "bc",
+      "frequency": "biweekly",
+      "layer": "03_province_community",
+      "chunk_strategy": "standard",
+      "priority_weight": 0.5,
+      "metadata": {
+        "program": "REDDIT",
+        "topic": "communities",
+        "lang": "en",
+        "access_level": "internal"
+      }
+    }
+  ]
+}
