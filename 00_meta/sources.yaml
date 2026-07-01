@@ -1,0 +1,320 @@
+- id: aaip_eligibility
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-rural-entrepreneur-stream-eligibility
+  outputs:
+  - 01_program_core/aaip/eligibility.md
+  - 01_program_core/aaip/points_grid.md
+  - 01_program_core/aaip/ineligible_businesses.md
+- id: aaip_how_to_apply
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-rural-entrepreneur-stream-how-to-apply
+  outputs:
+  - 01_program_core/aaip/how_to_apply.md
+- id: aaip_after_nominated
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-rural-entrepreneur-stream-after-you-are-nominated
+  outputs:
+  - 01_program_core/aaip/nominee_obligations.md
+  - 01_program_core/aaip/pr_application_guide.md
+- id: aaip_communities
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-rural-entrepreneur-stream-participating-communities
+  outputs:
+  - 03_province_community/alberta/communities/_index.md
+- id: aaip_processing_info
+  program: AAIP
+  frequency: monthly
+  url: https://www.alberta.ca/aaip-processing-information
+  outputs:
+  - 06_statistics/aaip/entrepreneur_pipeline.md
+  - 06_statistics/aaip/draw_history_{year}.json
+- id: aaip_draw_summary_pdf
+  program: AAIP
+  frequency: monthly
+  url: https://www.alberta.ca/system/files/im-aaip-draw-history-summary.pdf
+  outputs:
+  - 06_statistics/aaip/draw_history_{year}.json
+- id: aaip_express_entry
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-alberta-express-entry-stream
+  outputs:
+  - 01_program_core/aaip/express_entry/overview.md
+- id: aaip_express_entry_eligibility
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-alberta-express-entry-stream-eligibility
+  outputs:
+  - 01_program_core/aaip/express_entry/eligibility.md
+- id: aaip_express_entry_after_nominated
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-alberta-express-entry-stream-after-you-are-nominated
+  outputs:
+  - 01_program_core/aaip/express_entry/after_nominated.md
+- id: aaip_opportunity_stream
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-alberta-opportunity-stream
+  outputs:
+  - 01_program_core/aaip/opportunity_stream/overview.md
+- id: aaip_opportunity_eligibility
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-alberta-opportunity-stream-eligibility
+  outputs:
+  - 01_program_core/aaip/opportunity_stream/eligibility.md
+- id: aaip_opportunity_after_nominated
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-alberta-opportunity-stream-after-you-are-nominated
+  outputs:
+  - 01_program_core/aaip/opportunity_stream/after_nominated.md
+- id: aaip_rural_renewal
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-rural-renewal-stream
+  outputs:
+  - 01_program_core/aaip/rural_renewal/overview.md
+- id: aaip_rural_renewal_eligibility
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-rural-renewal-stream-eligibility
+  outputs:
+  - 01_program_core/aaip/rural_renewal/eligibility.md
+- id: aaip_rural_renewal_after_nominated
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-rural-renewal-stream-after-you-are-nominated
+  outputs:
+  - 01_program_core/aaip/rural_renewal/after_nominated.md
+- id: aaip_rural_renewal_communities
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-rural-renewal-stream-community-designation
+  outputs:
+  - 03_province_community/alberta/rural_renewal_communities.md
+- id: aaip_farm_stream
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-farm-stream
+  outputs:
+  - 01_program_core/aaip/farm_stream/overview.md
+- id: aaip_farm_eligibility
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-farm-stream-eligibility
+  outputs:
+  - 01_program_core/aaip/farm_stream/eligibility.md
+- id: aaip_farm_how_to_apply
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-farm-stream-how-to-apply
+  outputs:
+  - 01_program_core/aaip/farm_stream/how_to_apply.md
+- id: aaip_farm_after_nominated
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-farm-stream-after-you-are-nominated
+  outputs:
+  - 01_program_core/aaip/farm_stream/after_nominated.md
+- id: aaip_graduate_entrepreneur
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-graduate-entrepreneur-stream
+  outputs:
+  - 01_program_core/aaip/graduate_entrepreneur/overview.md
+- id: aaip_graduate_entrepreneur_eligibility
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-graduate-entrepreneur-stream-eligibility
+  outputs:
+  - 01_program_core/aaip/graduate_entrepreneur/eligibility.md
+- id: aaip_foreign_graduate_entrepreneur
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream
+  outputs:
+  - 01_program_core/aaip/foreign_graduate_entrepreneur/overview.md
+- id: aaip_foreign_graduate_entrepreneur_eligibility
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream-eligibility
+  outputs:
+  - 01_program_core/aaip/foreign_graduate_entrepreneur/eligibility.md
+- id: aaip_worker_how_to_apply
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/how-to-apply-to-aaip-worker-streams
+  outputs:
+  - 01_program_core/aaip/worker_streams_how_to_apply.md
+- id: aaip_resources
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-resources
+  outputs:
+  - 01_program_core/aaip/resources.md
+- id: aaip_eoi_points_grid
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/system/files/im-worker-stream-expression-of-interest-points-grid.pdf
+  outputs:
+  - 04_forms_guides/aaip/eoi_points_grid.pdf
+- id: aaip_worker_doc_checklist
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/system/files/jeti-aaip-worker-streams-document-checklist.pdf
+  outputs:
+  - 04_forms_guides/aaip/worker_document_checklist.pdf
+- id: aaip_helpful_hints
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/system/files/jeti-aaip-helpful-hints.pdf
+  outputs:
+  - 04_forms_guides/aaip/helpful_hints_portal.pdf
+- id: aaip_representative_form
+  program: AAIP
+  frequency: annual
+  url: https://www.alberta.ca/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf
+  outputs:
+  - 04_forms_guides/aaip/representative_form.pdf
+- id: aaip_dependants_auth_form
+  program: AAIP
+  frequency: annual
+  url: https://www.alberta.ca/system/files/custom_downloaded_images/lbr-aaip-authorization-spouse-dependants-information-form.pdf
+  outputs:
+  - 04_forms_guides/aaip/dependants_authorization_form.pdf
+- id: aaip_faq
+  program: AAIP
+  frequency: quarterly
+  url: https://www.alberta.ca/aaip-answers-for-common-questions
+  outputs:
+  - 05_policies_rules/aaip/faq.md
+- id: bcpnp_entrepreneur
+  program: BCPNP
+  frequency: quarterly
+  url: https://www.welcomebc.ca/immigrate-to-b-c/for-entrepreneurs-and-businesses
+  outputs:
+  - 01_program_core/bcpnp/base_stream.md
+  - 01_program_core/bcpnp/regional_stream.md
+  - 01_program_core/bcpnp/strategic_projects.md
+  - 01_program_core/bcpnp/ineligible_businesses.md
+  - 01_program_core/bcpnp/performance_agreement.md
+  - 01_program_core/bcpnp/fees.md
+- id: bcpnp_eligibility
+  program: BCPNP
+  frequency: quarterly
+  url: https://www.welcomebc.ca/immigrate-to-b-c/entrepreneur-immigration
+  outputs:
+  - 01_program_core/bcpnp/eligibility.md
+- id: bcpnp_ei_invitations_2025
+  program: BCPNP
+  frequency: annual
+  url: https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-invitations-to-apply-ei-2025-pdf
+  outputs:
+  - 06_statistics/bcpnp/ei_invitations_2025.pdf
+- id: bcpnp_documents
+  program: BCPNP
+  frequency: quarterly
+  url: https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents
+  outputs:
+  - 02_documents_compliance/checklists/bcpnp_document_checklist.md
+- id: bcpnp_guides_pdf
+  program: BCPNP
+  frequency: quarterly
+  url: ''
+  outputs:
+  - 04_forms_guides/bcpnp/ei_program_guide_base.pdf
+  - 04_forms_guides/bcpnp/ei_program_guide_regional.pdf
+  - 04_forms_guides/bcpnp/ei_application_guide.pdf
+  - 04_forms_guides/bcpnp/ei_post_arrival_guide.pdf
+  - 04_forms_guides/bcpnp/ei_post_nomination_guide.pdf
+  - 04_forms_guides/bcpnp/representative_form_applicant.pdf
+  - 04_forms_guides/bcpnp/ei_interpreter_form.pdf
+  - 04_forms_guides/bcpnp/si_program_guide.pdf
+  - 04_forms_guides/bcpnp/si_application_guide.pdf
+  - 04_forms_guides/bcpnp/si_post_nomination_guide.pdf
+  - 04_forms_guides/bcpnp/si_employer_declaration_form.pdf
+  - 04_forms_guides/bcpnp/si_representative_form_employer.pdf
+- id: bcpnp_regional_communities
+  program: BCPNP
+  frequency: quarterly
+  url: https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration
+  outputs:
+  - 03_province_community/bc/economic_regions/_index.md
+- id: bcpnp_invitations
+  program: BCPNP
+  frequency: weekly
+  url: https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply
+  outputs:
+  - 06_statistics/bcpnp/ei_draw_history_{year}.json
+  - 06_statistics/bcpnp/si_invitations_{year}.md
+  - 06_statistics/bcpnp/si_pool_snapshot.md
+- id: ircc_language_tests
+  program: IRCC
+  frequency: annual
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html
+  outputs:
+  - 02_documents_compliance/language_tests.md
+- id: ircc_eca
+  program: IRCC
+  frequency: annual
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/how.html
+  outputs:
+  - 02_documents_compliance/eca_guide.md
+- id: ircc_processing_times
+  program: IRCC
+  frequency: monthly
+  url: https://www.canada.ca/content/dam/ircc/documents/json/flpt-en.json
+  outputs:
+  - 06_statistics/ircc/pnp_processing_times.md
+- id: ircc_pnp_approvals
+  program: IRCC
+  frequency: monthly
+  url: https://ircc.canada.ca/opendata-donneesouvertes/data/ODP-PR-PT_IMMCAT.csv
+  outputs:
+  - 06_statistics/ircc/pnp_approvals.csv
+- id: ircc_ee_pnp_link
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html
+  outputs:
+  - 06_statistics/ircc/express_entry_pnp_link.md
+- id: jobbank_alberta
+  program: JOBBANK
+  frequency: monthly
+  url: https://www.jobbank.gc.ca/trend-analysis/job-market-reports/alberta
+  outputs:
+  - 07_unofficial/jobbank/alberta_job_market.md
+- id: jobbank_bc
+  program: JOBBANK
+  frequency: monthly
+  url: https://www.jobbank.gc.ca/trend-analysis/job-market-reports/british-columbia
+  outputs:
+  - 07_unofficial/jobbank/bc_job_market.md
+- id: cicnews_pnp
+  program: CICNEWS
+  frequency: monthly
+  url: https://www.cicnews.com/category/provincial-nominees/feed/
+  outputs:
+  - 08_news_updates/cicnews/pnp_news.md
+- id: cicnews_express_entry
+  program: CICNEWS
+  frequency: monthly
+  url: https://www.cicnews.com/category/express-entry/feed/
+  outputs:
+  - 08_news_updates/cicnews/express_entry_news.md
+- id: reddit_alberta
+  program: REDDIT
+  frequency: biweekly
+  url: https://www.reddit.com/r/alberta
+  outputs: []
+- id: reddit_bc
+  program: REDDIT
+  frequency: biweekly
+  url: https://www.reddit.com/r/britishcolumbia
+  outputs: []
