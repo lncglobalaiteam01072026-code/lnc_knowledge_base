@@ -1,6 +1,6 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 01/07/2026 lúc 11:49 sáng (giờ VN)  
+**Cập nhật lúc:** 01/07/2026 lúc 12:01 chiều (giờ VN)  
 **Loại cập nhật:** Ircc_ee_pnp_link  
 **Kết quả:** 1 nguồn | ✅ 1 thành công | ❌ 0 thất bại
 
