@@ -490,12 +490,23 @@ function addLog(cls,text){
   d.className='log-line '+cls; d.textContent=text;
   lb.appendChild(d); lb.scrollTop=lb.scrollHeight;
 }
-[['ok','[15:31:55] Quarterly crawl hoàn thành · 29/34 OK'],
- ['ok','[15:31:56] Đã sync → gdrive:lnc-knowledge-base-temp'],
- ['ok','[15:31:57] KB repo commit: Q3-2026 program core update'],
- ['dim','[15:31:57] ─────────────────────────────────────────'],
- ['dim','[15:31:58] Hệ thống idle · Crawl kế tiếp: 1 Aug 2026'],
-].forEach(function(x){addLog(x[0],x[1]);});
+(function(){
+  function pad(n){return('0'+n).slice(-2);}
+  var ago=new Date(Date.now()-4*60*1000);
+  function ts(s){var d=new Date(ago.getTime()+s*1000);return'['+pad(d.getHours())+':'+pad(d.getMinutes())+':'+pad(d.getSeconds())+']';}
+  var hm=pad(ago.getHours())+':'+pad(ago.getMinutes());
+  [['ok',ts(0)+' Quarterly crawl hoàn thành · 29/34 OK'],
+   ['ok',ts(1)+' Đã sync → gdrive:lnc-knowledge-base-temp'],
+   ['ok',ts(2)+' KB repo commit: Q3-2026 program core update'],
+   ['dim',ts(2)+' ─────────────────────────────────────────'],
+   ['dim',ts(3)+' Hệ thống idle · Crawl kế tiếp: 1 Aug 2026'],
+  ].forEach(function(x){addLog(x[0],x[1]);});
+  var el=document.getElementById('s-lastsync');
+  if(el)el.innerHTML=hm+'<span class="unit">VN</span>';
+  document.querySelectorAll('.source-time').forEach(function(e){e.textContent=hm;});
+  var lu=document.getElementById('lastUpdate');
+  if(lu)lu.textContent='Cập nhật lúc '+hm+' VN';
+})();
 
 var crawling=false;
 function startCrawl(){
@@ -670,6 +681,32 @@ function renderCharts(){
   drawLine('chartLine',['Jan','Feb','Mar','Apr','May','Jun'],[82,85,79,88,91,85],'#00DFA2');
   drawGrowth();
 }
+// Patch logMsgs timestamps + dynamic schedule
+(function(){
+  function pad(n){return('0'+n).slice(-2);}
+  var offsets=[0,0,1,2,2,2,4,5,5,7,7,8,10,10,10,11,12,14,15,16,17,17,19,20,21,22,23,24,26,27,28,29,30,30];
+  var base=new Date();
+  for(var i=0;i<logMsgs.length&&i<offsets.length;i++){
+    var d=new Date(base.getTime()+offsets[i]*1000);
+    var t='['+pad(d.getHours())+':'+pad(d.getMinutes())+':'+pad(d.getSeconds())+']';
+    logMsgs[i]=[logMsgs[i][0],logMsgs[i][1].replace(/\[\d{2}:\d{2}:\d{2}\]/,t)];
+  }
+  var rows=document.querySelectorAll('.sched-row');
+  var now=new Date();
+  function daysTo(n){
+    var d=new Date(now.getFullYear(),now.getMonth(),n,3,0,0);
+    if(d<=now)d=new Date(now.getFullYear(),now.getMonth()+1,n,3,0,0);
+    return Math.ceil((d-now)/86400000);
+  }
+  function daysToMon(){
+    var d=new Date(now);d.setDate(d.getDate()+((1+7-d.getDay())%7||7));
+    return Math.ceil((d-now)/86400000);
+  }
+  var dArr=[null,null,daysTo(2),daysTo(3),daysToMon(),null,null];
+  rows.forEach(function(row,i){
+    if(dArr[i]!==null){var b=row.querySelector('.sched-badge');if(b)b.textContent=dArr[i]+' ngày nữa';}
+  });
+})();
 window.addEventListener('load',renderCharts);
 window.addEventListener('resize',renderCharts);
 </script>
