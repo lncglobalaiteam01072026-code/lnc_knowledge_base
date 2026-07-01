@@ -1,10 +1,9 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 89f6e35bf59711fc
 file_role: pnp_processing_times
 lang: en
-last_updated: '2026-07-01'
+last_updated: '2026-06-28'
 priority_weight: 1
 program: IRCC
 retrieval_strategy: direct
