@@ -1,16 +1,17 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 01/07/2026 lúc 12:01 chiều (giờ VN)  
-**Loại cập nhật:** Ircc_ee_pnp_link  
-**Kết quả:** 1 nguồn | ✅ 1 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 01/07/2026 lúc 12:04 chiều (giờ VN)  
+**Loại cập nhật:** Monthly  
+**Kết quả:** 2 nguồn | ✅ 2 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### IRCC — Immigration, Refugees and Citizenship Canada
-- ✅ program_overview
+### CIC News — Tin tức di trú
+- ✅ news_pnp
+- ✅ news_express_entry
 
 ---
 
-_Cập nhật tiếp theo: lần chạy tiếp theo._
+_Cập nhật tiếp theo: tháng tới (ngày 1)._
