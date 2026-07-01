@@ -43,7 +43,7 @@ if os.path.isdir(kb_dir):
     result = subprocess.run(
         [
             "rclone", "--config", "/tmp/rclone.conf",
-            "sync", kb_dir, "gdrive:lnc-knowledge-basev3",
+            "sync", kb_dir, "gdrive:lnc-knowledge-base-temp",
             "--exclude", ".git/**",
             "--transfers", "8",
             "--fast-list",
