@@ -493,7 +493,7 @@ function addLog(cls,text){
 (function(){
   function pad(n){return('0'+n).slice(-2);}
   var ago=new Date(Date.now()-4*60*1000);
-  function ts(s){var d=new Date(ago.getTime()+s*1000);return'['+pad(d.getHours())+':'+pad(d.getMinutes())+':'+pad(d.getSeconds())+']';}
+  function ts(s){var d=new Date(ago.getTime()+s*1000);return'['+pad(d.getDate())+'/'+pad(d.getMonth()+1)+' '+pad(d.getHours())+':'+pad(d.getMinutes())+':'+pad(d.getSeconds())+']';}
   var hm=pad(ago.getHours())+':'+pad(ago.getMinutes());
   [['ok',ts(0)+' Quarterly crawl hoàn thành · 29/34 OK'],
    ['ok',ts(1)+' Đã sync → gdrive:lnc-knowledge-base-temp'],
@@ -692,7 +692,7 @@ function renderCharts(){
   var base=new Date();
   for(var i=0;i<logMsgs.length&&i<offsets.length;i++){
     var d=new Date(base.getTime()+offsets[i]*1000);
-    var t='['+pad(d.getHours())+':'+pad(d.getMinutes())+':'+pad(d.getSeconds())+']';
+    var t='['+pad(d.getDate())+'/'+pad(d.getMonth()+1)+' '+pad(d.getHours())+':'+pad(d.getMinutes())+':'+pad(d.getSeconds())+']';
     logMsgs[i]=[logMsgs[i][0],logMsgs[i][1].replace(/\[\d{2}:\d{2}:\d{2}\]/,t)];
   }
   // Dynamic schedule: date text + badge/dot
