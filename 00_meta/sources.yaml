@@ -318,3 +318,15 @@
   frequency: biweekly
   url: https://www.reddit.com/r/britishcolumbia
   outputs: []
+- id: immigration_ca_aaip
+  program: AAIP
+  frequency: daily
+  url: https://immigration.ca/alberta-immigration/
+  outputs:
+  - 01_program_core/aaip/immigration_ca_overview.md
+- id: immigration_ca_bcpnp
+  program: BCPNP
+  frequency: daily
+  url: https://immigration.ca/british-columbia-immigration/
+  outputs:
+  - 01_program_core/bcpnp/immigration_ca_overview.md
