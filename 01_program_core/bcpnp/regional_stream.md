@@ -1,9 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
+content_hash: 0a8c0f4cfed3ae87
 file_role: regional_stream
 lang: en
-last_updated: '2026-06-28'
+last_updated: '2026-07-02'
 priority_weight: 1
 program: BCPNP
 province: BC
