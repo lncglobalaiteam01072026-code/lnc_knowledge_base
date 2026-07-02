@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 71416430951505fa
 file_role: express_entry_pnp_link
 lang: en
-last_updated: '2026-07-02'
+last_updated: '2026-07-01'
 priority_weight: 1
 program: IRCC
 retrieval_strategy: direct
