@@ -71,3 +71,5 @@
 {"run_id": "2026-07-02T04:08Z_all", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-07-02T04:08:41.286060+00:00"}
 {"run_id": "2026-07-02T05:04Z_monthly", "source_id": "cicnews_pnp", "status": "ok", "changed": false, "duration_s": 4.3, "timestamp": "2026-07-02T05:04:38.611752+00:00"}
 {"run_id": "2026-07-02T05:04Z_monthly", "source_id": "cicnews_express_entry", "status": "ok", "changed": false, "duration_s": 2.8, "timestamp": "2026-07-02T05:04:38.611752+00:00"}
+{"run_id": "2026-07-02T05:13Z_biweekly", "source_id": "reddit_alberta", "status": "ok", "changed": false, "duration_s": 8.1, "timestamp": "2026-07-02T05:13:41.395127+00:00"}
+{"run_id": "2026-07-02T05:13Z_biweekly", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.1, "timestamp": "2026-07-02T05:13:41.395127+00:00"}
