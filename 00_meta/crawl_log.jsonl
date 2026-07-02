@@ -177,3 +177,5 @@
 {"run_id": "2026-07-02T06:12Z_all", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-07-02T06:12:51.829946+00:00"}
 {"run_id": "2026-07-02T06:12Z_all", "source_id": "immigration_ca_aaip", "status": "ok", "changed": false, "duration_s": 2.6, "timestamp": "2026-07-02T06:12:51.829946+00:00"}
 {"run_id": "2026-07-02T06:12Z_all", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": false, "duration_s": 2.6, "timestamp": "2026-07-02T06:12:51.829946+00:00"}
+{"run_id": "2026-07-02T11:55Z_monthly", "source_id": "jobbank_alberta", "status": "ok", "changed": false, "duration_s": 0.6, "timestamp": "2026-07-02T11:55:58.600484+00:00"}
+{"run_id": "2026-07-02T11:55Z_monthly", "source_id": "jobbank_bc", "status": "ok", "changed": false, "duration_s": 0.6, "timestamp": "2026-07-02T11:55:58.600484+00:00"}
