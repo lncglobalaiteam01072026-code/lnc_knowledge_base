@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: b088806cdd67f1cc
 file_role: pr_application_guide
 lang: en
-last_updated: '2026-07-01'
+last_updated: '2026-07-02'
 priority_weight: 1
 program: AAIP
 province: AB

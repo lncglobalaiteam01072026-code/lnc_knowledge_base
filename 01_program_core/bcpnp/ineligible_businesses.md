@@ -1,9 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
+content_hash: 45772fa52dd2d159
 file_role: ineligible_businesses
 lang: en
-last_updated: '2026-06-28'
+last_updated: '2026-07-02'
 priority_weight: 1
 program: BCPNP
 province: BC
