@@ -303,7 +303,7 @@ def write_crawl_log(records: list, run_label: str, started_at: datetime) -> None
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--frequency", choices=["weekly", "biweekly", "monthly", "quarterly", "annual"])
+    parser.add_argument("--frequency", choices=["daily", "weekly", "biweekly", "monthly", "quarterly", "annual"])
     parser.add_argument("--id", help="Run single source by ID")
     parser.add_argument("--ids", nargs="+", help="Run multiple sources by ID (parallel)")
     parser.add_argument("--layer", help="Filter by layer (e.g. 07_unofficial, 08_news_updates)")
