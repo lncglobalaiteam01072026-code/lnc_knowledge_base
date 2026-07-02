@@ -1,0 +1,62 @@
+name: Crawl — Full Pipeline (all sources)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Checkout KB repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.KB_REPO }}
+          token: ${{ secrets.KB_REPO_TOKEN }}
+          path: output/lnc-knowledge-base
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install chromium --with-deps
+
+      - name: Crawl all sources
+        run: python crawl.py --all
+
+      - name: Validate outputs
+        continue-on-error: true
+        run: python scripts/validate_quarterly.py
+
+      - name: Upload to Google Drive
+        continue-on-error: true
+        env:
+          GDRIVE_REFRESH_TOKEN: ${{ secrets.GDRIVE_REFRESH_TOKEN }}
+          GDRIVE_CLIENT_ID: ${{ secrets.GDRIVE_CLIENT_ID }}
+          GDRIVE_CLIENT_SECRET: ${{ secrets.GDRIVE_CLIENT_SECRET }}
+        run: |
+          curl -fsSL https://downloads.rclone.org/rclone-current-linux-amd64.zip -o /tmp/rclone.zip
+          unzip -q /tmp/rclone.zip -d /tmp/rclone && mv /tmp/rclone/rclone-*/rclone /usr/local/bin/
+          python3 scripts/build_rclone_conf.py
+
+      - name: Commit and push
+        working-directory: output/lnc-knowledge-base
+        run: |
+          git config user.name "lnc-crawler-bot"
+          git config user.email "crawler@lnc.internal"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(date +"%Y-%m-%d")
+            git commit -m "chore: full crawl ${DATE} — all sources"
+            git pull --rebase -X ours origin HEAD
+            git push
+          fi
