@@ -1299,6 +1299,54 @@
         "lang": "en",
         "access_level": "internal"
       }
+    },
+    {
+      "id": "immigration_ca_aaip",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://immigration.ca/alberta-immigration/",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/immigration_ca_overview.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "daily",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.7,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "immigration_ca_bcpnp",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://immigration.ca/british-columbia-immigration/",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/immigration_ca_overview.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "daily",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.7,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     }
   ]
 }
