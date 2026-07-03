@@ -1353,6 +1353,7 @@
       "program": "NZAEWV",
       "layer": "01_program_core",
       "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -1377,6 +1378,7 @@
       "program": "NZAEWV",
       "layer": "01_program_core",
       "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/eligibility",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -1401,6 +1403,7 @@
       "program": "NZAEWV",
       "layer": "01_program_core",
       "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/how-to-apply",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -1425,6 +1428,7 @@
       "program": "NZAEWV",
       "layer": "01_program_core",
       "url": "https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/employer-accreditation",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -1449,6 +1453,7 @@
       "program": "NZAEWV",
       "layer": "01_program_core",
       "url": "https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/job-check",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -1473,6 +1478,7 @@
       "program": "NZAEWV",
       "layer": "06_statistics",
       "url": "https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics/accredited-employer-work-visa-aewv-monthly-processing-report",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -1497,6 +1503,7 @@
       "program": "NZAEWV",
       "layer": "06_statistics",
       "url": "https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -1521,6 +1528,7 @@
       "program": "NZAEWV",
       "layer": "08_news_updates",
       "url": "https://www.immigration.govt.nz/about-us/media-centre",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
