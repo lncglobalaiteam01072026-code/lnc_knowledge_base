@@ -5,10 +5,11 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 
 > **Đã xác minh toàn bộ URL ngày 2026-07-03** bằng cách fetch trực tiếp từng nguồn. Tất cả URL đã được cập nhật vào `sources.json`.
 >
-> **Kết quả crawl `python crawl.py --all` (2026-07-03):** 56/59 nguồn OK.
+> **Kết quả crawl `python crawl.py --all` (2026-07-03):** 56/59 nguồn OK (tổng lúc đó là 59 nguồn).
 > — 3 nguồn IRCC FAIL: URL cấu hình đúng, nghi bug parse trong code (xem chi tiết mục IRCC).
 > — Reddit: lỗi 403 trong lần chạy đó (dùng code cũ); đã sửa commit 30ca689 (JSON API + User-Agent).
 > — NZAEWV: tất cả URL và nội dung đã đúng — các thay đổi đã push trước lần chạy này.
+> ⚠️ **Tổng nguồn hiện tại: 60** (đã thêm `nzaewv_english_requirements` sau lần crawl này — chưa có lần chạy nào xác nhận source mới OK).
 
 ---
 
@@ -173,7 +174,7 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 
 ## BCPNP — BC Provincial Nominee Program
 
-**Trạng thái: ✅ 6/6 trang HTML còn hoạt động. ⚠️ Nguồn của 12 PDF guide cần sửa (xem dưới).**
+**Trạng thái: ✅ 6/6 trang HTML còn hoạt động. ✅ 12/12 PDF slug đã đúng trong `sources.json`.**
 
 ### 📅 Daily
 
@@ -257,7 +258,7 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 
 ## NZAEWV — New Zealand Accredited Employer Work Visa
 
-**Trạng thái: ✅ Tất cả URL đã cập nhật (2026-07-03). 7 sources, 8 output files.**
+**Trạng thái: ✅ Tất cả URL đã cập nhật (2026-07-03). 7 sources, 9 output files.**
 
 > immigration.govt.nz đã tái cấu trúc (đã áp dụng): `/new-zealand-visas/visas/visa/...` → `/visas/...`
 > và `/employ-migrants/...` → `/work/for-employers/...`.
@@ -380,7 +381,7 @@ Nguồn bổ sung, `access_level: internal`.
 
 ## Reddit — Community posts
 
-**Trạng thái: ❌ Bị chặn 403 trong crawl 2026-07-03 (dùng old.reddit.com HTML — bị block từ CI). ✅ Đã sửa commit 30ca689 — chuyển sang JSON API (`www.reddit.com/r/{sub}/new.json`) + User-Agent đúng format Reddit.**
+**Trạng thái: ❌ Bị chặn 403 trong crawl 2026-07-03. Nguyên nhân: code cũ dùng `old.reddit.com/r/{sub}/hot/` HTML scraping (BeautifulSoup) với Chrome User-Agent — cả hai đều bị block từ CI. ✅ Đã sửa commit 30ca689: chuyển sang `www.reddit.com/r/{sub}/new.json` (JSON API) + User-Agent đúng format Reddit (`linux:lnc-kb-crawler:1.0`).**
 
 Nguồn bổ sung, `access_level: internal`, `trust_level: LOW`.
 Mỗi post đủ điều kiện (score ≥ 5, có keyword di trú) được ghi thành file riêng.
