@@ -259,56 +259,53 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 
 ## NZAEWV — New Zealand Accredited Employer Work Visa
 
-**Trạng thái: ⚠️ Site đã đổi toàn bộ cấu trúc URL. 6/8 URL cần sửa — xem bảng dưới.**
+**Trạng thái: ✅ Tất cả URL đã cập nhật (2026-07-03). 7 sources, 8 output files.**
 
-> immigration.govt.nz đã tái cấu trúc: `/new-zealand-visas/visas/visa/...` → `/visas/...`
+> immigration.govt.nz đã tái cấu trúc (đã áp dụng): `/new-zealand-visas/visas/visa/...` → `/visas/...`
 > và `/employ-migrants/...` → `/work/for-employers/...`.
-> Trang "eligibility" và "how-to-apply" cũ đã bị gộp vào 1 trang dài dùng anchor — cần đổi
-> chiến lược chunk nội dung theo section thay vì theo URL riêng.
+> eligibility + how-to-apply được gộp vào 1 trang, extract bằng `section_selector` (nzaewv_overview → 3 output files).
+> Tất cả nguồn INZ dùng `use_httpx: true` — immigration.govt.nz block Playwright headless.
 
 ### 📅 Monthly
 
 ```
 06_statistics/nzaewv/
 └── processing_times.md
-    └── ❌ CŨ: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics/accredited-employer-work-visa-aewv-monthly-processing-report
-    └── ✅ MỚI: https://www.immigration.govt.nz/about-us/news-centre/accredited-employer-work-visa-aewv-key-information-and-statistics/
+    └── https://www.immigration.govt.nz/about-us/news-centre/accredited-employer-work-visa-aewv-key-information-and-statistics/
 
 08_news_updates/nzaewv/
 └── inz_media_centre.md
-    └── ❌ CŨ: https://www.immigration.govt.nz/about-us/media-centre
-    └── ✅ MỚI: https://www.immigration.govt.nz/about-us/news-centre/
+    └── https://www.immigration.govt.nz/about-us/news-centre/
 ```
 
 ### 📅 Quarterly
 
 ```
 01_program_core/nzaewv/
-├── overview.md
-│   └── ❌ CŨ: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa
-│   └── ✅ MỚI: https://www.immigration.govt.nz/visas/accredited-employer-work-visa/
-├── eligibility.md   ✅ ĐÃ ÁP DỤNG — không còn là source riêng; là output file từ nzaewv_overview
-│   └── ❌ CŨ: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/eligibility (trang riêng không còn tồn tại)
-│   └── ✅ MỚI: section_selector: "h2:contains('Who can apply')" trong nzaewv_overview
-├── how_to_apply.md   ✅ ĐÃ ÁP DỤNG — không còn là source riêng; là output file từ nzaewv_overview
-│   └── ❌ CŨ: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/how-to-apply (trang riêng không còn tồn tại)
-│   └── ✅ MỚI: section_selector: "h2:contains('How to apply')" trong nzaewv_overview
-├── employer_accreditation.md   ✅ ĐÃ ÁP DỤNG — URL mới đang dùng trong sources.json
-│   └── ❌ CŨ: https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/employer-accreditation
-│   └── ✅ MỚI: https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/
+│   [source: nzaewv_overview — 3 output files từ 1 URL]
+├── overview.md       (section_selector: full_page)
+├── eligibility.md    (section_selector: h2:contains('Who can apply'))
+├── how_to_apply.md   (section_selector: h2:contains('How to apply'))
+│   └── cùng URL: https://www.immigration.govt.nz/visas/accredited-employer-work-visa/
+│
+├── employer_accreditation.md
+│   └── https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/
 └── job_check.md
-    └── ❌ CŨ: https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/job-check
-    └── ✅ MỚI: https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-a-job-check-process-steps/
+    └── https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-a-job-check-process-steps/
 
 06_statistics/nzaewv/
 └── visa_decision_stats.md
-    └── ❌ CŨ: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics
-    └── ✅ MỚI: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/ (hub — nay dẫn tới Migration Data Explorer + file thống kê tải về, không còn là 1 trang "visa-statistics" đơn)
+    └── https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/
 ```
 
-> **Lưu ý kỹ thuật**: Tất cả nguồn INZ dùng `use_httpx: true` (HTTP/1.1 + markdownify).
-> immigration.govt.nz block headless Chrome (Playwright) với 403.
-> (Xác minh lại 2026-07-03: không gặp lỗi 403 khi fetch trực tiếp — các lỗi ở trên là do đổi path thật, không phải do bot-blocking.)
+### 📅 Annual
+
+```
+02_documents_compliance/nzaewv/
+└── english_requirements.md
+    └── https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/english-language-requirements/english-language-requirements-for-an-accredited-employer-work-visa/
+    (Bảng điểm đủ điều kiện: IELTS 4.0, TOEFL iBT 31, PTE 29, B2 First 142, OET — static HTML, crawl được)
+```
 
 ---
 
@@ -414,9 +411,10 @@ lnc-knowledge-base/
 ├── 01_program_core/
 │   ├── aaip/                         ~35 files — quarterly + daily (immigration.ca)
 │   ├── bcpnp/                         ~9 files — quarterly + daily (immigration.ca)
-│   └── nzaewv/                         5 files — quarterly
+│   └── nzaewv/                         5 files — quarterly (3 từ overview + employer_accreditation + job_check)
 ├── 02_documents_compliance/
 │   ├── checklists/                     1 file  — quarterly
+│   ├── nzaewv/                         1 file  — annual (english_requirements.md)
 │   ├── language_tests.md               1 file  — annual
 │   └── eca_guide.md                    1 file  — annual
 ├── 03_province_community/
