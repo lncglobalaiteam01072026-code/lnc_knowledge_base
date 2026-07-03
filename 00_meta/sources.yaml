@@ -368,6 +368,12 @@
   url: https://www.immigration.govt.nz/about-us/news-centre/
   outputs:
   - 08_news_updates/nzaewv/inz_media_centre.md
+- id: nzaewv_english_requirements
+  program: NZAEWV
+  frequency: annual
+  url: https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/english-language-requirements/english-language-requirements-for-an-accredited-employer-work-visa/
+  outputs:
+  - 02_documents_compliance/nzaewv/english_requirements.md
 - id: reddit_nz
   program: REDDIT
   frequency: biweekly

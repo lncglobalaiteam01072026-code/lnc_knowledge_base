@@ -495,3 +495,6 @@
 {"run_id": "2026-07-03T04:16Z_all", "source_id": "nzaewv_visa_stats", "status": "ok", "changed": false, "duration_s": 1.3, "timestamp": "2026-07-03T04:16:07.141125+00:00"}
 {"run_id": "2026-07-03T04:16Z_all", "source_id": "nzaewv_inz_news", "status": "ok", "changed": false, "duration_s": 1.2, "timestamp": "2026-07-03T04:16:07.141125+00:00"}
 {"run_id": "2026-07-03T04:16Z_all", "source_id": "reddit_nz", "status": "ok", "changed": false, "duration_s": 6.1, "timestamp": "2026-07-03T04:16:07.141125+00:00"}
+{"run_id": "2026-07-03T04:42Z_biweekly", "source_id": "reddit_alberta", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-07-03T04:42:37.160154+00:00"}
+{"run_id": "2026-07-03T04:42Z_biweekly", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-07-03T04:42:37.160154+00:00"}
+{"run_id": "2026-07-03T04:42Z_biweekly", "source_id": "reddit_nz", "status": "ok", "changed": false, "duration_s": 6.1, "timestamp": "2026-07-03T04:42:37.160154+00:00"}
