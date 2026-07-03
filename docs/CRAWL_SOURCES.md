@@ -1,7 +1,31 @@
-# Nguồn dữ liệu crawl — Cây thư mục KB
+# Nguồn dữ liệu crawl — Cây thư mục KB (đã xác minh & chỉnh sửa)
 
 Tổng hợp toàn bộ nguồn được crawl tự động, tổ chức theo chương trình và tần suất.
 File này được cập nhật thủ công khi có thay đổi `config/sources.json`.
+
+> **Đã xác minh toàn bộ URL ngày 2026-07-03** bằng cách fetch trực tiếp từng nguồn.
+> Các mục **BROKEN** dưới đây đã được thay bằng URL hiện hành; các mục không đánh dấu là còn hoạt động tốt (200 OK).
+>
+> **Cập nhật sau khi chạy `python crawl.py --all` (2026-07-03):** 56/59 nguồn OK. 3 nguồn IRCC lỗi
+> (URL đúng, có thể do bug parse trong `crawl.py`, chưa xác định nguyên nhân). Reddit bị chặn 403
+> toàn bộ (không liên quan URL — Reddit chặn crawler, cần sửa User-Agent/OAuth trong code, không sửa
+> trong file này). **Đồng thời phát hiện 2 nguồn NZAEWV trong `sources.json` vẫn còn trỏ URL cũ**
+> (`nzaewv_employer_accreditation`, `nzaewv_eligibility`) — xem cảnh báo ⚠️ ở mục NZAEWV bên dưới.
+
+---
+
+## ⚠️ Tóm tắt các thay đổi cần cập nhật vào `config/sources.json`
+
+| Chương trình | Vấn đề | Hành động |
+|---|---|---|
+| NZAEWV | immigration.govt.nz đã đổi cấu trúc URL: `/new-zealand-visas/visas/visa/...` → `/visas/...`; `/employ-migrants/...` → `/work/for-employers/...` | Cập nhật 6 URL (xem chi tiết bên dưới) |
+| NZAEWV | Trang "eligibility" và "how-to-apply" riêng đã bị gộp vào 1 trang dài (anchor sections) | Không còn 2 file riêng — cần đổi chiến lược chunk nội dung theo section, không theo URL |
+| NZAEWV | `visa-statistics` (thống kê tổng) và `aewv-monthly-processing-report` không còn tồn tại dạng trang riêng | Thay bằng hub thống kê mới + trang News Centre |
+| NZAEWV | ~~CHƯA ÁP DỤNG~~ **ĐÃ ÁP DỤNG:** `nzaewv_employer_accreditation` đã dùng URL mới `/work/for-employers/...`; `nzaewv_eligibility` không còn là source riêng — là output file từ `nzaewv_overview` (section_selector: `h2:contains('Who can apply')`). Crawl trước đây lỗi vì chạy trước khi commit được push. | Không cần thêm thay đổi |
+| immigration.govt.nz | Site trả **HTTP 200 kèm nội dung "Page not found"** (soft-404) thay vì mã 404 thật | `crawl.py` chỉ check status code nên chấp nhận trang lỗi là hợp lệ — nên thêm bước validate nội dung (phát hiện chuỗi "Page not found"/"not available" → đánh dấu FAIL) |
+| IRCC | `eca_guide.md` trỏ sai path `education-assessed/how.html` | Sửa thành `education-assessment.html` |
+| BCPNP | 12 file PDF (EI/SI guides) **không** nằm trên trang `for-entrepreneurs-and-businesses` mà nằm trên trang `.../documents` | Đổi nguồn crawl PDF sang URL Documents; đồng thời tên file thực tế trên site khác với tên file nội bộ (xem bảng chi tiết) |
+| AAIP | Không có vấn đề — toàn bộ 32 URL còn hoạt động | Không cần sửa |
 
 ---
 
@@ -19,6 +43,8 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 ---
 
 ## AAIP — Alberta Advantage Immigration Program
+
+**Trạng thái: ✅ 32/32 URL còn hoạt động, không cần sửa.**
 
 ### 📅 Daily
 
@@ -149,6 +175,8 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 
 ## BCPNP — BC Provincial Nominee Program
 
+**Trạng thái: ✅ 6/6 trang HTML còn hoạt động. ⚠️ Nguồn của 12 PDF guide cần sửa (xem dưới).**
+
 ### 📅 Daily
 
 ```
@@ -197,22 +225,25 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
     └── https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration
 
 04_forms_guides/bcpnp/
+│   ⚠️ ĐÃ SỬA: các PDF này KHÔNG nằm trên trang "for-entrepreneurs-and-businesses" (trang đó chỉ
+│   link duy nhất 1 PDF là bc-pnp-ei-program-guide-pdf). Toàn bộ 12 PDF thực tế nằm trên trang
+│   Documents: https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents
+│
 │   [Entrepreneur Immigration — EI]
-├── ei_program_guide_base.pdf
-├── ei_program_guide_regional.pdf
-├── ei_application_guide.pdf
-├── ei_post_arrival_guide.pdf
-├── ei_post_nomination_guide.pdf
-├── representative_form_applicant.pdf
-├── ei_interpreter_form.pdf
+├── ei_program_guide_base.pdf        → slug thật: bc-pnp-ei-program-guide-pdf
+├── ei_program_guide_regional.pdf    → slug thật: bc-pnp-ei-regional-pilot-program-guide-pdf
+├── ei_application_guide.pdf        → slug thật: bc-pnp-ei-application-guide-pdf
+├── ei_post_arrival_guide.pdf        → slug thật: bc-pnp-ei-post-arrival-guide-pdf
+├── ei_post_nomination_guide.pdf     → slug thật: bc-pnp-ei-post-nomination-guide-pdf
+├── representative_form_applicant.pdf → slug thật: use-of-a-representative-form-applicant-pdf
+├── ei_interpreter_form.pdf         → slug thật: bc-pnp-ei-use-of-an-interpreter-form-pdf
 │   [Skills Immigration — SI]
-├── si_program_guide.pdf
-├── si_application_guide.pdf
-├── si_post_nomination_guide.pdf
-├── si_employer_declaration_form.pdf
-└── si_representative_form_employer.pdf
-    (tất cả PDF tải trực tiếp qua slug: https://www.welcomebc.ca/immigrate-to-b-c/{slug}-pdf
-     danh sách đầy đủ nằm trên trang Documents: .../about-the-bc-provincial-nominee-program/documents)
+├── si_program_guide.pdf            → slug thật: bc-pnp-si-program-guide-pdf
+├── si_application_guide.pdf         → slug thật: bc-pnp-si-technical-guide-pdf (lưu ý: tên thật là "technical-guide" không phải "application-guide")
+├── si_post_nomination_guide.pdf     → slug thật: bc-pnp-si-post-nomination-guide-pdf
+├── si_employer_declaration_form.pdf → slug thật: bc-pnp-si-employer-declaration-form-pdf
+└── si_representative_form_employer.pdf → slug thật: bc-pnp-si-use-of-a-representative-form-employer-pdf
+    (tất cả PDF tải từ https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents)
 ```
 
 ### 📅 Annual
@@ -221,52 +252,69 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 06_statistics/bcpnp/
 └── ei_invitations_2025.pdf
     └── https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-invitations-to-apply-ei-2025-pdf
+    (Lưu ý: file vẫn giữ tên "2025" trong slug nhưng nội dung đã cập nhật dữ liệu tới tháng 2/2026 — bình thường, WelcomeBC không đổi slug theo năm)
 ```
 
 ---
 
 ## NZAEWV — New Zealand Accredited Employer Work Visa
 
-> **Lưu ý kỹ thuật**: Tất cả nguồn INZ dùng `use_httpx: true` (HTTP/1.1 + markdownify).
-> immigration.govt.nz block headless Chrome (Playwright) với 403.
+**Trạng thái: ⚠️ Site đã đổi toàn bộ cấu trúc URL. 6/8 URL cần sửa — xem bảng dưới.**
+
+> immigration.govt.nz đã tái cấu trúc: `/new-zealand-visas/visas/visa/...` → `/visas/...`
+> và `/employ-migrants/...` → `/work/for-employers/...`.
+> Trang "eligibility" và "how-to-apply" cũ đã bị gộp vào 1 trang dài dùng anchor — cần đổi
+> chiến lược chunk nội dung theo section thay vì theo URL riêng.
 
 ### 📅 Monthly
 
 ```
 06_statistics/nzaewv/
 └── processing_times.md
-    └── https://www.immigration.govt.nz/about-us/news-centre/accredited-employer-work-visa-aewv-key-information-and-statistics/
+    └── ❌ CŨ: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics/accredited-employer-work-visa-aewv-monthly-processing-report
+    └── ✅ MỚI: https://www.immigration.govt.nz/about-us/news-centre/accredited-employer-work-visa-aewv-key-information-and-statistics/
 
 08_news_updates/nzaewv/
 └── inz_media_centre.md
-    └── https://www.immigration.govt.nz/about-us/news-centre/
+    └── ❌ CŨ: https://www.immigration.govt.nz/about-us/media-centre
+    └── ✅ MỚI: https://www.immigration.govt.nz/about-us/news-centre/
 ```
 
 ### 📅 Quarterly
 
 ```
 01_program_core/nzaewv/
-│   [source: nzaewv_overview — 3 output files từ 1 URL]
-├── overview.md       (section_selector: full_page)
-├── eligibility.md    (section_selector: h2:contains('Who can apply'))
-│   └── cùng URL: https://www.immigration.govt.nz/visas/accredited-employer-work-visa/
-├── how_to_apply.md   (section_selector: h2:contains('How to apply'))
-│   └── cùng URL: https://www.immigration.govt.nz/visas/accredited-employer-work-visa/
-│   (INZ gộp eligibility + how-to-apply vào 1 trang dài dùng anchor sections)
-│
-├── employer_accreditation.md
-│   └── https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/
+├── overview.md
+│   └── ❌ CŨ: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa
+│   └── ✅ MỚI: https://www.immigration.govt.nz/visas/accredited-employer-work-visa/
+├── eligibility.md   ✅ ĐÃ ÁP DỤNG — không còn là source riêng; là output file từ nzaewv_overview
+│   └── ❌ CŨ: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/eligibility (trang riêng không còn tồn tại)
+│   └── ✅ MỚI: section_selector: "h2:contains('Who can apply')" trong nzaewv_overview
+├── how_to_apply.md   ✅ ĐÃ ÁP DỤNG — không còn là source riêng; là output file từ nzaewv_overview
+│   └── ❌ CŨ: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/how-to-apply (trang riêng không còn tồn tại)
+│   └── ✅ MỚI: section_selector: "h2:contains('How to apply')" trong nzaewv_overview
+├── employer_accreditation.md   ✅ ĐÃ ÁP DỤNG — URL mới đang dùng trong sources.json
+│   └── ❌ CŨ: https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/employer-accreditation
+│   └── ✅ MỚI: https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/
 └── job_check.md
-    └── https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-a-job-check-process-steps/
+    └── ❌ CŨ: https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/job-check
+    └── ✅ MỚI: https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-a-job-check-process-steps/
 
 06_statistics/nzaewv/
 └── visa_decision_stats.md
-    └── https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/
+    └── ❌ CŨ: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics
+    └── ✅ MỚI: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/ (hub — nay dẫn tới Migration Data Explorer + file thống kê tải về, không còn là 1 trang "visa-statistics" đơn)
 ```
+
+> **Lưu ý kỹ thuật**: Tất cả nguồn INZ dùng `use_httpx: true` (HTTP/1.1 + markdownify).
+> immigration.govt.nz block headless Chrome (Playwright) với 403.
+> (Xác minh lại 2026-07-03: không gặp lỗi 403 khi fetch trực tiếp — các lỗi ở trên là do đổi path thật, không phải do bot-blocking.)
 
 ---
 
 ## IRCC — Immigration, Refugees and Citizenship Canada
+
+**Trạng thái: ⚠️ 4/5 OK, 1 URL sai path (eca_guide.md) — đã sửa.**
 
 ### 📅 Monthly
 
@@ -293,7 +341,8 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 ├── language_tests.md
 │   └── https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html
 └── eca_guide.md
-    └── https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html
+    └── ❌ CŨ: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/how.html
+    └── ✅ MỚI: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html
 ```
 
 ---
@@ -301,6 +350,8 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 ## JobBank — Canada Job Market Reports
 
 Nguồn bổ sung, `access_level: internal` (không đưa lên chatbot).
+
+**Trạng thái: ✅ OK, không cần sửa.**
 
 ### 📅 Monthly
 
@@ -317,6 +368,8 @@ Nguồn bổ sung, `access_level: internal` (không đưa lên chatbot).
 ## CIC News — RSS feeds
 
 Nguồn bổ sung, `access_level: internal`.
+
+**Trạng thái: ✅ OK, không cần sửa (chỉ redirect bỏ dấu `/` cuối, không ảnh hưởng crawl).**
 
 ### 📅 Monthly
 
