@@ -1,7 +1,7 @@
 # Nguồn dữ liệu crawl — Cây thư mục KB
 
 Tổng hợp toàn bộ nguồn được crawl tự động, tổ chức theo chương trình và tần suất.
-File này được generate từ `config/sources.json`.
+File này được cập nhật thủ công khi có thay đổi `config/sources.json`.
 
 ---
 
@@ -9,14 +9,24 @@ File này được generate từ `config/sources.json`.
 
 | Tần suất | Cron | Nguồn |
 |----------|------|-------|
+| Daily | Hàng ngày 01:00 UTC | immigration.ca (AAIP, BCPNP) |
 | Weekly | Thứ Hai 02:00 UTC | BCPNP invitations |
-| Monthly | Ngày 1 hàng tháng 02:00 UTC | AAIP statistics, IRCC processing |
-| Quarterly | Ngày 1 tháng 1/4/7/10 03:00 UTC | Toàn bộ program core |
+| Biweekly | Thứ Hai tuần chẵn 03:00 UTC | Reddit communities (Alberta, BC, NZ) |
+| Monthly | Ngày 1 hàng tháng 02:00 UTC | AAIP statistics, IRCC processing, NZAEWV stats, JobBank, CIC News |
+| Quarterly | Ngày 1 tháng 1/4/7/10 03:00 UTC | Toàn bộ program core (AAIP, BCPNP, NZAEWV, IRCC) |
 | Annual | 15/01 04:00 UTC | Language tests, ECA, biểu mẫu |
 
 ---
 
 ## AAIP — Alberta Advantage Immigration Program
+
+### 📅 Daily
+
+```
+01_program_core/aaip/
+└── immigration_ca_overview.md
+    └── https://immigration.ca/alberta-immigration/
+```
 
 ### 📅 Monthly
 
@@ -24,7 +34,7 @@ File này được generate từ `config/sources.json`.
 06_statistics/aaip/
 ├── draw_history_{year}.json
 │   └── https://www.alberta.ca/aaip-processing-information
-│   └── https://www.alberta.ca/system/files/im-aaip-draw-history-summary.pdf
+│   └── https://www.alberta.ca/system/files/im-aaip-draw-history-summary.pdf (PDF fallback)
 └── entrepreneur_pipeline.md
     └── https://www.alberta.ca/aaip-processing-information
 ```
@@ -139,6 +149,14 @@ File này được generate từ `config/sources.json`.
 
 ## BCPNP — BC Provincial Nominee Program
 
+### 📅 Daily
+
+```
+01_program_core/bcpnp/
+└── immigration_ca_overview.md
+    └── https://immigration.ca/british-columbia-immigration/
+```
+
 ### 📅 Weekly
 
 ```
@@ -206,6 +224,45 @@ File này được generate từ `config/sources.json`.
 
 ---
 
+## NZAEWV — New Zealand Accredited Employer Work Visa
+
+### 📅 Monthly
+
+```
+06_statistics/nzaewv/
+└── processing_times.md
+    └── https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics/accredited-employer-work-visa-aewv-monthly-processing-report
+
+08_news_updates/nzaewv/
+└── inz_media_centre.md
+    └── https://www.immigration.govt.nz/about-us/media-centre
+```
+
+### 📅 Quarterly
+
+```
+01_program_core/nzaewv/
+├── overview.md
+│   └── https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa
+├── eligibility.md
+│   └── https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/eligibility
+├── how_to_apply.md
+│   └── https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/how-to-apply
+├── employer_accreditation.md
+│   └── https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/employer-accreditation
+└── job_check.md
+    └── https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/job-check
+
+06_statistics/nzaewv/
+└── visa_decision_stats.md
+    └── https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics
+```
+
+> **Lưu ý kỹ thuật**: Tất cả nguồn INZ dùng `use_httpx: true` (HTTP/1.1 + markdownify).
+> immigration.govt.nz block headless Chrome (Playwright) với 403.
+
+---
+
 ## IRCC — Immigration, Refugees and Citizenship Canada
 
 ### 📅 Monthly
@@ -216,6 +273,14 @@ File này được generate từ `config/sources.json`.
 │   └── https://www.canada.ca/content/dam/ircc/documents/json/flpt-en.json
 └── pnp_approvals.csv
     └── https://ircc.canada.ca/opendata-donneesouvertes/data/ODP-PR-PT_IMMCAT.csv
+```
+
+### 📅 Quarterly
+
+```
+06_statistics/ircc/
+└── express_entry_pnp_link.md
+    └── https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html
 ```
 
 ### 📅 Annual
@@ -230,28 +295,92 @@ File này được generate từ `config/sources.json`.
 
 ---
 
+## JobBank — Canada Job Market Reports
+
+Nguồn bổ sung, `access_level: internal` (không đưa lên chatbot).
+
+### 📅 Monthly
+
+```
+07_unofficial/jobbank/
+├── alberta_job_market.md
+│   └── https://www.jobbank.gc.ca/trend-analysis/job-market-reports/alberta
+└── bc_job_market.md
+    └── https://www.jobbank.gc.ca/trend-analysis/job-market-reports/british-columbia
+```
+
+---
+
+## CIC News — RSS feeds
+
+Nguồn bổ sung, `access_level: internal`.
+
+### 📅 Monthly
+
+```
+08_news_updates/cicnews/
+├── pnp_news.md
+│   └── https://www.cicnews.com/category/provincial-nominees/feed/ (RSS, 20 bài)
+└── express_entry_news.md
+    └── https://www.cicnews.com/category/express-entry/feed/ (RSS, 20 bài)
+```
+
+---
+
+## Reddit — Community posts
+
+Nguồn bổ sung, `access_level: internal`, `trust_level: LOW`.
+Mỗi post đủ điều kiện (score ≥ 5, có keyword di trú) được ghi thành file riêng.
+File được xoá và tạo lại mỗi lần chạy nếu nội dung thay đổi.
+
+### 📅 Biweekly
+
+```
+03_province_community/alberta/
+└── r_{subreddit}_{post_id}.md          ← dynamic, per post
+    Subreddits: r/alberta, r/ImmigrationCanada, r/expressentry, r/PersonalFinanceCanada
+
+03_province_community/bc/
+└── r_{subreddit}_{post_id}.md          ← dynamic, per post
+    Subreddits: r/britishcolumbia, r/ImmigrationCanada, r/expressentry, r/PersonalFinanceCanada
+
+03_province_community/nz/
+└── r_{subreddit}_{post_id}.md          ← dynamic, per post
+    Subreddits: r/newzealand, r/IWantOut, r/NewZealandVisas
+```
+
+---
+
 ## Tổng hợp theo thư mục KB
 
 ```
 lnc-knowledge-base/
 ├── 01_program_core/
-│   ├── aaip/                         33 files — quarterly
-│   └── bcpnp/                         7 files — quarterly
+│   ├── aaip/                         ~35 files — quarterly + daily (immigration.ca)
+│   ├── bcpnp/                         ~9 files — quarterly + daily (immigration.ca)
+│   └── nzaewv/                         5 files — quarterly
 ├── 02_documents_compliance/
-│   ├── checklists/                    1 file  — quarterly
-│   ├── language_tests.md              1 file  — annual
-│   └── eca_guide.md                   1 file  — annual
+│   ├── checklists/                     1 file  — quarterly
+│   ├── language_tests.md               1 file  — annual
+│   └── eca_guide.md                    1 file  — annual
 ├── 03_province_community/
-│   ├── alberta/                       2 files — quarterly
-│   └── bc/                            1 file  — quarterly
+│   ├── alberta/                        2 files static + dynamic Reddit — quarterly / biweekly
+│   ├── bc/                             1 file  static + dynamic Reddit — quarterly / biweekly
+│   └── nz/                             dynamic Reddit — biweekly
 ├── 04_forms_guides/
-│   ├── aaip/                          5 files — quarterly/annual
-│   └── bcpnp/                        12 files — quarterly
+│   ├── aaip/                           5 files — quarterly/annual
+│   └── bcpnp/                         12 files — quarterly
 ├── 05_policies_rules/
-│   └── aaip/                          1 file  — quarterly
+│   └── aaip/                           1 file  — quarterly
 ├── 06_statistics/
-│   ├── aaip/                          2 files — monthly
-│   ├── bcpnp/                         4 files — weekly/annual
-│   └── ircc/                          2 files — monthly
-└── CRAWL_SUMMARY.md                   ← cập nhật sau mỗi lần crawl
+│   ├── aaip/                           2 files — monthly
+│   ├── bcpnp/                          4 files — weekly/annual
+│   ├── ircc/                           3 files — monthly/quarterly
+│   └── nzaewv/                         2 files — monthly/quarterly
+├── 07_unofficial/
+│   └── jobbank/                        2 files — monthly
+├── 08_news_updates/
+│   ├── cicnews/                        2 files — monthly
+│   └── nzaewv/                         1 file  — monthly
+└── CRAWL_SUMMARY.md                    ← cập nhật sau mỗi lần crawl
 ```
