@@ -1,6 +1,7 @@
 """
-Reddit crawler dùng old.reddit.com HTML scraping (BeautifulSoup).
-Không cần credentials — scrape trang HTML tĩnh của old Reddit.
+Reddit crawler dùng JSON API (www.reddit.com/r/{sub}/new.json).
+Không cần credentials — public API với User-Agent đúng format.
+old.reddit.com HTML scraping bị block từ cloud IPs (GitHub Actions 403).
 """
 import asyncio
 import hashlib
@@ -9,7 +10,6 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import httpx
-from bs4 import BeautifulSoup
 
 from .base_crawler import BaseCrawler
 
@@ -48,14 +48,11 @@ MIN_COMMENT_LENGTH = 80
 MAX_COMMENTS       = 30
 LOOKBACK_DAYS      = 180
 
+# Reddit yêu cầu User-Agent format: platform:app_id:version (by /u/username)
+# Dùng generic không qua OAuth — rate limit 1 req/s
 _HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.5",
+    "User-Agent": "linux:lnc-kb-crawler:1.0 (immigration knowledge base; contact phi.tran@lncglobal.vn)",
+    "Accept": "application/json",
 }
 
 
@@ -184,99 +181,59 @@ class RedditCrawler(BaseCrawler):
         return written
 
     async def _fetch_posts(self, client: httpx.AsyncClient, subreddit: str) -> list:
-        """Scrape old Reddit hot listing HTML."""
-        url = f"https://old.reddit.com/r/{subreddit}/hot/"
+        """Fetch new posts via Reddit JSON API (no OAuth, rate-limit 1 req/s)."""
+        url = f"https://www.reddit.com/r/{subreddit}/new.json?limit=25"
         try:
             resp = await client.get(url)
             resp.raise_for_status()
+            data = resp.json()
         except Exception as e:
             print(f"    [WARN] fetch r/{subreddit}: {e}")
             return []
 
-        soup = BeautifulSoup(resp.text, "html.parser")
         posts = []
-
-        for thing in soup.find_all("div", attrs={"data-fullname": True}):
-            classes = thing.get("class", [])
-            if "thing" not in classes or "link" not in classes:
-                continue
-
-            post_id = thing.get("data-fullname", "").replace("t3_", "")
-            if not post_id:
-                continue
-
-            title_tag = thing.find("a", class_="title")
-            title = title_tag.get_text(strip=True) if title_tag else ""
-
-            score_tag = thing.find("div", class_="score")
-            score = _parse_score(score_tag.get_text(strip=True)) if score_tag else 0
-
-            timestamp = int(thing.get("data-timestamp", 0)) // 1000  # ms -> s
-
-            flair_tag = thing.find("span", class_="linkflairlabel")
-            flair = flair_tag.get_text(strip=True) if flair_tag else ""
-
-            selftext = ""  # old Reddit listing doesn't include body — fetched later if needed
-
-            comments_tag = thing.find("a", class_="comments")
-            num_comments = 0
-            if comments_tag:
-                ctext = comments_tag.get_text(strip=True)
-                try:
-                    num_comments = int(ctext.split()[0])
-                except (ValueError, IndexError):
-                    pass
-
+        for child in data.get("data", {}).get("children", []):
+            d = child.get("data", {})
             posts.append({
-                "id": post_id,
-                "title": title,
-                "selftext": selftext,
-                "score": score,
-                "created_utc": timestamp,
-                "flair": flair,
-                "num_comments": num_comments,
+                "id":           d.get("id", ""),
+                "title":        d.get("title", ""),
+                "selftext":     d.get("selftext", ""),
+                "score":        d.get("score", 0),
+                "created_utc":  d.get("created_utc", 0),
+                "flair":        d.get("link_flair_text") or "",
+                "num_comments": d.get("num_comments", 0),
             })
-
         return posts
 
     async def _fetch_comments(self, client: httpx.AsyncClient, subreddit: str, post_id: str):
-        """Scrape old Reddit post page. Returns (comments, selftext)."""
-        url = f"https://old.reddit.com/r/{subreddit}/comments/{post_id}/?sort=top&limit={MAX_COMMENTS}"
+        """Fetch comments via Reddit JSON API. Returns (comments, selftext)."""
+        url = f"https://www.reddit.com/r/{subreddit}/comments/{post_id}.json?sort=top&limit={MAX_COMMENTS}"
         try:
             resp = await client.get(url)
             resp.raise_for_status()
+            data = resp.json()
         except Exception as e:
             print(f"    [WARN] fetch comments {post_id}: {e}")
             return [], ""
 
-        soup = BeautifulSoup(resp.text, "html.parser")
-
-        # Extract post body
+        # data[0] = post listing, data[1] = comments listing
         selftext = ""
-        body_div = soup.find("div", class_="expando")
-        if body_div:
-            md_div = body_div.find("div", class_="md")
-            if md_div:
-                selftext = md_div.get_text(separator="\n", strip=True)
+        if isinstance(data, list) and data:
+            post_children = data[0].get("data", {}).get("children", [])
+            if post_children:
+                selftext = post_children[0].get("data", {}).get("selftext", "")
 
         comments = []
-        for cdiv in soup.find_all("div", class_="comment"):
-            author_tag = cdiv.find("a", class_="author")
-            author     = author_tag.get_text(strip=True) if author_tag else "[deleted]"
-            if author in EXCLUDE_BOTS:
-                continue
-
-            score_tag  = cdiv.find("span", class_="score")
-            score      = _parse_score(score_tag.get_text(strip=True)) if score_tag else 0
-            if score < MIN_COMMENT_SCORE:
-                continue
-
-            body_tag = cdiv.find("div", class_="md")
-            body     = body_tag.get_text(separator="\n", strip=True) if body_tag else ""
-            if len(body) < MIN_COMMENT_LENGTH:
-                continue
-
-            comments.append({"author": author, "score": score, "body": body})
+        if isinstance(data, list) and len(data) > 1:
+            for child in data[1].get("data", {}).get("children", []):
+                d = child.get("data", {})
+                if not d or d.get("author") in EXCLUDE_BOTS:
+                    continue
+                score = d.get("score", 0)
+                body  = d.get("body", "")
+                if score < MIN_COMMENT_SCORE or len(body) < MIN_COMMENT_LENGTH:
+                    continue
+                comments.append({"author": d.get("author", "[deleted]"), "score": score, "body": body})
 
         return sorted(comments, key=lambda x: x["score"], reverse=True)[:MAX_COMMENTS], selftext
 

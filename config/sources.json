@@ -1305,7 +1305,7 @@
       "program": "AAIP",
       "layer": "01_program_core",
       "url": "https://immigration.ca/alberta-immigration/",
-      "content_selector": "main",
+      "crawl_delay": 3,
       "output_files": [
         {
           "file": "01_program_core/aaip/immigration_ca_overview.md",
@@ -1329,7 +1329,7 @@
       "program": "BCPNP",
       "layer": "01_program_core",
       "url": "https://immigration.ca/british-columbia-immigration/",
-      "content_selector": "main",
+      "crawl_delay": 3,
       "output_files": [
         {
           "file": "01_program_core/bcpnp/immigration_ca_overview.md",
