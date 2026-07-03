@@ -15,6 +15,17 @@
 ### NZAEWV — New Zealand Accredited Employer Work Visa
 - ✅ news_policy
 
+### IRCC — Immigration, Refugees and Citizenship Canada
+- ❌ **program_overview** — __
+
+### NZAEWV — New Zealand Accredited Employer Work Visa
+- ✅ program_overview
+- ❌ **Điều kiện đủ điều kiện** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-w_
+- ❌ **Quy trình nộp hồ sơ** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-w_
+- ❌ **employer_requirements** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-che_
+- ❌ **employer_requirements** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-che_
+- ❌ **Thống kê & pipeline** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-s_
+
 ---
 
 _Cập nhật tiếp theo: tháng tới (ngày 1)._
