@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: bd1f58c7293f4e47
 file_role: ineligible_businesses
 lang: en
-last_updated: '2026-07-02'
+last_updated: '2026-07-03'
 priority_weight: 1
 program: AAIP
 province: AB
