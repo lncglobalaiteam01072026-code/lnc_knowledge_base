@@ -1491,6 +1491,75 @@
         "lang": "en",
         "access_level": "chatbot"
       }
+    },
+    {
+      "id": "nzaewv_visa_stats",
+      "program": "NZAEWV",
+      "layer": "06_statistics",
+      "url": "https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "06_statistics/nzaewv/visa_decision_stats.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "NZAEWV",
+        "country": "NZ",
+        "topic": "statistics",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "nzaewv_inz_news",
+      "program": "NZAEWV",
+      "layer": "08_news_updates",
+      "url": "https://www.immigration.govt.nz/about-us/media-centre",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "08_news_updates/nzaewv/inz_media_centre.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "NZAEWV",
+        "country": "NZ",
+        "topic": "news_policy",
+        "lang": "en",
+        "access_level": "internal"
+      }
+    },
+    {
+      "id": "reddit_nz",
+      "program": "REDDIT",
+      "url": "https://www.reddit.com/r/newzealand",
+      "subreddits": [
+        "r/newzealand",
+        "r/IWantOut",
+        "r/NewZealandVisas"
+      ],
+      "province": "nz",
+      "frequency": "biweekly",
+      "layer": "03_province_community",
+      "chunk_strategy": "standard",
+      "priority_weight": 0.5,
+      "metadata": {
+        "program": "REDDIT",
+        "topic": "communities",
+        "lang": "en",
+        "access_level": "internal"
+      }
     }
   ]
 }

@@ -25,8 +25,16 @@ _SUBSTRING_KEYWORDS = [
     "job offer Canada",
     "dinh cu Canada", "nhap cu Canada",
     "định cư Canada", "nhập cư Canada",
+    # NZ keywords
+    "AEWV", "Accredited Employer Work Visa", "Accredited Employer",
+    "Skilled Migrant Category", "Green List", "INZ",
+    "New Zealand visa", "NZ work visa", "NZ PR", "NZ residence",
+    "immigration New Zealand", "immigration.govt.nz",
+    "RSE scheme", "SMC points",
+    "dinh cu New Zealand", "nhap cu New Zealand",
+    "định cư New Zealand", "nhập cư New Zealand",
 ]
-_WORD_KEYWORDS = ["IRCC", "ITA", "LMIA", "NOC", "TEER"]  # phải match nguyên từ
+_WORD_KEYWORDS = ["IRCC", "ITA", "LMIA", "NOC", "TEER", "SMC"]  # phải match nguyên từ
 
 KEYWORDS = _SUBSTRING_KEYWORDS + _WORD_KEYWORDS
 
@@ -77,7 +85,13 @@ def _program_tag(kws: list) -> list:
         tags.add("express_entry")
     if any(k in kws for k in ["LMIA", "work permit Canada"]):
         tags.add("lmia")
-    return sorted(tags) or ["general_canada"]
+    if any(k in kws for k in ["AEWV", "Accredited Employer Work Visa", "Accredited Employer"]):
+        tags.add("nzaewv")
+    if any(k in kws for k in ["Skilled Migrant Category", "SMC", "SMC points"]):
+        tags.add("nzsmc")
+    if any(k in kws for k in ["Green List", "NZ residence", "NZ PR"]):
+        tags.add("nz_residence")
+    return sorted(tags) or ["general"]
 
 
 def _parse_score(score_text: str) -> int:
