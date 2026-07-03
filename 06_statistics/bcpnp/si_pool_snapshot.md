@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: structured
-content_hash: 4c40d6aa4fa4f995
+content_hash: 42bf7290c6eff0e9
 file_role: si_pool_snapshot
 lang: en
 last_updated: '2026-07-03'
@@ -16,7 +16,9 @@ version: '1.0'
 ---
 
 ### Skills Immigration registration pool
+
 The table below shows the break down of registrations by score range that are in the Skills Immigration registration pool as of June 2, 2026:
+
 Score range: 150+. Number of registrations: 6.
 Score range: 140 - 149. Number of registrations: 44.
 Score range: 130 - 139. Number of registrations: 430.
