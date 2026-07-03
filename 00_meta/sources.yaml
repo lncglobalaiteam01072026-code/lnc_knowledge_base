@@ -330,3 +330,56 @@
   url: https://immigration.ca/british-columbia-immigration/
   outputs:
   - 01_program_core/bcpnp/immigration_ca_overview.md
+- id: nzaewv_overview
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa
+  outputs:
+  - 01_program_core/nzaewv/overview.md
+- id: nzaewv_eligibility
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/eligibility
+  outputs:
+  - 01_program_core/nzaewv/eligibility.md
+- id: nzaewv_how_to_apply
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/how-to-apply
+  outputs:
+  - 01_program_core/nzaewv/how_to_apply.md
+- id: nzaewv_employer_accreditation
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/employer-accreditation
+  outputs:
+  - 01_program_core/nzaewv/employer_accreditation.md
+- id: nzaewv_job_check
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/job-check
+  outputs:
+  - 01_program_core/nzaewv/job_check.md
+- id: nzaewv_processing_times
+  program: NZAEWV
+  frequency: monthly
+  url: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics/accredited-employer-work-visa-aewv-monthly-processing-report
+  outputs:
+  - 06_statistics/nzaewv/processing_times.md
+- id: nzaewv_visa_stats
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics
+  outputs:
+  - 06_statistics/nzaewv/visa_decision_stats.md
+- id: nzaewv_inz_news
+  program: NZAEWV
+  frequency: monthly
+  url: https://www.immigration.govt.nz/about-us/media-centre
+  outputs:
+  - 08_news_updates/nzaewv/inz_media_centre.md
+- id: reddit_nz
+  program: REDDIT
+  frequency: biweekly
+  url: https://www.reddit.com/r/newzealand
+  outputs: []

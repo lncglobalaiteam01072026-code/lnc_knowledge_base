@@ -179,3 +179,6 @@
 {"run_id": "2026-07-02T06:12Z_all", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": false, "duration_s": 2.6, "timestamp": "2026-07-02T06:12:51.829946+00:00"}
 {"run_id": "2026-07-02T11:55Z_monthly", "source_id": "jobbank_alberta", "status": "ok", "changed": false, "duration_s": 0.6, "timestamp": "2026-07-02T11:55:58.600484+00:00"}
 {"run_id": "2026-07-02T11:55Z_monthly", "source_id": "jobbank_bc", "status": "ok", "changed": false, "duration_s": 0.6, "timestamp": "2026-07-02T11:55:58.600484+00:00"}
+{"run_id": "2026-07-03T02:39Z_monthly", "source_id": "cicnews_pnp", "status": "ok", "changed": true, "duration_s": 7.7, "timestamp": "2026-07-03T02:39:28.967364+00:00"}
+{"run_id": "2026-07-03T02:39Z_monthly", "source_id": "cicnews_express_entry", "status": "ok", "changed": true, "duration_s": 6.0, "timestamp": "2026-07-03T02:39:28.967364+00:00"}
+{"run_id": "2026-07-03T02:39Z_monthly", "source_id": "nzaewv_inz_news", "status": "failed", "changed": false, "duration_s": 0.3, "timestamp": "2026-07-03T02:39:28.967364+00:00"}
