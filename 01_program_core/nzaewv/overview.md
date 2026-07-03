@@ -10,7 +10,7 @@ priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct
 source_id: nzaewv_overview
-source_url: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa
+source_url: https://www.immigration.govt.nz/visas/accredited-employer-work-visa/
 topic: program_overview
 version: '1.0'
 ---

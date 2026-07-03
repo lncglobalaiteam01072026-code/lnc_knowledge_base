@@ -15,6 +15,15 @@
 ### NZAEWV — New Zealand Accredited Employer Work Visa
 - ✅ news_policy
 
+### IRCC — Immigration, Refugees and Citizenship Canada
+- ❌ **program_overview** — __
+
+### NZAEWV — New Zealand Accredited Employer Work Visa
+- ✅ program_overview
+- ✅ employer_requirements
+- ✅ employer_requirements
+- ✅ Thống kê & pipeline
+
 ---
 
 _Cập nhật tiếp theo: tháng tới (ngày 1)._
