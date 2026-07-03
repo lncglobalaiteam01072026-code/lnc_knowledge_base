@@ -9,7 +9,7 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 > — 3 nguồn IRCC FAIL: URL cấu hình đúng, nghi bug parse trong code (xem chi tiết mục IRCC).
 > — Reddit: lỗi 403 trong lần chạy đó (dùng code cũ); đã sửa commit 30ca689 (JSON API + User-Agent).
 > — NZAEWV: tất cả URL và nội dung đã đúng — các thay đổi đã push trước lần chạy này.
-> ⚠️ **Tổng nguồn hiện tại: 60** (đã thêm `nzaewv_english_requirements` sau lần crawl này — chưa có lần chạy nào xác nhận source mới OK).
+> ✅ **Tổng nguồn hiện tại: 60.** `nzaewv_english_requirements` đã xác nhận OK (2026-07-03, 6904 chars) — `02_documents_compliance/nzaewv/english_requirements.md`.
 
 ---
 
