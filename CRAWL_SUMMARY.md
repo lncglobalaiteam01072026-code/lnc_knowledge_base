@@ -16,6 +16,14 @@
 - ❌ **news_policy** — _BrowserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1228/chrome-linux64/chrome
 ╔═_
 
+### CIC News — Tin tức di trú
+- ✅ news_pnp
+- ✅ news_express_entry
+
+### NZAEWV — New Zealand Accredited Employer Work Visa
+- ✅ Thời gian xử lý hồ sơ
+- ✅ news_policy
+
 ---
 
 ## ⚠️ Nguồn bị lỗi
