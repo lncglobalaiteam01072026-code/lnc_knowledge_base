@@ -10,7 +10,7 @@ priority_weight: 0.8
 program: NZAEWV
 retrieval_strategy: direct
 source_id: nzaewv_inz_news
-source_url: https://www.immigration.govt.nz/about-us/media-centre
+source_url: https://www.immigration.govt.nz/about-us/news-centre/
 topic: news_policy
 version: '1.0'
 ---

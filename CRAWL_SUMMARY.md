@@ -1,18 +1,20 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 03/07/2026 lúc 10:26 sáng (giờ VN)  
-**Loại cập nhật:** Biweekly  
+**Cập nhật lúc:** 03/07/2026 lúc 10:38 sáng (giờ VN)  
+**Loại cập nhật:** Monthly  
 **Kết quả:** 3 nguồn | ✅ 3 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### Reddit — Cộng đồng di trú
-- ✅ Danh sách cộng đồng
-- ✅ Danh sách cộng đồng
-- ✅ Danh sách cộng đồng
+### CIC News — Tin tức di trú
+- ✅ news_pnp
+- ✅ news_express_entry
+
+### NZAEWV — New Zealand Accredited Employer Work Visa
+- ✅ news_policy
 
 ---
 
-_Cập nhật tiếp theo: 2 tuần tới (ngày 1 hoặc 15)._
+_Cập nhật tiếp theo: tháng tới (ngày 1)._

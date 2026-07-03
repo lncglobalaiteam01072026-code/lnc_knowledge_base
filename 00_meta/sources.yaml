@@ -263,7 +263,7 @@
 - id: ircc_eca
   program: IRCC
   frequency: annual
-  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/how.html
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html
   outputs:
   - 02_documents_compliance/eca_guide.md
 - id: ircc_processing_times
@@ -333,49 +333,39 @@
 - id: nzaewv_overview
   program: NZAEWV
   frequency: quarterly
-  url: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa
+  url: https://www.immigration.govt.nz/visas/accredited-employer-work-visa/
   outputs:
   - 01_program_core/nzaewv/overview.md
-- id: nzaewv_eligibility
-  program: NZAEWV
-  frequency: quarterly
-  url: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/eligibility
-  outputs:
   - 01_program_core/nzaewv/eligibility.md
-- id: nzaewv_how_to_apply
-  program: NZAEWV
-  frequency: quarterly
-  url: https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/how-to-apply
-  outputs:
   - 01_program_core/nzaewv/how_to_apply.md
 - id: nzaewv_employer_accreditation
   program: NZAEWV
   frequency: quarterly
-  url: https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/employer-accreditation
+  url: https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/
   outputs:
   - 01_program_core/nzaewv/employer_accreditation.md
 - id: nzaewv_job_check
   program: NZAEWV
   frequency: quarterly
-  url: https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/job-check
+  url: https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-a-job-check-process-steps/
   outputs:
   - 01_program_core/nzaewv/job_check.md
 - id: nzaewv_processing_times
   program: NZAEWV
   frequency: monthly
-  url: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics/accredited-employer-work-visa-aewv-monthly-processing-report
+  url: https://www.immigration.govt.nz/about-us/news-centre/accredited-employer-work-visa-aewv-key-information-and-statistics/
   outputs:
   - 06_statistics/nzaewv/processing_times.md
 - id: nzaewv_visa_stats
   program: NZAEWV
   frequency: quarterly
-  url: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics
+  url: https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/
   outputs:
   - 06_statistics/nzaewv/visa_decision_stats.md
 - id: nzaewv_inz_news
   program: NZAEWV
   frequency: monthly
-  url: https://www.immigration.govt.nz/about-us/media-centre
+  url: https://www.immigration.govt.nz/about-us/news-centre/
   outputs:
   - 08_news_updates/nzaewv/inz_media_centre.md
 - id: reddit_nz
