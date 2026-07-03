@@ -8,11 +8,13 @@
 
 ## Dữ liệu đã cập nhật
 
-### Reddit — Cộng đồng di trú
-- ✅ Danh sách cộng đồng
-- ✅ Danh sách cộng đồng
-- ✅ Danh sách cộng đồng
+### CIC News — Tin tức di trú
+- ✅ news_pnp
+- ✅ news_express_entry
+
+### NZAEWV — New Zealand Accredited Employer Work Visa
+- ✅ news_policy
 
 ---
 
-_Cập nhật tiếp theo: 2 tuần tới (ngày 1 hoặc 15)._
+_Cập nhật tiếp theo: tháng tới (ngày 1)._
