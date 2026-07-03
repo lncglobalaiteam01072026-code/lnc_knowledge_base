@@ -3,14 +3,12 @@
 Tổng hợp toàn bộ nguồn được crawl tự động, tổ chức theo chương trình và tần suất.
 File này được cập nhật thủ công khi có thay đổi `config/sources.json`.
 
-> **Đã xác minh toàn bộ URL ngày 2026-07-03** bằng cách fetch trực tiếp từng nguồn.
-> Các mục **BROKEN** dưới đây đã được thay bằng URL hiện hành; các mục không đánh dấu là còn hoạt động tốt (200 OK).
+> **Đã xác minh toàn bộ URL ngày 2026-07-03** bằng cách fetch trực tiếp từng nguồn. Tất cả URL đã được cập nhật vào `sources.json`.
 >
-> **Cập nhật sau khi chạy `python crawl.py --all` (2026-07-03):** 56/59 nguồn OK. 3 nguồn IRCC lỗi
-> (URL đúng, có thể do bug parse trong `crawl.py`, chưa xác định nguyên nhân). Reddit bị chặn 403
-> toàn bộ (không liên quan URL — Reddit chặn crawler, cần sửa User-Agent/OAuth trong code, không sửa
-> trong file này). **Đồng thời phát hiện 2 nguồn NZAEWV trong `sources.json` vẫn còn trỏ URL cũ**
-> (`nzaewv_employer_accreditation`, `nzaewv_eligibility`) — xem cảnh báo ⚠️ ở mục NZAEWV bên dưới.
+> **Kết quả crawl `python crawl.py --all` (2026-07-03):** 56/59 nguồn OK.
+> — 3 nguồn IRCC FAIL: URL cấu hình đúng, nghi bug parse trong code (xem chi tiết mục IRCC).
+> — Reddit: lỗi 403 trong lần chạy đó (dùng code cũ); đã sửa commit 30ca689 (JSON API + User-Agent).
+> — NZAEWV: tất cả URL và nội dung đã đúng — các thay đổi đã push trước lần chạy này.
 
 ---
 
@@ -38,7 +36,7 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 | Biweekly | Thứ Hai tuần chẵn 03:00 UTC | Reddit communities (Alberta, BC, NZ) |
 | Monthly | Ngày 1 hàng tháng 02:00 UTC | AAIP statistics, IRCC processing, NZAEWV stats, JobBank, CIC News |
 | Quarterly | Ngày 1 tháng 1/4/7/10 03:00 UTC | Toàn bộ program core (AAIP, BCPNP, NZAEWV, IRCC) |
-| Annual | 15/01 04:00 UTC | Language tests, ECA, biểu mẫu |
+| Annual | 15/01 04:00 UTC | Language tests, ECA, biểu mẫu, NZAEWV English requirements |
 
 ---
 
@@ -311,7 +309,7 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 
 ## IRCC — Immigration, Refugees and Citizenship Canada
 
-**Trạng thái: ⚠️ 4/5 OK, 1 URL sai path (eca_guide.md) — đã sửa.**
+**Trạng thái: ✅ URL cấu hình đúng 5/5 — nhưng ❌ 3/5 nguồn FAIL khi crawl thật (`ircc_language_tests`, `ircc_eca`, `ircc_ee_pnp_link`). Nghi bug parse trong code, chưa debug được — cần traceback hoặc `crawlers/ircc_crawler.py`.**
 
 ### 📅 Monthly
 
@@ -382,6 +380,8 @@ Nguồn bổ sung, `access_level: internal`.
 
 ## Reddit — Community posts
 
+**Trạng thái: ❌ Bị chặn 403 trong crawl 2026-07-03 (dùng old.reddit.com HTML — bị block từ CI). ✅ Đã sửa commit 30ca689 — chuyển sang JSON API (`www.reddit.com/r/{sub}/new.json`) + User-Agent đúng format Reddit.**
+
 Nguồn bổ sung, `access_level: internal`, `trust_level: LOW`.
 Mỗi post đủ điều kiện (score ≥ 5, có keyword di trú) được ghi thành file riêng.
 File được xoá và tạo lại mỗi lần chạy nếu nội dung thay đổi.
@@ -425,7 +425,8 @@ lnc-knowledge-base/
 │   ├── aaip/                           5 files — quarterly/annual
 │   └── bcpnp/                         12 files — quarterly
 ├── 05_policies_rules/
-│   └── aaip/                           1 file  — quarterly
+│   ├── aaip/                           1 file  — quarterly
+│   └── nzaewv/                         (trống — Green List, wage-rate threshold, stand-down list đều là search tool JS, không có nội dung tĩnh để crawl — đã xác minh 2026-07-03)
 ├── 06_statistics/
 │   ├── aaip/                           2 files — monthly
 │   ├── bcpnp/                          4 files — weekly/annual
