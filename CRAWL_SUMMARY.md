@@ -1,6 +1,6 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 03/07/2026 lúc 10:11 sáng (giờ VN)  
+**Cập nhật lúc:** 03/07/2026 lúc 10:20 sáng (giờ VN)  
 **Loại cập nhật:** All  
 **Kết quả:** 61 nguồn | ✅ 52 thành công | ❌ 9 thất bại
 
@@ -82,17 +82,6 @@
 - ❌ **Thời gian xử lý hồ sơ** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-s_
 - ❌ **Thống kê & pipeline** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-s_
 - ✅ news_policy
-
-### IRCC — Immigration, Refugees and Citizenship Canada
-- ❌ **program_overview** — __
-
-### NZAEWV — New Zealand Accredited Employer Work Visa
-- ✅ program_overview
-- ❌ **Điều kiện đủ điều kiện** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-w_
-- ❌ **Quy trình nộp hồ sơ** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-w_
-- ❌ **employer_requirements** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-che_
-- ❌ **employer_requirements** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-che_
-- ❌ **Thống kê & pipeline** — _Client error '404 Not Found' for url 'https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-s_
 
 ---
 
