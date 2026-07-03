@@ -15,7 +15,15 @@ class RawFileCrawler(BaseCrawler):
 
     async def run(self) -> list[Path]:
         written = []
-        async with httpx.AsyncClient(timeout=120, follow_redirects=True) as client:
+        headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/125.0.0.0 Safari/537.36"
+            ),
+            "Accept": "application/octet-stream,*/*;q=0.8",
+        }
+        async with httpx.AsyncClient(timeout=120, follow_redirects=True, headers=headers) as client:
             for output_cfg in self.source["output_files"]:
                 url = output_cfg.get("url") or self.source["url"]
                 path = self.build_output_path(output_cfg["file"])

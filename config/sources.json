@@ -810,6 +810,7 @@
       "program": "BCPNP",
       "layer": "01_program_core",
       "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-entrepreneurs-and-businesses",
+      "use_httpx": true,
       "output_files": [
         {
           "file": "01_program_core/bcpnp/base_stream.md",
@@ -855,6 +856,7 @@
       "program": "BCPNP",
       "layer": "01_program_core",
       "url": "https://www.welcomebc.ca/immigrate-to-b-c/entrepreneur-immigration",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -901,6 +903,7 @@
       "program": "BCPNP",
       "layer": "02_documents_compliance",
       "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -992,6 +995,7 @@
       "program": "BCPNP",
       "layer": "03_province_community",
       "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
@@ -1016,6 +1020,7 @@
       "program": "BCPNP",
       "layer": "06_statistics",
       "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+      "use_httpx": true,
       "content_selector": "main",
       "output_files": [
         {
