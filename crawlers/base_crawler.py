@@ -26,6 +26,9 @@ _URL_INT_WELCOMEBC_RE = re.compile(
 _URL_INT_CANADA_RE = re.compile(
     r'https://www\.canada\.ca/[^\s<"(]*</?([a-zA-Z][^>"\)\s]*?)>'
 )
+_URL_INT_INZ_RE = re.compile(
+    r'https://www\.immigration\.govt\.nz/[^\s<"(]*</?([a-zA-Z][^>"\)\s]*?)>'
+)
 _IMG_HEADING_RE = re.compile(r'^#{1,6}\s+!\[[^\]]*\]\([^)]+\)\s*$', re.MULTILINE)
 # Empty markdown links with javascript: void URLs e.g. [](https://host/path/<javascript%3Avoid.../>)
 _EMPTY_JS_LINK_RE = re.compile(r'\[\]\(https://[^\s"()]+<javascript[^>]*>\)')
@@ -40,6 +43,7 @@ def _clean_url_artifacts(content: str) -> str:
     content = _URL_INT_ALBERTA_RE.sub(r'https://www.alberta.ca/\1', content)        # alberta internal
     content = _URL_INT_WELCOMEBC_RE.sub(r'https://www.welcomebc.ca/\1', content)    # bc internal
     content = _URL_INT_CANADA_RE.sub(r'https://www.canada.ca/\1', content)          # canada.ca internal
+    content = _URL_INT_INZ_RE.sub(r'https://www.immigration.govt.nz/\1', content)  # INZ internal
     content = _IMG_HEADING_RE.sub('', content)                                       # heading=image artifact
     return content
 

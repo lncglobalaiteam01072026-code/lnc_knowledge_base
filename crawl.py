@@ -29,6 +29,7 @@ from crawlers.bcpnp_crawler import BCPNPCrawler
 from crawlers.csv_crawler import CSVCrawler
 from crawlers.ircc_crawler import IRCCCrawler
 from crawlers.news_crawler import NewsCrawler
+from crawlers.nz_crawler import NZCrawler
 from crawlers.pdf_crawler import PDFCrawler
 from crawlers.raw_crawler import RawFileCrawler
 from crawlers.reddit_crawler import RedditCrawler
@@ -71,6 +72,8 @@ def get_crawler(source: dict):
         return BCPNPCrawler(source, OUTPUT_ROOT)
     if program == "IRCC":
         return IRCCCrawler(source, OUTPUT_ROOT)
+    if program == "NZAEWV":
+        return NZCrawler(source, OUTPUT_ROOT)
     raise ValueError(f"Unknown program: {program}")
 
 
@@ -173,6 +176,7 @@ _PROGRAM_NAMES = {
     "REDDIT": "Reddit — Cộng đồng di trú",
     "CICNEWS": "CIC News — Tin tức di trú",
     "JOBBANK": "Job Bank — Thị trường việc làm Canada",
+    "NZAEWV": "NZAEWV — New Zealand Accredited Employer Work Visa",
 }
 
 

@@ -1347,6 +1347,150 @@
         "lang": "en",
         "access_level": "chatbot"
       }
+    },
+    {
+      "id": "nzaewv_overview",
+      "program": "NZAEWV",
+      "layer": "01_program_core",
+      "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/nzaewv/overview.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "NZAEWV",
+        "country": "NZ",
+        "topic": "program_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "nzaewv_eligibility",
+      "program": "NZAEWV",
+      "layer": "01_program_core",
+      "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/eligibility",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/nzaewv/eligibility.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "NZAEWV",
+        "country": "NZ",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "nzaewv_how_to_apply",
+      "program": "NZAEWV",
+      "layer": "01_program_core",
+      "url": "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa/how-to-apply",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/nzaewv/how_to_apply.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "NZAEWV",
+        "country": "NZ",
+        "topic": "process",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "nzaewv_employer_accreditation",
+      "program": "NZAEWV",
+      "layer": "01_program_core",
+      "url": "https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/employer-accreditation",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/nzaewv/employer_accreditation.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "NZAEWV",
+        "country": "NZ",
+        "topic": "employer_requirements",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "nzaewv_job_check",
+      "program": "NZAEWV",
+      "layer": "01_program_core",
+      "url": "https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-job-check/job-check",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/nzaewv/job_check.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "NZAEWV",
+        "country": "NZ",
+        "topic": "employer_requirements",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "nzaewv_processing_times",
+      "program": "NZAEWV",
+      "layer": "06_statistics",
+      "url": "https://www.immigration.govt.nz/about-us/research-and-statistics/statistics/visa-statistics/accredited-employer-work-visa-aewv-monthly-processing-report",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "06_statistics/nzaewv/processing_times.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "monthly",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "NZAEWV",
+        "country": "NZ",
+        "topic": "processing_times",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     }
   ]
 }
