@@ -26,4 +26,4 @@ Các nguồn dưới đây chưa được cập nhật lần này, hệ thống 
 
 ---
 
-_Cập nhật tiếp theo: tháng tới (ngày 1)._
+_Cập nhật tiếp theo: 2 tuần tới (ngày 1 hoặc 15)._
