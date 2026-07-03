@@ -620,3 +620,6 @@
 {"run_id": "2026-07-03T11:31Z_all", "source_id": "nzaewv_inz_news", "status": "ok", "changed": false, "duration_s": 1.2, "timestamp": "2026-07-03T11:31:26.502351+00:00"}
 {"run_id": "2026-07-03T11:31Z_all", "source_id": "nzaewv_english_requirements", "status": "ok", "changed": false, "duration_s": 1.3, "timestamp": "2026-07-03T11:31:26.502351+00:00"}
 {"run_id": "2026-07-03T11:31Z_all", "source_id": "reddit_nz", "status": "ok", "changed": false, "duration_s": 6.1, "timestamp": "2026-07-03T11:31:26.502351+00:00"}
+{"run_id": "2026-07-03T11:44Z_monthly", "source_id": "cicnews_pnp", "status": "ok", "changed": false, "duration_s": 6.1, "timestamp": "2026-07-03T11:44:11.826998+00:00"}
+{"run_id": "2026-07-03T11:44Z_monthly", "source_id": "cicnews_express_entry", "status": "ok", "changed": false, "duration_s": 8.4, "timestamp": "2026-07-03T11:44:11.826998+00:00"}
+{"run_id": "2026-07-03T11:44Z_monthly", "source_id": "nzaewv_inz_news", "status": "ok", "changed": false, "duration_s": 1.3, "timestamp": "2026-07-03T11:44:11.826998+00:00"}
