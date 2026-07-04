@@ -1,20 +1,19 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 03/07/2026 lúc 18:44 tối (giờ VN)  
-**Loại cập nhật:** Monthly  
-**Kết quả:** 3 nguồn | ✅ 3 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 04/07/2026 lúc 16:33 chiều (giờ VN)  
+**Loại cập nhật:** Daily  
+**Kết quả:** 2 nguồn | ✅ 2 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### CIC News — Tin tức di trú
-- ✅ news_pnp
-- ✅ news_express_entry
+### AAIP — Alberta Advantage Immigration Program
+- ✅ overview
 
-### NZAEWV — New Zealand Accredited Employer Work Visa
-- ✅ news_policy
+### BCPNP — BC Provincial Nominee Program
+- ✅ overview
 
 ---
 
-_Cập nhật tiếp theo: tháng tới (ngày 1)._
+_Cập nhật tiếp theo: lần chạy tiếp theo._
