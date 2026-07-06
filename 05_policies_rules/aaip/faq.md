@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 1a2b4f8f72aa8dc7
 file_role: faq
 lang: en
-last_updated: '2026-07-03'
+last_updated: '2026-07-06'
 priority_weight: 1
 program: AAIP
 province: AB

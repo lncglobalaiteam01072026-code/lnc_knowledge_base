@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: f94b6cef9eadc0cb
 file_role: performance_agreement
 lang: en
-last_updated: '2026-07-03'
+last_updated: '2026-07-06'
 priority_weight: 1
 program: BCPNP
 province: BC

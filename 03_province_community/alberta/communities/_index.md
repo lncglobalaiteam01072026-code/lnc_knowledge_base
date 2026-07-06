@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: bfa33937fe95976f
+content_hash: ed8c1ba0fe4107f0
 file_role: _index
 lang: en
-last_updated: '2026-07-03'
+last_updated: '2026-07-06'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -55,11 +55,9 @@ Community: [Town of Fox Creek](https://foxcreek.ca). Contact: Kristen MilneChief
 Community: [Town of Grimshaw](https://www.grimshaw.ca/). Contact: Brian AllenChief Administrative OfficerPhone: [780-332-4626](tel:+17803324626)Email: cao@grimshaw.ca. Enrolment date: October 5, 2022.
 Community: [Town of High Prairie](https://www.highprairie.ca). Contact: Bill McKennanChief Administrative OfficerPhone: [780-523-3388](tel:+17805233388)Email: cao@highprairie.ca. Enrolment date: July 20, 2022.
 Community: [Town of Innisfail](https://www.innisfail.ca/). Contact: Gordon ShawManager of Community Development ServicesPhone: [403-227-3376](tel:+14032273376)Email: gordon.shaw@innisfail.ca. Enrolment date: August 2, 2022.
-Community: [Town of Mayerthorpe](https://www.mayerthorpe.ca/). Contact: Christopher LeggettChief Administrative OfficerPhone: [780-786-2416](tel:+17807862416)Email: cao@mayerthorpe.ca. Enrolment date: January 23, 2024.
 Community: [Town of McLennan](https://mclennan.ca/). Contact: Diane ChiassonEconomic Development Executive OfficerPhone: [780-837-6630](tel:+17808376630)Email: ecdev@smokyriverregion.com. Enrolment date: October 5, 2022.
 Community: [Town of Mundare](https://www.mundare.ca). Contact: Colin ZylaChief Administrative OfficerPhone: [780-764-3929](tel:+17807643929)Email: cao@mundare.ca. Enrolment date: October 30, 2024.
 Community: [Town of Olds](https://www.olds.ca/). Contact: Sandra BlythEconomic Development OfficerPhone: [403-507-4839](tel:+14035074839)Email: sblyth@olds.ca. Enrolment date: March 24, 2022.
-Community: [Town of Onoway](https://www.onoway.ca/). Contact: Jennifer ThompsonChief Administrative OfficerPhone: [780-967-5338](tel:+17809675338)Email: cao@onoway.ca. Enrolment date: December 9, 2024.
 Community: [Town of Oyen](https://www.townofoyen.com/). Contact: Wanda DiakowEconomic Development OfficerPhone: [403-575-9533](tel:+14035759533)Email: wanda.diakow@specialareas.ab.ca. Enrolment date: November 25, 2022.
 Community: [Town of Peace River](https://www.peaceriver.ca). Contact: Kariene WhittleyBusiness Retention SpecialistPhone: [780-624-2574](tel:+1780-624-2574)Email: ecdev@peaceriver.ca. Enrolment date: June 19, 2023.
 Community: [Town of Penhold](https://www.townofpenhold.ca/). Contact: Bonnie StearnsExecutive AssistantPhone: [403-886-3281](tel:+14038863281)Email: bstearns@townofpenhold.ca. Enrolment date: June 30, 2023.
@@ -75,7 +73,7 @@ Community: [Town of Two Hills](https://www.townoftwohills.com/). Contact: Adam K
 Community: [Town of Viking](https://www.viking.ca/). Contact: Douglas LefsrudChief Administrative OfficerPhone: [780-336-3466](tel:+1780-336-3466)Email: cao@viking.ca. Enrolment date: March 21. 2025.
 Community: [Town of Wainwright](https://wainwright.ca). Contact: Carley HerbertEconomic Development OfficerPhone: [780-842-3381](tel:+1780-842-3381)Email: cherbert@wainwright.ca. Enrolment date: May 13, 2022.
 Community: [Town of Westlock](https://www.westlock.ca). Contact: Deivydas (Davis) PrizgintasEconomic Development OfficerPhone: [780-350-2109](tel:+1780-350-2109)Email: dprizgintas@westlock.ca. Enrolment date: May 28, 2025.
-Community: [Town of Whitecourt](https://www.whitecourt.ca). Contact: Rhonda HoughEconomic Development OfficerPhone: [780-778-2273](tel:+17807782273)Email: rhondahough@whitecourt.ca. Enrolment date: October 5, 2022.
+Community: [Town of Whitecourt](https://www.whitecourt.ca). Contact: Rhonda WoodsEconomic Development OfficerPhone: [780-778-2273](tel:+17807782273)Email: ecdev@whitecourt.ca. Enrolment date: October 5, 2022.
 Community: [Village of Acme](https://www.acme.ca/). Contact: Gary SawatzkyChief Administrative OfficerPhone: [403-546-3783](tel:+14035463783)Email: cao@acme.ca. Enrolment date: October 5, 2022.
 Community: [Village of Berwyn](https://www.berwyn.ca/). Contact: Daniel DibbeltEconomic Development OfficerPhone: [780-527-4033](tel:+17805274033)Email: edo@lacacardinal.com. Enrolment date: October 5, 2022.
 Community: [Village of Chauvin](https://www.villageofchauvin.com/). Contact: Allan SkinnerChief Operating OfficerPhone: [780-858-3881](tel:+17808583881)Email: allan.skinner@ceddi.ca. Enrolment date: October 27, 2024.
