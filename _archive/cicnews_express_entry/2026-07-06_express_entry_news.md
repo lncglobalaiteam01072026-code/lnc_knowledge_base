@@ -2,10 +2,10 @@
 access_level: internal
 article_count: 10
 chunk_strategy: standard
-content_hash: c44768c18976070b
+content_hash: 332f9dde3fc25ef4
 file_role: express_entry_news
 lang: en
-last_updated: '2026-07-06'
+last_updated: '2026-07-03'
 priority_weight: 0.7
 program: CICNEWS
 retrieval_strategy: direct
@@ -17,18 +17,8 @@ version: '1.0'
 
 # CIC News — Express Entry
 
-**Crawled:** 2026-07-06  
+**Crawled:** 2026-07-03  
 **Source:** https://www.cicnews.com/category/express-entry/feed/
-
----
-
-## A common reason Express Entry candidates miss their ITA deadline, and how to avoid it
-
-**Date:** Fri, 03 Jul 2026 13:32:12 +0000  
-**Link:** https://www.cicnews.com/2026/07/a-common-reason-express-entry-candidates-miss-their-ita-deadline-and-how-to-avoid-it-0777502.html
-
-Once an Express Entry candidate receives an invitation to apply (ITA), they must submit a complete application for permanent residence (PR) within 60 days, with all required documentation included. Police certificates in particular can take a long time to obtain, and failure to do so before the 60-day countdown runs out can put your PR [&#8230;]
-The post A common reason Express Entry candidates miss their ITA deadline, and how to avoid it first appeared on CIC News.
 
 ---
 
@@ -119,5 +109,15 @@ The post 93% of Express Entry pool growth driven by candidates scoring in the 50
 
 Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 4,500 ITAs in a draw for candidates with French language proficiency. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 409; and Created an [&#8230;]
 The post French-speaking Express Entry candidates receive invitations at higher CRS cut-off first appeared on CIC News.
+
+---
+
+## Canada holds first Canadian Experience Class Express Entry draw in four weeks
+
+**Date:** Wed, 27 May 2026 15:50:44 +0000  
+**Link:** https://www.cicnews.com/2026/05/canada-holds-first-canadian-experience-class-express-entry-draw-in-four-weeks-0575848.html
+
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 3,000 ITAs in a draw for Canadian Experience Class (CEC) candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 518; and Created an [&#8230;]
+The post Canada holds first Canadian Experience Class Express Entry draw in four weeks first appeared on CIC News.
 
 ---
