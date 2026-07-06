@@ -99,20 +99,26 @@ class BaseCrawler(ABC):
         from bs4 import BeautifulSoup
         from markdownify import markdownify as md
 
-        headers = {
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/125.0.0.0 Safari/537.36"
-            ),
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Accept-Encoding": "gzip, deflate, br",
-        }
+        # canada.ca Akamai CDN hangs connections whose TLS fingerprint doesn't match
+        # the claimed Chrome UA (JA3 mismatch). Use httpx default UA for canada.ca;
+        # Chrome UA for other sites (e.g. immigration.govt.nz, welcomebc.ca).
+        if "canada.ca" not in url:
+            headers = {
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/125.0.0.0 Safari/537.36"
+                ),
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Accept-Encoding": "gzip, deflate, br",
+            }
+        else:
+            headers = {}
         async with httpx.AsyncClient(
             timeout=60, follow_redirects=True, http2=False
         ) as client:
-            resp = await client.get(url, headers=headers)
+            resp = await client.get(url, headers=headers or None)
             resp.raise_for_status()
 
         soup = BeautifulSoup(resp.text, "html.parser")
