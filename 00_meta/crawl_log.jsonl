@@ -632,3 +632,4 @@
 {"run_id": "2026-07-06T08:54Z_monthly", "source_id": "nzaewv_inz_news", "status": "ok", "changed": true, "duration_s": 2.4, "timestamp": "2026-07-06T08:54:13.742949+00:00"}
 {"run_id": "2026-07-06T14:18Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": true, "duration_s": 13.2, "timestamp": "2026-07-06T14:18:35.947818+00:00"}
 {"run_id": "2026-07-06T14:18Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": true, "duration_s": 13.4, "timestamp": "2026-07-06T14:18:35.947818+00:00"}
+{"run_id": "2026-07-06T14:40Z_weekly", "source_id": "bcpnp_invitations", "status": "ok", "changed": false, "duration_s": 0.4, "timestamp": "2026-07-06T14:40:06.864287+00:00"}

@@ -1,19 +1,16 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 06/07/2026 lúc 21:18 tối (giờ VN)  
-**Loại cập nhật:** Daily  
-**Kết quả:** 2 nguồn | ✅ 2 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 06/07/2026 lúc 21:40 tối (giờ VN)  
+**Loại cập nhật:** Weekly  
+**Kết quả:** 1 nguồn | ✅ 1 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### AAIP — Alberta Advantage Immigration Program
-- ✅ overview
-
 ### BCPNP — BC Provincial Nominee Program
-- ✅ overview
+- ✅ Lịch sử draws / mời ứng viên
 
 ---
 
-_Cập nhật tiếp theo: lần chạy tiếp theo._
+_Cập nhật tiếp theo: tuần tới (thứ Hai)._
