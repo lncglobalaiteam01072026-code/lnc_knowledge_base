@@ -1,46 +1,24 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 07/07/2026 lúc 11:41 sáng (giờ VN)  
-**Loại cập nhật:** Annual  
-**Kết quả:** 6 nguồn | ✅ 6 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 07/07/2026 lúc 12:09 chiều (giờ VN)  
+**Loại cập nhật:** Monthly  
+**Kết quả:** 5 nguồn | ✅ 5 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
 ### AAIP — Alberta Advantage Immigration Program
-- ✅ forms_guides
-- ✅ forms_guides
-
-### BCPNP — BC Provincial Nominee Program
-- ✅ program_core
-- ✅ Điều kiện đủ điều kiện
-- ✅ documents
-- ✅ forms_guides
-- ✅ Danh sách cộng đồng
-- ✅ entrepreneur_stream
-- ✅ case_study
-- ✅ case_study
-- ✅ case_study
-- ✅ market_research
-- ✅ case_study
-
-### IRCC — Immigration, Refugees and Citizenship Canada
-- ✅ program_overview
-
-### NZAEWV — New Zealand Accredited Employer Work Visa
-- ✅ program_overview
-- ✅ employer_requirements
-- ✅ employer_requirements
 - ✅ Thống kê & pipeline
+- ✅ Lịch sử draws / mời ứng viên
 
 ### IRCC — Immigration, Refugees and Citizenship Canada
-- ✅ Yêu cầu ngôn ngữ
-- ✅ Chứng chỉ học vấn (ECA)
+- ✅ Thời gian xử lý hồ sơ
+- ✅ Số lượng phê duyệt thường trú nhân (PR)
 
 ### NZAEWV — New Zealand Accredited Employer Work Visa
-- ✅ Yêu cầu ngôn ngữ
+- ✅ Thời gian xử lý hồ sơ
 
 ---
 
-_Cập nhật tiếp theo: năm tới (tháng 1)._
+_Cập nhật tiếp theo: tháng tới (ngày 1)._
