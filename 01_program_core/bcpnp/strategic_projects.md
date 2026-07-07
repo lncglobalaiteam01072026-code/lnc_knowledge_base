@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 7af7d17eb5caa90d
 file_role: strategic_projects
 lang: en
-last_updated: '2026-07-06'
+last_updated: '2026-07-07'
 priority_weight: 1
 program: BCPNP
 province: BC

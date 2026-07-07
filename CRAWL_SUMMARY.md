@@ -13,7 +13,26 @@
 - ✅ forms_guides
 
 ### BCPNP — BC Provincial Nominee Program
-- ✅ Lịch sử draws / mời ứng viên
+- ✅ program_core
+- ✅ Điều kiện đủ điều kiện
+- ✅ documents
+- ✅ forms_guides
+- ✅ Danh sách cộng đồng
+- ✅ entrepreneur_stream
+- ✅ case_study
+- ✅ case_study
+- ✅ case_study
+- ✅ market_research
+- ✅ case_study
+
+### IRCC — Immigration, Refugees and Citizenship Canada
+- ✅ program_overview
+
+### NZAEWV — New Zealand Accredited Employer Work Visa
+- ✅ program_overview
+- ✅ employer_requirements
+- ✅ employer_requirements
+- ✅ Thống kê & pipeline
 
 ### IRCC — Immigration, Refugees and Citizenship Canada
 - ✅ Yêu cầu ngôn ngữ

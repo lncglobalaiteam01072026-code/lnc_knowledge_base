@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: fe68bd8c67f20754
 file_role: eligibility
 lang: en
-last_updated: '2026-07-06'
+last_updated: '2026-07-07'
 priority_weight: 1
 program: BCPNP
 province: BC
