@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_id": "bcpnp_invitations",
+    "source_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+    "last_updated": "2026-07-06",
+    "program": "BCPNP"
+  },
+  "data": [
+    {
+      "date": "June 30, 2026",
+      "stream": "Base",
+      "minimum_score": "118",
+      "number_of_invitations": "14"
+    },
+    {
+      "date": "June 2, 2026",
+      "stream": "Base",
+      "minimum_score": "117",
+      "number_of_invitations": "15"
+    },
+    {
+      "date": "May 5, 2026",
+      "stream": "Base",
+      "minimum_score": "115",
+      "number_of_invitations": "8"
+    },
+    {
+      "date": "April 14, 2026",
+      "stream": "Base",
+      "minimum_score": "115",
+      "number_of_invitations": "14"
+    },
+    {
+      "date": "March 10, 2026",
+      "stream": "Base",
+      "minimum_score": "117",
+      "number_of_invitations": "7"
+    },
+    {
+      "date": "February 10, 2026",
+      "stream": "Base",
+      "minimum_score": "121",
+      "number_of_invitations": "13"
+    },
+    {
+      "date": "January 13, 2026",
+      "stream": "Base",
+      "minimum_score": "115",
+      "number_of_invitations": "7"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 465ab1c4966063d8
 file_role: _index
 lang: en
-last_updated: '2026-07-06'
+last_updated: '2026-07-07'
 priority_weight: 1
 program: BCPNP
 province: BC

@@ -330,6 +330,11 @@
   url: https://immigration.ca/british-columbia-immigration/
   outputs:
   - 01_program_core/bcpnp/immigration_ca_overview.md
+- id: immigration_ca_news_canada
+  program: NEWS
+  frequency: daily
+  url: https://immigration.ca/?s=Latest+News
+  outputs: []
 - id: nzaewv_overview
   program: NZAEWV
   frequency: quarterly
@@ -374,6 +379,108 @@
   url: https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/english-language-requirements/english-language-requirements-for-an-accredited-employer-work-visa/
   outputs:
   - 02_documents_compliance/nzaewv/english_requirements.md
+- id: sobirovs_aaip_rural_entrepreneur
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/resources/alberta-rural-entrepreneur-stream/
+  outputs:
+  - 01_program_core/aaip/hangluat/rural_entrepreneur_stream.md
+- id: sobirovs_aaip_streams_comparison
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/resources/alberta-aaip-entrepreneur-streams-comparison/
+  outputs:
+  - 01_program_core/aaip/hangluat/aaip_entrepreneur_streams_comparison.md
+- id: sobirovs_aaip_farm_stream
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/resources/alberta-pnp-farm-stream-guide/
+  outputs:
+  - 01_program_core/aaip/hangluat/farm_stream_guide.md
+- id: sobirovs_c11_vs_ict
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/resources/c11-vs-ict-canada/
+  outputs:
+  - 01_program_core/aaip/hangluat/c11_vs_ict.md
+- id: sobirovs_ceta_benefits
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/resources/ceta-benefits-for-eu-companies/
+  outputs:
+  - 01_program_core/aaip/hangluat/ceta_benefits.md
+- id: sobirovs_success_vietnamese
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/success-stories/vietnamese-businesswoman-finds-success-in-alberta/
+  outputs:
+  - 01_program_core/aaip/hangluat/success_vietnamese_businesswoman.md
+- id: sobirovs_success_aaip_work_permit
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/success-stories/aaip-rural-entrepreneur-work-permit-approval/
+  outputs:
+  - 01_program_core/aaip/hangluat/success_aaip_work_permit.md
+- id: sobirovs_foreign_graduate_entrepreneur
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/resources/alberta-foreign-graduate-entrepreneur-stream-guide/
+  outputs:
+  - 01_program_core/aaip/hangluat/foreign_graduate_entrepreneur.md
+- id: sobirovs_graduate_entrepreneur
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/resources/alberta-graduate-entrepreneur-stream-complete-eligibility-guide/
+  outputs:
+  - 01_program_core/aaip/hangluat/graduate_entrepreneur.md
+- id: sobirovs_pnp_intl_students
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/resources/pnp-guide-international-student-entrepreneurs/
+  outputs:
+  - 01_program_core/aaip/hangluat/pnp_international_students.md
+- id: sobirovs_brooks_alberta
+  program: AAIP
+  frequency: quarterly
+  url: https://sobirovs.com/resources/location-brooks-alberta-immigration/
+  outputs:
+  - 01_program_core/aaip/hangluat/brooks_alberta.md
+- id: sobirovs_bc_pnp_guide
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/business-immigration/pnp-canada/british-columbia/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/bc_pnp_comprehensive_guide.md
+- id: sobirovs_bc_success_criminal_record
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/success-stories/bc-pnp-work-permit-criminal-record-approved/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/success_bc_pnp_criminal_record.md
+- id: sobirovs_bc_business_plan_success
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/news-publications/how-a-business-plan-led-to-canadian-immigration-success/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/business_plan_success.md
+- id: sobirovs_bc_summer_approvals
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/success-stories/summer-of-success-at-sobirovs-multiple-application-approvals/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/success_summer_approvals.md
+- id: sobirovs_bc_best_cities
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/news-publications/best-cities-in-canada-for-business-startups-and-entrepreneurs/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/best_cities_business.md
+- id: sobirovs_bc_arts_professionals
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/success-stories/arts-professionals-immigration-canada/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/success_arts_professionals.md
 - id: reddit_nz
   program: REDDIT
   frequency: biweekly

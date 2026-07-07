@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 6cba6ec10938396e
 file_role: bcpnp_document_checklist
 lang: en
-last_updated: '2026-07-06'
+last_updated: '2026-07-07'
 priority_weight: 1
 program: BCPNP
 province: BC
