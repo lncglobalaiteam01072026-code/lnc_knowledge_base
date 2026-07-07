@@ -1,8 +1,8 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 07/07/2026 lúc 16:01 chiều (giờ VN)  
+**Cập nhật lúc:** 07/07/2026 lúc 16:23 chiều (giờ VN)  
 **Loại cập nhật:** All  
-**Kết quả:** 86 nguồn | ✅ 85 thành công | ❌ 1 thất bại
+**Kết quả:** 86 nguồn | ✅ 78 thành công | ❌ 8 thất bại
 
 ---
 
@@ -55,13 +55,13 @@
 - ✅ community
 
 ### BCPNP — BC Provincial Nominee Program
-- ✅ program_core
-- ✅ Điều kiện đủ điều kiện
-- ✅ Lịch sử draws / mời ứng viên
-- ✅ documents
-- ✅ forms_guides
-- ✅ Danh sách cộng đồng
-- ✅ Lịch sử draws / mời ứng viên
+- ❌ **program_core** — _ConnectTimeout_
+- ❌ **Điều kiện đủ điều kiện** — _ConnectTimeout_
+- ❌ **Lịch sử draws / mời ứng viên** — _ConnectTimeout_
+- ❌ **documents** — _ConnectTimeout_
+- ❌ **forms_guides** — _ConnectTimeout_
+- ❌ **Danh sách cộng đồng** — _ConnectTimeout_
+- ❌ **Lịch sử draws / mời ứng viên** — _ConnectTimeout_
 - ✅ overview
 - ✅ entrepreneur_stream
 - ✅ case_study
@@ -73,7 +73,7 @@
 - ✅ entrepreneur_stream
 - ✅ entrepreneur_stream
 - ✅ Quy trình nộp hồ sơ
-- ❌ **Hướng dẫn** — _RuntimeError: Crawl failed for https://www2.gov.bc.ca/gov/content?id=29C34EE6A660494C82907BFC5B10958D: Unexpected error _
+- ❌ **Hướng dẫn** — _ConnectTimeout_
 - ✅ Hướng dẫn
 
 ### IRCC — Immigration, Refugees and Citizenship Canada
@@ -116,7 +116,14 @@
 
 Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
 
-- **Hướng dẫn** (BCPNP): https://www2.gov.bc.ca/gov/content?id=29C34EE6A660494C82907BFC5B10958D
+- **program_core** (BCPNP): https://www.welcomebc.ca/immigrate-to-b-c/for-entrepreneurs-and-businesses
+- **Điều kiện đủ điều kiện** (BCPNP): https://www.welcomebc.ca/immigrate-to-b-c/entrepreneur-immigration
+- **Lịch sử draws / mời ứng viên** (BCPNP): https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-invitations-to-apply-ei-2025-pdf
+- **documents** (BCPNP): https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents
+- **forms_guides** (BCPNP): 
+- **Danh sách cộng đồng** (BCPNP): https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration
+- **Lịch sử draws / mời ứng viên** (BCPNP): https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply
+- **Hướng dẫn** (BCPNP): https://www2.gov.bc.ca/gov/content/employment-business/business/small-business/resources/starting-a-small-business-guide
 
 ---
 

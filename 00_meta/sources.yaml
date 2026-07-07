@@ -513,7 +513,7 @@
 - id: bc_gov_small_business_guide
   program: BCPNP
   frequency: quarterly
-  url: https://www2.gov.bc.ca/gov/content?id=29C34EE6A660494C82907BFC5B10958D
+  url: https://www2.gov.bc.ca/gov/content/employment-business/business/small-business/resources/starting-a-small-business-guide
   outputs:
   - 05_policies_rules/bcpnp/bc_gov_small_business_guide.md
 - id: sobirovs_vietnam_guide
