@@ -53,6 +53,7 @@ jobs:
         run: python crawl.py --id ircc_pnp_approvals
 
       - name: Crawl IRCC Express Entry PNP link
+        # source has frequency: quarterly but run monthly alongside other IRCC sources intentionally
         run: python crawl.py --id ircc_ee_pnp_link
 
       - name: Upload to Google Drive

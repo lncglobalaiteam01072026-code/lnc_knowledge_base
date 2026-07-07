@@ -1354,6 +1354,29 @@
       }
     },
     {
+      "id": "immigration_ca_news_canada",
+      "program": "NEWS",
+      "layer": "08_news_updates",
+      "url": "https://immigration.ca/?s=Latest+News",
+      "content_selector": "article",
+      "crawl_depth": 2,
+      "max_articles": 15,
+      "link_filter": "//immigration.ca/",
+      "output_dir": "08_news_updates/canada/",
+      "output_files": [],
+      "frequency": "daily",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "NEWS",
+        "country": "CA",
+        "topic": "immigration_news",
+        "lang": "en",
+        "access_level": "internal"
+      }
+    },
+    {
       "id": "nzaewv_overview",
       "program": "NZAEWV",
       "layer": "01_program_core",
@@ -1534,6 +1557,431 @@
         "topic": "language_requirements",
         "lang": "en",
         "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "sobirovs_aaip_rural_entrepreneur",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/resources/alberta-rural-entrepreneur-stream/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/rural_entrepreneur_stream.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "entrepreneur_stream",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_aaip_streams_comparison",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/resources/alberta-aaip-entrepreneur-streams-comparison/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/aaip_entrepreneur_streams_comparison.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "entrepreneur_stream",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_aaip_farm_stream",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/resources/alberta-pnp-farm-stream-guide/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/farm_stream_guide.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "farm_stream",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_c11_vs_ict",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/resources/c11-vs-ict-canada/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/c11_vs_ict.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "work_permits",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_ceta_benefits",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/resources/ceta-benefits-for-eu-companies/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/ceta_benefits.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "trade_agreements",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_success_vietnamese",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/success-stories/vietnamese-businesswoman-finds-success-in-alberta/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/success_vietnamese_businesswoman.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "case_study",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_success_aaip_work_permit",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/success-stories/aaip-rural-entrepreneur-work-permit-approval/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/success_aaip_work_permit.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "case_study",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_foreign_graduate_entrepreneur",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/resources/alberta-foreign-graduate-entrepreneur-stream-guide/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/foreign_graduate_entrepreneur.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "graduate_entrepreneur",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_graduate_entrepreneur",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/resources/alberta-graduate-entrepreneur-stream-complete-eligibility-guide/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/graduate_entrepreneur.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "graduate_entrepreneur",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_pnp_intl_students",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/resources/pnp-guide-international-student-entrepreneurs/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/pnp_international_students.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "pnp_programs",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_brooks_alberta",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/resources/location-brooks-alberta-immigration/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/aaip/hangluat/brooks_alberta.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "community",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_bc_pnp_guide",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/business-immigration/pnp-canada/british-columbia/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/hangluat/bc_pnp_comprehensive_guide.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "entrepreneur_stream",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_bc_success_criminal_record",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/success-stories/bc-pnp-work-permit-criminal-record-approved/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/hangluat/success_bc_pnp_criminal_record.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "case_study",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_bc_business_plan_success",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/news-publications/how-a-business-plan-led-to-canadian-immigration-success/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/hangluat/business_plan_success.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "case_study",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_bc_summer_approvals",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/success-stories/summer-of-success-at-sobirovs-multiple-application-approvals/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/hangluat/success_summer_approvals.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "case_study",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_bc_best_cities",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/news-publications/best-cities-in-canada-for-business-startups-and-entrepreneurs/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/hangluat/best_cities_business.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "market_research",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_bc_arts_professionals",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/success-stories/arts-professionals-immigration-canada/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/hangluat/success_arts_professionals.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "case_study",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
       }
     },
     {

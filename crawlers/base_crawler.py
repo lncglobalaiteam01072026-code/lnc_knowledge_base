@@ -69,19 +69,30 @@ class BaseCrawler(ABC):
         shutil.copy2(path, archive_dir / f"{date_str}_{path.name}")
         return True
 
-    async def fetch_markdown(self, url: str) -> str:
+    _SELECTOR_UNSET = object()  # sentinel để phân biệt "không truyền" với "truyền None"
+
+    async def fetch_markdown(self, url: str, css_selector=_SELECTOR_UNSET) -> str:
         """Crawl URL và trả về markdown content.
 
         canada.ca blocks HTTP/2 from CI environments — use httpx (HTTP/1.1)
         + markdownify for those URLs instead of Playwright.
+
+        css_selector: override selector cho lần gọi này. None = full page.
+                      Bỏ qua → dùng source["content_selector"].
         """
         if self.source.get("use_httpx") or "canada.ca" in url:
             return await self._fetch_markdown_httpx(url)
 
+        effective_selector = (
+            self.source.get("content_selector")
+            if css_selector is BaseCrawler._SELECTOR_UNSET
+            else css_selector
+        )
+
         browser_config = BrowserConfig(headless=True, verbose=False)
         run_config = CrawlerRunConfig(
             cache_mode=CacheMode.BYPASS,
-            css_selector=self.source.get("content_selector"),
+            css_selector=effective_selector,
             delay_before_return_html=self.source.get("crawl_delay", 0),
         )
 

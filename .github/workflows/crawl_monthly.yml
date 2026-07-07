@@ -46,7 +46,8 @@ jobs:
         run: python -m playwright install chromium --with-deps
 
       - name: Run monthly crawl
-        run: python crawl.py --frequency monthly
+        # 06_statistics only — 07_unofficial handled by crawl_phase2.yml, 08_news_updates by crawl_news.yml
+        run: python crawl.py --frequency monthly --layer 06_statistics
 
       - name: Upload to Google Drive
         continue-on-error: true

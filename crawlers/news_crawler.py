@@ -1,4 +1,5 @@
-"""NewsCrawler — RSS feed parser cho CIC News và plain-HTML cho Job Bank."""
+"""NewsCrawler — RSS feed parser cho CIC News, plain-HTML cho Job Bank, deep crawl cho news sites."""
+import asyncio
 import re
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -14,6 +15,8 @@ class NewsCrawler(BaseCrawler):
     async def run(self) -> list[Path]:
         if self.source.get("is_rss"):
             return await self._run_rss()
+        if self.source.get("crawl_depth", 1) > 1:
+            return await self._run_deep_crawl()
         return await self._run_html()
 
     async def _run_rss(self) -> list[Path]:
@@ -63,6 +66,82 @@ class NewsCrawler(BaseCrawler):
             self.write_markdown(path, content, {"file_role": path.stem,
                                                 "article_count": len(articles)})
             written.append(path)
+        return written
+
+    async def _run_deep_crawl(self) -> list[Path]:
+        """Crawl index page (depth 1) → extract article links → crawl each article (depth 2).
+
+        Config keys:
+          crawl_depth    int   - phải > 1 để trigger (default 1)
+          max_articles   int   - giới hạn số bài crawl (default 10)
+          link_filter    str   - chỉ giữ URLs chứa chuỗi này (vd: "immigration.ca/")
+          output_dir     str   - thư mục output tương đối, mỗi bài 1 file {slug}.md
+          content_selector     - áp dụng cho từng bài (full page nếu None)
+        """
+        _SKIP = [
+            "?", "/wp-content/", "/category/", "/tag/",
+            "/author/", "/page/", "/feed/", "#",
+            ".jpg", ".png", ".gif", ".svg", ".pdf", ".ico",
+            "/about", "/our-team", "/contact", "/terms", "/privacy",
+            "/editorial", "/sitemap", "/login", "/register",
+        ]
+
+        # --- Bước 1: Lấy index page dùng content_selector (chỉ article excerpts) ---
+        index_md = await self.fetch_markdown(self.source["url"])
+
+        # --- Bước 2: Trích xuất article links ---
+        link_filter = self.source.get("link_filter", "")
+        raw_urls = re.findall(r'https?://[^\s\)\]"<>]+', index_md)
+
+        article_urls: list[str] = []
+        seen: set[str] = set()
+        for url in raw_urls:
+            url = url.rstrip(".,)>;")
+            if link_filter and link_filter not in url:
+                continue
+            if any(p in url for p in _SKIP):
+                continue
+            # Bỏ homepage (path rỗng sau domain)
+            path_part = url.split(link_filter, 1)[-1] if link_filter in url else url.split("//", 1)[-1]
+            if not path_part.strip("/"):
+                continue
+            if url not in seen:
+                seen.add(url)
+                article_urls.append(url)
+
+        max_articles = self.source.get("max_articles", 10)
+        article_urls = article_urls[:max_articles]
+
+        if not article_urls:
+            print(f"  [WARN] deep crawl: no article links found at {self.source['url']}")
+            return []
+
+        # --- Bước 3: Crawl từng bài và ghi file ---
+        output_dir = self.source.get("output_dir", "08_news_updates/")
+        output_base = self.output_root / output_dir
+        output_base.mkdir(parents=True, exist_ok=True)
+
+        written: list[Path] = []
+        for article_url in article_urls:
+            try:
+                await asyncio.sleep(1)
+                content = await self.fetch_markdown(article_url)
+                content = content.strip()
+                if len(content) < 100:
+                    continue
+                slug = re.sub(r"[^a-z0-9]+", "-",
+                               article_url.rstrip("/").split("/")[-1].lower()).strip("-")[:80]
+                if not slug:
+                    slug = re.sub(r"\W+", "-", article_url.split("//")[-1])[:80]
+                path = output_base / f"{slug}.md"
+                self.write_markdown(path, content, {
+                    "source_url": article_url,
+                    "file_role": "news_article",
+                })
+                written.append(path)
+            except Exception as exc:
+                print(f"  [WARN] deep crawl skip {article_url[:60]}: {exc}")
+
         return written
 
     async def _run_html(self) -> list[Path]:

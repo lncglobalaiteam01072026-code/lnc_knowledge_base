@@ -64,7 +64,7 @@ def get_crawler(source: dict):
         return CSVCrawler(source, OUTPUT_ROOT)
     if program == "REDDIT":
         return RedditCrawler(source, OUTPUT_ROOT)
-    if program in ("CICNEWS", "JOBBANK"):
+    if program in ("CICNEWS", "JOBBANK", "NEWS"):
         return NewsCrawler(source, OUTPUT_ROOT)
     if program == "AAIP":
         return AAIPCrawler(source, OUTPUT_ROOT)
@@ -177,6 +177,7 @@ _PROGRAM_NAMES = {
     "CICNEWS": "CIC News — Tin tức di trú",
     "JOBBANK": "Job Bank — Thị trường việc làm Canada",
     "NZAEWV": "NZAEWV — New Zealand Accredited Employer Work Visa",
+    "NEWS": "Immigration.ca — Tin tức nhập cư Canada",
 }
 
 

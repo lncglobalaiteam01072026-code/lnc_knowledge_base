@@ -6,10 +6,10 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 > **Đã xác minh toàn bộ URL ngày 2026-07-03** bằng cách fetch trực tiếp từng nguồn. Tất cả URL đã được cập nhật vào `sources.json`.
 >
 > **Kết quả crawl `python crawl.py --all` (2026-07-03):** 56/59 nguồn OK (tổng lúc đó là 59 nguồn).
-> — 3 nguồn IRCC FAIL: URL cấu hình đúng, nghi bug parse trong code (xem chi tiết mục IRCC).
+> — 3 nguồn IRCC FAIL (canada.ca): root cause JA3 TLS fingerprint mismatch — Akamai CDN treo connection khi UA claim Chrome nhưng fingerprint là Python/httpx. **Đã sửa commit `0c4f267`**: skip Chrome UA cho `canada.ca` URLs → dùng httpx default headers. ✅ 3/3 OK sau fix.
 > — Reddit: lỗi 403 trong lần chạy đó (dùng code cũ); đã sửa commit 30ca689 (JSON API + User-Agent).
 > — NZAEWV: tất cả URL và nội dung đã đúng — các thay đổi đã push trước lần chạy này.
-> ✅ **Tổng nguồn hiện tại: 60.** `nzaewv_english_requirements` đã xác nhận OK (2026-07-03, 6904 chars) — `02_documents_compliance/nzaewv/english_requirements.md`.
+> ✅ **Tổng nguồn hiện tại: 71.** Bao gồm 11 nguồn mới từ sobirovs.com (hãng luật) thêm ngày 2026-07-07.
 
 ---
 
@@ -310,7 +310,9 @@ File này được cập nhật thủ công khi có thay đổi `config/sources.
 
 ## IRCC — Immigration, Refugees and Citizenship Canada
 
-**Trạng thái: ✅ URL cấu hình đúng 5/5 — nhưng ❌ 3/5 nguồn FAIL khi crawl thật (`ircc_language_tests`, `ircc_eca`, `ircc_ee_pnp_link`). Nghi bug parse trong code, chưa debug được — cần traceback hoặc `crawlers/ircc_crawler.py`.**
+**Trạng thái: ✅ 5/5 OK.** Root cause 3 nguồn FAIL trước đây đã được xác định và fix (commit `0c4f267` — 2026-07-06):
+canada.ca dùng Akamai CDN kiểm tra JA3 TLS fingerprint. Khi httpx gửi Chrome User-Agent nhưng TLS fingerprint là Python/httpx → Akamai treo connection → `httpx.ReadTimeout` (empty message vì `str(ReadTimeout) == ""`).
+Fix: `crawlers/base_crawler.py` `_fetch_markdown_httpx()` bỏ custom headers cho `canada.ca` URLs, dùng httpx default UA.
 
 ### 📅 Monthly
 
@@ -379,6 +381,59 @@ Nguồn bổ sung, `access_level: internal`.
 
 ---
 
+## Sobirovs Law — Hãng luật (nguồn bổ sung)
+
+**Trạng thái: ✅ 17/17 OK (thêm 2026-07-07).** Crawler: Playwright (httpx bị 403). `content_selector: article`. `source_type: law_firm` trong frontmatter.
+
+> Tất cả sources dùng `frequency: quarterly`. Output nằm trong subfolder `hangluat/` của từng chương trình.
+
+### 📅 Quarterly
+
+```
+01_program_core/aaip/hangluat/                  ← 11 files
+├── rural_entrepreneur_stream.md
+│   └── https://sobirovs.com/resources/alberta-rural-entrepreneur-stream/
+├── aaip_entrepreneur_streams_comparison.md
+│   └── https://sobirovs.com/resources/alberta-aaip-entrepreneur-streams-comparison/
+├── farm_stream_guide.md
+│   └── https://sobirovs.com/resources/alberta-pnp-farm-stream-guide/
+├── graduate_entrepreneur.md
+│   └── https://sobirovs.com/resources/alberta-graduate-entrepreneur-stream-complete-eligibility-guide/
+├── foreign_graduate_entrepreneur.md
+│   └── https://sobirovs.com/resources/alberta-foreign-graduate-entrepreneur-stream-guide/
+├── pnp_international_students.md
+│   └── https://sobirovs.com/resources/pnp-guide-international-student-entrepreneurs/
+├── brooks_alberta.md
+│   └── https://sobirovs.com/resources/location-brooks-alberta-immigration/
+├── c11_vs_ict.md
+│   └── https://sobirovs.com/resources/c11-vs-ict-canada/
+├── ceta_benefits.md
+│   └── https://sobirovs.com/resources/ceta-benefits-for-eu-companies/
+├── success_vietnamese_businesswoman.md
+│   └── https://sobirovs.com/success-stories/vietnamese-businesswoman-finds-success-in-alberta/
+└── success_aaip_work_permit.md
+    └── https://sobirovs.com/success-stories/aaip-rural-entrepreneur-work-permit-approval/
+
+01_program_core/bcpnp/hangluat/                 ← 6 files
+├── bc_pnp_comprehensive_guide.md
+│   └── https://sobirovs.com/business-immigration/pnp-canada/british-columbia/
+├── success_bc_pnp_criminal_record.md
+│   └── https://sobirovs.com/success-stories/bc-pnp-work-permit-criminal-record-approved/
+├── business_plan_success.md
+│   └── https://sobirovs.com/news-publications/how-a-business-plan-led-to-canadian-immigration-success/
+├── success_summer_approvals.md
+│   └── https://sobirovs.com/success-stories/summer-of-success-at-sobirovs-multiple-application-approvals/
+├── best_cities_business.md
+│   └── https://sobirovs.com/news-publications/best-cities-in-canada-for-business-startups-and-entrepreneurs/
+└── success_arts_professionals.md
+    └── https://sobirovs.com/success-stories/arts-professionals-immigration-canada/
+
+01_program_core/nzaewv/hangluat/
+└── (trống — chưa có nguồn NZ)
+```
+
+---
+
 ## Reddit — Community posts
 
 **Trạng thái: ❌ Bị chặn 403 trong crawl 2026-07-03. Nguyên nhân: code cũ dùng `old.reddit.com/r/{sub}/hot/` HTML scraping (BeautifulSoup) với Chrome User-Agent — cả hai đều bị block từ CI. ✅ Đã sửa commit 30ca689: chuyển sang `www.reddit.com/r/{sub}/new.json` (JSON API) + User-Agent đúng format Reddit (`linux:lnc-kb-crawler:1.0`).**
@@ -411,8 +466,11 @@ File được xoá và tạo lại mỗi lần chạy nếu nội dung thay đ�
 lnc-knowledge-base/
 ├── 01_program_core/
 │   ├── aaip/                         ~35 files — quarterly + daily (immigration.ca)
+│   │   └── hangluat/                 11 files — quarterly (sobirovs.com law firm)
 │   ├── bcpnp/                         ~9 files — quarterly + daily (immigration.ca)
-│   └── nzaewv/                         5 files — quarterly (3 từ overview + employer_accreditation + job_check)
+│   │   └── hangluat/                  (trống)
+│   └── nzaewv/                         5 files — quarterly
+│       └── hangluat/                  (trống)
 ├── 02_documents_compliance/
 │   ├── checklists/                     1 file  — quarterly
 │   ├── nzaewv/                         1 file  — annual (english_requirements.md)
