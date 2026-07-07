@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: a446e6f2676ecd4c
+content_hash: bfdaa5847045ab1c
 file_role: rural_entrepreneur_stream
 lang: en
 last_updated: '2026-07-07'
@@ -35,7 +35,7 @@ An ideal candidate profile for this stream might look like:
 
 Younger candidates who hold a higher investment budget, have a close relative in Alberta, or whose spouses are highly educated or have significant language skills in English or French may be eligible to score additional points.
 If you are a foreign entrepreneur who already owns and operates a business in rural Alberta, you may be eligible to apply for PR under this stream! Confirm that you meet the program criteria. If so, once your business has been operating for at least one year and you hold a Community Support Letter, you can submit an Expression of Interest and follow the application process like any other candidate.
-[ ![AAIP Free Calculator banner created by Sobirovs Law Firm to assess changes in Alberta Rural Entrepreneur program](https://sobirovs.com/wp-content/uploads/2025/10/aaip-free-calculator-banner.png) ](https://aaipcalculator.sobirovs.com/)
+[ ![AAIP Free Calculator banner created by Sobirovs Law Firm to assess changes in Alberta Rural Entrepreneur program](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201233%20146'%3E%3C/svg%3E) ](https://aaipcalculator.sobirovs.com/)
 ### Who Cannot Apply to This Program?
 Although this program is a good fit for entrepreneurs and businesspeople of many backgrounds and profiles, there are some restrictions. Your business must qualify for the program and must NOT be on the list of ineligible businesses. You are not eligible to apply for this Stream if you have an active nomination under another AAIP stream or if you have been issued a letter on a previous AAIP application which states you are not eligible to re-apply for a specific period (and that ineligibility period is still active). You also are not eligible to apply if:
   * you have a removal order issued against you by IRCC or CBSA;
@@ -164,7 +164,7 @@ Assessing both an Expression of Interest and a Business Application Package take
 Last year, our Firm worked diligently to make our clients’ visions of success a reality. We are very proud to have achieved an overall **[approval rate of 83%](https://sobirovs.com/about-us/our-results/)** across all our files and programs. For programs regarding **[Permanent Residence for Entrepreneurs and Business Owners](https://sobirovs.com/business-immigration/business-owner-citizenship/)** , we are proud to say that we achieved an approval rate of 100% in the last year. We are honoured to be part of our clients’ journeys to Canada.
 ## **How Can Sobirovs Law Firm Help You with AAIP Application?**
 Sobirovs Law Firm has extensive experience with permanent residence through economic immigration, including PNPs and, specifically, AAIP programs. Our diligent lawyers develop custom strategies for you that take into account both your business needs and immigration goals. Our team will be by your side throughout your journey, introducing you to the Canadian business market and taking care of your immigration needs so that you can focus on what really matters: building your business and your life in Alberta. Your dedicated case team is always in your corner – contact us today to learn more about your options.
-[ ![Booking one hour professional legal consultation with Sobirovs Business Immigration lawyers](https://sobirovs.com/wp-content/uploads/2025/10/sobirovs-book-consultation-banner.png) ](https://calendly.com/sobirovslaw/strategy-meeting)
+[ ![Booking one hour professional legal consultation with Sobirovs Business Immigration lawyers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201233%20146'%3E%3C/svg%3E) ](https://calendly.com/sobirovslaw/strategy-meeting)
 ## **Starting a Business VS Purchasing a Franchise VS Non-Franchised Business in Alberta?**
 Determining whether to start a new venture, open a franchise, or purchase an existing business is always a critical milestone for businesspeople planning a move to Canada. There are pros and cons to each option, depending on your circumstances. Regardless, you are well-positioned to benefit from Alberta’s pro-business policies. Some applicants opt to invest in a franchise, as its proven business model and support network helps reduce some of the risk associated with starting a new operation in a new country. For the same reason, some choose existing businesses with an established presence in their community, an experienced staff, and potentially a previous owner willing to help show you the ropes. On the other hand, many entrepreneurs like to have total control over every element of their operation while it gets off the ground, or they have a specific vision they want executed – in that case, planning a new business might be the perfect fit.
 ## Which Community Should You Choose?

@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 85f7334a7c7e0a0b
+content_hash: 097f4cf707be7b51
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
@@ -532,7 +532,7 @@ Key Takeaway From the Recent Express Entry Changes On February 18, 2026, IRCC co
 Key Takeaway On February 18, 2026, Immigration, Refugees and Citizenship Canada (IRCC) announced a new Express Entry category for senior managers with Canadian work experience...
 Sign Up To Be
 ### The First in Canadian Business Immigration News
-URL
+X/Twitter
 This field is for validation purposes and should be left unchanged.
 Email
 Get Our Weekly Newsletter
