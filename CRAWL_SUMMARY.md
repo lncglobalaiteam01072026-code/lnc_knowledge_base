@@ -1,8 +1,8 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 07/07/2026 lúc 14:38 chiều (giờ VN)  
+**Cập nhật lúc:** 07/07/2026 lúc 15:18 chiều (giờ VN)  
 **Loại cập nhật:** All  
-**Kết quả:** 78 nguồn | ✅ 71 thành công | ❌ 7 thất bại
+**Kết quả:** 89 nguồn | ✅ 78 thành công | ❌ 11 thất bại
 
 ---
 
@@ -69,17 +69,28 @@
 - ✅ case_study
 - ✅ market_research
 - ✅ case_study
+- ✅ entrepreneur_stream
+- ✅ entrepreneur_stream
+- ✅ entrepreneur_stream
+- ✅ Điều kiện đủ điều kiện
+- ✅ Quy trình nộp hồ sơ
+- ❌ **Hướng dẫn** — _ConnectTimeout_
+- ✅ Điều kiện đủ điều kiện
+- ✅ Hướng dẫn
 
 ### IRCC — Immigration, Refugees and Citizenship Canada
 - ✅ Yêu cầu ngôn ngữ
 - ✅ Chứng chỉ học vấn (ECA)
+- ✅ Yêu cầu ngôn ngữ
 - ✅ Thời gian xử lý hồ sơ
-- ✅ Số lượng phê duyệt thường trú nhân (PR)
+- ❌ **Số lượng phê duyệt thường trú nhân (PR)** — _ConnectTimeout_
 - ✅ program_overview
+- ✅ Điều kiện đủ điều kiện
+- ✅ Quy trình nộp hồ sơ
 
 ### Job Bank — Thị trường việc làm Canada
-- ✅ job_market
-- ✅ job_market
+- ❌ **job_market** — _ConnectTimeout_
+- ❌ **job_market** — _ConnectTimeout_
 
 ### CIC News — Tin tức di trú
 - ✅ news_pnp
@@ -115,6 +126,10 @@ Các nguồn dưới đây chưa được cập nhật lần này, hệ thống 
 - **forms_guides** (BCPNP): 
 - **Danh sách cộng đồng** (BCPNP): https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration
 - **Lịch sử draws / mời ứng viên** (BCPNP): https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply
+- **Số lượng phê duyệt thường trú nhân (PR)** (IRCC): https://ircc.canada.ca/opendata-donneesouvertes/data/ODP-PR-PT_IMMCAT.csv
+- **job_market** (JOBBANK): https://www.jobbank.gc.ca/trend-analysis/job-market-reports/alberta
+- **job_market** (JOBBANK): https://www.jobbank.gc.ca/trend-analysis/job-market-reports/british-columbia
+- **Hướng dẫn** (BCPNP): https://www2.gov.bc.ca/gov/content?id=29C34EE6A660494C82907BFC5B10958D
 
 ---
 

@@ -266,6 +266,12 @@
   url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html
   outputs:
   - 02_documents_compliance/eca_guide.md
+- id: ircc_language_requirements
+  program: IRCC
+  frequency: annual
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-requirements.html
+  outputs:
+  - 02_documents_compliance/language_requirements.md
 - id: ircc_processing_times
   program: IRCC
   frequency: monthly
@@ -481,6 +487,65 @@
   url: https://sobirovs.com/success-stories/arts-professionals-immigration-canada/
   outputs:
   - 01_program_core/bcpnp/hangluat/success_arts_professionals.md
+- id: sobirovs_bc_deep
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/business-immigration/pnp-canada/british-columbia/
+  outputs: []
+- id: sobirovs_bc_pnp_canada_overview
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/business-immigration/pnp-canada/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/pnp_canada_overview.md
+- id: sobirovs_bc_provincial_work_permit
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/startups/provincial-business-candidate-work-permit/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/provincial_business_work_permit.md
+- id: sobirovs_bc_eligibility_calculator
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/immigration-eligibility-calculator/british-columbia-business-immigration-eligibility/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/bc_eligibility_calculator.md
+- id: sobirovs_bc_legal_cost_estimator
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/legal-cost-estimator/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/legal_cost_estimator.md
+- id: bc_gov_small_business_guide
+  program: BCPNP
+  frequency: quarterly
+  url: https://www2.gov.bc.ca/gov/content?id=29C34EE6A660494C82907BFC5B10958D
+  outputs:
+  - 05_policies_rules/bcpnp/bc_gov_small_business_guide.md
+- id: sobirovs_bc_pnp_calculator_general
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/immigration-eligibility-calculator/canadian-business-immigration-pnp-entrepreneur-streams/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/pnp_calculator_general.md
+- id: sobirovs_vietnam_guide
+  program: BCPNP
+  frequency: quarterly
+  url: https://sobirovs.com/country-guides/immigrate-vietnam-to-canada/
+  outputs:
+  - 01_program_core/bcpnp/hangluat/vietnam_country_guide.md
+- id: ircc_pnp_overview
+  program: IRCC
+  frequency: annual
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html
+  outputs:
+  - 01_program_core/ircc/pnp_overview.md
+- id: ircc_pnp_how_it_works
+  program: IRCC
+  frequency: annual
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/works.html
+  outputs:
+  - 01_program_core/ircc/pnp_how_it_works.md
 - id: reddit_nz
   program: REDDIT
   frequency: biweekly
