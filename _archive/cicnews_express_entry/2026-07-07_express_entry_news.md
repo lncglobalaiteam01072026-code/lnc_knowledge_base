@@ -2,10 +2,10 @@
 access_level: internal
 article_count: 10
 chunk_strategy: standard
-content_hash: 511881e577583a5d
+content_hash: c44768c18976070b
 file_role: express_entry_news
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-06'
 priority_weight: 0.7
 program: CICNEWS
 retrieval_strategy: direct
@@ -17,18 +17,8 @@ version: '1.0'
 
 # CIC News — Express Entry
 
-**Crawled:** 2026-07-07  
+**Crawled:** 2026-07-06  
 **Source:** https://www.cicnews.com/category/express-entry/feed/
-
----
-
-## First Express Entry draw of July sees lowest PNP cut-off score this year
-
-**Date:** Mon, 06 Jul 2026 18:48:39 +0000  
-**Link:** https://www.cicnews.com/2026/07/first-express-entry-draw-of-july-sees-lowest-pnp-cut-off-score-this-year-0777251.html
-
-Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 534 ITAs in a draw for Provincial Nominee Program candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 708; and Created an Express Entry candidate [&#8230;]
-The post First Express Entry draw of July sees lowest PNP cut-off score this year first appeared on CIC News.
 
 ---
 
@@ -119,5 +109,15 @@ The post Three steps candidates can take to prepare for the reforms to permanent
 
 Profiles in the 501–600 Comprehensive Ranking System (CRS) score range are being added to Canada’s Express Entry candidate pool at a rate that far exceeds any other group of candidates. Canada’s Express Entry pool grew by 4,395 profiles between April 26 and May 24, with the 501-600 CRS score range alone adding 4,085 profiles, 93% [&#8230;]
 The post 93% of Express Entry pool growth driven by candidates scoring in the 501–600 range first appeared on CIC News.
+
+---
+
+## French-speaking Express Entry candidates receive invitations at higher CRS cut-off
+
+**Date:** Thu, 28 May 2026 16:25:04 +0000  
+**Link:** https://www.cicnews.com/2026/05/fourth-express-entry-draw-of-may-0576013.html
+
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 4,500 ITAs in a draw for candidates with French language proficiency. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 409; and Created an [&#8230;]
+The post French-speaking Express Entry candidates receive invitations at higher CRS cut-off first appeared on CIC News.
 
 ---
