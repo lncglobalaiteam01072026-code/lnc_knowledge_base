@@ -27,6 +27,7 @@ from pathlib import Path
 from crawlers.aaip_crawler import AAIPCrawler
 from crawlers.bcpnp_crawler import BCPNPCrawler
 from crawlers.csv_crawler import CSVCrawler
+from crawlers.deep_crawler import DeepCrawler
 from crawlers.ircc_crawler import IRCCCrawler
 from crawlers.news_crawler import NewsCrawler
 from crawlers.nz_crawler import NZCrawler
@@ -62,6 +63,9 @@ def get_crawler(source: dict):
         return PDFCrawler(source, OUTPUT_ROOT)
     if source.get("is_csv"):
         return CSVCrawler(source, OUTPUT_ROOT)
+    # Deep crawl: any source with crawl_depth > 1, except NEWS/CICNEWS (handled by NewsCrawler)
+    if source.get("crawl_depth", 1) > 1 and program not in ("NEWS", "CICNEWS"):
+        return DeepCrawler(source, OUTPUT_ROOT)
     if program == "REDDIT":
         return RedditCrawler(source, OUTPUT_ROOT)
     if program in ("CICNEWS", "JOBBANK", "NEWS"):

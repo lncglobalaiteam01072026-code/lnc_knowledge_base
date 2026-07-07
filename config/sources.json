@@ -2012,6 +2012,29 @@
       }
     },
     {
+      "id": "sobirovs_bc_deep",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/business-immigration/pnp-canada/british-columbia/",
+      "crawl_depth": 3,
+      "link_filter": "sobirovs.com",
+      "max_articles": 40,
+      "crawl_delay": 2,
+      "output_dir": "01_program_core/bcpnp/hangluat/",
+      "output_files": [],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "entrepreneur_stream",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
       "id": "sobirovs_bc_pnp_canada_overview",
       "program": "BCPNP",
       "layer": "01_program_core",
