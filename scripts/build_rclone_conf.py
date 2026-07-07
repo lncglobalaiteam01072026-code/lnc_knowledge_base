@@ -44,6 +44,12 @@ if os.path.isdir(kb_dir):
         [
             "rclone", "--config", "/tmp/rclone.conf",
             "sync", kb_dir, "gdrive:lnc-knowledge-base-temp",
+            # Exclude code/config artifacts — not useful for end users
+            "--exclude", "config/**",
+            "--exclude", "docs/**",
+            "--exclude", "CLAUDE.md",
+            "--exclude", "03_crawl_pipeline.md",
+            # Include knowledge data files only
             "--include", "*.md",
             "--include", "*.json",
             "--exclude", "*",
