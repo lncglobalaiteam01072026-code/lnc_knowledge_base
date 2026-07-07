@@ -1388,7 +1388,7 @@
       "content_selector": "article",
       "crawl_depth": 2,
       "max_articles": 15,
-      "link_filter": "//immigration.ca/",
+      "link_filter": "immigration.ca/",
       "output_dir": "08_news_updates/canada/",
       "output_files": [],
       "frequency": "daily",

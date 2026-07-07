@@ -63,8 +63,8 @@ def get_crawler(source: dict):
         return PDFCrawler(source, OUTPUT_ROOT)
     if source.get("is_csv"):
         return CSVCrawler(source, OUTPUT_ROOT)
-    # Deep crawl: any source with crawl_depth > 1, except NEWS/CICNEWS (handled by NewsCrawler)
-    if source.get("crawl_depth", 1) > 1 and program not in ("NEWS", "CICNEWS"):
+    # Deep crawl: any source with crawl_depth > 1, except CICNEWS RSS sources
+    if source.get("crawl_depth", 1) > 1 and program != "CICNEWS":
         return DeepCrawler(source, OUTPUT_ROOT)
     if program == "REDDIT":
         return RedditCrawler(source, OUTPUT_ROOT)
