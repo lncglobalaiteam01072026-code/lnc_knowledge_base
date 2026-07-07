@@ -114,9 +114,10 @@ async def _crawl_one(source: dict, sem: asyncio.Semaphore) -> dict:
 
         except Exception as e:
             record["duration_s"] = round(time.monotonic() - t0, 1)
-            print(f"  [FAIL] {sid}: {e}")
+            err_msg = f"{type(e).__name__}: {e}" if str(e) else type(e).__name__
+            print(f"  [FAIL] {sid}: {err_msg}")
             record["status"] = "failed"
-            record["errors"].append(str(e))
+            record["errors"].append(err_msg)
 
         return record
 

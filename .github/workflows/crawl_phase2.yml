@@ -46,6 +46,7 @@ jobs:
         run: python -m playwright install chromium --with-deps
 
       - name: Run phase2 crawl
+        continue-on-error: true   # jobbank.gc.ca blocks some CI IPs; unofficial data, non-blocking
         run: python crawl.py --layer 07_unofficial --frequency monthly
 
       - name: Upload to Google Drive
