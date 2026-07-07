@@ -1,16 +1,6 @@
-name: Crawl — Monthly (CIC News RSS)
+﻿name: Crawl — Monthly (CIC News RSS)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "crawlers/**"
-      - "config/**"
-      - "processors/**"
-      - "validators/**"
-      - "scripts/**"
-      - "crawl.py"
-      - "requirements.txt"
   schedule:
     - cron: "0 3 3 * *"   # ngày 3 hàng tháng 10h VN (03:00 UTC)
   workflow_dispatch:

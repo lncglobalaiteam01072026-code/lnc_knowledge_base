@@ -1,16 +1,6 @@
-name: Crawl — Biweekly (Reddit communities)
+﻿name: Crawl — Biweekly (Reddit communities)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "crawlers/**"
-      - "config/**"
-      - "processors/**"
-      - "validators/**"
-      - "scripts/**"
-      - "crawl.py"
-      - "requirements.txt"
   schedule:
     - cron: "0 3 1,15 * *"   # ngày 1 và 15 hàng tháng lúc 3am UTC
   workflow_dispatch:

@@ -1,16 +1,6 @@
-name: Crawl — Monthly (IRCC processing times & approvals)
+﻿name: Crawl — Monthly (IRCC processing times & approvals)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "crawlers/**"
-      - "config/**"
-      - "processors/**"
-      - "validators/**"
-      - "scripts/**"
-      - "crawl.py"
-      - "requirements.txt"
   schedule:
     - cron: "0 2 5 * *"   # ngày 5 hàng tháng lúc 2am UTC (09:00 giờ VN)
   workflow_dispatch:

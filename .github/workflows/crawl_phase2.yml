@@ -1,16 +1,6 @@
-name: Crawl — Phase 2 (Job Bank market data)
+﻿name: Crawl — Phase 2 (Job Bank market data)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "crawlers/**"
-      - "config/**"
-      - "processors/**"
-      - "validators/**"
-      - "scripts/**"
-      - "crawl.py"
-      - "requirements.txt"
   schedule:
     - cron: "0 3 2 * *"   # ngày 2 hàng tháng 10h VN (03:00 UTC)
   workflow_dispatch:

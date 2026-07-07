@@ -1,16 +1,6 @@
-name: Crawl — Monthly (draw history)
+﻿name: Crawl — Monthly (draw history)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "crawlers/**"
-      - "config/**"
-      - "processors/**"
-      - "validators/**"
-      - "scripts/**"
-      - "crawl.py"
-      - "requirements.txt"
   schedule:
     - cron: "0 2 1 * *"
   workflow_dispatch:

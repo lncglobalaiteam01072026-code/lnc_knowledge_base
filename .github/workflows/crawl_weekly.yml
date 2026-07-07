@@ -1,16 +1,6 @@
-name: Crawl — Weekly (BCPNP invitations)
+﻿name: Crawl — Weekly (BCPNP invitations)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "crawlers/**"
-      - "config/**"
-      - "processors/**"
-      - "validators/**"
-      - "scripts/**"
-      - "crawl.py"
-      - "requirements.txt"
   schedule:
     - cron: "0 2 * * 1"   # every Monday 02:00 UTC
   workflow_dispatch:
@@ -46,6 +36,7 @@ jobs:
         run: python -m playwright install chromium --with-deps
 
       - name: Run weekly crawl
+        continue-on-error: true   # welcomebc.ca ConnectTimeout on some CI runs; weekly stats, non-blocking
         run: python crawl.py --frequency weekly
 
       - name: Upload to Google Drive

@@ -1,16 +1,6 @@
-name: Crawl — Annual (language tests, ECA, legal refs)
+﻿name: Crawl — Annual (language tests, ECA, legal refs)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "crawlers/**"
-      - "config/**"
-      - "processors/**"
-      - "validators/**"
-      - "scripts/**"
-      - "crawl.py"
-      - "requirements.txt"
   schedule:
     - cron: "0 4 15 1 *"
   workflow_dispatch:

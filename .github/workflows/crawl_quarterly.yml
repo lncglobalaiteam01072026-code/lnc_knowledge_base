@@ -1,16 +1,6 @@
-name: Crawl — Quarterly (program core)
+﻿name: Crawl — Quarterly (program core)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "crawlers/**"
-      - "config/**"
-      - "processors/**"
-      - "validators/**"
-      - "scripts/**"
-      - "crawl.py"
-      - "requirements.txt"
   schedule:
     - cron: "0 3 1 1,4,7,10 *"
   workflow_dispatch:
