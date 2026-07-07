@@ -2136,6 +2136,102 @@
       }
     },
     {
+      "id": "sobirovs_bc_pnp_calculator_general",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/immigration-eligibility-calculator/canadian-business-immigration-pnp-entrepreneur-streams/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/hangluat/pnp_calculator_general.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "sobirovs_vietnam_guide",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://sobirovs.com/country-guides/immigrate-vietnam-to-canada/",
+      "content_selector": "article",
+      "output_files": [
+        {
+          "file": "01_program_core/bcpnp/hangluat/vietnam_country_guide.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "guide",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "ircc_pnp_overview",
+      "program": "IRCC",
+      "layer": "01_program_core",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/ircc/pnp_overview.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "annual",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "metadata": {
+        "program": "BOTH",
+        "topic": "eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_pnp_how_it_works",
+      "program": "IRCC",
+      "layer": "01_program_core",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/works.html",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "01_program_core/ircc/pnp_how_it_works.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "annual",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "metadata": {
+        "program": "BOTH",
+        "topic": "process",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
       "id": "reddit_nz",
       "program": "REDDIT",
       "url": "https://www.reddit.com/r/newzealand",
