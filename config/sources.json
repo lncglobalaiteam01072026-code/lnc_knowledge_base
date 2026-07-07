@@ -2020,6 +2020,7 @@
       "link_filter": "sobirovs.com",
       "max_articles": 40,
       "crawl_delay": 2,
+      "startup_delay": 30,
       "output_dir": "01_program_core/bcpnp/hangluat/",
       "output_files": [],
       "frequency": "quarterly",
@@ -2085,31 +2086,6 @@
       }
     },
     {
-      "id": "sobirovs_bc_eligibility_calculator",
-      "program": "BCPNP",
-      "layer": "01_program_core",
-      "url": "https://sobirovs.com/immigration-eligibility-calculator/british-columbia-business-immigration-eligibility/",
-      "content_selector": "article",
-      "output_files": [
-        {
-          "file": "01_program_core/bcpnp/hangluat/bc_eligibility_calculator.md",
-          "section_selector": "full_page"
-        }
-      ],
-      "frequency": "quarterly",
-      "chunk_strategy": "standard",
-      "has_tables": false,
-      "priority_weight": 1,
-      "metadata": {
-        "program": "BCPNP",
-        "province": "BC",
-        "topic": "eligibility",
-        "lang": "en",
-        "access_level": "chatbot",
-        "source_type": "law_firm"
-      }
-    },
-    {
       "id": "sobirovs_bc_legal_cost_estimator",
       "program": "BCPNP",
       "layer": "01_program_core",
@@ -2139,7 +2115,6 @@
       "program": "BCPNP",
       "layer": "05_policies_rules",
       "url": "https://www2.gov.bc.ca/gov/content?id=29C34EE6A660494C82907BFC5B10958D",
-      "use_httpx": true,
       "output_files": [
         {
           "file": "05_policies_rules/bcpnp/bc_gov_small_business_guide.md",
@@ -2156,31 +2131,6 @@
         "topic": "guide",
         "lang": "en",
         "access_level": "chatbot"
-      }
-    },
-    {
-      "id": "sobirovs_bc_pnp_calculator_general",
-      "program": "BCPNP",
-      "layer": "01_program_core",
-      "url": "https://sobirovs.com/immigration-eligibility-calculator/canadian-business-immigration-pnp-entrepreneur-streams/",
-      "content_selector": "article",
-      "output_files": [
-        {
-          "file": "01_program_core/bcpnp/hangluat/pnp_calculator_general.md",
-          "section_selector": "full_page"
-        }
-      ],
-      "frequency": "quarterly",
-      "chunk_strategy": "standard",
-      "has_tables": false,
-      "priority_weight": 1,
-      "metadata": {
-        "program": "BCPNP",
-        "province": "BC",
-        "topic": "eligibility",
-        "lang": "en",
-        "access_level": "chatbot",
-        "source_type": "law_firm"
       }
     },
     {
@@ -2227,29 +2177,6 @@
       "metadata": {
         "program": "BOTH",
         "topic": "eligibility",
-        "lang": "en",
-        "access_level": "chatbot"
-      }
-    },
-    {
-      "id": "ircc_pnp_how_it_works",
-      "program": "IRCC",
-      "layer": "01_program_core",
-      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/works.html",
-      "content_selector": "main",
-      "output_files": [
-        {
-          "file": "01_program_core/ircc/pnp_how_it_works.md",
-          "section_selector": "full_page"
-        }
-      ],
-      "frequency": "annual",
-      "chunk_strategy": "standard",
-      "has_tables": false,
-      "priority_weight": 0.9,
-      "metadata": {
-        "program": "BOTH",
-        "topic": "process",
         "lang": "en",
         "access_level": "chatbot"
       }

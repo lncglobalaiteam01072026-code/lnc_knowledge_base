@@ -33,6 +33,11 @@ class DeepCrawler(BaseCrawler):
     """BFS crawler: starts at source URL, discovers links up to crawl_depth levels deep."""
 
     async def run(self) -> list[Path]:
+        startup_delay = self.source.get("startup_delay", 0)
+        if startup_delay:
+            print(f"  [WAIT] DeepCrawler startup_delay={startup_delay}s for {self.source['id']}")
+            await asyncio.sleep(startup_delay)
+
         link_filter = self.source.get("link_filter", "")
         max_pages = self.source.get("max_articles", 30)
         max_depth = self.source.get("crawl_depth", 2)
