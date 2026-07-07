@@ -26,7 +26,6 @@ class NewsCrawler(BaseCrawler):
         resp.raise_for_status()
 
         root = ET.fromstring(resp.content)
-        ns = {"atom": "http://www.w3.org/2005/Atom"}
         channel = root.find("channel")
         if channel is None:
             channel = root
@@ -40,7 +39,6 @@ class NewsCrawler(BaseCrawler):
             link = (item.findtext("link") or "").strip()
             pub_date = (item.findtext("pubDate") or "").strip()
             description = (item.findtext("description") or "").strip()
-            # Strip HTML tags from description
             description = re.sub(r"<[^>]+>", "", description).strip()
 
             if title:
@@ -66,6 +64,38 @@ class NewsCrawler(BaseCrawler):
             self.write_markdown(path, content, {"file_role": path.stem,
                                                 "article_count": len(articles)})
             written.append(path)
+
+        # Optionally fetch full article content for each link
+        if self.source.get("fetch_full_content") and articles:
+            output_dir = self.source.get("output_dir", "08_news_updates/cicnews/")
+            output_base = self.output_root / output_dir
+            output_base.mkdir(parents=True, exist_ok=True)
+            for article in articles:
+                url = article["link"]
+                if not url:
+                    continue
+                try:
+                    await asyncio.sleep(1)
+                    full_content = await self.fetch_markdown(url)
+                    full_content = full_content.strip()
+                    if len(full_content) < 100:
+                        continue
+                    slug = re.sub(r"[^a-z0-9]+", "-",
+                                   url.rstrip("/").split("/")[-1].lower()).strip("-")[:80]
+                    if not slug:
+                        slug = re.sub(r"\W+", "-", url.split("//")[-1])[:80]
+                    path = output_base / f"{slug}.md"
+                    self.write_markdown(path, full_content, {
+                        "source_url": url,
+                        "file_role": "news_article",
+                        "article_title": article["title"],
+                        "pub_date": article["date"],
+                    })
+                    written.append(path)
+                    print(f"  [OK] {slug} → {output_dir}")
+                except Exception as exc:
+                    print(f"  [WARN] RSS full-content skip {url[:60]}: {exc}")
+
         return written
 
     async def _run_deep_crawl(self) -> list[Path]:

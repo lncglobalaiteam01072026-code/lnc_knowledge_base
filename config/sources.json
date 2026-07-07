@@ -1223,6 +1223,8 @@
       "is_rss": true,
       "feed_title": "CIC News — Provincial Nominees",
       "max_items": 20,
+      "fetch_full_content": true,
+      "output_dir": "08_news_updates/cicnews/pnp/",
       "output_files": [
         {
           "file": "08_news_updates/cicnews/pnp_news.md"
@@ -1246,6 +1248,8 @@
       "is_rss": true,
       "feed_title": "CIC News — Express Entry",
       "max_items": 20,
+      "fetch_full_content": true,
+      "output_dir": "08_news_updates/cicnews/express_entry/",
       "output_files": [
         {
           "file": "08_news_updates/cicnews/express_entry_news.md"
