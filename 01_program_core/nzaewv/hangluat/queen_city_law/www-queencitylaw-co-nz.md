@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 75233295c38e4143
+content_hash: 15f25d8d72dd09ae
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
@@ -17,13 +17,13 @@ topic: guide
 version: '1.0'
 ---
 
-[![Queen City Law](https://queen-city-law.cdn.prismic.io/queen-city-law/e36bcabe-d082-48c5-bcf7-119f885681d2_QCL_Wordmark_Rev_RGB+1.svg)](https://www.queencitylaw.co.nz/)
-  * [About](https://www.queencitylaw.co.nz/about)
-  * [Services](https://www.queencitylaw.co.nz/services)
-  * [Our Team](https://www.queencitylaw.co.nz/our-team)
-  * [News & Views](https://www.queencitylaw.co.nz/news-views)
-  * [Projects](https://www.queencitylaw.co.nz/projects)
-  * [Contact](https://www.queencitylaw.co.nz/contact)
+[![Queen City Law](https://queen-city-law.cdn.prismic.io/queen-city-law/e36bcabe-d082-48c5-bcf7-119f885681d2_QCL_Wordmark_Rev_RGB+1.svg)](https://www.queencitylaw.co.nz/</>)
+  * [About](https://www.queencitylaw.co.nz/</about>)
+  * [Services](https://www.queencitylaw.co.nz/</services>)
+  * [Our Team](https://www.queencitylaw.co.nz/</our-team>)
+  * [News & Views](https://www.queencitylaw.co.nz/</news-views>)
+  * [Projects](https://www.queencitylaw.co.nz/</projects>)
+  * [Contact](https://www.queencitylaw.co.nz/</contact>)
 
 
 ![Queen City Law](https://queen-city-law.cdn.prismic.io/queen-city-law/8f0ba9fd-d712-4b8e-9c4e-3a50db38cf8a_Group%281%29.svg?auto=compress,format)
@@ -33,7 +33,7 @@ Our legal team is well connected with a wide range of business contacts and you 
 Queen City Law specialises in Commercial Law, Immigration Law, Litigation and Property Development.
 We are a multilingual firm, with staff who speak Mandarin, Cantonese, Korean, Tagalog, Indonesian, Russian, Spanish and French.
 ![Image - Queen City Law](https://images.prismic.io/queen-city-law/55517a9b-3b1f-4d3a-9071-8688bc9db587_20231107_QCL1461.jpg?auto=compress,format)
-[MORE ABOUT US](https://www.queencitylaw.co.nz/about)
+[MORE ABOUT US](https://www.queencitylaw.co.nz/</about>)
 ### Building successful relationships based on trust and integrity 
 ## Areas of expertise
 ### Banking and Finance
@@ -54,7 +54,7 @@ We provide tailored legal services for high-value commercial real estate and lan
 We handle all residential property matters, and we guide clients through the legal aspects of property development projects, from land acquisition to construction and sales. Our firm also offers legal expertise in commercial property transactions and leasing, ensuring your investments are legally sound.
 ### Private Wealth
 We craft strategies to protect your assets and plan for the future, from trusts to succession planning.
-[OUR SERVICES](https://www.queencitylaw.co.nz/services)
+[OUR SERVICES](https://www.queencitylaw.co.nz/</services>)
 ### Our Projects
 ![Our Projects](https://images.prismic.io/queen-city-law/41de13c4-8b1f-46b6-a571-5dd786057a4f_QCL_CANDIDS-6864.JPG?auto=compress,format&rect=1858,0,3337,4296&w=560&h=721)
 ### Meet the Team
@@ -69,7 +69,7 @@ We are client focused, with a strong emphasis on adding value for our clients. W
 Queen City Law has the expertise to successfully represent international and domestic clients of all kinds. Our team is more than capable of handling and assisting with your affairs. 
 We have extensive experience working with and helping overseas companies and individuals with investment and business in New Zealand. 
 ![Image - Queen City Law](https://images.prismic.io/queen-city-law/2c285a33-4b3c-4dea-a27e-ad401323df67_Untitled+design+%2850%29.png?auto=compress,format)
-[MEET THE TEAM](https://www.queencitylaw.co.nz/our-team)
+[MEET THE TEAM](https://www.queencitylaw.co.nz/</our-team>)
 ### Providing tailored legal solutions to fit your specific needs
 ## Client insights
 Previous
@@ -106,32 +106,27 @@ Our trusted partners
 ![](https://images.prismic.io/queen-city-law/b2efa175-22ad-4388-bc83-79984181055c_Raywhite.png?auto=compress,format)
 ![](https://images.prismic.io/queen-city-law/7d247eac-28ed-4449-9275-dde29b74b427_PWA.png?auto=compress,format)
 ![](https://images.prismic.io/queen-city-law/26c3aacf-2d8b-4ae1-a2df-4c8586e0bb05_Wall.png?auto=format,compress)
-Queen City Law  
-Barristers and Solicitors
-Queen City Law House  
-Level 8, 19 Victoria Street West   
-Auckland Central 1010
-  
-law@queencitylaw.co.nz  
-[+64 9 970 8810](tel:+64%209%20970%208810)
+Queen City LawBarristers and Solicitors
+Queen City Law HouseLevel 8, 19 Victoria Street West Auckland Central 1010
+law@queencitylaw.co.nz[+64 9 970 8810](tel:+64 9 970 8810)
 
 
-  * [Home](https://www.queencitylaw.co.nz/)
-  * [About](https://www.queencitylaw.co.nz/about)
-  * [Services](https://www.queencitylaw.co.nz/services)
-  * [Our Team](https://www.queencitylaw.co.nz/our-team)
-  * [News & Views](https://www.queencitylaw.co.nz/news-views)
-  * [Contact](https://www.queencitylaw.co.nz/contact)
-  * [Careers & Culture](https://www.queencitylaw.co.nz/careers-and-culture)
+  * [Home](https://www.queencitylaw.co.nz/</>)
+  * [About](https://www.queencitylaw.co.nz/</about>)
+  * [Services](https://www.queencitylaw.co.nz/</services>)
+  * [Our Team](https://www.queencitylaw.co.nz/</our-team>)
+  * [News & Views](https://www.queencitylaw.co.nz/</news-views>)
+  * [Contact](https://www.queencitylaw.co.nz/</contact>)
+  * [Careers & Culture](https://www.queencitylaw.co.nz/</careers-and-culture>)
 
 
-  * [Our Projects](https://www.queencitylaw.co.nz/projects)
-  * [Library](https://www.queencitylaw.co.nz/library)
+  * [Our Projects](https://www.queencitylaw.co.nz/</projects>)
+  * [Library](https://www.queencitylaw.co.nz/</library>)
 
 
-  * [Terms of Engagement](https://www.queencitylaw.co.nz/terms-of-engagement)
-  * [Terms of Use](https://www.queencitylaw.co.nz/terms-ofuse)
-  * [Privacy Policy](https://www.queencitylaw.co.nz/privacy-policy)
+  * [Terms of Engagement](https://www.queencitylaw.co.nz/</terms-of-engagement>)
+  * [Terms of Use](https://www.queencitylaw.co.nz/</terms-ofuse>)
+  * [Privacy Policy](https://www.queencitylaw.co.nz/</privacy-policy>)
 
 
 ![](https://queen-city-law.cdn.prismic.io/queen-city-law/8f0ba9fd-d712-4b8e-9c4e-3a50db38cf8a_Group%281%29.svg)

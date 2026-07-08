@@ -1,8 +1,8 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 08/07/2026 lúc 10:09 sáng (giờ VN)  
+**Cập nhật lúc:** 08/07/2026 lúc 14:15 chiều (giờ VN)  
 **Loại cập nhật:** All  
-**Kết quả:** 86 nguồn | ✅ 85 thành công | ❌ 1 thất bại
+**Kết quả:** 104 nguồn | ✅ 104 thành công | ❌ 0 thất bại
 
 ---
 
@@ -53,6 +53,7 @@
 - ✅ graduate_entrepreneur
 - ✅ pnp_programs
 - ✅ community
+- ✅ Hướng dẫn
 
 ### BCPNP — BC Provincial Nominee Program
 - ✅ program_core
@@ -75,6 +76,7 @@
 - ✅ Quy trình nộp hồ sơ
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
+- ✅ Hướng dẫn
 
 ### IRCC — Immigration, Refugees and Citizenship Canada
 - ✅ Yêu cầu ngôn ngữ
@@ -84,10 +86,12 @@
 - ✅ Số lượng phê duyệt thường trú nhân (PR)
 - ✅ program_overview
 - ✅ Điều kiện đủ điều kiện
+- ✅ Thống kê & pipeline
+- ✅ Thống kê & pipeline
 
 ### Job Bank — Thị trường việc làm Canada
 - ✅ job_market
-- ❌ **job_market** — _ConnectError_
+- ✅ job_market
 
 ### CIC News — Tin tức di trú
 - ✅ news_pnp
@@ -100,6 +104,8 @@
 
 ### Immigration.ca — Tin tức nhập cư Canada
 - ✅ immigration_news
+- ✅ immigration_news
+- ✅ immigration_news
 
 ### NZAEWV — New Zealand Accredited Employer Work Visa
 - ✅ program_overview
@@ -109,14 +115,18 @@
 - ✅ Thống kê & pipeline
 - ✅ news_policy
 - ✅ Yêu cầu ngôn ngữ
-
----
-
-## ⚠️ Nguồn bị lỗi
-
-Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
-
-- **job_market** (JOBBANK): https://www.jobbank.gc.ca/trend-analysis/job-market-reports/british-columbia
+- ✅ Điều kiện đủ điều kiện
+- ✅ Quy trình nộp hồ sơ
+- ✅ Điều kiện đủ điều kiện
+- ✅ Quy trình nộp hồ sơ
+- ✅ immigration_news
+- ✅ Hướng dẫn
+- ✅ Văn bản pháp lý
+- ✅ Hướng dẫn
+- ✅ Hướng dẫn
+- ✅ Hướng dẫn
+- ✅ Hướng dẫn
+- ✅ Hướng dẫn
 
 ---
 

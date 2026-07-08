@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 8d6cab0d5ef34e3f
+content_hash: 73059a3dea86fe47
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
@@ -17,7 +17,7 @@ topic: guide
 version: '1.0'
 ---
 
-[ Skip to content](https://pacificlegal.co.nz/#content)
+[ Skip to content](#content)
 [![](https://pacificlegal.co.nz/wp-content/uploads/2025/03/Pacific-legal-Logo.png.webp)](https://pacificlegal.co.nz/)[![](https://pacificlegal.co.nz/wp-content/uploads/2025/03/Pacific-legal-Logo.png-195x54.webp)](https://pacificlegal.co.nz/)
   * [HOME](https://pacificlegal.co.nz/)
   * [VISAS](https://pacificlegal.co.nz/visas/)
@@ -52,7 +52,7 @@ version: '1.0'
 
 
 [ 0800 722 53425 ](tel:080072253425)[0800 722 53425](tel:080072253425)
-[](https://pacificlegal.co.nz/)
+[](https://pacificlegal.co.nz/<#>)
 [![](https://pacificlegal.co.nz/wp-content/uploads/2025/03/Pacific-legal-Logo.png.webp)](https://pacificlegal.co.nz/)[![](https://pacificlegal.co.nz/wp-content/uploads/2025/03/Pacific-legal-Logo.png-195x54.webp)](https://pacificlegal.co.nz/)
   * [HOME](https://pacificlegal.co.nz/)
   * [VISAS](https://pacificlegal.co.nz/visas/)
@@ -207,10 +207,7 @@ We don’t shy away from difficult cases and unexpected events.
 
 
 #### Contact
-Level 5, 130 Broadway  
-Newmarket  
-Auckland, 1023  
-New Zealand
+Level 5, 130 BroadwayNewmarketAuckland, 1023New Zealand
   * Email: office@pacificlegal.co.nz
   * [ 0800 PAC LEGAL ](tel:080072253425)
   * [ (0800 722 53425) ](tel:080072253425)

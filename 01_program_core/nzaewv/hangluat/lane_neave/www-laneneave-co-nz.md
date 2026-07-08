@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: a8706fd1885794c7
+content_hash: 15a88bbd6321b80a
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
@@ -18,8 +18,8 @@ version: '1.0'
 ---
 
 [![Lane Neave](https://www.laneneave.co.nz/wp-content/themes/lane-neave/images/logo.svg)](https://www.laneneave.co.nz)
-About  Our Services  [Our People](https://www.laneneave.co.nz/our-people/?_people_roles=partners) Careers  [News & Events](https://www.laneneave.co.nz/news-events/) [Contact](https://www.laneneave.co.nz/contact/)
-[Menu](https://www.laneneave.co.nz/)
+About  Our Services  [Our People](https://www.laneneave.co.nz/</our-people/?_people_roles=partners>) Careers  [News & Events](https://www.laneneave.co.nz/</news-events/>) [Contact](https://www.laneneave.co.nz/</contact/>)
+[Menu](https://www.laneneave.co.nz/<#>)
 ### About Us
   * [About](https://www.laneneave.co.nz/about/)
   * [Accomplishments](https://www.laneneave.co.nz/about/accomplishments/)
@@ -81,8 +81,8 @@ About  Our Services  [Our People](https://www.laneneave.co.nz/our-people/?_peopl
 
 
 [![Lane Neave](https://www.laneneave.co.nz/wp-content/themes/lane-neave/images/logo.svg)](https://www.laneneave.co.nz)
-[Search](https://www.laneneave.co.nz/) [](https://www.laneneave.co.nz/)
-[About](https://www.laneneave.co.nz/#list-about2)
+[Search](https://www.laneneave.co.nz/<#>) [](https://www.laneneave.co.nz/<#>)
+[About](#list-about2)
   * [About](https://www.laneneave.co.nz/about/)
   * [Accomplishments](https://www.laneneave.co.nz/about/accomplishments/)
   * [Client Information](https://www.laneneave.co.nz/about/client-information/)
@@ -92,7 +92,7 @@ About  Our Services  [Our People](https://www.laneneave.co.nz/our-people/?_peopl
   * [Diversity, Equity and Inclusion](https://www.laneneave.co.nz/about/diversity-and-inclusion/)
 
 
-[Our Services](https://www.laneneave.co.nz/#list-our-services2)
+[Our Services](#list-our-services2)
   * [Our Services](https://www.laneneave.co.nz/our-services/)
   * [Business Law](https://www.laneneave.co.nz/our-services/business-law/)
     * [Agribusiness Law](https://www.laneneave.co.nz/our-services/business-law/agribusiness/)
@@ -135,22 +135,20 @@ About  Our Services  [Our People](https://www.laneneave.co.nz/our-people/?_peopl
     * [Web3 & Digital Assets](https://www.laneneave.co.nz/our-services/personal-law/web3-digital-assets/)
 
 
-[Our People](https://www.laneneave.co.nz/our-people/?_people_roles=partners)
-[Careers](https://www.laneneave.co.nz/#list-careers2)
+[Our People](https://www.laneneave.co.nz/</our-people/?_people_roles=partners>)
+[Careers](#list-careers2)
   * [Careers](https://www.laneneave.co.nz/careers/)
   * [Grads & Summer Clerks](https://www.laneneave.co.nz/careers/grads-summer-clerks/)
   * [Lawyers](https://www.laneneave.co.nz/careers/lawyers/)
   * [Management & Administration](https://www.laneneave.co.nz/careers/management-administration/)
 
 
-[News & Events](https://www.laneneave.co.nz/news-events/)
-[Contact](https://www.laneneave.co.nz/contact/)
+[News & Events](https://www.laneneave.co.nz/</news-events/>)
+[Contact](https://www.laneneave.co.nz/</contact/>)
 [](https://www.facebook.com/laneneavelawyers/) [](https://twitter.com/laneneave) [](https://www.linkedin.com/company/lane-neave)
-[Online Payments](https://www.laneneave.co.nz/online-payments/)
-# We Make The   
-Complex Simple
-### Ka Huri Te Mahi Whīwhiwhi   
-Ana Ki Te Mahi Māmā
+[Online Payments](https://www.laneneave.co.nz/</online-payments/>)
+# We Make The Complex Simple
+### Ka Huri Te Mahi Whīwhiwhi Ana Ki Te Mahi Māmā
 ##### I need some help with...
 Please Select Buying or selling a house An employment issue Resolving a dispute Setting up or running a business An immigration issue Setting up a trust or writing a will
 ##### Let our experts help
@@ -161,7 +159,7 @@ Personal Law [](https://www.laneneave.co.nz/our-services/personal-law/)
 Our unique place in the legal services market allows us to provide the legal capability and depth of resources of a large law firm, while enjoying the ability of a boutique-sized law firm to develop close and long-lasting client relationships. We value our clients, from large corporates to individuals - whatever your legal issue, we can help.
 [Search for a lawyer](https://www.laneneave.co.nz/our-people/) [Contact us today](https://www.laneneave.co.nz/contact/)
 ## News, insights and events
-[View More](https://www.laneneave.co.nz/news-events/)
+[View More](https://www.laneneave.co.nz/</news-events/>)
 [General News](https://www.laneneave.co.nz/news-events-category/general-news/) 02/07/2026
 ##### Six recognised in 2026 mid-year promotions
 Six lawyers and support staff have been recognised for their hard work, talent and drive, in our annual mid-year... Read More
@@ -212,7 +210,7 @@ We're an award-winning firm that handles interesting and diverse work, and has a
 [ ![](https://www.laneneave.co.nz/wp-content/uploads/2025/12/TeUruTaTangata_Logo_Members_colour-1000px-e1767816237546.jpg) ](https://workplaceinclusion.org.nz/)
 [ ![](https://www.laneneave.co.nz/wp-content/uploads/2023/02/Group-57.jpg) ](https://www.toitu.co.nz/)
 [ ![](https://www.laneneave.co.nz/wp-content/uploads/2024/02/ICLA_full-logo_Black-e1706826283347.png) ](https://www.icl-alliance.com/)
-[ ![](https://www.laneneave.co.nz/wp-content/uploads/2026/01/GEC-Signatory-Logo-2025-colour-e1767816265458.png) ](http://lawsociety.org.nz)
+[ ![](https://www.laneneave.co.nz/wp-content/uploads/2026/01/GEC-Signatory-Logo-2025-colour-e1767816265458.png) ](https://lawsociety.org.nz)
 ![Lane Neave](https://www.laneneave.co.nz/wp-content/themes/lane-neave/images/logo-white.svg)
 **Newsletter Signup**
 Newsletter
@@ -261,27 +259,14 @@ Newsletter
   * [Contact](https://www.laneneave.co.nz/contact/)
 
 
-**Auckland / Tāmaki Makaurau**  
-Level 8, 48 Shortland Street,  
-Vero Centre, Auckland 1010  
-[+64 9 300 6263](tel:6493006263)
-**Wellington / Te Whanganui-a-Tara**  
-Level 3, Perpetual Guardian House,   
-99 Customhouse Quay,  
-Wellington 6011  
-[+64 4 912 0800](tel:6449120800)
-**Christchurch / Ōtautahi**  
-141 Cambridge Terrace  
-Christchurch 8013  
-[+64 3 379 3720](tel:6433793720)
-**Queenstown / Tāhuna**  
-Level 1, 2 Memorial Street  
-Queenstown 9300  
-[+64 3 409 0321](tel:6434090321)
+**Auckland / Tāmaki Makaurau** Level 8, 48 Shortland Street, Vero Centre, Auckland 1010 [+64 9 300 6263](tel:6493006263)
+**Wellington / Te Whanganui-a-Tara** Level 3, Perpetual Guardian House, 99 Customhouse Quay, Wellington 6011 [+64 4 912 0800](tel:6449120800)
+**Christchurch / Ōtautahi** 141 Cambridge Terrace Christchurch 8013 [+64 3 379 3720](tel:6433793720)
+**Queenstown / Tāhuna** Level 1, 2 Memorial Street Queenstown 9300 [+64 3 409 0321](tel:6434090321)
 [](https://www.facebook.com/laneneavelawyers/) [](https://www.linkedin.com/company/lane-neave)
-[Online Payments](https://www.laneneave.co.nz/online-payments/)
+[Online Payments](https://www.laneneave.co.nz/</online-payments/>)
 © Lane Neave 2026
-[Privacy Policy](https://www.laneneave.co.nz/privacy-policy/) [Sitemap](https://www.laneneave.co.nz/sitemap/)
+[Privacy Policy](https://www.laneneave.co.nz/</privacy-policy/>) [Sitemap](https://www.laneneave.co.nz/</sitemap/>)
 We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
 Cookie SettingsAccept All
 Manage consent
@@ -291,15 +276,14 @@ This website uses cookies to improve your experience while you navigate through 
 Necessary 
 Necessary
 Always Enabled
-Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.   
-| Cookie  | Duration  | Description  |  
-| --- | --- | --- |  
-| cookielawinfo-checkbox-analytics  | 11 months  | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".  |  
-| cookielawinfo-checkbox-functional  | 11 months  | The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".  |  
-| cookielawinfo-checkbox-necessary  | 11 months  | This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".  |  
-| cookielawinfo-checkbox-others  | 11 months  | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.  |  
-| cookielawinfo-checkbox-performance  | 11 months  | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".  |  
-| viewed_cookie_policy  | 11 months  | The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.  |  
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously. Cookie| Duration| Description  
+---|---|---  
+cookielawinfo-checkbox-analytics| 11 months| This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".  
+cookielawinfo-checkbox-functional| 11 months| The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".  
+cookielawinfo-checkbox-necessary| 11 months| This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".  
+cookielawinfo-checkbox-others| 11 months| This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.  
+cookielawinfo-checkbox-performance| 11 months| This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".  
+viewed_cookie_policy| 11 months| The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.  
 Functional 
 Functional
 Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features. 
