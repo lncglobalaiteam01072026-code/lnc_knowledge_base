@@ -528,6 +528,102 @@
   url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html
   outputs:
   - 01_program_core/ircc/pnp_overview.md
+- id: statcan_immigration_stats
+  program: IRCC
+  frequency: quarterly
+  url: https://www.statcan.gc.ca/en/subjects-start/immigration_and_ethnocultural_diversity
+  outputs:
+  - 06_statistics/ircc/statcan_immigration_overview.md
+- id: ircc_immigration_levels
+  program: IRCC
+  frequency: annual
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/reports-statistics.html
+  outputs:
+  - 06_statistics/ircc/immigration_annual_report_page.md
+- id: heronlaw_bc_pnp
+  program: BCPNP
+  frequency: monthly
+  url: https://heronlaw.ca/blog/
+  outputs: []
+- id: ackahlaw_aaip_news
+  program: AAIP
+  frequency: monthly
+  url: https://www.ackahlaw.com/news/
+  outputs: []
+- id: canadavisa_immigration_news
+  program: NEWS
+  frequency: weekly
+  url: https://www.canadavisa.com/canada-immigration-news.html
+  outputs: []
+- id: cbc_immigration_news
+  program: NEWS
+  frequency: weekly
+  url: https://www.cbc.ca/news/canada/immigration
+  outputs: []
+- id: nzaewv_green_list
+  program: NZAEWV
+  frequency: monthly
+  url: https://www.immigration.govt.nz/visas/straight-to-residence-visa/
+  outputs:
+  - 01_program_core/nzaewv/green_list.md
+- id: nzaewv_wage_threshold
+  program: NZAEWV
+  frequency: monthly
+  url: https://www.immigration.govt.nz/work/requirements-for-work-visas/
+  outputs:
+  - 05_policies_rules/nzaewv/wage_threshold.md
+- id: nzaewv_active_investor_plus
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/visas/active-investor-plus-visa/
+  outputs:
+  - 01_program_core/nzaewv/active_investor_plus.md
+- id: nzaewv_employer_obligations
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/work/for-employers/
+  outputs:
+  - 05_policies_rules/nzaewv/employer_obligations.md
+- id: nzaewv_inz_news_deep
+  program: NZAEWV
+  frequency: weekly
+  url: https://www.immigration.govt.nz/about-us/news-centre/
+  outputs: []
+- id: nz_business_info
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.business.govt.nz/
+  outputs: []
+- id: nz_employment_law
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.employment.govt.nz/
+  outputs: []
+- id: nz_careers
+  program: NZAEWV
+  frequency: monthly
+  url: https://www.careers.govt.nz/
+  outputs: []
+- id: pacificlegal_nz
+  program: NZAEWV
+  frequency: quarterly
+  url: https://pacificlegal.co.nz/
+  outputs: []
+- id: malcolm_pacific_nz
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.malcolmpacific.com/
+  outputs: []
+- id: lane_neave_nz
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.laneneave.co.nz/
+  outputs: []
+- id: queen_city_law_nz
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.queencitylaw.co.nz/
+  outputs: []
 - id: reddit_nz
   program: REDDIT
   frequency: biweekly
