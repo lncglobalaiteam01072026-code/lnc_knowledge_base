@@ -2183,6 +2183,147 @@
       }
     },
     {
+      "id": "statcan_immigration_stats",
+      "program": "IRCC",
+      "layer": "06_statistics",
+      "url": "https://www.statcan.gc.ca/en/subjects-start/immigration_and_ethnocultural_diversity",
+      "use_httpx": true,
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "06_statistics/ircc/statcan_immigration_overview.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "quarterly",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "metadata": {
+        "program": "IRCC",
+        "topic": "statistics",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "official"
+      }
+    },
+    {
+      "id": "ircc_immigration_levels",
+      "program": "IRCC",
+      "layer": "06_statistics",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/reports-statistics.html",
+      "content_selector": "main",
+      "output_files": [
+        {
+          "file": "06_statistics/ircc/immigration_annual_report_page.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "frequency": "annual",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "IRCC",
+        "topic": "statistics",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "official"
+      }
+    },
+    {
+      "id": "heronlaw_bc_pnp",
+      "program": "BCPNP",
+      "layer": "01_program_core",
+      "url": "https://heronlaw.ca/blog/",
+      "crawl_depth": 2,
+      "link_filter": "heronlaw.ca",
+      "max_articles": 20,
+      "crawl_delay": 2,
+      "output_dir": "01_program_core/bcpnp/hangluat/heronlaw/",
+      "output_files": [],
+      "frequency": "monthly",
+      "chunk_strategy": "standard",
+      "priority_weight": 0.9,
+      "metadata": {
+        "program": "BCPNP",
+        "province": "BC",
+        "topic": "guide",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "ackahlaw_aaip_news",
+      "program": "AAIP",
+      "layer": "01_program_core",
+      "url": "https://www.ackahlaw.com/news/",
+      "crawl_depth": 2,
+      "link_filter": "ackahlaw.com/news",
+      "max_articles": 20,
+      "crawl_delay": 2,
+      "output_dir": "01_program_core/aaip/hangluat/ackahlaw/",
+      "output_files": [],
+      "frequency": "monthly",
+      "chunk_strategy": "standard",
+      "priority_weight": 0.9,
+      "metadata": {
+        "program": "AAIP",
+        "province": "AB",
+        "topic": "guide",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "law_firm"
+      }
+    },
+    {
+      "id": "canadavisa_immigration_news",
+      "program": "NEWS",
+      "layer": "08_news_updates",
+      "url": "https://www.canadavisa.com/canada-immigration-news.html",
+      "crawl_depth": 2,
+      "link_filter": "canadavisa.com",
+      "max_articles": 15,
+      "crawl_delay": 2,
+      "output_dir": "08_news_updates/canada/canadavisa/",
+      "output_files": [],
+      "frequency": "weekly",
+      "chunk_strategy": "standard",
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "NEWS",
+        "country": "CA",
+        "topic": "immigration_news",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "news"
+      }
+    },
+    {
+      "id": "cbc_immigration_news",
+      "program": "NEWS",
+      "layer": "08_news_updates",
+      "url": "https://www.cbc.ca/news/canada/immigration",
+      "crawl_depth": 2,
+      "link_filter": "cbc.ca/news/canada/immigration",
+      "max_articles": 15,
+      "crawl_delay": 2,
+      "output_dir": "08_news_updates/canada/cbc/",
+      "output_files": [],
+      "frequency": "weekly",
+      "chunk_strategy": "standard",
+      "priority_weight": 0.8,
+      "metadata": {
+        "program": "NEWS",
+        "country": "CA",
+        "topic": "immigration_news",
+        "lang": "en",
+        "access_level": "chatbot",
+        "source_type": "news"
+      }
+    },
+    {
       "id": "reddit_nz",
       "program": "REDDIT",
       "url": "https://www.reddit.com/r/newzealand",
