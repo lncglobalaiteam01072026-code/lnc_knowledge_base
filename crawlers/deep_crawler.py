@@ -68,7 +68,7 @@ class DeepCrawler(BaseCrawler):
                 path_part = url.split(link_filter, 1)[-1].strip("/")
             else:
                 path_part = url.split("//", 1)[-1].split("/", 1)[-1].strip("/")
-            if not path_part:
+            if not path_part and url != self.source["url"]:
                 visited.add(url)
                 continue
 
