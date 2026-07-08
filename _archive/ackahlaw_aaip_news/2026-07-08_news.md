@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 636b9a9ad4feff50
+content_hash: c852f0e98ab7c811
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
@@ -17,7 +17,7 @@ topic: guide
 version: '1.0'
 ---
 
-x [ ](https://wa.me/15878543821 "Whatsapp Ackah Law") [ (587) 854-3821 ](tel:+15878543821 "Phone Ackah Law")
+x [ ](https://wa.me/15878543866 "Whatsapp Ackah Law") [ (587) 854-3866 ](tel:+15878543866 "Phone Ackah Law")
 Select LanguageEnglishFrançais简体中文हिन्दीEspañolالعربيةবাংলাPortuguêsРусскийBahasa IndonesiaاردوDeutsch日本語मराठीTiếng ViệtతెలుగుHarshen HausaTürkçeਪੰਜਾਬੀKiswahiliFilipino
 [ ![Ackah Business Immigration Law: Award Winning Canada Law Firm](https://www.ackahlaw.com/assets/img/ackah-logo-small-wh.svg) ](https://www.ackahlaw.com/)
 [](https://www.ackahlaw.com/news/<javascript:void\(0\)> "Seach")
@@ -316,7 +316,7 @@ Search Ackah Law...
 [Contact us](https://www.ackahlaw.com/news/<javascript:void\(0\)> "Open contact information box")
 [](https://www.ackahlaw.com/news/<javascript:void\(0\)> "Close contact information box")
 Contact Information
-[ 1 (587) 854-3821 ](https://wa.me/15878543821)
+[ 1 (587) 854-3866 ](https://wa.me/15878543866)
 [ 1 (800) 932-1190 ](tel:+18009321190)
 [ Learn how we can help you ](https://www.ackahlaw.com/news/</about>)
 [ More Options... ](https://www.ackahlaw.com/news/</about/contact>)
@@ -379,7 +379,7 @@ If you are a Canadian founder or CEO, you probably have specific immigration goa
 [](https://www.ackahlaw.com/news/p2)
 [![Ackah Law](https://www.ackahlaw.com/assets/img/ackah-law-wh.svg)](https://www.ackahlaw.com/)
 [ ![Be part of our VIP Top 100 Referrals List](https://www.ackahlaw.com/assets/img/referral-badge.png) ](https://ackahlaw.myflodesk.com/vip-top-100-referrals)
-[ ](https://twitter.com/Ackahlaw/ "Twitter") [ ](https://www.facebook.com/AckahBusinessImmigrationLaw/ "Facebook") [ ](https://www.linkedin.com/company/ackah-business-immigration-law/ "Linkedin") [ ](https://www.youtube.com/channel/UCw7M2pQKwsRteq-nThuaELQ "Youtube") [ ](https://www.instagram.com/ackahlaw/ "Instagram") [ ](https://podcasts.apple.com/us/podcast/ask-canada-immigration-lawyer-evelyn-ackah/id1461504289 "Apple-podcast") [ ](https://www.ackahlaw.com/news/podcast "Podcast-circle") [ ](https://www.tiktok.com/@evelynackahlawyer "Tiktok") [ ](https://wa.me/15878543821 "Whatsapp")
+[ ](https://twitter.com/Ackahlaw/ "Twitter") [ ](https://www.facebook.com/AckahBusinessImmigrationLaw/ "Facebook") [ ](https://www.linkedin.com/company/ackah-business-immigration-law/ "Linkedin") [ ](https://www.youtube.com/channel/UCw7M2pQKwsRteq-nThuaELQ "Youtube") [ ](https://www.instagram.com/ackahlaw/ "Instagram") [ ](https://podcasts.apple.com/us/podcast/ask-canada-immigration-lawyer-evelyn-ackah/id1461504289 "Apple-podcast") [ ](https://www.ackahlaw.com/news/podcast "Podcast-circle") [ ](https://www.tiktok.com/@evelynackahlawyer "Tiktok") [ ](https://wa.me/15878543866 "Whatsapp")
   * [Corporate Immigration](https://www.ackahlaw.com/services/corporate-immigration)
   * [Personal Immigration](https://www.ackahlaw.com/services/personal-immigration)
   * [Resources](https://www.ackahlaw.com/resources)

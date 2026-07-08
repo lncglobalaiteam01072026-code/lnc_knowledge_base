@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 2c2961d3179de89d
+content_hash: b476c4c1049f56d0
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
@@ -101,7 +101,7 @@ Login
 What would you like to do?
 Loading...
 [](https://www.immigration.govt.nz/about-us/news-centre/</> "Immigration NZ")
-![Waharoa Pattern](https://www.immigration.govt.nz/_resources/themes/app/dist/patterns/waharoa.svg?m=1783469512)
+![Waharoa Pattern](https://www.immigration.govt.nz/_resources/themes/app/dist/patterns/waharoa.svg?m=1783028195)
 # WelcomeNau mai, haere mai
   1. [ Home ](https://www.immigration.govt.nz/about-us/news-centre/</>) ... 
   2. [ About us ](https://www.immigration.govt.nz/about-us/)
@@ -175,7 +175,7 @@ Popular information
   * [ Documents and proof ](https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/)
 
 
-[Hīkina Whakatutuki](https://www.mbie.govt.nz/ "Ministry of Business, Innovation and Employment - ")[![Women’s Refuge Shielded Site](https://www.immigration.govt.nz/_resources/vendor/andrewandante/womens-refuge-shield/img/logos/custom-logo.png?m=1783469512)](https://www.immigration.govt.nz/about-us/news-centre/<#>)
+[Hīkina Whakatutuki](https://www.mbie.govt.nz/ "Ministry of Business, Innovation and Employment - ")[![Women’s Refuge Shielded Site](https://www.immigration.govt.nz/_resources/vendor/andrewandante/womens-refuge-shield/img/logos/custom-logo.png?m=1783028195)](https://www.immigration.govt.nz/about-us/news-centre/<#>)
 [New Zealand Government / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
   * [ Glossary ](https://www.immigration.govt.nz/about-us/glossary/)
   * [ Accessibility ](https://www.immigration.govt.nz/about-us/about-this-site/accessibility/)
