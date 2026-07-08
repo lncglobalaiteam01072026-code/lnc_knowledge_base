@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: e493a27285ebe290
+content_hash: 57def3048b3190f3
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Some Trucking Employers Are Exploiting LMIA Process](https://immigration.ca/wp-content/uploads/2024/08/Some-Trucking-Employers-Are-Exploiting-LMIA-Process-300x169.jpg)](https://immigration.ca/how-to-prepare-for-saskatchewans-next-sinp-intake-window-in-july/)
+[![](https://immigration.ca/wp-content/uploads/2018/08/Post-Graduate-Students-in-Toronto-Immigrate-to-Canada-300x157.jpg)](https://immigration.ca/ontarios-oinp-overhaul-what-changed-who-loses-who-gains-and-what-candidates-should-do-now/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ How To Prepare For Saskatchewan’s Next SINP Intake Window In July ](https://immigration.ca/how-to-prepare-for-saskatchewans-next-sinp-intake-window-in-july/)
-[ Read More » ](https://immigration.ca/how-to-prepare-for-saskatchewans-next-sinp-intake-window-in-july/)
-Colin R. Singer  July 3, 2026 
-[![Canada Ranks Fifth Globally for Asylum Claims in 2023, UNHCR Reports](https://immigration.ca/wp-content/uploads/2024/06/Canada-Ranks-Fifth-Globally-for-Asylum-Claims-in-2023-UNHCR-Reports-300x169.jpg)](https://immigration.ca/canada-proposes-new-asylum-rules-to-speed-up-refugee-claims-and-strengthen-system-integrity/)
+###  [ Ontario’s OINP Overhaul: What Changed, Who Loses, Who Gains, And What Candidates Should Do Now ](https://immigration.ca/ontarios-oinp-overhaul-what-changed-who-loses-who-gains-and-what-candidates-should-do-now/)
+[ Read More » ](https://immigration.ca/ontarios-oinp-overhaul-what-changed-who-loses-who-gains-and-what-candidates-should-do-now/)
+Colin R. Singer  July 7, 2026 
+[![Canada Issues 648 Invitations In New Provincial Nominee Program Express Entry Draw](https://immigration.ca/wp-content/uploads/2024/10/Canada-Issues-648-Invitations-In-New-Provincial-Nominee-Program-Express-Entry-Draw-300x157.jpg)](https://immigration.ca/canada-issues-534-invitations-in-new-provincial-nominee-program-express-entry-draw/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Proposes New Asylum Rules To Speed Up Refugee Claims And Strengthen System Integrity ](https://immigration.ca/canada-proposes-new-asylum-rules-to-speed-up-refugee-claims-and-strengthen-system-integrity/)
-[ Read More » ](https://immigration.ca/canada-proposes-new-asylum-rules-to-speed-up-refugee-claims-and-strengthen-system-integrity/)
-Colin R. Singer  July 2, 2026 
+###  [ Canada Issues 534 Invitations in New Provincial Nominee Program Express Entry Draw ](https://immigration.ca/canada-issues-534-invitations-in-new-provincial-nominee-program-express-entry-draw/)
+[ Read More » ](https://immigration.ca/canada-issues-534-invitations-in-new-provincial-nominee-program-express-entry-draw/)
+Colin R. Singer  July 7, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -65,6 +65,10 @@ Colin R. Singer  March 26, 2018
 Discover Canada’s latest Express Entry draw, which issued 4,500 Invitations to Apply (ITAs) in the French language proficiency category.
 [ Read More » ](https://immigration.ca/canada-issues-4500-invitations-to-french-speakers-in-latest-express-entry-draw/)
 Melissa Gosselin  March 6, 2025 
+[![](https://immigration.ca/wp-content/uploads/2018/08/Post-Graduate-Students-in-Toronto-Immigrate-to-Canada-40x40.jpg)](https://immigration.ca/ontarios-oinp-overhaul-what-changed-who-loses-who-gains-and-what-candidates-should-do-now/)
+[Ontario’s OINP Overhaul: What Changed, Who Loses, Who Gains, And What Candidates Should Do Now](https://immigration.ca/ontarios-oinp-overhaul-what-changed-who-loses-who-gains-and-what-candidates-should-do-now/)July 7, 2026
+[![Canada Issues 648 Invitations In New Provincial Nominee Program Express Entry Draw](https://immigration.ca/wp-content/uploads/2024/10/Canada-Issues-648-Invitations-In-New-Provincial-Nominee-Program-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-issues-534-invitations-in-new-provincial-nominee-program-express-entry-draw/)
+[Canada Issues 534 Invitations in New Provincial Nominee Program Express Entry Draw](https://immigration.ca/canada-issues-534-invitations-in-new-provincial-nominee-program-express-entry-draw/)July 7, 2026
 [![Some Trucking Employers Are Exploiting LMIA Process](https://immigration.ca/wp-content/uploads/2024/08/Some-Trucking-Employers-Are-Exploiting-LMIA-Process-40x40.jpg)](https://immigration.ca/how-to-prepare-for-saskatchewans-next-sinp-intake-window-in-july/)
 [How To Prepare For Saskatchewan’s Next SINP Intake Window In July](https://immigration.ca/how-to-prepare-for-saskatchewans-next-sinp-intake-window-in-july/)July 3, 2026
 [![Canada Ranks Fifth Globally for Asylum Claims in 2023, UNHCR Reports](https://immigration.ca/wp-content/uploads/2024/06/Canada-Ranks-Fifth-Globally-for-Asylum-Claims-in-2023-UNHCR-Reports-40x40.jpg)](https://immigration.ca/canada-proposes-new-asylum-rules-to-speed-up-refugee-claims-and-strengthen-system-integrity/)
@@ -73,7 +77,3 @@ Melissa Gosselin  March 6, 2025
 [Ontario Launches New Workforce Priority Stream In Major OINP Redesign](https://immigration.ca/ontario-launches-new-workforce-priority-stream-in-major-oinp-redesign/)June 29, 2026
 [![Canada Issues 1,499 Express Entry Invitations to Apply \(ITAs\) For the Provincial Nominee Program \(PNP\)](https://immigration.ca/wp-content/uploads/2024/06/Canada-Issues-1499-Express-Entry-Invitations-to-Apply-ITAs-For-the-Provincial-Nominee-Program PNP--40x40.jpg)](https://immigration.ca/provinces-press-ottawa-to-increase-pnp-allocations-and-reform-express-entry/)
 [Provinces Press Ottawa To Increase PNP Allocations And Reform Express Entry](https://immigration.ca/provinces-press-ottawa-to-increase-pnp-allocations-and-reform-express-entry/)June 26, 2026
-[![](https://immigration.ca/wp-content/uploads/2024/09/Quebecs-Has-New-Immigration-Minister-In-Jean-Francois-Roberge-40x40.webp)](https://immigration.ca/quebec-reinforces-french-language-integration-model-with-new-national-policy/)
-[Quebec Reinforces French-Language Integration Model With New National Policy](https://immigration.ca/quebec-reinforces-french-language-integration-model-with-new-national-policy/)June 26, 2026
-[![Hospital Interior, Healthcare in Canada](https://immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-40x40.jpg)](https://immigration.ca/canada-issues-4000-invitations-in-new-healthcare-express-entry-draw/)
-[Canada Issues 4,000 Invitations in New Healthcare Express Entry Draw](https://immigration.ca/canada-issues-4000-invitations-in-new-healthcare-express-entry-draw/)June 26, 2026

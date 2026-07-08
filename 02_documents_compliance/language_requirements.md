@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 4efe8b134c4ada68
 file_role: language_requirements
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 1
 program: BOTH
 retrieval_strategy: direct

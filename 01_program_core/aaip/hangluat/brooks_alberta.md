@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 6e77201657c7a837
 file_role: brooks_alberta
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 1
 program: AAIP
 province: AB

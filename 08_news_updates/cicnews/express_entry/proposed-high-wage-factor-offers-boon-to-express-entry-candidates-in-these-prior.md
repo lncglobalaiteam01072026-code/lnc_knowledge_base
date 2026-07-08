@@ -3,10 +3,10 @@ access_level: internal
 article_title: Proposed high-wage factor offers boon to Express Entry candidates in
   these priority occupations
 chunk_strategy: standard
-content_hash: a089b33dc90bff12
+content_hash: 60fb352168954b60
 file_role: news_article
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 0.7
 program: CICNEWS
 pub_date: Fri, 12 Jun 2026 11:00:26 +0000
@@ -174,6 +174,16 @@ Please contact us if you would like to share additional feedback, have a questio
 
 
 Related articles
+[IRCC publishes updated distribution of Express Entry candidate scores](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
+  * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+[![Large quantity of people all walking in different directions.](https://www.cicnews.com/wp-content/uploads/2026/07/Express-Entry-pool-distribution-216x164.jpg)](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
+[Canada holds first Canadian Experience Class draw of July](https://www.cicnews.com/2026/07/canada-holds-first-canadian-experience-class-draw-of-july-0777638.html)
+  * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+[![Toronto skyline and Lake Ontario aerial view, Toronto, Ontario, Canada.](https://www.cicnews.com/wp-content/uploads/2026/07/Express-Entry-Draw-36-216x164.jpg)](https://www.cicnews.com/2026/07/canada-holds-first-canadian-experience-class-draw-of-july-0777638.html)
 [Canada extends direct-to-permanent-residence pathway for French-speaking students](https://www.cicnews.com/2026/07/canada-extends-direct-to-permanent-residence-pathway-for-french-speaking-students-0777609.html)
   * [Canada](https://www.cicnews.com/category/canada)
 
@@ -184,64 +194,54 @@ Related articles
 
 
 [![A shot of Fredericton, New Brunswick, Canada, with a bridge and greenery visible.](https://www.cicnews.com/wp-content/uploads/2026/07/NB-extension-PR-pilot-216x164.jpg)](https://www.cicnews.com/2026/07/new-brunswick-extends-student-pathway-to-permanent-residence-0777591.html)
-[First Express Entry draw of July sees lowest PNP cut-off score this year](https://www.cicnews.com/2026/07/first-express-entry-draw-of-july-sees-lowest-pnp-cut-off-score-this-year-0777251.html)
-  * [Express Entry](https://www.cicnews.com/category/express-entry)
-
-
-[![Waterton Lakes National Park, Alberta, Canada](https://www.cicnews.com/wp-content/uploads/2026/06/35TH-EE-DRAW-216x164.jpg)](https://www.cicnews.com/2026/07/first-express-entry-draw-of-july-sees-lowest-pnp-cut-off-score-this-year-0777251.html)
-[Manitoba invites 77 skilled workers to apply for provincial nomination in latest selection round](https://www.cicnews.com/2026/07/manitoba-invites-77-skilled-workers-to-apply-for-provincial-nomination-in-latest-selection-round-0777515.html)
-  * [Provinces](https://www.cicnews.com/category/provinces)
-
-
-[![Pisew Falls Provincial Park in Manitoba.](https://www.cicnews.com/wp-content/uploads/2026/07/Manitoba-77-skilled-workers-draw-216x164.jpg)](https://www.cicnews.com/2026/07/manitoba-invites-77-skilled-workers-to-apply-for-provincial-nomination-in-latest-selection-round-0777515.html)
 Top Stories
-[Canada extends direct-to-permanent-residence pathway for French-speaking students](https://www.cicnews.com/2026/07/canada-extends-direct-to-permanent-residence-pathway-for-french-speaking-students-0777609.html)
-  * [Canada](https://www.cicnews.com/category/canada)
-
-
-[New Brunswick extends student pathway to permanent residence](https://www.cicnews.com/2026/07/new-brunswick-extends-student-pathway-to-permanent-residence-0777591.html)
-  * [Provinces](https://www.cicnews.com/category/provinces)
-
-
-[First Express Entry draw of July sees lowest PNP cut-off score this year](https://www.cicnews.com/2026/07/first-express-entry-draw-of-july-sees-lowest-pnp-cut-off-score-this-year-0777251.html)
+[IRCC publishes updated distribution of Express Entry candidate scores](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
   * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+[Canada holds first Canadian Experience Class draw of July](https://www.cicnews.com/2026/07/canada-holds-first-canadian-experience-class-draw-of-july-0777638.html)
+  * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+[Analysis: What IRCC’s surrender letters revealed, and what applicants can do going forward](https://www.cicnews.com/2026/07/analysis-irccs-surrender-letters-0777611.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
 Join our free newsletter. Get Canada's top immigration stories delivered to your inbox.
 [Subscribe](https://www.cicnews.com/2026/06/</cicnews-subscribe.html>)
-More in Express Entry
-[First Express Entry draw of July sees lowest PNP cut-off score this year](https://www.cicnews.com/2026/07/first-express-entry-draw-of-july-sees-lowest-pnp-cut-off-score-this-year-0777251.html)
-  * [Express Entry](https://www.cicnews.com/category/express-entry)
+More in Citizenship
+[Analysis: What IRCC’s surrender letters revealed, and what applicants can do going forward](https://www.cicnews.com/2026/07/analysis-irccs-surrender-letters-0777611.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
-[![Waterton Lakes National Park, Alberta, Canada](https://www.cicnews.com/wp-content/uploads/2026/06/35TH-EE-DRAW-216x164.jpg)](https://www.cicnews.com/2026/07/first-express-entry-draw-of-july-sees-lowest-pnp-cut-off-score-this-year-0777251.html)
-[A common reason Express Entry candidates miss their ITA deadline, and how to avoid it](https://www.cicnews.com/2026/07/a-common-reason-express-entry-candidates-miss-their-ita-deadline-and-how-to-avoid-it-0777502.html)
-  * [Express Entry](https://www.cicnews.com/category/express-entry)
+[![What IRCC's Proof of Canadian citizenship surrender letters can teach us about applying](https://www.cicnews.com/wp-content/uploads/2026/07/Surrender_Letter_Review-216x164.jpg)](https://www.cicnews.com/2026/07/analysis-irccs-surrender-letters-0777611.html)
+[Your Canadian citizenship ceremony: what to expect and how to prepare](https://www.cicnews.com/2026/07/your-canadian-citizenship-ceremony-what-to-expect-and-how-to-prepare-2-0777553.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
-[![A woman gripping the bridge of her nose in stress.](https://www.cicnews.com/wp-content/uploads/2026/07/Common-reason-ITA-deadline-missed-216x164.jpg)](https://www.cicnews.com/2026/07/a-common-reason-express-entry-candidates-miss-their-ita-deadline-and-how-to-avoid-it-0777502.html)
-[IRCC issues invitations to healthcare and social services workers in Express Entry draw](https://www.cicnews.com/2026/06/ircc-issues-invitations-to-healthcare-and-social-services-workers-in-express-entry-draw-0677192.html)
-  * [Express Entry](https://www.cicnews.com/category/express-entry)
+[![A man shaking hands with an RCMP officer at a Canadian citizenship ceremony in Hamilton, Ontario.](https://www.cicnews.com/wp-content/uploads/2026/06/Canadian-citizenship-ceremony-216x164.jpg)](https://www.cicnews.com/2026/07/your-canadian-citizenship-ceremony-what-to-expect-and-how-to-prepare-2-0777553.html)
+[Seven reasons you think you don’t qualify for Canadian citizenship by descent (and why you probably do)](https://www.cicnews.com/2026/07/reasons-you-think-you-dont-qualify-for-canadian-citizenship-by-descent-and-why-you-probably-do-0777559.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
-[![Spirit Island and Maligne Lake at dusk. Jasper National Park, Alberta, Canada.](https://www.cicnews.com/wp-content/uploads/2026/06/EE-DRAW-JUNE-216x164.jpg)](https://www.cicnews.com/2026/06/ircc-issues-invitations-to-healthcare-and-social-services-workers-in-express-entry-draw-0677192.html)
-[Canada issues physicians invitations to apply for permanent residence](https://www.cicnews.com/2026/06/canada-issues-physicians-invitations-to-apply-for-permanent-residence-0677091.html)
-  * [Express Entry](https://www.cicnews.com/category/express-entry)
+[![Thousands of Americans may be Canadian citizens and not even know it](https://www.cicnews.com/wp-content/uploads/2026/07/PoC_Myths-216x164.jpg)](https://www.cicnews.com/2026/07/reasons-you-think-you-dont-qualify-for-canadian-citizenship-by-descent-and-why-you-probably-do-0777559.html)
+[This Fourth of July, Americans are discovering that they are Canadian too](https://www.cicnews.com/2026/07/this-fourth-of-july-americans-are-discovering-that-they-are-canadians-too-0777565.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
-[![Emerald Lake with pine trees and mountain reflections in Yoho National Park, Canada, under a clear blue sky.](https://www.cicnews.com/wp-content/uploads/2026/06/EE-Draw-NEXT-after-June23-216x164.jpg)](https://www.cicnews.com/2026/06/canada-issues-physicians-invitations-to-apply-for-permanent-residence-0677091.html)
-[Read more Express Entry news](https://www.cicnews.com/category/express-entry)
+[![A chaotic table holding to passports and a number of scattered notes, as someone tries to trace back their family line to Canada.](https://www.cicnews.com/wp-content/uploads/2026/07/July_4th_Canadians_by_descent_article-216x164.jpg)](https://www.cicnews.com/2026/07/this-fourth-of-july-americans-are-discovering-that-they-are-canadians-too-0777565.html)
+[Read more Citizenship news](https://www.cicnews.com/category/citizenship)
 Top Stories
-[Canada extends direct-to-permanent-residence pathway for French-speaking students](https://www.cicnews.com/2026/07/canada-extends-direct-to-permanent-residence-pathway-for-french-speaking-students-0777609.html)
-  * [Canada](https://www.cicnews.com/category/canada)
-
-
-[New Brunswick extends student pathway to permanent residence](https://www.cicnews.com/2026/07/new-brunswick-extends-student-pathway-to-permanent-residence-0777591.html)
-  * [Provinces](https://www.cicnews.com/category/provinces)
-
-
-[First Express Entry draw of July sees lowest PNP cut-off score this year](https://www.cicnews.com/2026/07/first-express-entry-draw-of-july-sees-lowest-pnp-cut-off-score-this-year-0777251.html)
+[IRCC publishes updated distribution of Express Entry candidate scores](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
   * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+[Canada holds first Canadian Experience Class draw of July](https://www.cicnews.com/2026/07/canada-holds-first-canadian-experience-class-draw-of-july-0777638.html)
+  * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+[Analysis: What IRCC’s surrender letters revealed, and what applicants can do going forward](https://www.cicnews.com/2026/07/analysis-irccs-surrender-letters-0777611.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
 Subscribe to our free newsletter

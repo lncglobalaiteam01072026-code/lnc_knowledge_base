@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: f45227383c599ae2
 file_role: success_arts_professionals
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 1
 program: BCPNP
 province: BC

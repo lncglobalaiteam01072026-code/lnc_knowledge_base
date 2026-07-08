@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: bfdaa5847045ab1c
 file_role: rural_entrepreneur_stream
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 1
 program: AAIP
 province: AB

@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 06c6f93f768c0683
+content_hash: 0b395655a2c7556c
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 1
 program: BCPNP
 province: BC
@@ -532,7 +532,7 @@ Key Takeaway From the Recent Express Entry Changes On February 18, 2026, IRCC co
 Key Takeaway On February 18, 2026, Immigration, Refugees and Citizenship Canada (IRCC) announced a new Express Entry category for senior managers with Canadian work experience...
 Sign Up To Be
 ### The First in Canadian Business Immigration News
-LinkedIn
+Name
 This field is for validation purposes and should be left unchanged.
 Email
 Get Our Weekly Newsletter

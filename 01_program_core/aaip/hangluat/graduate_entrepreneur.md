@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: a3d831a73ec67ece
 file_role: graduate_entrepreneur
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 1
 program: AAIP
 province: AB

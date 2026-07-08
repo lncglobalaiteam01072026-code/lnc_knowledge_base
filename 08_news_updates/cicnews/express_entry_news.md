@@ -2,10 +2,10 @@
 access_level: internal
 article_count: 10
 chunk_strategy: standard
-content_hash: 511881e577583a5d
+content_hash: 30d0b60fa9d6be5f
 file_role: express_entry_news
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 0.7
 program: CICNEWS
 retrieval_strategy: direct
@@ -17,8 +17,28 @@ version: '1.0'
 
 # CIC News — Express Entry
 
-**Crawled:** 2026-07-07  
+**Crawled:** 2026-07-08  
 **Source:** https://www.cicnews.com/category/express-entry/feed/
+
+---
+
+## IRCC publishes updated distribution of Express Entry candidate scores
+
+**Date:** Tue, 07 Jul 2026 19:39:43 +0000  
+**Link:** https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html
+
+The number of top-scoring candidate profiles in the Express Entry pool has fallen from 20,953 to 19,136, according to the latest data published by Canada’s immigration department. See how competitive your Express Entry profile is The most recent data was published on July 5, and compares as follows to the update published on June 21: [&#8230;]
+The post IRCC publishes updated distribution of Express Entry candidate scores first appeared on CIC News.
+
+---
+
+## Canada holds first Canadian Experience Class draw of July
+
+**Date:** Tue, 07 Jul 2026 16:09:41 +0000  
+**Link:** https://www.cicnews.com/2026/07/canada-holds-first-canadian-experience-class-draw-of-july-0777638.html
+
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 2,000 ITAs in a draw for Canadian Experience Class candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 517; and Created an Express [&#8230;]
+The post Canada holds first Canadian Experience Class draw of July first appeared on CIC News.
 
 ---
 
@@ -99,25 +119,5 @@ The post Provincial nominees receive invitations in first Express Entry draw sin
 
 Of the occupations currently being prioritized for permanent residence by the Canadian federal government, about four in ten are set to receive a further boost in priority through the proposed high-wage occupation factor. As it stands today, 89 occupations are prioritized through category-based selection (CBS), which allows qualifying candidates to be selected as permanent residents [&#8230;]
 The post Proposed high-wage factor offers boon to Express Entry candidates in these priority occupations first appeared on CIC News.
-
----
-
-## Three steps candidates can take to prepare for the reforms to permanent residence selection through Express Entry
-
-**Date:** Wed, 03 Jun 2026 11:00:09 +0000  
-**Link:** https://www.cicnews.com/2026/06/three-steps-candidates-can-take-to-prepare-for-the-reforms-to-permanent-residence-selection-through-express-entry-0675745.html
-
-With the federal government currently undergoing a major overhaul of Express Entry, its flagship system for selecting permanent residents, foreign nationals can immediately take action by focusing on skilled work experience, obtaining a certificate of qualification (if applicable), and re-taking an immigration language test.  Book an immigration language test with CELPIP Given that the proposed reforms are currently working their way through the [&#8230;]
-The post Three steps candidates can take to prepare for the reforms to permanent residence selection through Express Entry first appeared on CIC News.
-
----
-
-## 93% of Express Entry pool growth driven by candidates scoring in the 501–600 range
-
-**Date:** Thu, 28 May 2026 20:52:48 +0000  
-**Link:** https://www.cicnews.com/2026/05/93-of-express-entry-pool-growth-driven-by-candidates-scoring-in-the-501-600-range-0576048.html
-
-Profiles in the 501–600 Comprehensive Ranking System (CRS) score range are being added to Canada’s Express Entry candidate pool at a rate that far exceeds any other group of candidates. Canada’s Express Entry pool grew by 4,395 profiles between April 26 and May 24, with the 501-600 CRS score range alone adding 4,085 profiles, 93% [&#8230;]
-The post 93% of Express Entry pool growth driven by candidates scoring in the 501–600 range first appeared on CIC News.
 
 ---

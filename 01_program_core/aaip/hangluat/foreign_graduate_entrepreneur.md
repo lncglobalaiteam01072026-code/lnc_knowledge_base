@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: a47ab9ea17734c15
 file_role: foreign_graduate_entrepreneur
 lang: en
-last_updated: '2026-07-07'
+last_updated: '2026-07-08'
 priority_weight: 1
 program: AAIP
 province: AB
