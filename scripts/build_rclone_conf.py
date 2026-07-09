@@ -46,6 +46,7 @@ if os.path.isdir(kb_dir):
             "sync", kb_dir, "gdrive:lnc-knowledge-base-temp",
             "--include", "*.md",
             "--include", "*.json",
+            "--include", "*.pdf",
             "--exclude", "*",
             "--transfers", "8",
             "--fast-list",
