@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 94fe7aa0acac37bb
+content_hash: c2499873a450c34c
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
@@ -18,7 +18,7 @@ version: '1.0'
 ---
 
 [Skip to content](https://www.employment.govt.nz/</#page-content>) [Skip to search](https://www.employment.govt.nz/</#search-toggle>) [Skip to navigation](https://www.employment.govt.nz/</#nav-toggle>) [Skip to search](https://www.employment.govt.nz/</#search-box>) [Skip to main navigation](https://www.employment.govt.nz/</#main-nav>)
-[![Employment New Zealand](https://www.employment.govt.nz/_resources/themes/enz/images/logos/enz-logo.svg?m=1782787290)](https://www.employment.govt.nz/</>)
+[![Employment New Zealand](https://www.employment.govt.nz/_resources/themes/enz/images/logos/enz-logo.svg?m=1782787441)](https://www.employment.govt.nz/</>)
   * [About](https://www.employment.govt.nz/</employment-new-zealand/about-us>)
   * [Contact](https://www.employment.govt.nz/</employment-new-zealand/contact-us>)
   * [News](https://www.employment.govt.nz/</news-and-updates>)
@@ -443,9 +443,9 @@ Keep up to date with news and information about your employment rights and respo
   * [ Subscribe ](https://eepurl.com/dC1q1r)
 
 
-[ Hīkina Whakatutuki ![Ministry of Business, Innovation & Employment](https://www.employment.govt.nz/_resources/themes/enz/images/logos/mbie-logo-light.svg?m=1782787290) ](https://www.mbie.govt.nz)
+[ Hīkina Whakatutuki ![Ministry of Business, Innovation & Employment](https://www.employment.govt.nz/_resources/themes/enz/images/logos/mbie-logo-light.svg?m=1782787441) ](https://www.mbie.govt.nz)
 ![Womens Refuge Shield Button](https://www.employment.govt.nz/assets/uploads/womens-refuge-shield.png)
-[ Te Kāwanatanga o Aotearoa ![New Zealand Government](https://www.employment.govt.nz/_resources/themes/enz/images/logos/NZGovt-logo-wordmark-white.png?m=1782787290) ](https://www.govt.nz)
+[ Te Kāwanatanga o Aotearoa ![New Zealand Government](https://www.employment.govt.nz/_resources/themes/enz/images/logos/NZGovt-logo-wordmark-white.png?m=1782787441) ](https://www.govt.nz)
   * [Privacy statement](https://www.employment.govt.nz/</employment-new-zealand/privacy-statement>)
   * [Disclaimer ](https://www.employment.govt.nz/</employment-new-zealand/disclaimer>)
   * [Copyright](https://www.employment.govt.nz/</employment-new-zealand/copyright>)
