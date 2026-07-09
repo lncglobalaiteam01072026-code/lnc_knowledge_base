@@ -1133,3 +1133,75 @@
   url: https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=13100
   outputs:
   - 09_regulations/canada/noc/profiles/noc_13100.md
+- id: pdi_work_without_permit
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_work_without_permit.md
+- id: pdi_apply_port_entry
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-port-entry.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_apply_port_entry.md
+- id: pdi_apply_within_canada
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-within-canada.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_apply_within_canada.md
+- id: pdi_protecting_workers
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/protecting-workers-abuse-exploitation.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_protecting_workers.md
+- id: pdi_wages_conditions
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/wages-occupation-working-conditions.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_wages_conditions.md
+- id: pdi_noncompliant_employers
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_noncompliant_employers.md
+- id: pdi_employer_specific_wp
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_employer_specific_wp.md
+- id: pdi_iec_overview
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/international-experience-canada-r205-b-exemption-code-c21-overview.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_iec_overview.md
+- id: pdi_iec_eligibility
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-eligibility.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_iec_eligibility.md
+- id: pdi_iec_processing
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-processing-procedures.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_iec_processing.md
+- id: pdi_bridging_owp
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/bridging-open-work-permits.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_bridging_owp.md
+- id: pdi_implied_status
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/implied-status-extending-stay.html
+  outputs:
+  - 09_regulations/canada/bulletins/pdi_implied_status.md

@@ -1,8 +1,8 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 09/07/2026 lúc 15:48 chiều (giờ VN)  
+**Cập nhật lúc:** 09/07/2026 lúc 16:18 chiều (giờ VN)  
 **Loại cập nhật:** All  
-**Kết quả:** 188 nguồn | ✅ 187 thành công | ❌ 1 thất bại
+**Kết quả:** 200 nguồn | ✅ 188 thành công | ❌ 12 thất bại
 
 ---
 
@@ -74,7 +74,7 @@
 - ✅ entrepreneur_stream
 - ✅ entrepreneur_stream
 - ✅ Quy trình nộp hồ sơ
-- ❌ **Hướng dẫn** — _RemoteProtocolError: Server disconnected without sending a response._
+- ✅ Hướng dẫn
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
 
@@ -172,6 +172,18 @@
 - ✅ noc_profile
 - ✅ noc_profile
 - ✅ noc_profile
+- ❌ **pdi_work_without_permit** — _KeyError: 'metadata'_
+- ❌ **pdi_apply_port_entry** — _KeyError: 'metadata'_
+- ❌ **pdi_apply_within_canada** — _KeyError: 'metadata'_
+- ❌ **pdi_protecting_workers** — _KeyError: 'metadata'_
+- ❌ **pdi_wages_conditions** — _KeyError: 'metadata'_
+- ❌ **pdi_noncompliant_employers** — _KeyError: 'metadata'_
+- ❌ **pdi_employer_specific_wp** — _KeyError: 'metadata'_
+- ❌ **pdi_iec_overview** — _KeyError: 'metadata'_
+- ❌ **pdi_iec_eligibility** — _KeyError: 'metadata'_
+- ❌ **pdi_iec_processing** — _KeyError: 'metadata'_
+- ❌ **pdi_bridging_owp** — _KeyError: 'metadata'_
+- ❌ **pdi_implied_status** — _KeyError: 'metadata'_
 
 ### Job Bank — Thị trường việc làm Canada
 - ✅ job_market
@@ -218,7 +230,18 @@
 
 Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
 
-- **Hướng dẫn** (BCPNP): https://www2.gov.bc.ca/gov/content/employment-business/business/small-business/resources/starting-a-small-business-guide
+- **pdi_work_without_permit** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit.html
+- **pdi_apply_port_entry** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-port-entry.html
+- **pdi_apply_within_canada** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-within-canada.html
+- **pdi_protecting_workers** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/protecting-workers-abuse-exploitation.html
+- **pdi_wages_conditions** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/wages-occupation-working-conditions.html
+- **pdi_noncompliant_employers** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html
+- **pdi_employer_specific_wp** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html
+- **pdi_iec_overview** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/international-experience-canada-r205-b-exemption-code-c21-overview.html
+- **pdi_iec_eligibility** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-eligibility.html
+- **pdi_iec_processing** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-processing-procedures.html
+- **pdi_bridging_owp** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/bridging-open-work-permits.html
+- **pdi_implied_status** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/implied-status-extending-stay.html
 
 ---
 
