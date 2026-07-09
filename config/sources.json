@@ -3400,6 +3400,575 @@
         "noc_code": "11101",
         "noc_title": "Financial analysts"
       }
+    },
+    {
+      "id": "wp_overview",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/overview.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "work_permit_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "wp_need_permit",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/need-permit.html",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/need_permit.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "work_permit_need",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "wp_apply",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/apply.html",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/apply.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "work_permit_apply",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "wp_extend",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/extend.html",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/extend.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "work_permit_extend",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "wp_open_permit",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/eligibility.html",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/eligibility.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "work_permit_eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "wp_employer_specific",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-foreign-worker.html",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/hire_overview.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "hire_foreign_worker_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "esdc_hire_foreign_worker",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers.html",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/overview.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "lmia_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "esdc_median_wage",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage.html",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/median_wage.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "lmia_median_wage",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "wp_pdi_genuineness",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-foreign-worker.html",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/hire_foreign_worker.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "hire_foreign_worker",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "jobbank_wage_21232",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21232",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21232.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21232",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21232"
+      }
+    },
+    {
+      "id": "jobbank_wage_21231",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21231",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21231.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21231",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21231"
+      }
+    },
+    {
+      "id": "jobbank_wage_21211",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21211",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21211.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21211",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21211"
+      }
+    },
+    {
+      "id": "jobbank_wage_21221",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21221",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21221.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21221",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21221"
+      }
+    },
+    {
+      "id": "jobbank_wage_21222",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21222",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21222.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21222",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21222"
+      }
+    },
+    {
+      "id": "jobbank_wage_21223",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21223",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21223.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21223",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21223"
+      }
+    },
+    {
+      "id": "jobbank_wage_21233",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21233",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21233.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21233",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21233"
+      }
+    },
+    {
+      "id": "jobbank_wage_21234",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21234",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21234.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21234",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21234"
+      }
+    },
+    {
+      "id": "jobbank_wage_21210",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21210",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21210.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21210",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21210"
+      }
+    },
+    {
+      "id": "jobbank_wage_21230",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/21230",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_21230.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_21230",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21230"
+      }
+    },
+    {
+      "id": "jobbank_wage_20012",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/20012",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_20012.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_20012",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "20012"
+      }
+    },
+    {
+      "id": "jobbank_wage_10010",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/10010",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_10010.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_10010",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "10010"
+      }
+    },
+    {
+      "id": "jobbank_wage_20010",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/20010",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_20010.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_20010",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "20010"
+      }
+    },
+    {
+      "id": "jobbank_wage_11100",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/11100",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_11100.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_11100",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "11100"
+      }
+    },
+    {
+      "id": "jobbank_wage_11101",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/11101",
+      "chunk_strategy": "standard",
+      "has_tables": true,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/wages/wage_11101.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "prevailing_wage_11101",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "11101"
+      }
+    },
+    {
+      "id": "ircc_work_permit_pdi_deep",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary.html",
+      "link_filter": "canada.ca/en/immigration-refugees-citizenship/services/work-canada",
+      "crawl_depth": 2,
+      "max_articles": 20,
+      "crawl_delay": 1.5,
+      "output_dir": "10_work_permit/pdi/",
+      "chunk_strategy": "standard",
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/pdi/index.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "work_permit_pdi_deep",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     }
   ]
 }
