@@ -4438,21 +4438,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_work_without_permit.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_work_without_permit",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_work_without_permit",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_apply_port_entry",
@@ -4460,21 +4457,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_apply_port_entry.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_apply_port_entry",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_apply_port_entry",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_apply_within_canada",
@@ -4482,21 +4476,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_apply_within_canada.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_apply_within_canada",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_apply_within_canada",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_protecting_workers",
@@ -4504,21 +4495,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_protecting_workers.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_protecting_workers",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_protecting_workers",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_wages_conditions",
@@ -4526,21 +4514,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_wages_conditions.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_wages_conditions",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_wages_conditions",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_noncompliant_employers",
@@ -4548,21 +4533,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_noncompliant_employers.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_noncompliant_employers",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_noncompliant_employers",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_employer_specific_wp",
@@ -4570,21 +4552,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_employer_specific_wp.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_employer_specific_wp",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_employer_specific_wp",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_iec_overview",
@@ -4592,21 +4571,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_iec_overview.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_iec_overview",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_iec_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_iec_eligibility",
@@ -4614,21 +4590,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_iec_eligibility.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_iec_eligibility",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_iec_eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_iec_processing",
@@ -4636,21 +4609,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_iec_processing.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_iec_processing",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_iec_processing",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_bridging_owp",
@@ -4658,21 +4628,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_bridging_owp.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_bridging_owp",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_bridging_owp",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "pdi_implied_status",
@@ -4680,21 +4647,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/bulletins/pdi_implied_status.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "pdi_implied_status",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_implied_status",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_apply_outside",
@@ -4702,21 +4666,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/apply_outside.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_apply_outside",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_apply_outside",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_apply_inside",
@@ -4724,21 +4685,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/apply_inside.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_apply_inside",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_apply_inside",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_apply_poe",
@@ -4746,21 +4704,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/apply_poe.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_apply_poe",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_apply_poe",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_work_without",
@@ -4768,21 +4723,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/work_without_permit.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_work_without",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_work_without",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_employer_specific",
@@ -4790,21 +4742,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/employer_specific.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_employer_specific",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_employer_specific",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_open_wp_public",
@@ -4812,21 +4761,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/open_work_permit.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_open_wp_public",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_open_wp_public",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_extend_eligibility",
@@ -4834,21 +4780,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/extend/eligibility.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_extend_eligibility",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_extend_eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_extend_apply",
@@ -4856,21 +4799,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/extend/apply.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_extend_apply",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_extend_apply",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_extend_after_apply",
@@ -4878,21 +4818,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/extend/after_apply.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_extend_after_apply",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_extend_after_apply",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_extend_expired",
@@ -4900,21 +4837,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/extend/expired_permit.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_extend_expired",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_extend_expired",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_extend_change_jobs",
@@ -4922,21 +4856,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/extend/change_jobs.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_extend_change_jobs",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_extend_change_jobs",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_extend_travel",
@@ -4944,21 +4875,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/extend/travel.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_extend_travel",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_extend_travel",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_special_index",
@@ -4966,21 +4894,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/special_instructions/index.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_special_index",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_special_index",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_pgwp",
@@ -4988,21 +4913,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/special_instructions/pgwp.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_pgwp",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_pgwp",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_student_work",
@@ -5010,21 +4932,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/special_instructions/student_work.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_student_work",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_student_work",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_iec_public",
@@ -5032,21 +4951,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/special_instructions/iec.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_iec_public",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_iec_public",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_pr_bridging",
@@ -5054,21 +4970,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/special_instructions/pr_bridging.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_pr_bridging",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_pr_bridging",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_spouse_owp",
@@ -5076,21 +4989,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/special_instructions/spouse_owp.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_spouse_owp",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_spouse_owp",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "esdc_sin",
@@ -5098,21 +5008,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/after_wp/sin.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "esdc_sin",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "esdc_sin",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_restore_status",
@@ -5120,21 +5027,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/after_wp/restore_status.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_restore_status",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_restore_status",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "wp_worker_rights",
@@ -5142,21 +5046,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/after_wp/worker_rights.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "wp_worker_rights",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "wp_worker_rights",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "esdc_report_abuse",
@@ -5164,21 +5065,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/after_wp/report_abuse.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "esdc_report_abuse",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "esdc_report_abuse",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "esdc_lmia_high",
@@ -5186,21 +5084,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/high_wage.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "esdc_lmia_high",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "esdc_lmia_high",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "esdc_lmia_high_req",
@@ -5208,21 +5103,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/high_wage_requirements.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "esdc_lmia_high_req",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "esdc_lmia_high_req",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "esdc_lmia_low",
@@ -5230,21 +5122,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/low_wage.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "esdc_lmia_low",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "esdc_lmia_low",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "esdc_lmia_low_req",
@@ -5252,21 +5141,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/low_wage_requirements.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "esdc_lmia_low_req",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "esdc_lmia_low_req",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "ircc_hire_temp_foreign",
@@ -5274,21 +5160,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/hire_temp_foreign.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "ircc_hire_temp_foreign",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ircc_hire_temp_foreign",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "ircc_hire_perm_foreign",
@@ -5296,21 +5179,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/hire_perm_foreign.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "ircc_hire_perm_foreign",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ircc_hire_perm_foreign",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "ircc_hire_home_care",
@@ -5318,21 +5198,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/hire_home_care.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "ircc_hire_home_care",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ircc_hire_home_care",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "ircc_hire_intern",
@@ -5340,21 +5217,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/hire_intern.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "ircc_hire_intern",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ircc_hire_intern",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "ircc_employers_noncompliant",
@@ -5362,21 +5236,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/employers_noncompliant.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "ircc_employers_noncompliant",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ircc_employers_noncompliant",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     },
     {
       "id": "ircc_find_lmia",
@@ -5384,21 +5255,18 @@
       "program": "IRCC",
       "frequency": "quarterly",
       "layer": "09_regulations",
-      "has_tables": false,
       "output_files": [
         {
           "file": "09_regulations/canada/work_permit/lmia/find_need_lmia.md",
-          "section_selector": "full_page",
-          "output_format": "markdown",
-          "metadata": {
-            "topic": "ircc_find_lmia",
-            "lang": "en",
-            "access_level": "chatbot",
-            "priority_weight": 1,
-            "chunk_strategy": "standard"
-          }
+          "section_selector": "full_page"
         }
-      ]
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ircc_find_lmia",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     }
   ]
 }
