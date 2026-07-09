@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 5264b5fc02ac1591
 file_role: statcan_immigration_overview
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 0.9
 program: IRCC
 retrieval_strategy: direct

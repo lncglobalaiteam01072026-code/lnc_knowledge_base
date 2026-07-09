@@ -5,7 +5,7 @@ content_hash: 41b2c2a6715bcb36
 country: NZ
 file_role: active_investor_plus
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 0.9
 program: NZAEWV
 retrieval_strategy: direct

@@ -5,7 +5,7 @@ content_hash: c8fba69ad6b705d3
 country: NZ
 file_role: wage_threshold
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 1.0
 program: NZAEWV
 retrieval_strategy: direct

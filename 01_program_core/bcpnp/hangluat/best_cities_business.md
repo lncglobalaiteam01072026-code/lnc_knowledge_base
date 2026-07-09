@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 6f08533a04a4996c
 file_role: best_cities_business
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 1
 program: BCPNP
 province: BC

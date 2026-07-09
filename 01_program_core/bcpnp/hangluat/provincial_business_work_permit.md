@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: fb12e7bef251f7b8
 file_role: provincial_business_work_permit
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 1
 program: BCPNP
 province: BC

@@ -1,8 +1,8 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 08/07/2026 lúc 17:16 chiều (giờ VN)  
+**Cập nhật lúc:** 09/07/2026 lúc 10:04 sáng (giờ VN)  
 **Loại cập nhật:** All  
-**Kết quả:** 104 nguồn | ✅ 103 thành công | ❌ 1 thất bại
+**Kết quả:** 115 nguồn | ✅ 114 thành công | ❌ 1 thất bại
 
 ---
 
@@ -74,7 +74,7 @@
 - ✅ entrepreneur_stream
 - ✅ entrepreneur_stream
 - ✅ Quy trình nộp hồ sơ
-- ❌ **Hướng dẫn** — _RemoteProtocolError: Server disconnected without sending a response._
+- ✅ Hướng dẫn
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
 
@@ -88,9 +88,20 @@
 - ✅ Điều kiện đủ điều kiện
 - ✅ Thống kê & pipeline
 - ✅ Thống kê & pipeline
+- ✅ proof_work_experience_supporting_docs
+- ✅ express_entry_eligibility
+- ✅ express_entry_eligibility_canadian
+- ✅ ee_who_can_apply
+- ✅ ee_check_score
+- ✅ ee_documents
+- ✅ ee_create_profile
+- ✅ ee_rounds_invitations
+- ✅ ee_after_apply
+- ✅ ee_application_approved
+- ✅ common_supporting_docs
 
 ### Job Bank — Thị trường việc làm Canada
-- ✅ job_market
+- ❌ **job_market** — _ReadError_
 - ✅ job_market
 
 ### CIC News — Tin tức di trú
@@ -134,7 +145,7 @@
 
 Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
 
-- **Hướng dẫn** (BCPNP): https://www2.gov.bc.ca/gov/content/employment-business/business/small-business/resources/starting-a-small-business-guide
+- **job_market** (JOBBANK): https://www.jobbank.gc.ca/trend-analysis/job-market-reports/alberta
 
 ---
 
