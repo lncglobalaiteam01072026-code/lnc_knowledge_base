@@ -629,3 +629,69 @@
   frequency: biweekly
   url: https://www.reddit.com/r/newzealand
   outputs: []
+- id: ircc_proof_work_experience
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence.html
+  outputs:
+  - 09_regulations/canada/proof_work_experience.md
+- id: ircc_work_exp_outside_canada
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility.html
+  outputs:
+  - 09_regulations/canada/express_entry_eligibility.md
+- id: ircc_work_exp_canada
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility.html
+  outputs:
+  - 09_regulations/canada/express_entry_eligibility_canadian.md
+- id: ircc_ee_who_can_apply
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply.html
+  outputs:
+  - 09_regulations/canada/express_entry/who_can_apply.md
+- id: ircc_ee_check_score
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html
+  outputs:
+  - 09_regulations/canada/express_entry/check_score.md
+- id: ircc_ee_documents
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents.html
+  outputs:
+  - 09_regulations/canada/express_entry/documents.md
+- id: ircc_ee_create_profile
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/create-profile.html
+  outputs:
+  - 09_regulations/canada/express_entry/create_profile.md
+- id: ircc_ee_rounds_invitations
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html
+  outputs:
+  - 09_regulations/canada/express_entry/rounds_invitations.md
+- id: ircc_ee_after_apply
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/after-apply.html
+  outputs:
+  - 09_regulations/canada/express_entry/after_apply.md
+- id: ircc_ee_application_approved
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/application-approved.html
+  outputs:
+  - 09_regulations/canada/express_entry/application_approved.md
+- id: ircc_common_supporting_docs
+  program: IRCC
+  frequency: quarterly
+  url: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/common-supporting-documents.html
+  outputs:
+  - 09_regulations/canada/express_entry/common_supporting_docs.md

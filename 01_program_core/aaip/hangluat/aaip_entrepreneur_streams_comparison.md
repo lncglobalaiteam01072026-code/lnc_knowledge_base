@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 1e77f0e6de2eb117
 file_role: aaip_entrepreneur_streams_comparison
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 1
 program: AAIP
 province: AB

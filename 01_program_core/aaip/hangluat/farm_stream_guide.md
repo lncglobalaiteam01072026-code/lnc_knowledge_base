@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 606e78696c230523
 file_role: farm_stream_guide
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 1
 program: AAIP
 province: AB

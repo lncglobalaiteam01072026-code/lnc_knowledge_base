@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: dccbbcb925258442
 file_role: fees
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 1
 program: BCPNP
 province: BC

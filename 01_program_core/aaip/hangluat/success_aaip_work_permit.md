@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 8b0c78bdf336cf47
 file_role: success_aaip_work_permit
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 1
 program: AAIP
 province: AB

@@ -4,7 +4,7 @@ chunk_strategy: structured
 content_hash: 6a962a036ce5327a
 file_role: entrepreneur_pipeline
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 1
 program: AAIP
 province: AB
