@@ -3842,6 +3842,595 @@
         "lang": "en",
         "access_level": "chatbot"
       }
+    },
+    {
+      "id": "pdi_foreign_workers",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_foreign_workers.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_foreign_workers",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_genuineness",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/genuineness.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_genuineness.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_genuineness",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_eligibility",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_eligibility.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_eligibility",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_steps_assess",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/steps-determine-work-assessment-work-permit-application.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_steps_assess.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_steps_assess",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_open_wp",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/open.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_open_wp.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_open_wp",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_exemption_codes",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_exemption_codes.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_exemption_codes",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_lmia_overview",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/overview.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_lmia_overview.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_lmia_overview",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_applicants_canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/applicants-canada.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_applicants_canada.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_applicants_canada",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_officer_noc_guide",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/officer-quick-reference-guide-occupations.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_officer_noc_guide.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_officer_noc_guide",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_functional_toc",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/functional-guidance-table-contents.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_functional_toc.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_functional_toc",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_general_proc",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/general-processing.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_general_proc.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_general_proc",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_cec_class",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/experience.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_cec_class.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_cec_class",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_fsw_class",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/federal-skilled-workers.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_fsw_class.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_fsw_class",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "pdi_fst_class",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/federal-skilled-trades.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_fst_class.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "pdi_fst_class",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_irpa_p2",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-2.html",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/laws/irpa_p2.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "irpa_law",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_irpa_p3",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-3.html",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/laws/irpa_p3.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "irpa_law",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_irpa_p4",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-4.html",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/laws/irpa_p4.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "irpa_law",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_irpa_p5",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/laws/irpa_p5.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "irpa_law",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_irpr_p2",
+      "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/page-2.html",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/laws/irpr_p2.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "irpr_regulation",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_irpr_p3",
+      "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/page-3.html",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/laws/irpr_p3.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "irpr_regulation",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_irpr_p4",
+      "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/page-4.html",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/laws/irpr_p4.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "irpr_regulation",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_21300",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=21300",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21300.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_21301",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=21301",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21301.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_21310",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=21310",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21310.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_21311",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=21311",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21311.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_31102",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=31102",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_31102.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_31120",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=31120",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_31120.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_31301",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=31301",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_31301.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_31302",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=31302",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_31302.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_12100",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=12100",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_12100.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "noc_profile_13100",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&version=2021.0&code=13100",
+      "program": "IRCC",
+      "frequency": "annual",
+      "layer": "09_regulations",
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_13100.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     }
   ]
 }
