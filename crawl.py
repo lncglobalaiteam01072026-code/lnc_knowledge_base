@@ -41,7 +41,7 @@ OUTPUT_ROOT = Path("output/lnc-knowledge-base")
 
 
 def load_config() -> dict:
-    return json.loads(CONFIG_PATH.read_text())
+    return json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
 
 
 def filter_sources(sources: list, frequency: str = None, source_id: str = None, layer: str = None) -> list:
