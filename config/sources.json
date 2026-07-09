@@ -4695,6 +4695,710 @@
           }
         }
       ]
+    },
+    {
+      "id": "wp_apply_outside",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-outside.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/apply_outside.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_apply_outside",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_apply_inside",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-inside.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/apply_inside.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_apply_inside",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_apply_poe",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-poe.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/apply_poe.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_apply_poe",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_work_without",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/work-without-permit.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/work_without_permit.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_work_without",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_employer_specific",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employer-specific.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/employer_specific.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_employer_specific",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_open_wp_public",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/open-work-permit.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/open_work_permit.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_open_wp_public",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_extend_eligibility",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/eligibility.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/extend/eligibility.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_extend_eligibility",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_extend_apply",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/apply.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/extend/apply.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_extend_apply",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_extend_after_apply",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/after-apply.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/extend/after_apply.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_extend_after_apply",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_extend_expired",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/expired-permit.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/extend/expired_permit.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_extend_expired",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_extend_change_jobs",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/change-jobs-employers.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/extend/change_jobs.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_extend_change_jobs",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_extend_travel",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/travel-outside-canada.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/extend/travel.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_extend_travel",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_special_index",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/special_instructions/index.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_special_index",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_pgwp",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/special_instructions/pgwp.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_pgwp",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_student_work",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/special_instructions/student_work.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_student_work",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_iec_public",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/special_instructions/iec.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_iec_public",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_pr_bridging",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/pr-work-permits.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/special_instructions/pr_bridging.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_pr_bridging",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_spouse_owp",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/spouses-dependent-children.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/special_instructions/spouse_owp.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_spouse_owp",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "esdc_sin",
+      "url": "https://www.canada.ca/en/employment-social-development/services/sin.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/after_wp/sin.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "esdc_sin",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_restore_status",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/restore.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/after_wp/restore_status.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_restore_status",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wp_worker_rights",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/worker-rights.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/after_wp/worker_rights.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "wp_worker_rights",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "esdc_report_abuse",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/report-abuse.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/after_wp/report_abuse.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "esdc_report_abuse",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "esdc_lmia_high",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/high.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/high_wage.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "esdc_lmia_high",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "esdc_lmia_high_req",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/high/requirements.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/high_wage_requirements.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "esdc_lmia_high_req",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "esdc_lmia_low",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/low.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/low_wage.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "esdc_lmia_low",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "esdc_lmia_low_req",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/low/requirements.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/low_wage_requirements.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "esdc_lmia_low_req",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ircc_hire_temp_foreign",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/hire_temp_foreign.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "ircc_hire_temp_foreign",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ircc_hire_perm_foreign",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-permanent-foreign.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/hire_perm_foreign.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "ircc_hire_perm_foreign",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ircc_hire_home_care",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-home-care-worker.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/hire_home_care.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "ircc_hire_home_care",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ircc_hire_intern",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/intern.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/hire_intern.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "ircc_hire_intern",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ircc_employers_noncompliant",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employers-non-compliant.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/employers_noncompliant.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "ircc_employers_noncompliant",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ircc_find_lmia",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/find-need-labour-market-impact-assessment.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/work_permit/lmia/find_need_lmia.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "ircc_find_lmia",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
     }
   ]
 }
