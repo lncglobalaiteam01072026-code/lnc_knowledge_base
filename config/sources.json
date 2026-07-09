@@ -4431,6 +4431,270 @@
         "lang": "en",
         "access_level": "chatbot"
       }
+    },
+    {
+      "id": "pdi_work_without_permit",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_work_without_permit.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_work_without_permit",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_apply_port_entry",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-port-entry.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_apply_port_entry.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_apply_port_entry",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_apply_within_canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-within-canada.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_apply_within_canada.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_apply_within_canada",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_protecting_workers",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/protecting-workers-abuse-exploitation.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_protecting_workers.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_protecting_workers",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_wages_conditions",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/wages-occupation-working-conditions.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_wages_conditions.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_wages_conditions",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_noncompliant_employers",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_noncompliant_employers.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_noncompliant_employers",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_employer_specific_wp",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_employer_specific_wp.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_employer_specific_wp",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_iec_overview",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/international-experience-canada-r205-b-exemption-code-c21-overview.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_iec_overview.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_iec_overview",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_iec_eligibility",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-eligibility.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_iec_eligibility.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_iec_eligibility",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_iec_processing",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-processing-procedures.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_iec_processing.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_iec_processing",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_bridging_owp",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/bridging-open-work-permits.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_bridging_owp.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_bridging_owp",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pdi_implied_status",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/implied-status-extending-stay.html",
+      "program": "IRCC",
+      "frequency": "quarterly",
+      "layer": "09_regulations",
+      "has_tables": false,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/bulletins/pdi_implied_status.md",
+          "section_selector": "full_page",
+          "output_format": "markdown",
+          "metadata": {
+            "topic": "pdi_implied_status",
+            "lang": "en",
+            "access_level": "chatbot",
+            "priority_weight": 1,
+            "chunk_strategy": "standard"
+          }
+        }
+      ]
     }
   ]
 }
