@@ -10,7 +10,7 @@ program: IRCC
 retrieval_strategy: direct
 source_id: ircc_ee_completeness_check
 source_url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html
-topic: ee_completeness_check
+topic: proof_work_experience
 version: '1.0'
 ---
 

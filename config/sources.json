@@ -2952,7 +2952,7 @@
       ],
       "metadata": {
         "program": "IRCC",
-        "topic": "ee_completeness_check",
+        "topic": "proof_work_experience",
         "lang": "en",
         "access_level": "chatbot"
       }
@@ -2969,7 +2969,7 @@
       "priority_weight": 1.0,
       "output_files": [
         {
-          "file": "09_regulations/canada/reference_letter/fsw_eligibility.md",
+          "file": "09_regulations/canada/fsw/fsw_eligibility.md",
           "section_selector": "full_page"
         }
       ],
@@ -3015,7 +3015,7 @@
       "priority_weight": 0.9,
       "output_files": [
         {
-          "file": "09_regulations/canada/financial_proof/cec_eligibility.md",
+          "file": "09_regulations/canada/cec/cec_eligibility.md",
           "section_selector": "full_page"
         }
       ],
