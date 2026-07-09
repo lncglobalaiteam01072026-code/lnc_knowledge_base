@@ -3,7 +3,7 @@ access_level: internal
 article_title: A common reason Express Entry candidates miss their ITA deadline, and
   how to avoid it
 chunk_strategy: standard
-content_hash: 10ac91f196d4f558
+content_hash: b28c8e98e570d03d
 file_role: news_article
 lang: en
 last_updated: '2026-07-09'
@@ -130,6 +130,11 @@ Please contact us if you would like to share additional feedback, have a questio
 
 
 Related articles
+[Wait times ease for permanent residence and citizenship applicants](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
+  * [Canada](https://www.cicnews.com/category/canada)
+
+
+[![Three happy individuals in front of a laptop.](https://www.cicnews.com/wp-content/uploads/2026/07/PR-CIT-WAIT-TIMES-EASE-216x164.jpg)](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
 [IRCC publishes updated distribution of Express Entry candidate scores](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
   * [Express Entry](https://www.cicnews.com/category/express-entry)
 
@@ -145,59 +150,54 @@ Related articles
 
 
 [![The federal government has extended the Francophone Minority Communities Student Pilot.](https://www.cicnews.com/wp-content/uploads/2026/07/French-PR-pathway-extension-FMCSP-216x164.jpg)](https://www.cicnews.com/2026/07/canada-extends-direct-to-permanent-residence-pathway-for-french-speaking-students-0777609.html)
-[New Brunswick extends student pathway to permanent residence](https://www.cicnews.com/2026/07/new-brunswick-extends-student-pathway-to-permanent-residence-0777591.html)
-  * [Provinces](https://www.cicnews.com/category/provinces)
-
-
-[![A shot of Fredericton, New Brunswick, Canada, with a bridge and greenery visible.](https://www.cicnews.com/wp-content/uploads/2026/07/NB-extension-PR-pilot-216x164.jpg)](https://www.cicnews.com/2026/07/new-brunswick-extends-student-pathway-to-permanent-residence-0777591.html)
 Top Stories
+[Wait times ease for permanent residence and citizenship applicants](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
+  * [Canada](https://www.cicnews.com/category/canada)
+
+
 [Manitoba MPs announce work permit extensions for provincial nominee candidates](https://www.cicnews.com/2026/07/manitoba-mps-announce-work-permit-extensions-for-provincial-nominee-candidates-0777749.html)
   * [Provinces](https://www.cicnews.com/category/provinces)
 
 
 [Wait times rise for many temporary residence applicants, IRCC data shows](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
   * [Canada](https://www.cicnews.com/category/canada)
-
-
-[Canada’s processing time for proof of citizenship jumps to 19 months as the queue nears 100,000](https://www.cicnews.com/2026/07/processing-time-proof-of-citizenship-19-months-queue-nears-100000-0777725.html)
-  * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
 Join our free newsletter. Get Canada's top immigration stories delivered to your inbox.
 [Subscribe](https://www.cicnews.com/2026/07/</cicnews-subscribe.html>)
-More in Citizenship
-[Canada’s processing time for proof of citizenship jumps to 19 months as the queue nears 100,000](https://www.cicnews.com/2026/07/processing-time-proof-of-citizenship-19-months-queue-nears-100000-0777725.html)
-  * [Citizenship](https://www.cicnews.com/category/citizenship)
+More in Canada
+[Wait times ease for permanent residence and citizenship applicants](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
+  * [Canada](https://www.cicnews.com/category/canada)
 
 
-[![Processing times for proof of citizenship applications have been on the rise in 2026](https://www.cicnews.com/wp-content/uploads/2026/07/Poc_ProcessingTime_July-216x164.jpg)](https://www.cicnews.com/2026/07/processing-time-proof-of-citizenship-19-months-queue-nears-100000-0777725.html)
-[Analysis: What IRCC’s surrender letters revealed, and what applicants can do going forward](https://www.cicnews.com/2026/07/analysis-irccs-surrender-letters-0777611.html)
-  * [Citizenship](https://www.cicnews.com/category/citizenship)
+[![Three happy individuals in front of a laptop.](https://www.cicnews.com/wp-content/uploads/2026/07/PR-CIT-WAIT-TIMES-EASE-216x164.jpg)](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
+[Wait times rise for many temporary residence applicants, IRCC data shows](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
+  * [Canada](https://www.cicnews.com/category/canada)
 
 
-[![What IRCC's Proof of Canadian citizenship surrender letters can teach us about applying](https://www.cicnews.com/wp-content/uploads/2026/07/Surrender_Letter_Review-216x164.jpg)](https://www.cicnews.com/2026/07/analysis-irccs-surrender-letters-0777611.html)
-[Your Canadian citizenship ceremony: what to expect and how to prepare](https://www.cicnews.com/2026/07/your-canadian-citizenship-ceremony-what-to-expect-and-how-to-prepare-2-0777553.html)
-  * [Citizenship](https://www.cicnews.com/category/citizenship)
+[![A closeup shot of a woman wearing a green shirt checking her watch.](https://www.cicnews.com/wp-content/uploads/2026/07/wait-times-rise-temp-res-216x164.jpg)](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
+[Canada extends direct-to-permanent-residence pathway for French-speaking students](https://www.cicnews.com/2026/07/canada-extends-direct-to-permanent-residence-pathway-for-french-speaking-students-0777609.html)
+  * [Canada](https://www.cicnews.com/category/canada)
 
 
-[![A man shaking hands with an RCMP officer at a Canadian citizenship ceremony in Hamilton, Ontario.](https://www.cicnews.com/wp-content/uploads/2026/06/Canadian-citizenship-ceremony-216x164.jpg)](https://www.cicnews.com/2026/07/your-canadian-citizenship-ceremony-what-to-expect-and-how-to-prepare-2-0777553.html)
-[Seven reasons you think you don’t qualify for Canadian citizenship by descent (and why you probably do)](https://www.cicnews.com/2026/07/reasons-you-think-you-dont-qualify-for-canadian-citizenship-by-descent-and-why-you-probably-do-0777559.html)
-  * [Citizenship](https://www.cicnews.com/category/citizenship)
+[![The federal government has extended the Francophone Minority Communities Student Pilot.](https://www.cicnews.com/wp-content/uploads/2026/07/French-PR-pathway-extension-FMCSP-216x164.jpg)](https://www.cicnews.com/2026/07/canada-extends-direct-to-permanent-residence-pathway-for-french-speaking-students-0777609.html)
+[Temporary residence wait times fall in latest IRCC processing update](https://www.cicnews.com/2026/07/temporary-residence-wait-times-fall-in-latest-ircc-processing-update-0777486.html)
+  * [Canada](https://www.cicnews.com/category/canada)
 
 
-[![Thousands of Americans may be Canadian citizens and not even know it](https://www.cicnews.com/wp-content/uploads/2026/07/PoC_Myths-216x164.jpg)](https://www.cicnews.com/2026/07/reasons-you-think-you-dont-qualify-for-canadian-citizenship-by-descent-and-why-you-probably-do-0777559.html)
-[Read more Citizenship news](https://www.cicnews.com/category/citizenship)
+[![Canada's immigration department released updated processing times for temporary residence applications.](https://www.cicnews.com/wp-content/uploads/2026/07/temporary-residence-wait-times-fall--216x164.jpg)](https://www.cicnews.com/2026/07/temporary-residence-wait-times-fall-in-latest-ircc-processing-update-0777486.html)
+[Read more Canada news](https://www.cicnews.com/category/canada)
 Top Stories
+[Wait times ease for permanent residence and citizenship applicants](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
+  * [Canada](https://www.cicnews.com/category/canada)
+
+
 [Manitoba MPs announce work permit extensions for provincial nominee candidates](https://www.cicnews.com/2026/07/manitoba-mps-announce-work-permit-extensions-for-provincial-nominee-candidates-0777749.html)
   * [Provinces](https://www.cicnews.com/category/provinces)
 
 
 [Wait times rise for many temporary residence applicants, IRCC data shows](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
   * [Canada](https://www.cicnews.com/category/canada)
-
-
-[Canada’s processing time for proof of citizenship jumps to 19 months as the queue nears 100,000](https://www.cicnews.com/2026/07/processing-time-proof-of-citizenship-19-months-queue-nears-100000-0777725.html)
-  * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
 Subscribe to our free newsletter

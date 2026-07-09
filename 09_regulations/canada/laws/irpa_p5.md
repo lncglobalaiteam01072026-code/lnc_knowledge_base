@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 7cd7cb25822d3feb
+content_hash: 79504219bbe35371
 file_role: irpa_p5
 lang: en
 last_updated: '2026-07-09'
@@ -14,13 +14,13 @@ topic: irpa_law
 version: '1.0'
 ---
 
-* [Skip to main content](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#wb-cont)
-  * [Skip to "About government"](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#wb-info)
-  * [Switch to basic HTML version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html?wbdisable=true)
+* [Skip to main content](#wb-cont)
+  * [Skip to "About government"](#wb-info)
+  * [Switch to basic HTML version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<?wbdisable=true>)
 
 
 ## Language selection
-  * [Français](https://laws-lois.justice.gc.ca/scripts/changelanguage.asp)
+  * [Français](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</scripts/changelanguage.asp>)
 
 
 [![Government of Canada](https://laws-lois.justice.gc.ca/canada/themes-dist/GCWeb/assets/sig-blk-en.svg)](https://www.canada.ca/en.html)
@@ -41,7 +41,7 @@ Main Menu
   * [Culture, history and sport](https://www.canada.ca/en/services/culture.html)
   * [Policing, justice and emergencies](https://www.canada.ca/en/services/policing.html)
   * [Transport and infrastructure](https://www.canada.ca/en/services/transport.html)
-  * [Canada and the world](http://international.gc.ca/world-monde/index.aspx?lang=eng)
+  * [Canada and the world](https://international.gc.ca/world-monde/index.aspx?lang=eng)
   * [Money and finances](https://www.canada.ca/en/services/finance.html)
   * [Science and innovation](https://www.canada.ca/en/services/science.html)
 
@@ -49,23 +49,23 @@ Main Menu
 ## You are here:
   1. [Canada.ca](https://www.canada.ca/en.html)
   2. [Department of Justice](https://www.justice.gc.ca/eng/index.html)
-  3. [Laws Home](https://laws-lois.justice.gc.ca/eng)
-  4. [Legislation](https://laws-lois.justice.gc.ca/eng/laws-index.html)
-  5. [Consolidated Acts](https://laws-lois.justice.gc.ca/eng/acts/)
-  6. [S.C. 2001, c. 27 - Table of Contents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/index.html)
+  3. [Laws Home](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</eng>)
+  4. [Legislation](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</eng/laws-index.html>)
+  5. [Consolidated Acts](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</eng/acts/>)
+  6. [S.C. 2001, c. 27 - Table of Contents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</eng/acts/I-2.5/index.html>)
 
 
 # Immigration and Refugee Protection Act (S.C. 2001, c. 27)
 Full Document: 
-  * [HTMLFull Document: Immigration and Refugee Protection Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/FullText.html) (Accessibility Buttons available) | 
-  * [XMLFull Document: Immigration and Refugee Protection Act](https://laws-lois.justice.gc.ca/eng/XML/I-2.5.xml) [710 KB] | 
-  * [PDFFull Document: Immigration and Refugee Protection Act](https://laws-lois.justice.gc.ca/PDF/I-2.5.pdf) [1347 KB]
+  * [HTMLFull Document: Immigration and Refugee Protection Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<FullText.html>) (Accessibility Buttons available) | 
+  * [XMLFull Document: Immigration and Refugee Protection Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</eng/XML/I-2.5.xml>) [710 KB] | 
+  * [PDFFull Document: Immigration and Refugee Protection Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</PDF/I-2.5.pdf>) [1347 KB]
 
 
-Act current to 2026-05-26 and [last amended](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/index.html#hist) on 2026-03-26. [Previous Versions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/PITIndex.html)
-[Previous Page](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-4.html#docCont)[Table of Contents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#right-panel)[Next Page](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-6.html#docCont)
-##  PART 1Immigration to Canada (continued)
-###  DIVISION 3Entering and Remaining in Canada (continued)
+Act current to 2026-05-26 and [last amended](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<index.html#hist>) on 2026-03-26. [Previous Versions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<PITIndex.html>)
+[Previous Page](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-4.html#docCont>)[Table of Contents](#right-panel)[Next Page](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-6.html#docCont>)
+## PART 1Immigration to Canada (continued)
+### DIVISION 3Entering and Remaining in Canada (continued)
 #### Status and Authorization to Enter (continued)
 Marginal note:Humanitarian and compassionate considerations — Minister’s own initiative
   * **25.1** (1) The Minister may, on the Minister’s own initiative, examine the circumstances concerning a foreign national who is inadmissible — other than under section 34, 35, 35.1 or 37 — or who does not meet the requirements of this Act and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
@@ -77,10 +77,14 @@ Marginal note:Humanitarian and compassionate considerations — Minister’s own
 
   * 2010, c. 8, s. 5
   * 2013, c. 16, s. 10
-  * [2023, c. 19, s. 4](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#1411900-1414298)
+  * [2023, c. 19, s. 4](#1411900-1414298)
+## 2023, c. 19, s. 4
+**4** Subsection 25.1(1) of the Act is replaced by the following:
+Marginal note:Humanitarian and compassionate considerations — Minister’s own initiative
+    * **25.1** (1) The Minister may, on the Minister’s own initiative, examine the circumstances concerning a foreign national who is inadmissible — other than under section 34, 35, 35.1 or 37 — or who does not meet the requirements of this Act and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
 
 
-[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-25.1-20130619.html "Link to previous version of section 25.1")
+[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<section-25.1-20130619.html> "Link to previous version of section 25.1")
 Marginal note:Public policy considerations
   * **25.2** (1) The Minister may, in examining the circumstances concerning a foreign national who is inadmissible or who does not meet the requirements of this Act, grant that person permanent resident status or an exemption from any applicable criteria or obligations of this Act if the foreign national complies with any conditions imposed by the Minister and the Minister is of the opinion that it is justified by public policy considerations.
   * Marginal note:Exemption
@@ -95,7 +99,7 @@ Marginal note:Public policy considerations
   * 2012, c. 17, s. 14
 
 
-[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-25.2-20100629.html "Link to previous version of section 25.2")
+[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<section-25.2-20100629.html> "Link to previous version of section 25.2")
 Marginal note:Regulations
   * **26** (1) The regulations may provide for any matter relating to the application of sections 18 to 25.2, and may include provisions respecting
     * (a) entering, remaining in and re-entering Canada;
@@ -116,10 +120,13 @@ Marginal note:Regulations
   * 2012, c. 17, s. 15
   * 2013, c. 16, s. 11
   * 2017, c. 11, s. 6
-  * [2026, c. 4, s. 69](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#1561124-1565239)
+  * [2026, c. 4, s. 69](#1561124-1565239)
+## 2026, c. 4, s. 69
+**69** Subsection 26(1) of the Act is amended by adding the following after paragraph (b):
+    * (b.01) the circumstances in which an officer may cancel, suspend or vary a visa or other document;
 
 
-[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-26-20170619.html "Link to previous version of section 26")
+[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<section-26-20170619.html> "Link to previous version of section 26")
 #### Rights and Obligations of Permanent and Temporary Residents
 Marginal note:Right of permanent residents
   * **27** (1) A permanent resident of Canada has the right to enter and remain in Canada, subject to the provisions of this Act.
@@ -131,7 +138,7 @@ Marginal note:Right of permanent residents
   * 2012, c. 19, s. 704
 
 
-[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-27-20030101.html "Link to previous version of section 27")
+[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<section-27-20030101.html> "Link to previous version of section 27")
 Marginal note:Residency obligation
   * **28** (1) A permanent resident must comply with a residency obligation with respect to every five-year period.
   * Marginal note:Application
@@ -152,7 +159,7 @@ Marginal note:Residency obligation
   * 2003, c. 22, s. 172(E)
 
 
-[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-28-20030101.html "Link to previous version of section 28")
+[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<section-28-20030101.html> "Link to previous version of section 28")
 Marginal note:Right of temporary residents
   * **29** (1) A temporary resident is, subject to the other provisions of this Act, authorized to enter and remain in Canada on a temporary basis as a visitor or as a holder of a temporary resident permit.
   * Marginal note:Obligation — temporary resident
@@ -162,10 +169,14 @@ Marginal note:Right of temporary residents
 
 
   * 2001, c. 27, s. 29
-  * [2023, c. 21, s. 3](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#1412066-1414339)
+  * [2023, c. 21, s. 3](#1412066-1414339)
+## 2023, c. 21, s. 3
+**3** Section 29 of the Act is amended by adding the following after subsection (2):
+    * Marginal note:Extended period
+(3) In the case of a temporary resident who is authorized to enter and remain in Canada for an extended period in order to visit a Canadian citizen or permanent resident who is their child or grandchild, the period referred to in subsection (2) is five years.
 
 
-[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-29-20030101.html "Link to previous version of section 29")
+[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<section-29-20030101.html> "Link to previous version of section 29")
 Marginal note:Work and study in Canada
   * **30** (1) A foreign national may not work or study in Canada unless authorized to do so under this Act.
   * Marginal note:Authorization
@@ -188,11 +199,11 @@ Marginal note:Work and study in Canada
   * Marginal note:For greater certainty
 (1.44) For greater certainty, subsection (1.43) does not affect any other lawful authority to revoke an assessment referred to in that subsection.
   * Marginal note:Publication
-(1.5) Instructions given under this section shall be published in the [Canada Gazette](http://www.gazette.gc.ca/).
+(1.5) Instructions given under this section shall be published in the [Canada Gazette](https://www.gazette.gc.ca/).
   * Marginal note:Application
 (1.6) The instructions take effect on the day on which they are published, or on any later day specified in the instructions, and apply in respect of all applications for authorization to work in Canada and requests to provide an assessment with respect to an application for a work permit, including those applications and requests that were made before that day and for which a final decision has not been made.
   * Marginal note:Revocation
-(1.7) The instructions cease to have effect on the day on which a notice of revocation is published in the [Canada Gazette](http://www.gazette.gc.ca/).
+(1.7) The instructions cease to have effect on the day on which a notice of revocation is published in the [Canada Gazette](https://www.gazette.gc.ca/).
   * Marginal note:Minor children
 (2) Every minor child in Canada, other than a child of a temporary resident not authorized to work or study, is authorized to study at the pre-school, primary or secondary level.
 
@@ -203,7 +214,7 @@ Marginal note:Work and study in Canada
   * 2014, c. 39, s. 307
 
 
-[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-30-20131212.html "Link to previous version of section 30")
+[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<section-30-20131212.html> "Link to previous version of section 30")
 #### Status Document
 Marginal note:Status document
   * **31** (1) A permanent resident and a protected person shall be provided with a document indicating their status.
@@ -247,8 +258,8 @@ Marginal note:Regulations
   * 2015, c. 36, s. 172
 
 
-[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-32-20141216.html "Link to previous version of section 32")
-###  DIVISION 3.1Examination — Foreign Nationals
+[Previous Version](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<section-32-20141216.html> "Link to previous version of section 32")
+### DIVISION 3.1Examination — Foreign Nationals
 Marginal note:Obligation — answer truthfully
   * **32.1** (1) A foreign national who is outside Canada and who holds a permanent resident visa, temporary resident visa, electronic travel authorization, temporary resident permit or any other document must, in order to confirm that they meet the requirements of this Act in respect of that document and in the prescribed circumstances, answer truthfully all questions put to them by an officer and must produce a visa and all relevant evidence and documents that the officer reasonably requires.
   * Marginal note:Obligation — appear for examination
@@ -257,167 +268,179 @@ Marginal note:Obligation — answer truthfully
 (3) For greater certainty, subsections (1) and (2) do not affect any other lawful authority relating to the conduct of an examination of foreign nationals.
 
 
-  * [2026, c. 4, s. 70](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#1561126-1565249)
+  * [2026, c. 4, s. 70](#1561126-1565249)
+## 2026, c. 4, s. 70
+**70** The Act is amended by adding the following after section 32:
+#### DIVISION 3.1Examination — Foreign Nationals
+Marginal note:Obligation — answer truthfully
+    * **32.1** (1) A foreign national who is outside Canada and who holds a permanent resident visa, temporary resident visa, electronic travel authorization, temporary resident permit or any other document must, in order to confirm that they meet the requirements of this Act in respect of that document and in the prescribed circumstances, answer truthfully all questions put to them by an officer and must produce a visa and all relevant evidence and documents that the officer reasonably requires.
+    * Marginal note:Obligation — appear for examination
+(2) A foreign national who is outside Canada and who holds a document referred to in subsection (1) must, in order to confirm that they meet the requirements of this Act in respect of that document and in the prescribed circumstances, appear for an examination, including a medical examination, on request of an officer.
+    * Marginal note:For greater certainty
+(3) For greater certainty, subsections (1) and (2) do not affect any other lawful authority relating to the conduct of an examination of foreign nationals.
+Marginal note:Regulations
+**32.2** The regulations may prescribe the circumstances in which a foreign national who is outside Canada and who holds a document referred to in subsection 32.1(1) must appear for examination, answer truthfully all questions put to them and produce a visa and all relevant evidence and documents.
 
 
 ## Table of Contents
-  * [ Immigration and Refugee Protection Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-1.html "Page 1")
-    * 1 - [Short Title](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-1.html#h-274068)
-    * 2 - [Interpretation](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-1.html#h-274071)
-    * 3 - [Objectives and Application](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-1.html#h-274085)
-    * 4 - [Enabling Authority](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-1.html#h-274120)
-    * 7 - [Agreements](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-1.html#h-274166)
-    * 10.01 - [PART 1 - Immigration to Canada](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-2.html#h-274192)
-      * 10.01 - [DIVISION 0.01 - Biometric Information](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-2.html#h-274193)
-      * 10.1 - [DIVISION 0.1 - Invitation to Make an Application](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-2.html#h-274208)
-      * 11 - [DIVISION 1 - Requirements and Selection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-2.html#h-274277)
-        * 11 - [Requirements](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-2.html#h-274278)
-        * 12 - [Selection of Permanent Residents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-3.html#h-274314)
-        * 13 - [Sponsorship of Foreign Nationals](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-3.html#h-274322)
-        * 13.1 - [Undertakings](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-3.html#h-274331)
-        * 14 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-3.html#h-274343)
-        * 14.1 - [Minister’s Instructions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-3.html#h-274361)
-      * 15 - [DIVISION 2 - Examination](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-3.html#h-274389)
-      * 18 - [DIVISION 3 - Entering and Remaining in Canada](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-3.html#h-274418)
-        * 18 - [Entering and Remaining](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-3.html#h-274419)
-        * 21 - [Status and Authorization to Enter](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-4.html#h-274473)
-        * 27 - [Rights and Obligations of Permanent and Temporary Residents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#h-274598)
-        * 31 - [Status Document](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#h-274660)
-        * 31.1 - [Refugee Travel Document](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#h-274673)
-        * 32 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#h-274678)
-      * 32.1 - [DIVISION 3.1 - Examination — Foreign Nationals](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#h-1565240)
-      * 33 - [DIVISION 4 - Inadmissibility](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-6.html#h-274694)
-      * 44 - [DIVISION 5 - Loss of Status and Removal](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-7.html#h-274820)
-        * 44 - [Report on Inadmissibility](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-7.html#h-274821)
-        * 44.1 - [Admissibility Hearing by the Immigration Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-7.html#h-274840)
-        * 46 - [Loss of Status](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-7.html#h-274847)
-        * 48 - [Enforcement of Removal Orders](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-7.html#h-274871)
-        * 53 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-7.html#h-274908)
-      * 54 - [DIVISION 6 - Detention and Release](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-7.html#h-274921)
-      * 62 - [DIVISION 7 - Right of Appeal](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-8.html#h-275022)
-      * 72 - [DIVISION 8 - Judicial Review](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-9.html#h-275091)
-      * 76 - [DIVISION 9 - Certificates and Protection of Information](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-9.html#h-275121)
-        * 76 - [Interpretation](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-9.html#h-275122)
-        * 77 - [Certificate](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-9.html#h-275129)
-        * 81 - [Detention and Release](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-9.html#h-275170)
-        * 83 - [Protection of Information](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-10.html#h-275234)
-        * 85 - [Special Advocate](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-10.html#h-275266)
-        * 86 - [Other Proceedings](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-10.html#h-275326)
-        * 87.2 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-11.html#h-275353)
-      * 87.3 - [DIVISION 10 - General Provisions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-11.html#h-275365)
-        * 87.3 - [Instructions on Processing Applications and Requests](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-11.html#h-275366)
-        * 87.3001 - [Orders Made in the Public Interest](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-11.html#h-1565258)
-        * 87.31 - [Applications for Temporary Resident Visas, Work Permits and Study Permits](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-11.html#h-1174017)
-        * 87.4 - [Federal Skilled Workers](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-12.html#h-275393)
-        * 87.5 - [Federal Investor and Entrepreneur Classes](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-12.html#h-275407)
-        * 88 - [Loans](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-12.html#h-275427)
-        * 89 - [Fees](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-12.html#h-275433)
-        * 90 - [Social Insurance Numbers](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-12.html#h-275480)
-        * 91 - [Representation or Advice](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-12.html#h-275485)
-        * 92 - [Material Incorporated in Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-13.html#h-275522)
-        * 94 - [Report to Parliament](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-13.html#h-275542)
-    * 95 - [PART 2 - Refugee Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-13.html#h-275558)
-      * 95 - [DIVISION 1 - Refugee Protection, Convention Refugees and Persons in Need of Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-13.html#h-275559)
-      * 99 - [DIVISION 2 - Convention Refugees and Persons in Need of Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-13.html#h-275598)
-        * 99 - [Claim for Refugee Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-13.html#h-275599)
-        * 100 - [Examination of Eligibility to Refer Claim](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-13.html#h-275613)
-        * 103 - [Suspension or Termination of Consideration of Claim](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-14.html#h-275662)
-        * 105 - [Extradition Procedure](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-14.html#h-275683)
-        * 106 - [Claimant Without Identification](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-14.html#h-275695)
-        * 107 - [Decision on Claim for Refugee Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-14.html#h-275698)
-        * 108 - [Cessation of Refugee Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-14.html#h-275708)
-        * 109 - [Applications to Vacate](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-14.html#h-275723)
-        * 109.1 - [Designated Countries of Origin](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-14.html#h-275731)
-        * 110 - [Appeal to Refugee Appeal Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-14.html#h-275750)
-        * 111.1 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-15.html#h-275797)
-      * 112 - [DIVISION 3 - Pre-removal Risk Assessment](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-15.html#h-275810)
-        * 112 - [Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-15.html#h-275811)
-        * 115 - [Principle of Non-refoulement](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-15.html#h-275863)
-    * 117 - [PART 3 - Enforcement](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-15.html#h-275875)
-      * 117 - [Human Smuggling and Trafficking](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-15.html#h-275876)
-      * 122 - [Offences Related to Documents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-16.html#h-275932)
-      * 124 - [General Offences](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-16.html#h-275952)
-      * 133 - [Prosecution of Offences](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-16.html#h-275997)
-      * 137 - [Forfeiture](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-16.html#h-276019)
-      * 138 - [Officers Authorized to Enforce Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-16.html#h-276025)
-      * 142 - [Peace Officers](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-17.html#h-276047)
-      * 144 - [Ticketable Offences](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-17.html#h-276054)
-      * 145 - [Debt Due to Her Majesty](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-17.html#h-276078)
-      * 146 - [Collection of Debts Due to Her Majesty](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-17.html#h-276094)
-      * 148 - [Transportation Companies](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-17.html#h-276119)
-      * 150.1 - [Sharing of Information](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-18.html#h-276147)
-    * 151 - [PART 4 - Immigration and Refugee Board](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-18.html#h-276160)
-      * 151 - [Composition of Board](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-18.html#h-276161)
-      * 157 - [Head Office and Staff](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-18.html#h-276198)
-      * 159 - [Duties of Chairperson](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-18.html#h-276208)
-      * 161 - [Functioning of Board](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-18.html#h-276231)
-      * 162 - [Provisions that Apply to All Divisions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-18.html#h-276247)
-      * 169.1 - [Refugee Protection Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-19.html#h-276295)
-      * 171 - [Refugee Appeal Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-19.html#h-276321)
-      * 172 - [Immigration Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-19.html#h-276338)
-      * 174 - [Immigration Appeal Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-19.html#h-276352)
-      * 176 - [Remedial and Disciplinary Measures](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-19.html#h-276366)
-    * 186.1 - [PART 4.1 - Electronic Administration](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276412)
-    * 187 - [PART 5 - Transitional Provisions, Consequential and Related Amendments, Coordinating Amendments, Repeals and Coming into Force](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276454)
-      * 187 - [Transitional Provisions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276455)
-      * 202 - [Consequential and Related Amendments](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276499)
-        * 202 - [Access to Information Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276500)
-        * 203 - [Agricultural Marketing Programs Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276502)
-        * 204 and 205 - [Animal Pedigree Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276504)
-        * 206 - [Bank Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276506)
-        * 207 - [Budget Implementation Act, 1998](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276508)
-        * 208 - [Business Development Bank of Canada Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276510)
-        * 209 - [Canada Business Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276512)
-        * 210 - [Canada Customs and Revenue Agency Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276514)
-        * 211 to 214 - [Canada Elections Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276516)
-        * 215 - [Canada Labour Code](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276518)
-        * 216 to 218 - [Canada Shipping Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276520)
-        * 219 - [Canada Student Financial Assistance Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276522)
-        * 220 - [Canada Student Loans Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276524)
-        * 221 and 222 - [Canada Transportation Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276526)
-        * 223 to 226 - [Canadian Security Intelligence Service Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276528)
-        * 227 - [Chemical Weapons Convention Implementation Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276530)
-        * 227.1 to 232 - [Citizenship Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276532)
-        * 233 - [Comprehensive Nuclear Test-Ban Treaty Implementation Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276534)
-        * 234 - [Cooperative Credit Associations Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276536)
-        * 235 to 241 - [Copyright Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276538)
-        * 242 and 243 - [Corrections and Conditional Release Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276540)
-        * 244 - [Criminal Code](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276542)
-        * 248 and 249 - [Emergencies Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276546)
-        * 250 to 252 - [Extradition Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276548)
-        * 253 - [Foreign Publishers Advertising Services Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276550)
-        * 254 - [Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276552)
-        * 255 - [Insurance Companies Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276554)
-        * 256 to 258 - [International Centre for Human Rights and Democratic Development Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276556)
-        * 259 - [Investment Canada Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276558)
-        * 260 - [Labour Adjustment Benefits Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276560)
-        * 261 - [Mutual Legal Assistance in Criminal Matters Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-20.html#h-276562)
-        * 262 - [National Energy Board Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276564)
-        * 263 to 267 - [Old Age Security Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276566)
-        * 268 - [Pilotage Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276568)
-        * 269 - [Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276570)
-        * 270 - [Proceeds of Crime (Money Laundering) Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276572)
-        * 271 - [Trade-marks Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276574)
-        * 272 - [Trust and Loan Companies Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276576)
-        * 273 - [Terminology](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276578)
-      * 273.1 - [Coordinating Amendments](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276585)
-      * 274 - [Repeals](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276587)
-      * 275 - [Coming Into Force](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-21.html#h-276589)
-    * [SCHEDULE ](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-22.html#h-276595)
+  * [ Immigration and Refugee Protection Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-1.html> "Page 1")
+    * 1 - [Short Title](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-1.html#h-274068>)
+    * 2 - [Interpretation](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-1.html#h-274071>)
+    * 3 - [Objectives and Application](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-1.html#h-274085>)
+    * 4 - [Enabling Authority](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-1.html#h-274120>)
+    * 7 - [Agreements](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-1.html#h-274166>)
+    * 10.01 - [PART 1 - Immigration to Canada](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-2.html#h-274192>)
+      * 10.01 - [DIVISION 0.01 - Biometric Information](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-2.html#h-274193>)
+      * 10.1 - [DIVISION 0.1 - Invitation to Make an Application](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-2.html#h-274208>)
+      * 11 - [DIVISION 1 - Requirements and Selection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-2.html#h-274277>)
+        * 11 - [Requirements](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-2.html#h-274278>)
+        * 12 - [Selection of Permanent Residents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-3.html#h-274314>)
+        * 13 - [Sponsorship of Foreign Nationals](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-3.html#h-274322>)
+        * 13.1 - [Undertakings](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-3.html#h-274331>)
+        * 14 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-3.html#h-274343>)
+        * 14.1 - [Minister’s Instructions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-3.html#h-274361>)
+      * 15 - [DIVISION 2 - Examination](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-3.html#h-274389>)
+      * 18 - [DIVISION 3 - Entering and Remaining in Canada](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-3.html#h-274418>)
+        * 18 - [Entering and Remaining](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-3.html#h-274419>)
+        * 21 - [Status and Authorization to Enter](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-4.html#h-274473>)
+        * 27 - [Rights and Obligations of Permanent and Temporary Residents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-5.html#h-274598>)
+        * 31 - [Status Document](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-5.html#h-274660>)
+        * 31.1 - [Refugee Travel Document](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-5.html#h-274673>)
+        * 32 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-5.html#h-274678>)
+      * 32.1 - [DIVISION 3.1 - Examination — Foreign Nationals](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-5.html#h-1565240>)
+      * 33 - [DIVISION 4 - Inadmissibility](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-6.html#h-274694>)
+      * 44 - [DIVISION 5 - Loss of Status and Removal](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-7.html#h-274820>)
+        * 44 - [Report on Inadmissibility](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-7.html#h-274821>)
+        * 44.1 - [Admissibility Hearing by the Immigration Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-7.html#h-274840>)
+        * 46 - [Loss of Status](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-7.html#h-274847>)
+        * 48 - [Enforcement of Removal Orders](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-7.html#h-274871>)
+        * 53 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-7.html#h-274908>)
+      * 54 - [DIVISION 6 - Detention and Release](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-7.html#h-274921>)
+      * 62 - [DIVISION 7 - Right of Appeal](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-8.html#h-275022>)
+      * 72 - [DIVISION 8 - Judicial Review](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-9.html#h-275091>)
+      * 76 - [DIVISION 9 - Certificates and Protection of Information](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-9.html#h-275121>)
+        * 76 - [Interpretation](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-9.html#h-275122>)
+        * 77 - [Certificate](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-9.html#h-275129>)
+        * 81 - [Detention and Release](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-9.html#h-275170>)
+        * 83 - [Protection of Information](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-10.html#h-275234>)
+        * 85 - [Special Advocate](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-10.html#h-275266>)
+        * 86 - [Other Proceedings](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-10.html#h-275326>)
+        * 87.2 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-11.html#h-275353>)
+      * 87.3 - [DIVISION 10 - General Provisions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-11.html#h-275365>)
+        * 87.3 - [Instructions on Processing Applications and Requests](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-11.html#h-275366>)
+        * 87.3001 - [Orders Made in the Public Interest](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-11.html#h-1565258>)
+        * 87.31 - [Applications for Temporary Resident Visas, Work Permits and Study Permits](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-11.html#h-1174017>)
+        * 87.4 - [Federal Skilled Workers](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-12.html#h-275393>)
+        * 87.5 - [Federal Investor and Entrepreneur Classes](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-12.html#h-275407>)
+        * 88 - [Loans](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-12.html#h-275427>)
+        * 89 - [Fees](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-12.html#h-275433>)
+        * 90 - [Social Insurance Numbers](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-12.html#h-275480>)
+        * 91 - [Representation or Advice](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-12.html#h-275485>)
+        * 92 - [Material Incorporated in Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-13.html#h-275522>)
+        * 94 - [Report to Parliament](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-13.html#h-275542>)
+    * 95 - [PART 2 - Refugee Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-13.html#h-275558>)
+      * 95 - [DIVISION 1 - Refugee Protection, Convention Refugees and Persons in Need of Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-13.html#h-275559>)
+      * 99 - [DIVISION 2 - Convention Refugees and Persons in Need of Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-13.html#h-275598>)
+        * 99 - [Claim for Refugee Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-13.html#h-275599>)
+        * 100 - [Examination of Eligibility to Refer Claim](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-13.html#h-275613>)
+        * 103 - [Suspension or Termination of Consideration of Claim](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-14.html#h-275662>)
+        * 105 - [Extradition Procedure](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-14.html#h-275683>)
+        * 106 - [Claimant Without Identification](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-14.html#h-275695>)
+        * 107 - [Decision on Claim for Refugee Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-14.html#h-275698>)
+        * 108 - [Cessation of Refugee Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-14.html#h-275708>)
+        * 109 - [Applications to Vacate](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-14.html#h-275723>)
+        * 109.1 - [Designated Countries of Origin](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-14.html#h-275731>)
+        * 110 - [Appeal to Refugee Appeal Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-14.html#h-275750>)
+        * 111.1 - [Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-15.html#h-275797>)
+      * 112 - [DIVISION 3 - Pre-removal Risk Assessment](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-15.html#h-275810>)
+        * 112 - [Protection](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-15.html#h-275811>)
+        * 115 - [Principle of Non-refoulement](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-15.html#h-275863>)
+    * 117 - [PART 3 - Enforcement](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-15.html#h-275875>)
+      * 117 - [Human Smuggling and Trafficking](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-15.html#h-275876>)
+      * 122 - [Offences Related to Documents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-16.html#h-275932>)
+      * 124 - [General Offences](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-16.html#h-275952>)
+      * 133 - [Prosecution of Offences](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-16.html#h-275997>)
+      * 137 - [Forfeiture](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-16.html#h-276019>)
+      * 138 - [Officers Authorized to Enforce Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-16.html#h-276025>)
+      * 142 - [Peace Officers](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-17.html#h-276047>)
+      * 144 - [Ticketable Offences](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-17.html#h-276054>)
+      * 145 - [Debt Due to Her Majesty](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-17.html#h-276078>)
+      * 146 - [Collection of Debts Due to Her Majesty](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-17.html#h-276094>)
+      * 148 - [Transportation Companies](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-17.html#h-276119>)
+      * 150.1 - [Sharing of Information](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-18.html#h-276147>)
+    * 151 - [PART 4 - Immigration and Refugee Board](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-18.html#h-276160>)
+      * 151 - [Composition of Board](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-18.html#h-276161>)
+      * 157 - [Head Office and Staff](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-18.html#h-276198>)
+      * 159 - [Duties of Chairperson](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-18.html#h-276208>)
+      * 161 - [Functioning of Board](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-18.html#h-276231>)
+      * 162 - [Provisions that Apply to All Divisions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-18.html#h-276247>)
+      * 169.1 - [Refugee Protection Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-19.html#h-276295>)
+      * 171 - [Refugee Appeal Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-19.html#h-276321>)
+      * 172 - [Immigration Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-19.html#h-276338>)
+      * 174 - [Immigration Appeal Division](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-19.html#h-276352>)
+      * 176 - [Remedial and Disciplinary Measures](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-19.html#h-276366>)
+    * 186.1 - [PART 4.1 - Electronic Administration](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276412>)
+    * 187 - [PART 5 - Transitional Provisions, Consequential and Related Amendments, Coordinating Amendments, Repeals and Coming into Force](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276454>)
+      * 187 - [Transitional Provisions](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276455>)
+      * 202 - [Consequential and Related Amendments](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276499>)
+        * 202 - [Access to Information Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276500>)
+        * 203 - [Agricultural Marketing Programs Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276502>)
+        * 204 and 205 - [Animal Pedigree Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276504>)
+        * 206 - [Bank Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276506>)
+        * 207 - [Budget Implementation Act, 1998](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276508>)
+        * 208 - [Business Development Bank of Canada Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276510>)
+        * 209 - [Canada Business Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276512>)
+        * 210 - [Canada Customs and Revenue Agency Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276514>)
+        * 211 to 214 - [Canada Elections Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276516>)
+        * 215 - [Canada Labour Code](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276518>)
+        * 216 to 218 - [Canada Shipping Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276520>)
+        * 219 - [Canada Student Financial Assistance Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276522>)
+        * 220 - [Canada Student Loans Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276524>)
+        * 221 and 222 - [Canada Transportation Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276526>)
+        * 223 to 226 - [Canadian Security Intelligence Service Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276528>)
+        * 227 - [Chemical Weapons Convention Implementation Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276530>)
+        * 227.1 to 232 - [Citizenship Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276532>)
+        * 233 - [Comprehensive Nuclear Test-Ban Treaty Implementation Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276534>)
+        * 234 - [Cooperative Credit Associations Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276536>)
+        * 235 to 241 - [Copyright Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276538>)
+        * 242 and 243 - [Corrections and Conditional Release Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276540>)
+        * 244 - [Criminal Code](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276542>)
+        * 248 and 249 - [Emergencies Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276546>)
+        * 250 to 252 - [Extradition Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276548>)
+        * 253 - [Foreign Publishers Advertising Services Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276550>)
+        * 254 - [Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276552>)
+        * 255 - [Insurance Companies Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276554>)
+        * 256 to 258 - [International Centre for Human Rights and Democratic Development Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276556>)
+        * 259 - [Investment Canada Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276558>)
+        * 260 - [Labour Adjustment Benefits Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276560>)
+        * 261 - [Mutual Legal Assistance in Criminal Matters Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-20.html#h-276562>)
+        * 262 - [National Energy Board Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276564>)
+        * 263 to 267 - [Old Age Security Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276566>)
+        * 268 - [Pilotage Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276568>)
+        * 269 - [Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276570>)
+        * 270 - [Proceeds of Crime (Money Laundering) Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276572>)
+        * 271 - [Trade-marks Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276574>)
+        * 272 - [Trust and Loan Companies Act](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276576>)
+        * 273 - [Terminology](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276578>)
+      * 273.1 - [Coordinating Amendments](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276585>)
+      * 274 - [Repeals](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276587>)
+      * 275 - [Coming Into Force](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-21.html#h-276589>)
+    * [SCHEDULE ](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-22.html#h-276595>)
 
 
-[Previous Page](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-4.html#docCont)[Next Page](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-6.html#docCont)
-Select pageTable of Contents 1 ... 10 10.01 ... 11.1 11.2 ... 18 19 ... 25 25.1 ... 32.1 32.2 ... 42 42.1 ... 55 56 ... 68 69 ... 82.2 82.3 ... 87.01 87.1 ... 87.31 87.4 ... 91.1 92 ... 101 102 ... 110 111 ... 117 118 ... 140 141 ... 150 150.1 ... 166 167 ... 185 186 ... 261 262 ... 275 SCHEDULE Related Provisions Amendments not in force Previous Amendments
-## Page Details 
-
+Closeoverlay
+× Close: Table of Contents (escape key)
+[Previous Page](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-4.html#docCont>)[Next Page](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/<page-6.html#docCont>)
+Select pageTable of Contents1 ... 1010.01 ... 11.111.2 ... 1819 ... 2525.1 ... 32.132.2 ... 4242.1 ... 5556 ... 6869 ... 82.282.3 ... 87.0187.1 ... 87.3187.4 ... 91.192 ... 101102 ... 110111 ... 117118 ... 140141 ... 150150.1 ... 166167 ... 185186 ... 261262 ... 275SCHEDULERelated ProvisionsAmendments not in forcePrevious Amendments
+## Page Details
 Date modified: 
     ﻿2026-06-05
 ### Justice Laws Website
-  * [Constitutional Documents](https://laws-lois.justice.gc.ca/eng/const-index.html)
-  * [Related Resources](https://laws-lois.justice.gc.ca/eng/res-index.html)
-  * [Consolidated Acts and Regulations](https://laws-lois.justice.gc.ca/eng/laws-index.html/)
-  * [Search](https://laws-lois.justice.gc.ca/Search/Search.aspx)
-  * [Help](https://laws-lois.justice.gc.ca/eng/help-index.html/)
+  * [Constitutional Documents](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</eng/const-index.html>)
+  * [Related Resources](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</eng/res-index.html>)
+  * [Consolidated Acts and Regulations](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</eng/laws-index.html/>)
+  * [Search](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</Search/Search.aspx>)
+  * [Help](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/</eng/help-index.html/>)
   * [Contact Us](https://www.justice.gc.ca/eng/contact/index.html)
 
 
@@ -464,5 +487,5 @@ Date modified:
   * [Privacy](https://www.canada.ca/en/transparency/privacy.html)
 
 
-[Top of Page ](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-5.html#wb-cont)
+[Top of Page ](#wb-cont)
 ![Symbol of the Government of Canada](https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/wmms-blk.svg)
