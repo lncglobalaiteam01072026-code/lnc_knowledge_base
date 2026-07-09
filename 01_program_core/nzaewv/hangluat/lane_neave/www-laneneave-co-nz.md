@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 15a88bbd6321b80a
+content_hash: ec9b52123982bdd0
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
@@ -160,6 +160,10 @@ Our unique place in the legal services market allows us to provide the legal cap
 [Search for a lawyer](https://www.laneneave.co.nz/our-people/) [Contact us today](https://www.laneneave.co.nz/contact/)
 ## News, insights and events
 [View More](https://www.laneneave.co.nz/</news-events/>)
+[Corporate](https://www.laneneave.co.nz/news-events-category/corporate/)[Web3 & Digital Assets](https://www.laneneave.co.nz/news-events-category/web3-digital-assets/) 02/07/2026
+##### Crypto Yield, Full Regulation: What the Australian Block Earner Decision Could Mean for New Zealand Businesses
+A recent decision from Australia’s highest court reinforces a clear message to the crypto industry both across the Tasman... Read More
+[](https://www.laneneave.co.nz/news-events/australia-block-earner-decision-new-zealand/)
 [General News](https://www.laneneave.co.nz/news-events-category/general-news/) 02/07/2026
 ##### Six recognised in 2026 mid-year promotions
 Six lawyers and support staff have been recognised for their hard work, talent and drive, in our annual mid-year... Read More
@@ -168,10 +172,10 @@ Six lawyers and support staff have been recognised for their hard work, talent a
 ##### Ben Russell appointed Managing Partner of Lane Neave
 Litigation Partner Ben Russell today becomes Lane Neave’s Managing Partner, marking the next chapter in the firm’s leadership. The... Read More
 [](https://www.laneneave.co.nz/news-events/ben-russell-appointed-managing-partner/)
-[Employment](https://www.laneneave.co.nz/news-events-category/employment/)[General News](https://www.laneneave.co.nz/news-events-category/general-news/) 29/06/2026
-##### Discrimination Claims After the Employment Relations Amendment Act 2026
-Changes introduced by the Employment Relations Amendment Act 2026 may see fewer rewards for employee applicants and a shift... Read More
-[](https://www.laneneave.co.nz/news-events/discrimination-claims-2026/)
+[Employment](https://www.laneneave.co.nz/news-events-category/employment/) 09/07/2026
+##### Election 2026: What a change in government could mean for your workplace
+With the General Election only a few months away, a change in government may shift the employment landscape away... Read More
+[](https://www.laneneave.co.nz/news-events/election-2026-employment-law/)
 [General News](https://www.laneneave.co.nz/news-events-category/general-news/)[Immigration](https://www.laneneave.co.nz/news-events-category/immigration/) 06/07/2026
 ##### Lane Neave welcomes Arran Hunt to its Immigration Law practice
 Lane Neave is thrilled to welcome Arran Hunt, who today, 6 July 2026, joins the firm in Auckland as... Read More
@@ -188,10 +192,10 @@ Six lawyers and support staff have been recognised for their hard work, talent a
 ##### Ben Russell appointed Managing Partner of Lane Neave
 Litigation Partner Ben Russell today becomes Lane Neave’s Managing Partner, marking the next chapter in the firm’s leadership. The... Read More
 [](https://www.laneneave.co.nz/news-events/ben-russell-appointed-managing-partner/)
-[Employment](https://www.laneneave.co.nz/news-events-category/employment/)[General News](https://www.laneneave.co.nz/news-events-category/general-news/) 29/06/2026
-##### Discrimination Claims After the Employment Relations Amendment Act 2026
-Changes introduced by the Employment Relations Amendment Act 2026 may see fewer rewards for employee applicants and a shift... Read More
-[](https://www.laneneave.co.nz/news-events/discrimination-claims-2026/)
+[Employment](https://www.laneneave.co.nz/news-events-category/employment/) 09/07/2026
+##### Election 2026: What a change in government could mean for your workplace
+With the General Election only a few months away, a change in government may shift the employment landscape away... Read More
+[](https://www.laneneave.co.nz/news-events/election-2026-employment-law/)
 [General News](https://www.laneneave.co.nz/news-events-category/general-news/)[Immigration](https://www.laneneave.co.nz/news-events-category/immigration/) 06/07/2026
 ##### Lane Neave welcomes Arran Hunt to its Immigration Law practice
 Lane Neave is thrilled to welcome Arran Hunt, who today, 6 July 2026, joins the firm in Auckland as... Read More
@@ -200,10 +204,6 @@ Lane Neave is thrilled to welcome Arran Hunt, who today, 6 July 2026, joins the 
 ##### Crypto Yield, Full Regulation: What the Australian Block Earner Decision Could Mean for New Zealand Businesses
 A recent decision from Australia’s highest court reinforces a clear message to the crypto industry both across the Tasman... Read More
 [](https://www.laneneave.co.nz/news-events/australia-block-earner-decision-new-zealand/)
-[General News](https://www.laneneave.co.nz/news-events-category/general-news/) 02/07/2026
-##### Six recognised in 2026 mid-year promotions
-Six lawyers and support staff have been recognised for their hard work, talent and drive, in our annual mid-year... Read More
-[](https://www.laneneave.co.nz/news-events/2026-mid-year-promotions/)
 ## Careers
 We're an award-winning firm that handles interesting and diverse work, and has a great culture; want to be part of it? 
 [Careers at Lane Neave](https://www.laneneave.co.nz/careers/)

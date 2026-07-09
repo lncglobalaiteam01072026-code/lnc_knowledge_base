@@ -2,10 +2,10 @@
 access_level: internal
 article_title: Express Entry pool gets more top heavy
 chunk_strategy: standard
-content_hash: 03b5ef9ca68c727d
+content_hash: 203ea929fa20a488
 file_role: news_article
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 0.7
 program: CICNEWS
 pub_date: Tue, 23 Jun 2026 17:48:32 +0000
@@ -195,21 +195,26 @@ Related articles
 
 [![A woman gripping the bridge of her nose in stress.](https://www.cicnews.com/wp-content/uploads/2026/07/Common-reason-ITA-deadline-missed-216x164.jpg)](https://www.cicnews.com/2026/07/a-common-reason-express-entry-candidates-miss-their-ita-deadline-and-how-to-avoid-it-0777502.html)
 Top Stories
-[IRCC publishes updated distribution of Express Entry candidate scores](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
-  * [Express Entry](https://www.cicnews.com/category/express-entry)
+[Manitoba MPs announce work permit extensions for provincial nominee candidates](https://www.cicnews.com/2026/07/manitoba-mps-announce-work-permit-extensions-for-provincial-nominee-candidates-0777749.html)
+  * [Provinces](https://www.cicnews.com/category/provinces)
 
 
-[Canada holds first Canadian Experience Class draw of July](https://www.cicnews.com/2026/07/canada-holds-first-canadian-experience-class-draw-of-july-0777638.html)
-  * [Express Entry](https://www.cicnews.com/category/express-entry)
+[Wait times rise for many temporary residence applicants, IRCC data shows](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
+  * [Canada](https://www.cicnews.com/category/canada)
 
 
-[Analysis: What IRCC’s surrender letters revealed, and what applicants can do going forward](https://www.cicnews.com/2026/07/analysis-irccs-surrender-letters-0777611.html)
+[Canada’s processing time for proof of citizenship jumps to 19 months as the queue nears 100,000](https://www.cicnews.com/2026/07/processing-time-proof-of-citizenship-19-months-queue-nears-100000-0777725.html)
   * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
 Join our free newsletter. Get Canada's top immigration stories delivered to your inbox.
 [Subscribe](https://www.cicnews.com/2026/06/</cicnews-subscribe.html>)
 More in Citizenship
+[Canada’s processing time for proof of citizenship jumps to 19 months as the queue nears 100,000](https://www.cicnews.com/2026/07/processing-time-proof-of-citizenship-19-months-queue-nears-100000-0777725.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
+
+
+[![Processing times for proof of citizenship applications have been on the rise in 2026](https://www.cicnews.com/wp-content/uploads/2026/07/Poc_ProcessingTime_July-216x164.jpg)](https://www.cicnews.com/2026/07/processing-time-proof-of-citizenship-19-months-queue-nears-100000-0777725.html)
 [Analysis: What IRCC’s surrender letters revealed, and what applicants can do going forward](https://www.cicnews.com/2026/07/analysis-irccs-surrender-letters-0777611.html)
   * [Citizenship](https://www.cicnews.com/category/citizenship)
 
@@ -225,22 +230,17 @@ More in Citizenship
 
 
 [![Thousands of Americans may be Canadian citizens and not even know it](https://www.cicnews.com/wp-content/uploads/2026/07/PoC_Myths-216x164.jpg)](https://www.cicnews.com/2026/07/reasons-you-think-you-dont-qualify-for-canadian-citizenship-by-descent-and-why-you-probably-do-0777559.html)
-[This Fourth of July, Americans are discovering that they are Canadian too](https://www.cicnews.com/2026/07/this-fourth-of-july-americans-are-discovering-that-they-are-canadians-too-0777565.html)
-  * [Citizenship](https://www.cicnews.com/category/citizenship)
-
-
-[![A chaotic table holding to passports and a number of scattered notes, as someone tries to trace back their family line to Canada.](https://www.cicnews.com/wp-content/uploads/2026/07/July_4th_Canadians_by_descent_article-216x164.jpg)](https://www.cicnews.com/2026/07/this-fourth-of-july-americans-are-discovering-that-they-are-canadians-too-0777565.html)
 [Read more Citizenship news](https://www.cicnews.com/category/citizenship)
 Top Stories
-[IRCC publishes updated distribution of Express Entry candidate scores](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
-  * [Express Entry](https://www.cicnews.com/category/express-entry)
+[Manitoba MPs announce work permit extensions for provincial nominee candidates](https://www.cicnews.com/2026/07/manitoba-mps-announce-work-permit-extensions-for-provincial-nominee-candidates-0777749.html)
+  * [Provinces](https://www.cicnews.com/category/provinces)
 
 
-[Canada holds first Canadian Experience Class draw of July](https://www.cicnews.com/2026/07/canada-holds-first-canadian-experience-class-draw-of-july-0777638.html)
-  * [Express Entry](https://www.cicnews.com/category/express-entry)
+[Wait times rise for many temporary residence applicants, IRCC data shows](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
+  * [Canada](https://www.cicnews.com/category/canada)
 
 
-[Analysis: What IRCC’s surrender letters revealed, and what applicants can do going forward](https://www.cicnews.com/2026/07/analysis-irccs-surrender-letters-0777611.html)
+[Canada’s processing time for proof of citizenship jumps to 19 months as the queue nears 100,000](https://www.cicnews.com/2026/07/processing-time-proof-of-citizenship-19-months-queue-nears-100000-0777725.html)
   * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 

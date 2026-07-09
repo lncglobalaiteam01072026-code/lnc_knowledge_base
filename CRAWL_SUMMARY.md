@@ -1,8 +1,8 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 09/07/2026 lúc 10:46 sáng (giờ VN)  
+**Cập nhật lúc:** 09/07/2026 lúc 14:51 chiều (giờ VN)  
 **Loại cập nhật:** All  
-**Kết quả:** 121 nguồn | ✅ 120 thành công | ❌ 1 thất bại
+**Kết quả:** 188 nguồn | ✅ 188 thành công | ❌ 0 thất bại
 
 ---
 
@@ -88,9 +88,6 @@
 - ✅ Điều kiện đủ điều kiện
 - ✅ Thống kê & pipeline
 - ✅ Thống kê & pipeline
-- ✅ proof_work_experience_supporting_docs
-- ✅ express_entry_eligibility
-- ✅ express_entry_eligibility_canadian
 - ✅ ee_who_can_apply
 - ✅ ee_check_score
 - ✅ ee_documents
@@ -101,10 +98,80 @@
 - ✅ common_supporting_docs
 - ✅ noc_matrix
 - ✅ noc_it_deep
-- ✅ ee_completeness_check
+- ✅ proof_work_experience
 - ✅ fsw_eligibility
-- ✅ financial_proof_apply_pr
 - ✅ cec_eligibility
+- ✅ noc_profile_21232
+- ✅ noc_profile_21231
+- ✅ noc_profile_21211
+- ✅ noc_profile_21221
+- ✅ noc_profile_21222
+- ✅ noc_profile_21223
+- ✅ noc_profile_21233
+- ✅ noc_profile_21234
+- ✅ noc_profile_21210
+- ✅ noc_profile_21230
+- ✅ noc_profile_20012
+- ✅ noc_profile_10010
+- ✅ noc_profile_20010
+- ✅ noc_profile_11100
+- ✅ noc_profile_11101
+- ✅ work_permit_overview
+- ✅ work_permit_need
+- ✅ work_permit_extend
+- ✅ lmia_overview
+- ✅ lmia_median_wage
+- ✅ prevailing_wage_21232
+- ✅ prevailing_wage_21231
+- ✅ prevailing_wage_21211
+- ✅ prevailing_wage_21221
+- ✅ prevailing_wage_21222
+- ✅ prevailing_wage_21223
+- ✅ prevailing_wage_21210
+- ✅ prevailing_wage_21230
+- ✅ prevailing_wage_20012
+- ✅ prevailing_wage_10010
+- ✅ prevailing_wage_20010
+- ✅ fst_eligibility
+- ✅ imm_forms
+- ✅ wp_guide
+- ✅ wp_application_package
+- ✅ operational_bulletins
+- ✅ irpa_law
+- ✅ irpr_regulation
+- ✅ biometrics
+- ✅ medical_exam
+- ✅ pdi_foreign_workers
+- ✅ pdi_genuineness
+- ✅ pdi_eligibility
+- ✅ pdi_steps_assess
+- ✅ pdi_open_wp
+- ✅ pdi_exemption_codes
+- ✅ pdi_lmia_overview
+- ✅ pdi_applicants_canada
+- ✅ pdi_officer_noc_guide
+- ✅ pdi_functional_toc
+- ✅ pdi_general_proc
+- ✅ pdi_cec_class
+- ✅ pdi_fsw_class
+- ✅ pdi_fst_class
+- ✅ irpa_law
+- ✅ irpa_law
+- ✅ irpa_law
+- ✅ irpa_law
+- ✅ irpr_regulation
+- ✅ irpr_regulation
+- ✅ irpr_regulation
+- ✅ noc_profile
+- ✅ noc_profile
+- ✅ noc_profile
+- ✅ noc_profile
+- ✅ noc_profile
+- ✅ noc_profile
+- ✅ noc_profile
+- ✅ noc_profile
+- ✅ noc_profile
+- ✅ noc_profile
 
 ### Job Bank — Thị trường việc làm Canada
 - ✅ job_market
@@ -126,7 +193,7 @@
 
 ### NZAEWV — New Zealand Accredited Employer Work Visa
 - ✅ program_overview
-- ❌ **employer_requirements** — _ReadTimeout_
+- ✅ employer_requirements
 - ✅ employer_requirements
 - ✅ Thời gian xử lý hồ sơ
 - ✅ Thống kê & pipeline
@@ -144,14 +211,6 @@
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
-
----
-
-## ⚠️ Nguồn bị lỗi
-
-Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
-
-- **employer_requirements** (NZAEWV): https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/
 
 ---
 
