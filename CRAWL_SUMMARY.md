@@ -1,8 +1,8 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 09/07/2026 lúc 16:18 chiều (giờ VN)  
+**Cập nhật lúc:** 09/07/2026 lúc 16:42 chiều (giờ VN)  
 **Loại cập nhật:** All  
-**Kết quả:** 200 nguồn | ✅ 188 thành công | ❌ 12 thất bại
+**Kết quả:** 232 nguồn | ✅ 232 thành công | ❌ 0 thất bại
 
 ---
 
@@ -172,18 +172,50 @@
 - ✅ noc_profile
 - ✅ noc_profile
 - ✅ noc_profile
-- ❌ **pdi_work_without_permit** — _KeyError: 'metadata'_
-- ❌ **pdi_apply_port_entry** — _KeyError: 'metadata'_
-- ❌ **pdi_apply_within_canada** — _KeyError: 'metadata'_
-- ❌ **pdi_protecting_workers** — _KeyError: 'metadata'_
-- ❌ **pdi_wages_conditions** — _KeyError: 'metadata'_
-- ❌ **pdi_noncompliant_employers** — _KeyError: 'metadata'_
-- ❌ **pdi_employer_specific_wp** — _KeyError: 'metadata'_
-- ❌ **pdi_iec_overview** — _KeyError: 'metadata'_
-- ❌ **pdi_iec_eligibility** — _KeyError: 'metadata'_
-- ❌ **pdi_iec_processing** — _KeyError: 'metadata'_
-- ❌ **pdi_bridging_owp** — _KeyError: 'metadata'_
-- ❌ **pdi_implied_status** — _KeyError: 'metadata'_
+- ✅ pdi_work_without_permit
+- ✅ pdi_apply_port_entry
+- ✅ pdi_apply_within_canada
+- ✅ pdi_protecting_workers
+- ✅ pdi_wages_conditions
+- ✅ pdi_noncompliant_employers
+- ✅ pdi_employer_specific_wp
+- ✅ pdi_iec_overview
+- ✅ pdi_iec_eligibility
+- ✅ pdi_iec_processing
+- ✅ pdi_bridging_owp
+- ✅ pdi_implied_status
+- ✅ wp_apply_outside
+- ✅ wp_apply_inside
+- ✅ wp_apply_poe
+- ✅ wp_work_without
+- ✅ wp_employer_specific
+- ✅ wp_open_wp_public
+- ✅ wp_extend_eligibility
+- ✅ wp_extend_apply
+- ✅ wp_extend_after_apply
+- ✅ wp_extend_expired
+- ✅ wp_extend_change_jobs
+- ✅ wp_extend_travel
+- ✅ wp_special_index
+- ✅ wp_pgwp
+- ✅ wp_student_work
+- ✅ wp_iec_public
+- ✅ wp_pr_bridging
+- ✅ wp_spouse_owp
+- ✅ esdc_sin
+- ✅ wp_restore_status
+- ✅ wp_worker_rights
+- ✅ esdc_report_abuse
+- ✅ esdc_lmia_high
+- ✅ esdc_lmia_high_req
+- ✅ esdc_lmia_low
+- ✅ esdc_lmia_low_req
+- ✅ ircc_hire_temp_foreign
+- ✅ ircc_hire_perm_foreign
+- ✅ ircc_hire_home_care
+- ✅ ircc_hire_intern
+- ✅ ircc_employers_noncompliant
+- ✅ ircc_find_lmia
 
 ### Job Bank — Thị trường việc làm Canada
 - ✅ job_market
@@ -223,25 +255,6 @@
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
-
----
-
-## ⚠️ Nguồn bị lỗi
-
-Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
-
-- **pdi_work_without_permit** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit.html
-- **pdi_apply_port_entry** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-port-entry.html
-- **pdi_apply_within_canada** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-within-canada.html
-- **pdi_protecting_workers** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/protecting-workers-abuse-exploitation.html
-- **pdi_wages_conditions** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/wages-occupation-working-conditions.html
-- **pdi_noncompliant_employers** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html
-- **pdi_employer_specific_wp** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html
-- **pdi_iec_overview** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/international-experience-canada-r205-b-exemption-code-c21-overview.html
-- **pdi_iec_eligibility** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-eligibility.html
-- **pdi_iec_processing** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-processing-procedures.html
-- **pdi_bridging_owp** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/bridging-open-work-permits.html
-- **pdi_implied_status** (IRCC): https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/implied-status-extending-stay.html
 
 ---
 
