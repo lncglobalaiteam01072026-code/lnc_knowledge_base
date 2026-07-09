@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 7440e7ef5d35a525
+content_hash: 65f5fa460714bdca
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
@@ -340,7 +340,7 @@ Podcast posted on June 12, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about
 In this refreshed episode of the Ask Canada Immigration Lawyer Evelyn Ackah podcast, Evelyn revisits her conversation with Calgary wills and estates lawyer Gordon Vanderleek about ...
 [Read More](https://www.ackahlaw.com/news/episode-97-estate-planning-wills-and-peace-of-mind-for-families-in-canada-with-gordon-vanderleek)
 [](https://www.ackahlaw.com/news/podcast)
-[ ![Work Permits, PR, and Citizenship: Building an Immigration Roadmap for Key Talent](https://www.ackahlaw.com/assets/Uploads/img/_1100x480_crop_center-center_70_none/Ackah-Law-Business-Immigration-Canada-and-US-Immigration-Lawyers-Evelyn.jpg) ](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
+[ ![Work Permits, PR, and Citizenship: Building an Immigration Roadmap for Key Talent](https://www.ackahlaw.com/assets/Uploads/img/_1100x480_crop_center-center_70_none/media-default-3.jpg) ](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
 ###  [ Work Permits, PR, and Citizenship: Building an Immigration Roadmap for Key Talent ](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
 Blog posted on June 10, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about/about-ackah-law/team/evelyn-ackah)
 Canada’s current immigration policy has begun to prioritize transitioning those already inside Canada toward permanent residence and eventual citizenship. While the Country ...
@@ -352,7 +352,7 @@ Blog posted on June 03, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about/ab
 Canada's New TR to PR Pathway 2026: What Temporary Workers Need to Know NowCanada’s 2026 TR to PR update is officially called the one-time In-Canada Workers Initiative and it is designed ...
 [Read More](https://www.ackahlaw.com/news/canadas-new-temporary-residents-to-permanent-residence-pathway-2026)
 [](https://www.ackahlaw.com/news/blog)
-[ ![Mergers, Acquisitions, and Immigration: What Buyers and Investors Need to Know](https://www.ackahlaw.com/assets/Uploads/img/_1100x480_crop_center-center_70_none/media-default.jpg) ](https://www.ackahlaw.com/news/mergers-acquisitions-and-immigration-what-buyers-and-investors-need-to-know)
+[ ![Mergers, Acquisitions, and Immigration: What Buyers and Investors Need to Know](https://www.ackahlaw.com/assets/Uploads/img/_1100x480_crop_center-center_70_none/media-default-2.jpg) ](https://www.ackahlaw.com/news/mergers-acquisitions-and-immigration-what-buyers-and-investors-need-to-know)
 ###  [ Mergers, Acquisitions, and Immigration: What Buyers and Investors Need to Know ](https://www.ackahlaw.com/news/mergers-acquisitions-and-immigration-what-buyers-and-investors-need-to-know)
 Blog posted on May 13, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about/about-ackah-law/team/evelyn-ackah)
 Mergers and acquisitions are important processes in the Canadian economy, allowing companies to expand across borders, take advantage of new opportunities, and capture global ...
