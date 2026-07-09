@@ -3025,6 +3025,381 @@
         "lang": "en",
         "access_level": "chatbot"
       }
+    },
+    {
+      "id": "noc_profile_21232",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21232&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21232.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21232",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21232",
+        "noc_title": "Software developers and programmers"
+      }
+    },
+    {
+      "id": "noc_profile_21231",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21231&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21231.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21231",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21231",
+        "noc_title": "Software engineers and designers"
+      }
+    },
+    {
+      "id": "noc_profile_21211",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21211&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21211.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21211",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21211",
+        "noc_title": "Data scientists"
+      }
+    },
+    {
+      "id": "noc_profile_21221",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21221&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21221.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21221",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21221",
+        "noc_title": "Business systems specialists"
+      }
+    },
+    {
+      "id": "noc_profile_21222",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21222&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21222.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21222",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21222",
+        "noc_title": "Information systems specialists"
+      }
+    },
+    {
+      "id": "noc_profile_21223",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21223&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21223.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21223",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21223",
+        "noc_title": "Database analysts and data administrators"
+      }
+    },
+    {
+      "id": "noc_profile_21233",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21233&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21233.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21233",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21233",
+        "noc_title": "Web designers"
+      }
+    },
+    {
+      "id": "noc_profile_21234",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21234&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21234.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21234",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21234",
+        "noc_title": "Web developers and programmers"
+      }
+    },
+    {
+      "id": "noc_profile_21210",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21210&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21210.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21210",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21210",
+        "noc_title": "Cybersecurity specialists"
+      }
+    },
+    {
+      "id": "noc_profile_21230",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=21230&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_21230.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_21230",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "21230",
+        "noc_title": "Computer systems developers and programmers"
+      }
+    },
+    {
+      "id": "noc_profile_20012",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=20012&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_20012.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_20012",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "20012",
+        "noc_title": "Computer and information systems managers"
+      }
+    },
+    {
+      "id": "noc_profile_10010",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=10010&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_10010.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_10010",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "10010",
+        "noc_title": "Financial managers"
+      }
+    },
+    {
+      "id": "noc_profile_20010",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=20010&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_20010.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_20010",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "20010",
+        "noc_title": "Engineering managers"
+      }
+    },
+    {
+      "id": "noc_profile_11100",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=11100&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_11100.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_11100",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "11100",
+        "noc_title": "Financial auditors and accountants"
+      }
+    },
+    {
+      "id": "noc_profile_11101",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "annual",
+      "url": "https://noc.esdc.gc.ca/Structure/NOCProfile?GocTemplateCulture=en-CA&code=11101&version=2021.0",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 1.0,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/noc/profiles/noc_11101.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "noc_profile_11101",
+        "lang": "en",
+        "access_level": "chatbot",
+        "noc_code": "11101",
+        "noc_title": "Financial analysts"
+      }
     }
   ]
 }
