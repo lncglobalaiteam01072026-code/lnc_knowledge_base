@@ -1,8 +1,8 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 09/07/2026 lúc 15:31 chiều (giờ VN)  
+**Cập nhật lúc:** 09/07/2026 lúc 15:48 chiều (giờ VN)  
 **Loại cập nhật:** All  
-**Kết quả:** 188 nguồn | ✅ 188 thành công | ❌ 0 thất bại
+**Kết quả:** 188 nguồn | ✅ 187 thành công | ❌ 1 thất bại
 
 ---
 
@@ -74,7 +74,7 @@
 - ✅ entrepreneur_stream
 - ✅ entrepreneur_stream
 - ✅ Quy trình nộp hồ sơ
-- ✅ Hướng dẫn
+- ❌ **Hướng dẫn** — _RemoteProtocolError: Server disconnected without sending a response._
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
 
@@ -211,6 +211,14 @@
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
 - ✅ Hướng dẫn
+
+---
+
+## ⚠️ Nguồn bị lỗi
+
+Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
+
+- **Hướng dẫn** (BCPNP): https://www2.gov.bc.ca/gov/content/employment-business/business/small-business/resources/starting-a-small-business-guide
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 65f5fa460714bdca
+content_hash: c0a1c964dea3dd6b
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
@@ -17,7 +17,7 @@ topic: guide
 version: '1.0'
 ---
 
-x [ ](https://wa.me/15874045692 "Whatsapp Ackah Law") [ (587) 404-5692 ](tel:+15874045692 "Phone Ackah Law")
+x [ ](https://wa.me/15878543821 "Whatsapp Ackah Law") [ (587) 854-3821 ](tel:+15878543821 "Phone Ackah Law")
 Select LanguageEnglishFrançais简体中文हिन्दीEspañolالعربيةবাংলাPortuguêsРусскийBahasa IndonesiaاردوDeutsch日本語मराठीTiếng ViệtతెలుగుHarshen HausaTürkçeਪੰਜਾਬੀKiswahiliFilipino
 [ ![Ackah Business Immigration Law: Award Winning Canada Law Firm](https://www.ackahlaw.com/assets/img/ackah-logo-small-wh.svg) ](https://www.ackahlaw.com/)
 [](https://www.ackahlaw.com/news/<javascript:void\(0\)> "Seach")
@@ -316,7 +316,7 @@ Search Ackah Law...
 [Contact us](https://www.ackahlaw.com/news/<javascript:void\(0\)> "Open contact information box")
 [](https://www.ackahlaw.com/news/<javascript:void\(0\)> "Close contact information box")
 Contact Information
-[ 1 (587) 404-5692 ](https://wa.me/15874045692)
+[ 1 (587) 854-3821 ](https://wa.me/15878543821)
 [ 1 (800) 932-1190 ](tel:+18009321190)
 [ Learn how we can help you ](https://www.ackahlaw.com/news/</about>)
 [ More Options... ](https://www.ackahlaw.com/news/</about/contact>)
@@ -334,25 +334,25 @@ Blog posted on June 19, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about/ab
 Immigration, Refugees and Citizenship Canada has updated its Document Checklist for Application for a Citizenship Certificate, also known as Proof of Citizenship. The June 2026 ...
 [Read More](https://www.ackahlaw.com/news/ircc-updates-proof-of-citizenship-applications-what-applicants-need-to-know-about-the-new-cit-0014-checklist)
 [](https://www.ackahlaw.com/news/blog)
-[ ![Episode 97: Estate Planning, Wills and Peace of Mind for Families in Canada with Gordon Vanderleek](https://www.ackahlaw.com/assets/Uploads/img/news/_1100x480_crop_center-center_70_none/62210/Guest-Episode_2026-06-12-175758_oqif.jpg) ](https://www.ackahlaw.com/news/episode-97-estate-planning-wills-and-peace-of-mind-for-families-in-canada-with-gordon-vanderleek)
+[ ![Episode 97: Estate Planning, Wills and Peace of Mind for Families in Canada with Gordon Vanderleek](https://www.ackahlaw.com/assets/img/placeholder-800x350-img.png) ](https://www.ackahlaw.com/news/episode-97-estate-planning-wills-and-peace-of-mind-for-families-in-canada-with-gordon-vanderleek)
 ###  [ Episode 97: Estate Planning, Wills and Peace of Mind for Families in Canada with Gordon Vanderleek ](https://www.ackahlaw.com/news/episode-97-estate-planning-wills-and-peace-of-mind-for-families-in-canada-with-gordon-vanderleek)
 Podcast posted on June 12, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about/about-ackah-law/team/evelyn-ackah)
 In this refreshed episode of the Ask Canada Immigration Lawyer Evelyn Ackah podcast, Evelyn revisits her conversation with Calgary wills and estates lawyer Gordon Vanderleek about ...
 [Read More](https://www.ackahlaw.com/news/episode-97-estate-planning-wills-and-peace-of-mind-for-families-in-canada-with-gordon-vanderleek)
 [](https://www.ackahlaw.com/news/podcast)
-[ ![Work Permits, PR, and Citizenship: Building an Immigration Roadmap for Key Talent](https://www.ackahlaw.com/assets/Uploads/img/_1100x480_crop_center-center_70_none/media-default-3.jpg) ](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
+[ ![Work Permits, PR, and Citizenship: Building an Immigration Roadmap for Key Talent](https://www.ackahlaw.com/assets/img/placeholder-800x350-img.png) ](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
 ###  [ Work Permits, PR, and Citizenship: Building an Immigration Roadmap for Key Talent ](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
 Blog posted on June 10, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about/about-ackah-law/team/evelyn-ackah)
 Canada’s current immigration policy has begun to prioritize transitioning those already inside Canada toward permanent residence and eventual citizenship. While the Country ...
 [Read More](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
 [](https://www.ackahlaw.com/news/blog)
-[ ![Canada's New Temporary Residents to Permanent Residence Pathway 2026](https://www.ackahlaw.com/assets/Uploads/img/news/_1100x480_crop_center-center_70_none/62201/Canadas-New-Temporary-Residents-to-Permanent-Residence-Pathway-2026.jpg) ](https://www.ackahlaw.com/news/canadas-new-temporary-residents-to-permanent-residence-pathway-2026)
+[ ![Canada's New Temporary Residents to Permanent Residence Pathway 2026](https://www.ackahlaw.com/assets/img/placeholder-800x350-img.png) ](https://www.ackahlaw.com/news/canadas-new-temporary-residents-to-permanent-residence-pathway-2026)
 ###  [ Canada's New Temporary Residents to Permanent Residence Pathway 2026 ](https://www.ackahlaw.com/news/canadas-new-temporary-residents-to-permanent-residence-pathway-2026)
 Blog posted on June 03, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about/about-ackah-law/team/evelyn-ackah) in [Permanent Residence](https://www.ackahlaw.com/news/category/permanent-residence) and [Temporary Resident Permit](https://www.ackahlaw.com/news/category/temporary-resident-permit)
 Canada's New TR to PR Pathway 2026: What Temporary Workers Need to Know NowCanada’s 2026 TR to PR update is officially called the one-time In-Canada Workers Initiative and it is designed ...
 [Read More](https://www.ackahlaw.com/news/canadas-new-temporary-residents-to-permanent-residence-pathway-2026)
 [](https://www.ackahlaw.com/news/blog)
-[ ![Mergers, Acquisitions, and Immigration: What Buyers and Investors Need to Know](https://www.ackahlaw.com/assets/Uploads/img/_1100x480_crop_center-center_70_none/media-default-2.jpg) ](https://www.ackahlaw.com/news/mergers-acquisitions-and-immigration-what-buyers-and-investors-need-to-know)
+[ ![Mergers, Acquisitions, and Immigration: What Buyers and Investors Need to Know](https://www.ackahlaw.com/assets/img/placeholder-800x350-img.png) ](https://www.ackahlaw.com/news/mergers-acquisitions-and-immigration-what-buyers-and-investors-need-to-know)
 ###  [ Mergers, Acquisitions, and Immigration: What Buyers and Investors Need to Know ](https://www.ackahlaw.com/news/mergers-acquisitions-and-immigration-what-buyers-and-investors-need-to-know)
 Blog posted on May 13, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about/about-ackah-law/team/evelyn-ackah)
 Mergers and acquisitions are important processes in the Canadian economy, allowing companies to expand across borders, take advantage of new opportunities, and capture global ...
@@ -379,7 +379,7 @@ If you are a Canadian founder or CEO, you probably have specific immigration goa
 [](https://www.ackahlaw.com/news/p2)
 [![Ackah Law](https://www.ackahlaw.com/assets/img/ackah-law-wh.svg)](https://www.ackahlaw.com/)
 [ ![Be part of our VIP Top 100 Referrals List](https://www.ackahlaw.com/assets/img/referral-badge.png) ](https://ackahlaw.myflodesk.com/vip-top-100-referrals)
-[ ](https://twitter.com/Ackahlaw/ "Twitter") [ ](https://www.facebook.com/AckahBusinessImmigrationLaw/ "Facebook") [ ](https://www.linkedin.com/company/ackah-business-immigration-law/ "Linkedin") [ ](https://www.youtube.com/channel/UCw7M2pQKwsRteq-nThuaELQ "Youtube") [ ](https://www.instagram.com/ackahlaw/ "Instagram") [ ](https://podcasts.apple.com/us/podcast/ask-canada-immigration-lawyer-evelyn-ackah/id1461504289 "Apple-podcast") [ ](https://www.ackahlaw.com/news/podcast "Podcast-circle") [ ](https://www.tiktok.com/@evelynackahlawyer "Tiktok") [ ](https://wa.me/15874045692 "Whatsapp")
+[ ](https://twitter.com/Ackahlaw/ "Twitter") [ ](https://www.facebook.com/AckahBusinessImmigrationLaw/ "Facebook") [ ](https://www.linkedin.com/company/ackah-business-immigration-law/ "Linkedin") [ ](https://www.youtube.com/channel/UCw7M2pQKwsRteq-nThuaELQ "Youtube") [ ](https://www.instagram.com/ackahlaw/ "Instagram") [ ](https://podcasts.apple.com/us/podcast/ask-canada-immigration-lawyer-evelyn-ackah/id1461504289 "Apple-podcast") [ ](https://www.ackahlaw.com/news/podcast "Podcast-circle") [ ](https://www.tiktok.com/@evelynackahlawyer "Tiktok") [ ](https://wa.me/15878543821 "Whatsapp")
   * [Corporate Immigration](https://www.ackahlaw.com/services/corporate-immigration)
   * [Personal Immigration](https://www.ackahlaw.com/services/personal-immigration)
   * [Resources](https://www.ackahlaw.com/resources)
