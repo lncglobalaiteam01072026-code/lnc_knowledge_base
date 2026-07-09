@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 9e27070efe3763cd
+content_hash: 4e5d2bf3cccb1e2e
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-08'
+last_updated: '2026-07-09'
 priority_weight: 0.9
 program: AAIP
 province: AB
@@ -17,7 +17,7 @@ topic: guide
 version: '1.0'
 ---
 
-x [ ](https://wa.me/15874045692 "Whatsapp Ackah Law") [ (587) 404-5692 ](tel:+15874045692 "Phone Ackah Law")
+x [ ](https://wa.me/15878543866 "Whatsapp Ackah Law") [ (587) 854-3866 ](tel:+15878543866 "Phone Ackah Law")
 Select LanguageEnglishFrançais简体中文हिन्दीEspañolالعربيةবাংলাPortuguêsРусскийBahasa IndonesiaاردوDeutsch日本語मराठीTiếng ViệtతెలుగుHarshen HausaTürkçeਪੰਜਾਬੀKiswahiliFilipino
 [ ![Ackah Business Immigration Law: Award Winning Canada Law Firm](https://www.ackahlaw.com/assets/img/ackah-logo-small-wh.svg) ](https://www.ackahlaw.com/)
 [](https://www.ackahlaw.com/news/<javascript:void\(0\)> "Seach")
@@ -316,7 +316,7 @@ Search Ackah Law...
 [Contact us](https://www.ackahlaw.com/news/<javascript:void\(0\)> "Open contact information box")
 [](https://www.ackahlaw.com/news/<javascript:void\(0\)> "Close contact information box")
 Contact Information
-[ 1 (587) 404-5692 ](https://wa.me/15874045692)
+[ 1 (587) 854-3866 ](https://wa.me/15878543866)
 [ 1 (800) 932-1190 ](tel:+18009321190)
 [ Learn how we can help you ](https://www.ackahlaw.com/news/</about>)
 [ More Options... ](https://www.ackahlaw.com/news/</about/contact>)
@@ -340,7 +340,7 @@ Podcast posted on June 12, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about
 In this refreshed episode of the Ask Canada Immigration Lawyer Evelyn Ackah podcast, Evelyn revisits her conversation with Calgary wills and estates lawyer Gordon Vanderleek about ...
 [Read More](https://www.ackahlaw.com/news/episode-97-estate-planning-wills-and-peace-of-mind-for-families-in-canada-with-gordon-vanderleek)
 [](https://www.ackahlaw.com/news/podcast)
-[ ![Work Permits, PR, and Citizenship: Building an Immigration Roadmap for Key Talent](https://www.ackahlaw.com/assets/Uploads/img/_1100x480_crop_center-center_70_none/media-default-3.jpg) ](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
+[ ![Work Permits, PR, and Citizenship: Building an Immigration Roadmap for Key Talent](https://www.ackahlaw.com/assets/Uploads/img/_1100x480_crop_center-center_70_none/Evelyn-Ackah-Doorway.jpg) ](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
 ###  [ Work Permits, PR, and Citizenship: Building an Immigration Roadmap for Key Talent ](https://www.ackahlaw.com/news/work-permits-pr-and-citizenship-building-an-immigration-roadmap-for-key-talent)
 Blog posted on June 10, 2026 by [Evelyn Ackah](https://www.ackahlaw.com/about/about-ackah-law/team/evelyn-ackah)
 Canada’s current immigration policy has begun to prioritize transitioning those already inside Canada toward permanent residence and eventual citizenship. While the Country ...
@@ -379,7 +379,7 @@ If you are a Canadian founder or CEO, you probably have specific immigration goa
 [](https://www.ackahlaw.com/news/p2)
 [![Ackah Law](https://www.ackahlaw.com/assets/img/ackah-law-wh.svg)](https://www.ackahlaw.com/)
 [ ![Be part of our VIP Top 100 Referrals List](https://www.ackahlaw.com/assets/img/referral-badge.png) ](https://ackahlaw.myflodesk.com/vip-top-100-referrals)
-[ ](https://twitter.com/Ackahlaw/ "Twitter") [ ](https://www.facebook.com/AckahBusinessImmigrationLaw/ "Facebook") [ ](https://www.linkedin.com/company/ackah-business-immigration-law/ "Linkedin") [ ](https://www.youtube.com/channel/UCw7M2pQKwsRteq-nThuaELQ "Youtube") [ ](https://www.instagram.com/ackahlaw/ "Instagram") [ ](https://podcasts.apple.com/us/podcast/ask-canada-immigration-lawyer-evelyn-ackah/id1461504289 "Apple-podcast") [ ](https://www.ackahlaw.com/news/podcast "Podcast-circle") [ ](https://www.tiktok.com/@evelynackahlawyer "Tiktok") [ ](https://wa.me/15874045692 "Whatsapp")
+[ ](https://twitter.com/Ackahlaw/ "Twitter") [ ](https://www.facebook.com/AckahBusinessImmigrationLaw/ "Facebook") [ ](https://www.linkedin.com/company/ackah-business-immigration-law/ "Linkedin") [ ](https://www.youtube.com/channel/UCw7M2pQKwsRteq-nThuaELQ "Youtube") [ ](https://www.instagram.com/ackahlaw/ "Instagram") [ ](https://podcasts.apple.com/us/podcast/ask-canada-immigration-lawyer-evelyn-ackah/id1461504289 "Apple-podcast") [ ](https://www.ackahlaw.com/news/podcast "Podcast-circle") [ ](https://www.tiktok.com/@evelynackahlawyer "Tiktok") [ ](https://wa.me/15878543866 "Whatsapp")
   * [Corporate Immigration](https://www.ackahlaw.com/services/corporate-immigration)
   * [Personal Immigration](https://www.ackahlaw.com/services/personal-immigration)
   * [Resources](https://www.ackahlaw.com/resources)

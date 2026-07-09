@@ -1,8 +1,8 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 09/07/2026 lúc 10:04 sáng (giờ VN)  
+**Cập nhật lúc:** 09/07/2026 lúc 10:46 sáng (giờ VN)  
 **Loại cập nhật:** All  
-**Kết quả:** 115 nguồn | ✅ 114 thành công | ❌ 1 thất bại
+**Kết quả:** 121 nguồn | ✅ 120 thành công | ❌ 1 thất bại
 
 ---
 
@@ -99,9 +99,15 @@
 - ✅ ee_after_apply
 - ✅ ee_application_approved
 - ✅ common_supporting_docs
+- ✅ noc_matrix
+- ✅ noc_it_deep
+- ✅ ee_completeness_check
+- ✅ fsw_eligibility
+- ✅ financial_proof_apply_pr
+- ✅ cec_eligibility
 
 ### Job Bank — Thị trường việc làm Canada
-- ❌ **job_market** — _ReadError_
+- ✅ job_market
 - ✅ job_market
 
 ### CIC News — Tin tức di trú
@@ -120,7 +126,7 @@
 
 ### NZAEWV — New Zealand Accredited Employer Work Visa
 - ✅ program_overview
-- ✅ employer_requirements
+- ❌ **employer_requirements** — _ReadTimeout_
 - ✅ employer_requirements
 - ✅ Thời gian xử lý hồ sơ
 - ✅ Thống kê & pipeline
@@ -145,7 +151,7 @@
 
 Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
 
-- **job_market** (JOBBANK): https://www.jobbank.gc.ca/trend-analysis/job-market-reports/alberta
+- **employer_requirements** (NZAEWV): https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/
 
 ---
 
