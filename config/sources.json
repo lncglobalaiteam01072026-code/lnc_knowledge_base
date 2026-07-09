@@ -2700,6 +2700,190 @@
         "lang": "en",
         "access_level": "chatbot"
       }
+    },
+    {
+      "id": "ircc_ee_who_can_apply",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply.html",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/express_entry/who_can_apply.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ee_who_can_apply",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_ee_check_score",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/express_entry/check_score.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ee_check_score",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_ee_documents",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents.html",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/express_entry/documents.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ee_documents",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_ee_create_profile",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/create-profile.html",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/express_entry/create_profile.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ee_create_profile",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_ee_rounds_invitations",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/express_entry/rounds_invitations.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ee_rounds_invitations",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_ee_after_apply",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/after-apply.html",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/express_entry/after_apply.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ee_after_apply",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_ee_application_approved",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/application-approved.html",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/express_entry/application_approved.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "ee_application_approved",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
+    },
+    {
+      "id": "ircc_common_supporting_docs",
+      "program": "IRCC",
+      "layer": "09_regulations",
+      "frequency": "quarterly",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/common-supporting-documents.html",
+      "content_selector": "main",
+      "chunk_strategy": "standard",
+      "has_tables": false,
+      "priority_weight": 0.9,
+      "output_files": [
+        {
+          "file": "09_regulations/canada/express_entry/common_supporting_docs.md",
+          "section_selector": "full_page"
+        }
+      ],
+      "metadata": {
+        "program": "IRCC",
+        "topic": "common_supporting_docs",
+        "lang": "en",
+        "access_level": "chatbot"
+      }
     }
   ]
 }
