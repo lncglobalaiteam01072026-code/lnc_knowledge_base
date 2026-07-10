@@ -2,10 +2,10 @@
 access_level: internal
 article_count: 0
 chunk_strategy: standard
-content_hash: d71ca5debc47d26d
+content_hash: dcd99f755f2c042d
 file_role: pnp_news
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 0.7
 program: CICNEWS
 retrieval_strategy: direct
@@ -17,7 +17,7 @@ version: '1.0'
 
 # CIC News â€” Provincial Nominees
 
-**Crawled:** 2026-07-09  
+**Crawled:** 2026-07-10  
 **Source:** https://www.cicnews.com/category/provincial-nominees/feed/
 
 ---

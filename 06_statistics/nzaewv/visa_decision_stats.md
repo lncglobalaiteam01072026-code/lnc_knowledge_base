@@ -5,7 +5,7 @@ content_hash: ad17f332eb42a18a
 country: NZ
 file_role: visa_decision_stats
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct

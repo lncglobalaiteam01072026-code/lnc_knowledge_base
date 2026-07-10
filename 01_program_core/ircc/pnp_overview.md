@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 71416430951505fa
 file_role: pnp_overview
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 0.9
 program: BOTH
 retrieval_strategy: direct

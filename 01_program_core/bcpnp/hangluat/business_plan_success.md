@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 6ec1ca200a99f5ec
 file_role: business_plan_success
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: BCPNP
 province: BC

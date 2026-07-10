@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 2cbc64e64eba3fe6
+content_hash: fc24ad3ad53cf11e
 file_role: eligibility
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -38,7 +38,7 @@ Area: Language. Requirement: Have a minimum Canadian Language Benchmark (CLB) le
 Check the IRCC guideline [on CLB/NCLC equivalency](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html) for each of the tests.  
 Business establishment| Must establish a new business or buy an existing business in Alberta with a minimum 34% ownership. The proposed business type must not be on the [list of ineligible businesses](#graduate-entrepreneur-stream-ineligibility).Candidates are not required to establish a business in Alberta until their Business Application is approved by AAIP. [Find resources](https://www.alberta.ca/small-business-resources) on how to establish a business in Alberta, including supports and services related to business plan development, business start-up, and business loans.Business Partners must be Canadian Citizens or Permanent Residents.  
 ### Factors that increase your chances
-If you have one or more of the following adaptability factors, this may increase your likelihood of receiving a Request to submit Business Application:
+If you have one or more of the following adaptability factors, this may increase your likelihood of receiving a Request to submit Business Application.
 **Table 2.** Factors that increase your chances.
 Criteria: Work experience. Adaptability factors: Have a minimum of 6 months of full-time work experience that can be a combination of actively managing or owning the business or equivalencies. Equivalencies include experience with a business incubator or business accelerator, or completion of entrepreneurship program courses.*Work experience can be acquired:.
   * from outside Canada or within Canada

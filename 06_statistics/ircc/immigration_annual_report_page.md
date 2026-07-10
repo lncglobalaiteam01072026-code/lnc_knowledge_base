@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 11caf10e1dcb63e5
 file_role: immigration_annual_report_page
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 0.8
 program: IRCC
 retrieval_strategy: direct

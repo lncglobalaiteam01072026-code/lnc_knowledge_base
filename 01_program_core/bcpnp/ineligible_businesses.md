@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: fcdb49fe9af76e3e
 file_role: ineligible_businesses
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: BCPNP
 province: BC

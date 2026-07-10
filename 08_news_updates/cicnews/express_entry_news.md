@@ -2,10 +2,10 @@
 access_level: internal
 article_count: 10
 chunk_strategy: standard
-content_hash: cecd8f468e6b83a3
+content_hash: 12cde12088494b86
 file_role: express_entry_news
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 0.7
 program: CICNEWS
 retrieval_strategy: direct
@@ -17,8 +17,18 @@ version: '1.0'
 
 # CIC News â€” Express Entry
 
-**Crawled:** 2026-07-09  
+**Crawled:** 2026-07-10  
 **Source:** https://www.cicnews.com/category/express-entry/feed/
+
+---
+
+## Canada invites French-speaking candidates to apply for permanent residence through Express Entry
+
+**Date:** Thu, 09 Jul 2026 15:00:13 +0000  
+**Link:** https://www.cicnews.com/2026/07/canada-invites-french-speaking-candidates-to-apply-for-permanent-residence-through-express-entry-0777713.html
+
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 5,000 ITAs in a draw for candidates with French language proficiency. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 420; and Created an [&#8230;]
+The post Canada invites French-speaking candidates to apply for permanent residence through Express Entry first appeared on CIC News.
 
 ---
 
@@ -109,15 +119,5 @@ The post Canada holds largest Canadian Experience Class draw since March first a
 
 Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 955 ITAs in a draw for Provincial Nominee Program (PNP) candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 730; and Created an [&#8230;]
 The post Provincial nominees receive invitations in first Express Entry draw since May first appeared on CIC News.
-
----
-
-## Proposed high-wage factor offers boon to Express Entry candidates in these priority occupations
-
-**Date:** Fri, 12 Jun 2026 11:00:26 +0000  
-**Link:** https://www.cicnews.com/2026/06/proposed-high-wage-factor-offers-boon-to-express-entry-candidates-in-these-priority-occupations-0676571.html
-
-Of the occupations currently being prioritized for permanent residence by the Canadian federal government, about four in ten are set to receive a further boost in priority through the proposed high-wage occupation factor. As it stands today, 89 occupations are prioritized through category-based selection (CBS), which allows qualifying candidates to be selected as permanent residents [&#8230;]
-The post Proposed high-wage factor offers boon to Express Entry candidates in these priority occupations first appeared on CIC News.
 
 ---

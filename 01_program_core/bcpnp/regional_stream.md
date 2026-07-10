@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 02314db4b5aaf652
 file_role: regional_stream
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: BCPNP
 province: BC

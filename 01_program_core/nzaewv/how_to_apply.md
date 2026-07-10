@@ -5,7 +5,7 @@ content_hash: c16b616adbcbbd00
 country: NZ
 file_role: how_to_apply
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct
