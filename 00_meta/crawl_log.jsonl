@@ -3072,3 +3072,6 @@
 {"run_id": "2026-07-10T03:04Z_all", "source_id": "lane_neave_nz", "status": "ok", "changed": true, "duration_s": 8.6, "timestamp": "2026-07-10T03:04:25.403211+00:00"}
 {"run_id": "2026-07-10T03:04Z_all", "source_id": "queen_city_law_nz", "status": "ok", "changed": true, "duration_s": 6.8, "timestamp": "2026-07-10T03:04:25.403211+00:00"}
 {"run_id": "2026-07-10T03:04Z_all", "source_id": "reddit_nz", "status": "ok", "changed": false, "duration_s": 6.3, "timestamp": "2026-07-10T03:04:25.403211+00:00"}
+{"run_id": "2026-07-10T11:38Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": false, "duration_s": 12.8, "timestamp": "2026-07-10T11:38:33.710434+00:00"}
+{"run_id": "2026-07-10T11:38Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": false, "duration_s": 12.9, "timestamp": "2026-07-10T11:38:33.710434+00:00"}
+{"run_id": "2026-07-10T11:38Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": false, "duration_s": 13.9, "timestamp": "2026-07-10T11:38:33.710434+00:00"}
