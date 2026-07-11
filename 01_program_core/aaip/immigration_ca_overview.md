@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: bbeba89d567c0f60
+content_hash: 4850cb2cf7442998
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-07-11'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -371,18 +371,18 @@ Colin R. Singer, Managing Partner of immigration.ca, has been a licensed immigra
 
 
 Latest News
+  * [![Express Entry Invitations to French Speakers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2025/10/Express-Entry-Invitations-to-French-Speakers-40x40.jpg)](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)
+[Canada Issues 5,000 Invitations to French-Speaking Candidates in New Express Entry Draw](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)July 10, 2026
+  * [![Ontario Targets Early Childhood Educators With 244 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/06/Ontario-Targets-Early-Childhood-Educators-With-244-Canada-Immigration-Invitations-1-40x40.jpg)](https://immigration.ca/quebec-to-prioritize-permanent-residents-and-established-workers-for-subsidized-daycare-spaces/)
+[Quebec To Prioritize Permanent Residents And Established Workers For Subsidized Daycare Spaces](https://immigration.ca/quebec-to-prioritize-permanent-residents-and-established-workers-for-subsidized-daycare-spaces/)July 9, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2026/02/Citizenship-By-Descent-FAQ-Hub-40x40.jpg)](https://immigration.ca/100000-citizenship-backlog-can-bill-c-3-applicants-force-ircc-to-act/)
+[100,000 Citizenship Backlog: Can Bill C-3 Applicants Force IRCC To Act?](https://immigration.ca/100000-citizenship-backlog-can-bill-c-3-applicants-force-ircc-to-act/)July 9, 2026
+  * [![IRCC Express Entry Targets Canadian Experience Class Workers Immigrating to Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2025/11/IRCC-Express-Entry-Targets-Canadian-Experience-Class-Workers-Immigrating-to-Canada-40x40.jpg)](https://immigration.ca/canada-issues-2000-invitations-canadian-experience-class-express-entry-draw-july-2026/)
+[Canada Issues 2,000 Invitations in New Canadian Experience Class Express Entry Draw](https://immigration.ca/canada-issues-2000-invitations-canadian-experience-class-express-entry-draw-july-2026/)July 8, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2018/08/Post-Graduate-Students-in-Toronto-Immigrate-to-Canada-40x40.jpg)](https://immigration.ca/ontarios-oinp-overhaul-what-changed-who-loses-who-gains-and-what-candidates-should-do-now/)
 [Ontario’s OINP Overhaul: What Changed, Who Loses, Who Gains, And What Candidates Should Do Now](https://immigration.ca/ontarios-oinp-overhaul-what-changed-who-loses-who-gains-and-what-candidates-should-do-now/)July 7, 2026
   * [![Canada Issues 648 Invitations In New Provincial Nominee Program Express Entry Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/10/Canada-Issues-648-Invitations-In-New-Provincial-Nominee-Program-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-issues-534-invitations-in-new-provincial-nominee-program-express-entry-draw/)
 [Canada Issues 534 Invitations in New Provincial Nominee Program Express Entry Draw](https://immigration.ca/canada-issues-534-invitations-in-new-provincial-nominee-program-express-entry-draw/)July 7, 2026
-  * [![Some Trucking Employers Are Exploiting LMIA Process](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/08/Some-Trucking-Employers-Are-Exploiting-LMIA-Process-40x40.jpg)](https://immigration.ca/how-to-prepare-for-saskatchewans-next-sinp-intake-window-in-july/)
-[How To Prepare For Saskatchewan’s Next SINP Intake Window In July](https://immigration.ca/how-to-prepare-for-saskatchewans-next-sinp-intake-window-in-july/)July 3, 2026
-  * [![Canada Ranks Fifth Globally for Asylum Claims in 2023, UNHCR Reports](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/06/Canada-Ranks-Fifth-Globally-for-Asylum-Claims-in-2023-UNHCR-Reports-40x40.jpg)](https://immigration.ca/canada-proposes-new-asylum-rules-to-speed-up-refugee-claims-and-strengthen-system-integrity/)
-[Canada Proposes New Asylum Rules To Speed Up Refugee Claims And Strengthen System Integrity](https://immigration.ca/canada-proposes-new-asylum-rules-to-speed-up-refugee-claims-and-strengthen-system-integrity/)July 2, 2026
-  * [![OINP Updates Requirements for Hiring Mobile Workers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/06/OINP-Updates-Requirements-for-Hiring-Mobile-Workers--40x40.jpg)](https://immigration.ca/ontario-launches-new-workforce-priority-stream-in-major-oinp-redesign/)
-[Ontario Launches New Workforce Priority Stream In Major OINP Redesign](https://immigration.ca/ontario-launches-new-workforce-priority-stream-in-major-oinp-redesign/)June 29, 2026
-  * [![Canada Issues 1,499 Express Entry Invitations to Apply \(ITAs\) For the Provincial Nominee Program \(PNP\)](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/06/Canada-Issues-1499-Express-Entry-Invitations-to-Apply-ITAs-For-the-Provincial-Nominee-Program%E2%80%AFPNP--40x40.jpg)](https://immigration.ca/provinces-press-ottawa-to-increase-pnp-allocations-and-reform-express-entry/)
-[Provinces Press Ottawa To Increase PNP Allocations And Reform Express Entry](https://immigration.ca/provinces-press-ottawa-to-increase-pnp-allocations-and-reform-express-entry/)June 26, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
