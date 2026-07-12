@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 5181839f21254384
+content_hash: 02aed8a4e3cc9095
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-12'
+last_updated: '2026-07-11'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,15 +16,15 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-300x157.jpg)](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Issues 500 Invitations to Senior Managers in New Express Entry Draw ](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)
-[ Read More » ](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)
-Colin R. Singer  July 11, 2026 
 [![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-300x169.jpg)](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Francophone Minority Communities Student Pilot Extended by a Year ](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)
 [ Read More » ](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)
+Colin R. Singer  July 10, 2026 
+[![Express Entry Invitations to French Speakers](https://immigration.ca/wp-content/uploads/2025/10/Express-Entry-Invitations-to-French-Speakers-300x157.jpg)](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Issues 5,000 Invitations to French-Speaking Candidates in New Express Entry Draw ](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)
+[ Read More » ](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)
 Colin R. Singer  July 10, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
@@ -65,8 +65,6 @@ Colin R. Singer  March 26, 2018
 Discover Canada’s latest Express Entry draw, which issued 4,500 Invitations to Apply (ITAs) in the French language proficiency category.
 [ Read More » ](https://immigration.ca/canada-issues-4500-invitations-to-french-speakers-in-latest-express-entry-draw/)
 Melissa Gosselin  March 6, 2025 
-[![](https://immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)
-[Canada Issues 500 Invitations to Senior Managers in New Express Entry Draw](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)July 11, 2026
 [![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)
 [Francophone Minority Communities Student Pilot Extended by a Year](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)July 10, 2026
 [![Express Entry Invitations to French Speakers](https://immigration.ca/wp-content/uploads/2025/10/Express-Entry-Invitations-to-French-Speakers-40x40.jpg)](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)
@@ -77,3 +75,5 @@ Melissa Gosselin  March 6, 2025
 [100,000 Citizenship Backlog: Can Bill C-3 Applicants Force IRCC To Act?](https://immigration.ca/100000-citizenship-backlog-can-bill-c-3-applicants-force-ircc-to-act/)July 9, 2026
 [![IRCC Express Entry Targets Canadian Experience Class Workers Immigrating to Canada](https://immigration.ca/wp-content/uploads/2025/11/IRCC-Express-Entry-Targets-Canadian-Experience-Class-Workers-Immigrating-to-Canada-40x40.jpg)](https://immigration.ca/canada-issues-2000-invitations-canadian-experience-class-express-entry-draw-july-2026/)
 [Canada Issues 2,000 Invitations in New Canadian Experience Class Express Entry Draw](https://immigration.ca/canada-issues-2000-invitations-canadian-experience-class-express-entry-draw-july-2026/)July 8, 2026
+[![](https://immigration.ca/wp-content/uploads/2018/08/Post-Graduate-Students-in-Toronto-Immigrate-to-Canada-40x40.jpg)](https://immigration.ca/ontarios-oinp-overhaul-what-changed-who-loses-who-gains-and-what-candidates-should-do-now/)
+[Ontario’s OINP Overhaul: What Changed, Who Loses, Who Gains, And What Candidates Should Do Now](https://immigration.ca/ontarios-oinp-overhaul-what-changed-who-loses-who-gains-and-what-candidates-should-do-now/)July 7, 2026
