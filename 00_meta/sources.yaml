@@ -578,6 +578,42 @@
   url: https://www.immigration.govt.nz/visas/active-investor-plus-visa/
   outputs:
   - 01_program_core/nzaewv/active_investor_plus.md
+- id: nzaewv_business_investing_hub
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/work/visas-for-investing-and-doing-business-in-new-zealand/
+  outputs:
+  - 01_program_core/nzaewv/business_investor/hub_overview.md
+- id: nzaewv_business_investor_work_visa
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/visas/business-investor-work-visa/
+  outputs:
+  - 01_program_core/nzaewv/business_investor/work_visa_overview.md
+- id: nzaewv_business_investor_pathway_residence
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/work/visas-for-investing-and-doing-business-in-new-zealand/business-investor-visas-pathway-to-residence/
+  outputs:
+  - 01_program_core/nzaewv/business_investor/pathway_to_residence.md
+- id: nzaewv_business_investor_resident_visa
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/visas/business-investor-resident-visa
+  outputs:
+  - 01_program_core/nzaewv/business_investor/resident_visa.md
+- id: nzaewv_business_investor_acceptable_investments
+  program: NZAEWV
+  frequency: quarterly
+  url: https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/acceptable-investments-for-investor-and-retirement-visas/acceptable-investments-for-a-business-investor-work-visa/
+  outputs:
+  - 02_documents_compliance/nzaewv/business_investor_acceptable_investments.md
+- id: nzaewv_entrepreneur_work_visa_legacy
+  program: NZAEWV
+  frequency: annual
+  url: https://www.immigration.govt.nz/visas/entrepreneur-work-visa/
+  outputs:
+  - 01_program_core/nzaewv/entrepreneur_work_visa_legacy.md
 - id: nzaewv_employer_obligations
   program: NZAEWV
   frequency: quarterly

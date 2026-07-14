@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 8c53f7171b2424bf
+content_hash: d5d88e270badc41a
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-07-13'
+last_updated: '2026-07-14'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -301,27 +301,32 @@ Search
 
 # Alberta Immigration
   * [ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-96x96.jpg) Colin R. Singer  ](https://immigration.ca/author/will/)
-  * February 27, 2025 
+  * July 13, 2026 
 
 
 ![Alberta To Launch New Expression of Interest System Next Month](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/08/Alberta-To-Launch-New-Expression-of-Interest-System-Next-Month.jpg)
-### On This Page, You Will Find:
-  * An overview of the **Alberta Advantage Immigration Program (AAIP)**
-  * Details on the **Alberta Expression of Interest (EOI) system**
-  * A breakdown of **AAIP worker and business immigration streams**
-  * Information on how Alberta selects candidates for provincial nomination
-  * A **Frequently Asked Questions (FAQ)** section with answers to common queries
+## On This Page, You Will Find:
+  * An overview of the Alberta Advantage Immigration Program
+  * Current AAIP immigration streams
+  * How the Alberta Expression of Interest system works
+  * Eligibility requirements for skilled workers and entrepreneurs
+  * How Alberta selects candidates for provincial nomination
+  * Recent AAIP draws and selection priorities
+  * Frequently asked questions about Alberta immigration
 
 
-## Alberta Advantage Immigration Program
-The Alberta Advantage Immigration Program (AAIP) is designed for individuals who possess the skills and abilities to fill labour shortages in Alberta.
-The AAIP accepts skilled worker applications under the Alberta Opportunity Stream, Alberta Express Entry, the Rural Renewal Stream and the Tourism and Hospitality Stream. It also operates four business programs, the Farm Stream, the Graduate Entrepreneur Stream, the Foreign Graduate Entrepreneur Stream and the Rural Entrepreneur Stream.
-The program is operated by the Alberta government in partnership with the federal immigration department, Immigration, Refugees and Citizenship Canada (IRCC). Interested candidates must follow a two-stage process: apply for a nomination to the provincial government, and then, if nominated, apply for permanent residence to the federal government.
-IRCC allocates the AAIP a limited number of nominations each year.
-## Alberta Expression of Interest
-The [Alberta Expression of Interest](https://immigration.ca/alberta-expression-of-interest-eoi/) (EOI) system allows skilled workers to apply for provincial immigration through the Alberta Advantage Immigration Program (AAIP).
-Candidates submit an EOI online, where they are ranked based on education, work experience, language skills, and job offers. Alberta regularly conducts draws to invite high-ranking candidates to apply for nomination.
-The EOI points grid evaluates human capital and economic factors, with a maximum score of 100 points. Submission is free, but selection is not guaranteed. Eligible streams include the Alberta Opportunity Stream, Express Entry Stream, and Rural Renewal Stream, among others.
+The Alberta Advantage Immigration Program (AAIP) is Alberta’s [Provincial Nominee Program](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/) (PNP), offering skilled workers, entrepreneurs and international graduates a pathway to Canadian permanent residence.
+The program helps Alberta address labour shortages by selecting candidates with the skills, work experience and business expertise needed to support the province’s growing economy. It includes streams for workers already in Alberta, candidates in the federal Express Entry pool, rural communities and entrepreneurs looking to establish or purchase a business.
+Most AAIP streams now use an Expression of Interest (EOI) system. Eligible candidates submit an online profile and are ranked based on factors such as education, work experience, language ability, age, employment in Alberta and other economic factors. The province regularly issues invitations to the highest-ranking candidates and those who meet targeted labour market priorities.
+Successful applicants receive a provincial nomination, which they can use to apply for Canadian permanent residence through Immigration, Refugees and Citizenship Canada (IRCC). Candidates nominated through an Express Entry-aligned stream also receive an additional 600 Comprehensive Ranking System (CRS) points, effectively guaranteeing an Invitation to Apply (ITA) in a future Express Entry draw.
+## What Is the Alberta Advantage Immigration Program?
+The Alberta Advantage Immigration Program is Alberta’s economic immigration program, operated jointly by the Government of Alberta and Immigration, Refugees and Citizenship Canada (IRCC). It enables the province to nominate individuals whose skills align with Alberta’s labour market and economic development priorities.
+The AAIP includes several pathways for skilled workers, entrepreneurs and rural applicants. Worker streams include the Alberta Opportunity Stream, the Alberta Express Entry Stream, the Rural Renewal Stream and the Tourism and Hospitality Stream. Business pathways include the Farm Stream, Graduate Entrepreneur Stream, Foreign Graduate Entrepreneur Stream and Rural Entrepreneur Stream.
+## How Does the Alberta Expression of Interest System Work?
+Most AAIP streams operate through an [Expression of Interest system](https://immigration.ca/alberta-expression-of-interest-eoi/). Eligible candidates submit an online profile outlining their education, work experience, language proficiency and other qualifying factors.
+Profiles are assessed using Alberta’s points-based ranking system, which considers human capital and economic factors. The province conducts regular invitation rounds, selecting candidates who best meet Alberta’s current labour market needs. Receiving an invitation allows a candidate to submit a full application for provincial nomination, but creating an Expression of Interest does not guarantee selection.
+## How to Apply
+Most worker applicants apply directly to the relevant AAIP stream online; Express Entry candidates should also maintain an active federal profile. A provincial nomination through the Alberta Express Entry Stream adds 600 CRS points, effectively guaranteeing an invitation. For the federal side of the process, see our overview of [Express Entry](https://immigration.ca/canada-express-entry-immigration/), and if you still need work authorization, our [Canada work permit](https://immigration.ca/canada-work-visa/) guide. To compare Alberta with other routes, see [12 ways you can immigrate to Canada](https://immigration.ca/12-ways-you-can-immigrate-to-canada/).
 ## AAIP Streams
 [ ](https://immigration.ca/alberta-opportunity-stream)
 #####  [ Alberta Opportunity Stream ](https://immigration.ca/alberta-opportunity-stream)
@@ -347,27 +352,23 @@ The Rural Entrepreneur Stream is aimed at entrepreneurs who want to start a busi
 [ ](https://immigration.ca/alberta-international-graduate-entrepreneur-immigration-stream)
 #####  [ Graduate Entrepreneur Stream ](https://immigration.ca/alberta-international-graduate-entrepreneur-immigration-stream)
 The Graduate Entrepreneur Stream is aimed at international graduates from Alberta post-secondary institutions who want to establish or operate a business in the province. 
-### Targeted occupations
-Unlike some of the other provinces, the AAIP does not reward candidates whose occupations appear on a certain list. Rather, the province publishes a list of [ineligible occupations](https://immigration.ca/alberta-immigration/alberta-immigration-ineligible-occupations).
-### AAIP Draws
-Alberta conducts[ periodic draws](https://immigration.ca/alberta-immigration-draws) through the provincial Expression of Interest system and federal Express Entry system. Candidates are invited to apply for Alberta immigration through on of the province’s streams.
+## AAIP Draws
+Alberta conducts [periodic draws](https://immigration.ca/alberta-immigration-draws) through the provincial Expression of Interest system and federal Express Entry system. Candidates are invited to apply for Alberta immigration through one of the province’s streams.
 ### Frequently Asked Questions (FAQ)
-##### 1. What is the Alberta Advantage Immigration Program (AAIP)?
+##### What is the Alberta Advantage Immigration Program (AAIP)?
 The Alberta Advantage Immigration Program (AAIP) is a provincial immigration program designed to attract skilled workers and entrepreneurs to Alberta. It helps fill labour shortages in key industries by offering pathways to permanent residency through multiple streams. Candidates must first apply for provincial nomination, and if successful, they can apply for permanent residence with Immigration, Refugees and Citizenship Canada (IRCC). Alberta receives a limited number of nominations from the federal government each year.
-##### 2. How does the Alberta Expression of Interest (EOI) system work?
+##### How does the Alberta Expression of Interest (EOI) system work?
 The Alberta Expression of Interest (EOI) system allows skilled workers to apply for immigration under AAIP by submitting an online profile. Candidates are ranked based on factors like education, work experience, language skills, and job offers. Alberta regularly holds draws to select top-ranking candidates for provincial nomination. Although submitting an EOI is free, selection is not guaranteed. Successful candidates receive an invitation to apply for nomination and, if approved, can apply for permanent residence.
-##### 3. What are the main AAIP immigration streams?
-AAIP has multiple worker and business streams to support Alberta’s labour market and economic growth. Worker streams include the Alberta Opportunity Stream, Express Entry Stream, Rural Renewal Stream, and Tourism and Hospitality Stream. Business streams include the Farm Stream, Foreign Graduate Entrepreneur Stream, Graduate Entrepreneur Stream, and Rural Entrepreneur Stream. Each stream has specific eligibility criteria, including job offers, work experience, education, and investment requirements.
-##### 4. Does Alberta have a list of in-demand occupations?
-Unlike other provinces, Alberta does not publish a list of in-demand occupations. Instead, it maintains a list of ineligible occupations, meaning certain jobs do not qualify for immigration under AAIP. However, candidates in eligible occupations can apply if they meet the specific requirements of their chosen stream. Many applicants qualify through skilled worker programs or Alberta's Express Entry-linked stream, which prioritizes occupations that align with Alberta’s economic needs.
-##### 5. How does Alberta select candidates for nomination?
+##### What are the main AAIP immigration streams?
+AAIP has multiple worker and business streams to support Alberta's labour market and economic growth. Worker streams include the Alberta Opportunity Stream, Express Entry Stream, Rural Renewal Stream, and Tourism and Hospitality Stream. Business streams include the Farm Stream, Foreign Graduate Entrepreneur Stream, Graduate Entrepreneur Stream, and Rural Entrepreneur Stream. Each stream has specific eligibility criteria, including job offers, work experience, education, and investment requirements.
+##### How does Alberta select candidates for nomination?
 Alberta selects candidates through regular AAIP draws based on EOI rankings and provincial labour market needs. Candidates with high scores and relevant job offers are prioritized. Those selected receive an invitation to apply for nomination, and if approved, they can apply for permanent residence with IRCC. Express Entry candidates who receive a provincial nomination get an additional 600 Comprehensive Ranking System (CRS) points, significantly boosting their chances of receiving an Invitation to Apply (ITA) for permanent residence.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
 [ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-300x300.jpg) ](https://immigration.ca/author/will/)
 #### [ Colin R. Singer  ](https://immigration.ca/author/will/)
 Colin R. Singer, Managing Partner of immigration.ca, has been a licensed immigration lawyer in Canada with Barreau du Quebec for over 35 years. 
 **Stay ahead on Canadian immigration news.** Make immigration.ca your preferred source on Google to see our latest stories first in Top Stories.  [ Add as preferred source ](https://google.com/preferences/source?q=immigration.ca)
-  * Tags: [Alberta Immigration](https://immigration.ca/tag/alberta-immigration/), [Canada immigration](https://immigration.ca/tag/canada-immigration/), [canadian lawyer](https://immigration.ca/tag/canadian-lawyer/), [skilled worker](https://immigration.ca/tag/skilled-worker/)
+  * Tags: [AAIP](https://immigration.ca/tag/aaip/), [Alberta Immigration](https://immigration.ca/tag/alberta-immigration/), [Alberta Opportunity Stream](https://immigration.ca/tag/alberta-opportunity-stream/), [Canada immigration](https://immigration.ca/tag/canada-immigration/), [canadian lawyer](https://immigration.ca/tag/canadian-lawyer/), [Rural Renewal Stream](https://immigration.ca/tag/rural-renewal-stream/), [skilled worker](https://immigration.ca/tag/skilled-worker/)
 
 
 Latest News
