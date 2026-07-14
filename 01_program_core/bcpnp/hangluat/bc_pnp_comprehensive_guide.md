@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 65956997ef37f3c4
 file_role: bc_pnp_comprehensive_guide
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: BCPNP
 province: BC

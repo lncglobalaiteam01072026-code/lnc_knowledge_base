@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 2c554316154ed90b
 file_role: pnp_international_students
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: AAIP
 province: AB

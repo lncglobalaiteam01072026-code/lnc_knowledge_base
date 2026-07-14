@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: d2e415fcb8bed7ec
 file_role: bc_gov_small_business_guide
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 0.8
 program: BCPNP
 province: BC

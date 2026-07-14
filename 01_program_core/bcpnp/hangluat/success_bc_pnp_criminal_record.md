@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 620fbedc3976011a
 file_role: success_bc_pnp_criminal_record
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: BCPNP
 province: BC

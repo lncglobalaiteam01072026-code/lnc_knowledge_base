@@ -5,7 +5,7 @@ content_hash: faa294655fd48bed
 country: NZ
 file_role: eligibility
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct

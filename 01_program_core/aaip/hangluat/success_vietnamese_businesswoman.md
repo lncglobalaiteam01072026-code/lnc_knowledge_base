@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 7440198a5bf04c4c
 file_role: success_vietnamese_businesswoman
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 1
 program: AAIP
 province: AB

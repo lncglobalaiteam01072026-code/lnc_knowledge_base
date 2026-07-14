@@ -2,10 +2,10 @@
 access_level: internal
 article_title: IRCC publishes updated distribution of Express Entry candidate scores
 chunk_strategy: standard
-content_hash: 62d4d789be60506e
+content_hash: 1f7cfb24f1e96472
 file_role: news_article
 lang: en
-last_updated: '2026-07-09'
+last_updated: '2026-07-10'
 priority_weight: 0.7
 program: CICNEWS
 pub_date: Tue, 07 Jul 2026 19:39:43 +0000
@@ -159,11 +159,47 @@ Please contact us if you would like to share additional feedback, have a questio
 
 
 Related articles
+[IRCC’s proof of citizenship review: what happened, what changed, and what to do if you’re impacted](https://www.cicnews.com/2026/07/irccs-proof-of-citizenship-review-what-happened-changed-what-to-do-if-youre-impacted-0777677.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
+
+
+[![In June 2026, the Canadian government sent letters to some citizenship applicants telling their their certificates were under review](https://www.cicnews.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-8-2026-11_47_53-PM-1-1-216x164.jpg)](https://www.cicnews.com/2026/07/irccs-proof-of-citizenship-review-what-happened-changed-what-to-do-if-youre-impacted-0777677.html)
+[Canada invites French-speaking candidates to apply for permanent residence through Express Entry](https://www.cicnews.com/2026/07/canada-invites-french-speaking-candidates-to-apply-for-permanent-residence-through-express-entry-0777713.html)
+  * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+[![People riding bikes along Rideau Canaal in Ottawa, Canada.](https://www.cicnews.com/wp-content/uploads/2026/07/Express-Entry-Draw-216x164.jpg)](https://www.cicnews.com/2026/07/canada-invites-french-speaking-candidates-to-apply-for-permanent-residence-through-express-entry-0777713.html)
 [Wait times ease for permanent residence and citizenship applicants](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
   * [Canada](https://www.cicnews.com/category/canada)
 
 
 [![Three happy individuals in front of a laptop.](https://www.cicnews.com/wp-content/uploads/2026/07/PR-CIT-WAIT-TIMES-EASE-216x164.jpg)](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
+[IRCC publishes updated distribution of Express Entry candidate scores](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
+  * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+[![Large quantity of people all walking in different directions.](https://www.cicnews.com/wp-content/uploads/2026/07/Express-Entry-pool-distribution-216x164.jpg)](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
+Top Stories
+[LMIA processing times climb for low-wage and high-wage streams of TFWP](https://www.cicnews.com/2026/07/lmia-processing-times-climb-for-low-wage-and-high-wage-streams-of-tfwp-0777838.html)
+  * [Work](https://www.cicnews.com/category/work)
+
+
+[IRCC’s proof of citizenship review: what happened, what changed, and what to do if you’re impacted](https://www.cicnews.com/2026/07/irccs-proof-of-citizenship-review-what-happened-changed-what-to-do-if-youre-impacted-0777677.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
+
+
+[Canada invites French-speaking candidates to apply for permanent residence through Express Entry](https://www.cicnews.com/2026/07/canada-invites-french-speaking-candidates-to-apply-for-permanent-residence-through-express-entry-0777713.html)
+  * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+Join our free newsletter. Get Canada's top immigration stories delivered to your inbox.
+[Subscribe](https://www.cicnews.com/2026/07/</cicnews-subscribe.html>)
+More in Express Entry
+[Canada invites French-speaking candidates to apply for permanent residence through Express Entry](https://www.cicnews.com/2026/07/canada-invites-french-speaking-candidates-to-apply-for-permanent-residence-through-express-entry-0777713.html)
+  * [Express Entry](https://www.cicnews.com/category/express-entry)
+
+
+[![People riding bikes along Rideau Canaal in Ottawa, Canada.](https://www.cicnews.com/wp-content/uploads/2026/07/Express-Entry-Draw-216x164.jpg)](https://www.cicnews.com/2026/07/canada-invites-french-speaking-candidates-to-apply-for-permanent-residence-through-express-entry-0777713.html)
 [IRCC publishes updated distribution of Express Entry candidate scores](https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html)
   * [Express Entry](https://www.cicnews.com/category/express-entry)
 
@@ -179,54 +215,18 @@ Related articles
 
 
 [![Waterton Lakes National Park, Alberta, Canada](https://www.cicnews.com/wp-content/uploads/2026/06/35TH-EE-DRAW-216x164.jpg)](https://www.cicnews.com/2026/07/first-express-entry-draw-of-july-sees-lowest-pnp-cut-off-score-this-year-0777251.html)
+[Read more Express Entry news](https://www.cicnews.com/category/express-entry)
 Top Stories
-[Wait times ease for permanent residence and citizenship applicants](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
-  * [Canada](https://www.cicnews.com/category/canada)
+[LMIA processing times climb for low-wage and high-wage streams of TFWP](https://www.cicnews.com/2026/07/lmia-processing-times-climb-for-low-wage-and-high-wage-streams-of-tfwp-0777838.html)
+  * [Work](https://www.cicnews.com/category/work)
 
 
-[Manitoba MPs announce work permit extensions for provincial nominee candidates](https://www.cicnews.com/2026/07/manitoba-mps-announce-work-permit-extensions-for-provincial-nominee-candidates-0777749.html)
-  * [Provinces](https://www.cicnews.com/category/provinces)
+[IRCC’s proof of citizenship review: what happened, what changed, and what to do if you’re impacted](https://www.cicnews.com/2026/07/irccs-proof-of-citizenship-review-what-happened-changed-what-to-do-if-youre-impacted-0777677.html)
+  * [Citizenship](https://www.cicnews.com/category/citizenship)
 
 
-[Wait times rise for many temporary residence applicants, IRCC data shows](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
-  * [Canada](https://www.cicnews.com/category/canada)
-
-
-Join our free newsletter. Get Canada's top immigration stories delivered to your inbox.
-[Subscribe](https://www.cicnews.com/2026/07/</cicnews-subscribe.html>)
-More in Canada
-[Wait times ease for permanent residence and citizenship applicants](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
-  * [Canada](https://www.cicnews.com/category/canada)
-
-
-[![Three happy individuals in front of a laptop.](https://www.cicnews.com/wp-content/uploads/2026/07/PR-CIT-WAIT-TIMES-EASE-216x164.jpg)](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
-[Wait times rise for many temporary residence applicants, IRCC data shows](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
-  * [Canada](https://www.cicnews.com/category/canada)
-
-
-[![A closeup shot of a woman wearing a green shirt checking her watch.](https://www.cicnews.com/wp-content/uploads/2026/07/wait-times-rise-temp-res-216x164.jpg)](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
-[Canada extends direct-to-permanent-residence pathway for French-speaking students](https://www.cicnews.com/2026/07/canada-extends-direct-to-permanent-residence-pathway-for-french-speaking-students-0777609.html)
-  * [Canada](https://www.cicnews.com/category/canada)
-
-
-[![The federal government has extended the Francophone Minority Communities Student Pilot.](https://www.cicnews.com/wp-content/uploads/2026/07/French-PR-pathway-extension-FMCSP-216x164.jpg)](https://www.cicnews.com/2026/07/canada-extends-direct-to-permanent-residence-pathway-for-french-speaking-students-0777609.html)
-[Temporary residence wait times fall in latest IRCC processing update](https://www.cicnews.com/2026/07/temporary-residence-wait-times-fall-in-latest-ircc-processing-update-0777486.html)
-  * [Canada](https://www.cicnews.com/category/canada)
-
-
-[![Canada's immigration department released updated processing times for temporary residence applications.](https://www.cicnews.com/wp-content/uploads/2026/07/temporary-residence-wait-times-fall--216x164.jpg)](https://www.cicnews.com/2026/07/temporary-residence-wait-times-fall-in-latest-ircc-processing-update-0777486.html)
-[Read more Canada news](https://www.cicnews.com/category/canada)
-Top Stories
-[Wait times ease for permanent residence and citizenship applicants](https://www.cicnews.com/2026/07/wait-times-ease-for-permanent-residence-and-citizenship-applicants-0777774.html)
-  * [Canada](https://www.cicnews.com/category/canada)
-
-
-[Manitoba MPs announce work permit extensions for provincial nominee candidates](https://www.cicnews.com/2026/07/manitoba-mps-announce-work-permit-extensions-for-provincial-nominee-candidates-0777749.html)
-  * [Provinces](https://www.cicnews.com/category/provinces)
-
-
-[Wait times rise for many temporary residence applicants, IRCC data shows](https://www.cicnews.com/2026/07/wait-times-rise-for-many-temporary-residence-applicants-ircc-data-shows-0777736.html)
-  * [Canada](https://www.cicnews.com/category/canada)
+[Canada invites French-speaking candidates to apply for permanent residence through Express Entry](https://www.cicnews.com/2026/07/canada-invites-french-speaking-candidates-to-apply-for-permanent-residence-through-express-entry-0777713.html)
+  * [Express Entry](https://www.cicnews.com/category/express-entry)
 
 
 Subscribe to our free newsletter
