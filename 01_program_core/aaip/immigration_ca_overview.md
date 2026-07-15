@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: d5d88e270badc41a
+content_hash: f249e4cef03d0a3d
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-07-14'
+last_updated: '2026-07-15'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -16,12 +16,12 @@ version: '1.0'
 ---
 
 [Skip to content](#content)
-  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-alberta/)
+  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-alberta/)
 
 
 Clear
 Search
-[ ![Immigration.ca | Live and Work in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2021/01/Live-and-Work-in-Canada.jpg) ](https://immigration.ca)
+[ ![Immigration.ca | Live and Work in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2021/01/Live-and-Work-in-Canada.jpg) ](https://immigration.ca)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
 [ Book a Consultation ](https://immigration.ca/alberta-immigration/</immigration-telephone-consultation>)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
@@ -300,11 +300,11 @@ Search
 
 
 # Alberta Immigration
-  * [ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-96x96.jpg) Colin R. Singer  ](https://immigration.ca/author/will/)
+  * [ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-96x96.jpg) Colin R. Singer  ](https://immigration.ca/author/colin-singer/)
   * July 13, 2026 
 
 
-![Alberta To Launch New Expression of Interest System Next Month](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/08/Alberta-To-Launch-New-Expression-of-Interest-System-Next-Month.jpg)
+![Alberta To Launch New Expression of Interest System Next Month](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/Alberta-To-Launch-New-Expression-of-Interest-System-Next-Month.jpg)
 ## On This Page, You Will Find:
   * An overview of the Alberta Advantage Immigration Program
   * Current AAIP immigration streams
@@ -364,26 +364,26 @@ AAIP has multiple worker and business streams to support Alberta's labour market
 ##### How does Alberta select candidates for nomination?
 Alberta selects candidates through regular AAIP draws based on EOI rankings and provincial labour market needs. Candidates with high scores and relevant job offers are prioritized. Those selected receive an invitation to apply for nomination, and if approved, they can apply for permanent residence with IRCC. Express Entry candidates who receive a provincial nomination get an additional 600 Comprehensive Ranking System (CRS) points, significantly boosting their chances of receiving an Invitation to Apply (ITA) for permanent residence.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
-[ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-300x300.jpg) ](https://immigration.ca/author/will/)
-#### [ Colin R. Singer  ](https://immigration.ca/author/will/)
+[ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-300x300.jpg) ](https://immigration.ca/author/colin-singer/)
+#### [ Colin R. Singer  ](https://immigration.ca/author/colin-singer/)
 Colin R. Singer, Managing Partner of immigration.ca, has been a licensed immigration lawyer in Canada with Barreau du Quebec for over 35 years. 
 **Stay ahead on Canadian immigration news.** Make immigration.ca your preferred source on Google to see our latest stories first in Top Stories.  [ Add as preferred source ](https://google.com/preferences/source?q=immigration.ca)
   * Tags: [AAIP](https://immigration.ca/tag/aaip/), [Alberta Immigration](https://immigration.ca/tag/alberta-immigration/), [Alberta Opportunity Stream](https://immigration.ca/tag/alberta-opportunity-stream/), [Canada immigration](https://immigration.ca/tag/canada-immigration/), [canadian lawyer](https://immigration.ca/tag/canadian-lawyer/), [Rural Renewal Stream](https://immigration.ca/tag/rural-renewal-stream/), [skilled worker](https://immigration.ca/tag/skilled-worker/)
 
 
 Latest News
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)
+[Canada Issues More Than 8,000 Express Entry Invitations In Busiest Week Of 2026](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)July 14, 2026
+  * [![Manitoba Announces Letter of Support Process For Temporary Foreign Workers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Manitoba-Announces-Letter-of-Support-Process-For-Temporary-Foreign-Workers-40x40.jpg)](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)
+[Temporary Foreign Worker Demand Falls Sharply As Canada’s Labour Market Shifts](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)July 14, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)
 [Canada Issues 500 Invitations to Senior Managers in New Express Entry Draw](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)July 11, 2026
-  * [![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)
+  * [![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)
 [Francophone Minority Communities Student Pilot Extended by a Year](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)July 10, 2026
-  * [![Express Entry Invitations to French Speakers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2025/10/Express-Entry-Invitations-to-French-Speakers-40x40.jpg)](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)
+  * [![Express Entry Invitations to French Speakers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/10/Express-Entry-Invitations-to-French-Speakers-40x40.jpg)](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)
 [Canada Issues 5,000 Invitations to French-Speaking Candidates in New Express Entry Draw](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)July 10, 2026
-  * [![Ontario Targets Early Childhood Educators With 244 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2024/06/Ontario-Targets-Early-Childhood-Educators-With-244-Canada-Immigration-Invitations-1-40x40.jpg)](https://immigration.ca/quebec-to-prioritize-permanent-residents-and-established-workers-for-subsidized-daycare-spaces/)
+  * [![Ontario Targets Early Childhood Educators With 244 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/06/Ontario-Targets-Early-Childhood-Educators-With-244-Canada-Immigration-Invitations-1-40x40.jpg)](https://immigration.ca/quebec-to-prioritize-permanent-residents-and-established-workers-for-subsidized-daycare-spaces/)
 [Quebec To Prioritize Permanent Residents And Established Workers For Subsidized Daycare Spaces](https://immigration.ca/quebec-to-prioritize-permanent-residents-and-established-workers-for-subsidized-daycare-spaces/)July 9, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2026/02/Citizenship-By-Descent-FAQ-Hub-40x40.jpg)](https://immigration.ca/100000-citizenship-backlog-can-bill-c-3-applicants-force-ircc-to-act/)
-[100,000 Citizenship Backlog: Can Bill C-3 Applicants Force IRCC To Act?](https://immigration.ca/100000-citizenship-backlog-can-bill-c-3-applicants-force-ircc-to-act/)July 9, 2026
-  * [![IRCC Express Entry Targets Canadian Experience Class Workers Immigrating to Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2025/11/IRCC-Express-Entry-Targets-Canadian-Experience-Class-Workers-Immigrating-to-Canada-40x40.jpg)](https://immigration.ca/canada-issues-2000-invitations-canadian-experience-class-express-entry-draw-july-2026/)
-[Canada Issues 2,000 Invitations in New Canadian Experience Class Express Entry Draw](https://immigration.ca/canada-issues-2000-invitations-canadian-experience-class-express-entry-draw-july-2026/)July 8, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -404,8 +404,8 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
   * [ Fraud alert ](https://immigration.ca/fraud-alert)
 
 
-![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/uploads/2022/01/Logo-on-dark-transparent-bg-defringe-1024x256.png)
-  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-c94091f/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-alberta/)
+![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2022/01/Logo-on-dark-transparent-bg-defringe-1024x256.png)
+  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-alberta/)
 
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
