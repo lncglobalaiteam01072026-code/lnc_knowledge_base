@@ -1,22 +1,18 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 15/07/2026 lúc 14:34 chiều (giờ VN)  
-**Loại cập nhật:** Daily  
+**Cập nhật lúc:** 15/07/2026 lúc 17:17 chiều (giờ VN)  
+**Loại cập nhật:** Biweekly  
 **Kết quả:** 3 nguồn | ✅ 3 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### AAIP — Alberta Advantage Immigration Program
-- ✅ overview
-
-### BCPNP — BC Provincial Nominee Program
-- ✅ overview
-
-### Immigration.ca — Tin tức nhập cư Canada
-- ✅ immigration_news
+### Reddit — Cộng đồng di trú
+- ✅ Danh sách cộng đồng
+- ✅ Danh sách cộng đồng
+- ✅ Danh sách cộng đồng
 
 ---
 
-_Cập nhật tiếp theo: lần chạy tiếp theo._
+_Cập nhật tiếp theo: 2 tuần tới (ngày 1 hoặc 15)._
