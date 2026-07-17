@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 7bb26a700e9eaff5
+content_hash: 448fd34c53ce50f0
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-17'
+last_updated: '2026-07-16'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,15 +16,15 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Saskatchewan Immigration Issues 120 Invitations In First Draw Since March](https://immigration.ca/wp-content/uploads/2024/06/Saskatchewan-Immigration-Issues-120-Invitations-In-First-Draw-Since-March-300x169.jpg)](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Saskatchewan SINP Intake Windows Fill Within Hours As Demand Continues To Outstrip Supply ](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)
-[ Read More » ](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)
-Colin R. Singer  July 16, 2026 
 [![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-300x169.jpg)](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Canada Issues More Than 8,000 Express Entry Invitations In Busiest Week Of 2026 ](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)
 [ Read More » ](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)
+Colin R. Singer  July 14, 2026 
+[![Manitoba Announces Letter of Support Process For Temporary Foreign Workers](https://immigration.ca/wp-content/uploads/2024/09/Manitoba-Announces-Letter-of-Support-Process-For-Temporary-Foreign-Workers-300x157.jpg)](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Temporary Foreign Worker Demand Falls Sharply As Canada’s Labour Market Shifts ](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)
+[ Read More » ](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)
 Colin R. Singer  July 14, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
@@ -65,8 +65,6 @@ Colin R. Singer  March 26, 2018
 Discover Canada’s latest Express Entry draw, which issued 4,500 Invitations to Apply (ITAs) in the French language proficiency category.
 [ Read More » ](https://immigration.ca/canada-issues-4500-invitations-to-french-speakers-in-latest-express-entry-draw/)
 Melissa Gosselin  March 6, 2025 
-[![Saskatchewan Immigration Issues 120 Invitations In First Draw Since March](https://immigration.ca/wp-content/uploads/2024/06/Saskatchewan-Immigration-Issues-120-Invitations-In-First-Draw-Since-March-40x40.jpg)](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)
-[Saskatchewan SINP Intake Windows Fill Within Hours As Demand Continues To Outstrip Supply](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)July 16, 2026
 [![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)
 [Canada Issues More Than 8,000 Express Entry Invitations In Busiest Week Of 2026](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)July 14, 2026
 [![Manitoba Announces Letter of Support Process For Temporary Foreign Workers](https://immigration.ca/wp-content/uploads/2024/09/Manitoba-Announces-Letter-of-Support-Process-For-Temporary-Foreign-Workers-40x40.jpg)](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)
@@ -77,3 +75,5 @@ Melissa Gosselin  March 6, 2025
 [Francophone Minority Communities Student Pilot Extended by a Year](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)July 10, 2026
 [![Express Entry Invitations to French Speakers](https://immigration.ca/wp-content/uploads/2025/10/Express-Entry-Invitations-to-French-Speakers-40x40.jpg)](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)
 [Canada Issues 5,000 Invitations to French-Speaking Candidates in New Express Entry Draw](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)July 10, 2026
+[![Ontario Targets Early Childhood Educators With 244 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/06/Ontario-Targets-Early-Childhood-Educators-With-244-Canada-Immigration-Invitations-1-40x40.jpg)](https://immigration.ca/quebec-to-prioritize-permanent-residents-and-established-workers-for-subsidized-daycare-spaces/)
+[Quebec To Prioritize Permanent Residents And Established Workers For Subsidized Daycare Spaces](https://immigration.ca/quebec-to-prioritize-permanent-residents-and-established-workers-for-subsidized-daycare-spaces/)July 9, 2026
