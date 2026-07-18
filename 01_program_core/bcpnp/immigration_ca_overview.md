@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: b01bade7babc464a
+content_hash: a3c92be6833cf8f3
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-07-17'
+last_updated: '2026-07-18'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -382,18 +382,18 @@ Colin R. Singer, Managing Partner of immigration.ca, has been a licensed immigra
 
 
 Latest News
+  * [![Canada Discusses Immigration Needs Of Yellowknife and Northwest Territories](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/Canada-Discusses-Immigration-Needs-Of-Yellowknife-and-Northwest-Territories-40x40.jpg)](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)
+[Canada Invests $860,000 To Strengthen Francophone Immigration In The Northwest Territories](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)July 17, 2026
+  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)
+[British Columbia Invites 569 High Economic Impact Workers Under BC PNP](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)July 17, 2026
+  * [![Saskatchewan Immigration Issues 120 Invitations In First Draw Since March](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/06/Saskatchewan-Immigration-Issues-120-Invitations-In-First-Draw-Since-March-40x40.jpg)](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)
+[Saskatchewan SINP Intake Windows Fill Within Hours As Demand Continues To Outstrip Supply](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)July 16, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)
 [Canada Issues More Than 8,000 Express Entry Invitations In Busiest Week Of 2026](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)July 14, 2026
   * [![Manitoba Announces Letter of Support Process For Temporary Foreign Workers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Manitoba-Announces-Letter-of-Support-Process-For-Temporary-Foreign-Workers-40x40.jpg)](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)
 [Temporary Foreign Worker Demand Falls Sharply As Canada’s Labour Market Shifts](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)July 14, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)
 [Canada Issues 500 Invitations to Senior Managers in New Express Entry Draw](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)July 11, 2026
-  * [![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)
-[Francophone Minority Communities Student Pilot Extended by a Year](https://immigration.ca/francophone-minority-communities-student-pilot-extended-by-a-year/)July 10, 2026
-  * [![Express Entry Invitations to French Speakers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/10/Express-Entry-Invitations-to-French-Speakers-40x40.jpg)](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)
-[Canada Issues 5,000 Invitations to French-Speaking Candidates in New Express Entry Draw](https://immigration.ca/canada-issues-5000-invitations-french-speaking-candidates-express-entry-draw-july-2026/)July 10, 2026
-  * [![Ontario Targets Early Childhood Educators With 244 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/06/Ontario-Targets-Early-Childhood-Educators-With-244-Canada-Immigration-Invitations-1-40x40.jpg)](https://immigration.ca/quebec-to-prioritize-permanent-residents-and-established-workers-for-subsidized-daycare-spaces/)
-[Quebec To Prioritize Permanent Residents And Established Workers For Subsidized Daycare Spaces](https://immigration.ca/quebec-to-prioritize-permanent-residents-and-established-workers-for-subsidized-daycare-spaces/)July 9, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -404,6 +404,8 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
   * [ Canada Work Visa – Work in Canada ](https://immigration.ca/british-columbia-immigration/</canada-work-visa/>)
   * [ Canada Visitor Visa Guide ](https://immigration.ca/british-columbia-immigration/</canada-visitor-visa-guide/>)
   * [ 12 Ways You Can Immigrate To Canada ](https://immigration.ca/british-columbia-immigration/</12-ways-you-can-immigrate-to-canada/>)
+  * [ How to Claim Canadian Citizenship by Descent ](https://immigration.ca/claiming-canadian-citizenship-by-descent-under-canadas-new-citizenship-act-bill-c-3/)
+  * [ Canadian Citizenship by Descent Calculator: Check Your Eligibility ](https://immigration.ca/canadian-citizenship-by-descent-calculator/)
 
 
 ## Help
