@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 0bbe12e770a4ffce
+content_hash: c09064c670c14ef4
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-20'
+last_updated: '2026-07-13'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -18,7 +18,7 @@ version: '1.0'
 ---
 
 [Skip to Main Content](#content)[Accessibility Help](https://cbchelp.cbc.ca/hc/en-ca/categories/31606111569053-Accessibility)
-[MenuMenu](https://www.cbc.ca/news/canada/</www.cbc.ca/sitemap>)
+[Menu](https://www.cbc.ca/news/canada/</www.cbc.ca/sitemap>)
 [](https://www.cbc.ca/news/canada/</>)
 When search suggestions are available use up and down arrows to review and enter to select.
 Search
