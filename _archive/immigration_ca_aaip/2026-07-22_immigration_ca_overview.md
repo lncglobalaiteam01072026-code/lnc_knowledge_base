@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 94b75771d105c12c
+content_hash: 0180ecb867ac0aa2
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-07-22'
+last_updated: '2026-07-21'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -300,13 +300,10 @@ Search
 
 
 # Alberta Immigration
-![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
-Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
-Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
-Published: **February 16, 2013**
-Last updated: **July 13, 2026**
-Reading time: 5 min
-Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
+  * [ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-96x96.jpg) Colin R. Singer  ](https://immigration.ca/author/colin-singer/)
+  * July 13, 2026 
+
+
 ![Alberta To Launch New Expression of Interest System Next Month](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/Alberta-To-Launch-New-Expression-of-Interest-System-Next-Month.jpg)
 ## On This Page, You Will Find:
   * An overview of the Alberta Advantage Immigration Program
@@ -367,30 +364,26 @@ AAIP has multiple worker and business streams to support Alberta's labour market
 ##### How does Alberta select candidates for nomination?
 Alberta selects candidates through regular AAIP draws based on EOI rankings and provincial labour market needs. Candidates with high scores and relevant job offers are prioritized. Those selected receive an invitation to apply for nomination, and if approved, they can apply for permanent residence with IRCC. Express Entry candidates who receive a provincial nomination get an additional 600 Comprehensive Ranking System (CRS) points, significantly boosting their chances of receiving an Invitation to Apply (ITA) for permanent residence.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
-About the author
-![Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
-[Colin R. Singer, LL.L, BA](https://immigration.ca/author/colin-singer/)
-Canadian Immigration Lawyer · Founder & Managing Partner, immigration.ca
-Colin R. Singer has been a licensed immigration lawyer in good standing with the [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) for over 35 years and has led immigration.ca, Canada’s longest-standing online immigration platform, since 1994. He has [testified before the House of Commons Standing Committee on Citizenship and Immigration](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence), contributed to [Law360 (LexisNexis)](https://www.law360.ca/ca/search?q=Colin+Singer) since 2015 and to national media including the Financial Post, and has served as a lifetime [Governor of the Fondation du Barreau du Québec](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1) since 2009.
-[Barreau du Québec · 35+ yrs](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe "Verify licence with the Barreau du Quebec")[House of Commons testimony](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence "Read the official House of Commons record")[Law360 / LexisNexis contributor](https://www.law360.ca/ca/search?q=Colin+Singer "Law360 contributions")[Governor, Fondation du Barreau](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1 "Fondation du Barreau du Quebec governors")
-[Full profile →](https://immigration.ca/author/colin-singer/)[Verify licence](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe)[LinkedIn](https://www.linkedin.com/company/immigration-ca)[X / Twitter](https://twitter.com/immigrationca)[Book a consultation](https://immigration.ca/immigration-consultation/)
+[ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-300x300.jpg) ](https://immigration.ca/author/colin-singer/)
+#### [ Colin R. Singer  ](https://immigration.ca/author/colin-singer/)
+Colin R. Singer, Managing Partner of immigration.ca, has been a licensed immigration lawyer in Canada with Barreau du Quebec for over 35 years. 
 **Stay ahead on Canadian immigration news.** Make immigration.ca your preferred source on Google to see our latest stories first in Top Stories.  [ Add as preferred source ](https://google.com/preferences/source?q=immigration.ca)
   * Tags: [AAIP](https://immigration.ca/tag/aaip/), [Alberta Immigration](https://immigration.ca/tag/alberta-immigration/), [Alberta Opportunity Stream](https://immigration.ca/tag/alberta-opportunity-stream/), [Canada immigration](https://immigration.ca/tag/canada-immigration/), [canadian lawyer](https://immigration.ca/tag/canadian-lawyer/), [Rural Renewal Stream](https://immigration.ca/tag/rural-renewal-stream/), [skilled worker](https://immigration.ca/tag/skilled-worker/)
 
 
 Latest News
-  * [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
-[New Canada LMIA Wage Thresholds Take Effect](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)July 21, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
-[Canada Invites 511 Provincial Nominees in July 20 Express Entry Draw](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)July 21, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2012/12/Federal-Skilled-Worker-Program-Requirements-40x40.jpg)](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)
-[Latin American Immigration To Canada Evolves As Skilled Worker Arrivals Overtake Refugee Admissions](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)July 20, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
-[Follow-Up — Canadian Citizenship by Descent Consultation](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)July 17, 2026
   * [![Canada Discusses Immigration Needs Of Yellowknife and Northwest Territories](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/Canada-Discusses-Immigration-Needs-Of-Yellowknife-and-Northwest-Territories-40x40.jpg)](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)
 [Canada Invests $860,000 To Strengthen Francophone Immigration In The Northwest Territories](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)July 17, 2026
   * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)
 [British Columbia Invites 569 High Economic Impact Workers Under BC PNP](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)July 17, 2026
+  * [![Saskatchewan Immigration Issues 120 Invitations In First Draw Since March](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/06/Saskatchewan-Immigration-Issues-120-Invitations-In-First-Draw-Since-March-40x40.jpg)](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)
+[Saskatchewan SINP Intake Windows Fill Within Hours As Demand Continues To Outstrip Supply](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)July 16, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)
+[Canada Issues More Than 8,000 Express Entry Invitations In Busiest Week Of 2026](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)July 14, 2026
+  * [![Manitoba Announces Letter of Support Process For Temporary Foreign Workers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Manitoba-Announces-Letter-of-Support-Process-For-Temporary-Foreign-Workers-40x40.jpg)](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)
+[Temporary Foreign Worker Demand Falls Sharply As Canada’s Labour Market Shifts](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)July 14, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)
+[Canada Issues 500 Invitations to Senior Managers in New Express Entry Draw](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)July 11, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.

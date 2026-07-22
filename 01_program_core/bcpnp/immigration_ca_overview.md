@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: a3c92be6833cf8f3
+content_hash: 3a4a7476bb55e429
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-07-21'
+last_updated: '2026-07-22'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -300,10 +300,13 @@ Search
 
 
 # British Columbia Immigration
-  * [ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-96x96.jpg) Colin R. Singer  ](https://immigration.ca/author/colin-singer/)
-  * September 29, 2025 
-
-
+![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
+Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
+Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
+Published: **November 23, 2018**
+Last updated: **September 29, 2025**
+Reading time: 4 min
+Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
 ![British Columbia PNP Draw Province Issues 200 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/10/British-Columbia-PNP-Draw-Province-Issues-200-Canada-Immigration-Invitations.jpg)
 The British Columbia Provincial Nominee Program (BCPNP) targets skilled workers and entrepreneurs for[ Canadian permanent residence](https://immigration.ca/benefits-obligations-permanent-resident-canada/), who intend to settle in the province.
 ### On This Page, You Will Find:
@@ -374,26 +377,30 @@ Most BC PNP streams require a valid job offer from an employer in British Columb
 #### What happens if my application is refused?
 If your application is refused, you can request a review or reapply if your circumstances change. You may also explore other Canadian immigration pathways.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
-[ ![Picture of Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-300x300.jpg) ](https://immigration.ca/author/colin-singer/)
-#### [ Colin R. Singer  ](https://immigration.ca/author/colin-singer/)
-Colin R. Singer, Managing Partner of immigration.ca, has been a licensed immigration lawyer in Canada with Barreau du Quebec for over 35 years. 
+About the author
+![Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
+[Colin R. Singer, LL.L, BA](https://immigration.ca/author/colin-singer/)
+Canadian Immigration Lawyer · Founder & Managing Partner, immigration.ca
+Colin R. Singer has been a licensed immigration lawyer in good standing with the [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) for over 35 years and has led immigration.ca, Canada’s longest-standing online immigration platform, since 1994. He has [testified before the House of Commons Standing Committee on Citizenship and Immigration](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence), contributed to [Law360 (LexisNexis)](https://www.law360.ca/ca/search?q=Colin+Singer) since 2015 and to national media including the Financial Post, and has served as a lifetime [Governor of the Fondation du Barreau du Québec](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1) since 2009.
+[Barreau du Québec · 35+ yrs](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe "Verify licence with the Barreau du Quebec")[House of Commons testimony](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence "Read the official House of Commons record")[Law360 / LexisNexis contributor](https://www.law360.ca/ca/search?q=Colin+Singer "Law360 contributions")[Governor, Fondation du Barreau](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1 "Fondation du Barreau du Quebec governors")
+[Full profile →](https://immigration.ca/author/colin-singer/)[Verify licence](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe)[LinkedIn](https://www.linkedin.com/company/immigration-ca)[X / Twitter](https://twitter.com/immigrationca)[Book a consultation](https://immigration.ca/immigration-consultation/)
 **Stay ahead on Canadian immigration news.** Make immigration.ca your preferred source on Google to see our latest stories first in Top Stories.  [ Add as preferred source ](https://google.com/preferences/source?q=immigration.ca)
   * Tags: [British Columbia Immigration](https://immigration.ca/tag/british-columbia-immigration/), [Canada Emigration](https://immigration.ca/tag/canada-emigration/), [Immigrate to British Columbia](https://immigration.ca/tag/immigrate-to-british-columbia/), [Work in British Columbia](https://immigration.ca/tag/work-in-british-columbia/)
 
 
 Latest News
+  * [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
+[New Canada LMIA Wage Thresholds Take Effect](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)July 21, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
+[Canada Invites 511 Provincial Nominees in July 20 Express Entry Draw](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)July 21, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2012/12/Federal-Skilled-Worker-Program-Requirements-40x40.jpg)](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)
+[Latin American Immigration To Canada Evolves As Skilled Worker Arrivals Overtake Refugee Admissions](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)July 20, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
+[Follow-Up — Canadian Citizenship by Descent Consultation](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)July 17, 2026
   * [![Canada Discusses Immigration Needs Of Yellowknife and Northwest Territories](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/Canada-Discusses-Immigration-Needs-Of-Yellowknife-and-Northwest-Territories-40x40.jpg)](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)
 [Canada Invests $860,000 To Strengthen Francophone Immigration In The Northwest Territories](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)July 17, 2026
   * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)
 [British Columbia Invites 569 High Economic Impact Workers Under BC PNP](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)July 17, 2026
-  * [![Saskatchewan Immigration Issues 120 Invitations In First Draw Since March](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/06/Saskatchewan-Immigration-Issues-120-Invitations-In-First-Draw-Since-March-40x40.jpg)](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)
-[Saskatchewan SINP Intake Windows Fill Within Hours As Demand Continues To Outstrip Supply](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)July 16, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)
-[Canada Issues More Than 8,000 Express Entry Invitations In Busiest Week Of 2026](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)July 14, 2026
-  * [![Manitoba Announces Letter of Support Process For Temporary Foreign Workers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Manitoba-Announces-Letter-of-Support-Process-For-Temporary-Foreign-Workers-40x40.jpg)](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)
-[Temporary Foreign Worker Demand Falls Sharply As Canada’s Labour Market Shifts](https://immigration.ca/temporary-foreign-worker-demand-falls-sharply-as-canadas-labour-market-shifts/)July 14, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)
-[Canada Issues 500 Invitations to Senior Managers in New Express Entry Draw](https://immigration.ca/canada-issues-500-invitations-senior-managers-express-entry-draw-july-2026/)July 11, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.

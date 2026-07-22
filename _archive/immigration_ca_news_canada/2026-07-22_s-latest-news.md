@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: d913b113c2267542
+content_hash: b6190a52d84ce05f
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-22'
+last_updated: '2026-07-21'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-300x169.jpg)](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
+[![](https://immigration.ca/wp-content/uploads/2012/12/Federal-Skilled-Worker-Program-Requirements-300x157.jpg)](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ New Canada LMIA Wage Thresholds Take Effect ](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
-[ Read More » ](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
-Colin R. Singer  July 21, 2026 
-[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-300x169.jpg)](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
+###  [ Latin American Immigration To Canada Evolves As Skilled Worker Arrivals Overtake Refugee Admissions ](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)
+[ Read More » ](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)
+Colin R. Singer  July 20, 2026 
+[![](https://immigration.ca/wp-content/uploads/2025/07/Immigration-Consultation-300x169.jpg)](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Invites 511 Provincial Nominees in July 20 Express Entry Draw ](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
-[ Read More » ](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
-Colin R. Singer  July 21, 2026 
+###  [ Follow-Up — Canadian Citizenship by Descent Consultation ](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
+[ Read More » ](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
+Colin R. Singer  July 17, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,10 +66,6 @@ Colin R. Singer  March 26, 2018
 Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
 Colin R. Singer  March 17, 2025 
-[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
-[New Canada LMIA Wage Thresholds Take Effect](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)July 21, 2026
-[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
-[Canada Invites 511 Provincial Nominees in July 20 Express Entry Draw](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)July 21, 2026
 [![](https://immigration.ca/wp-content/uploads/2012/12/Federal-Skilled-Worker-Program-Requirements-40x40.jpg)](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)
 [Latin American Immigration To Canada Evolves As Skilled Worker Arrivals Overtake Refugee Admissions](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)July 20, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
@@ -78,3 +74,7 @@ Colin R. Singer  March 17, 2025
 [Canada Invests $860,000 To Strengthen Francophone Immigration In The Northwest Territories](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)July 17, 2026
 [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)
 [British Columbia Invites 569 High Economic Impact Workers Under BC PNP](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)July 17, 2026
+[![Saskatchewan Immigration Issues 120 Invitations In First Draw Since March](https://immigration.ca/wp-content/uploads/2024/06/Saskatchewan-Immigration-Issues-120-Invitations-In-First-Draw-Since-March-40x40.jpg)](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)
+[Saskatchewan SINP Intake Windows Fill Within Hours As Demand Continues To Outstrip Supply](https://immigration.ca/saskatchewan-sinp-intake-windows-fill-within-hours-as-demand-continues-to-outstrip-supply/)July 16, 2026
+[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)
+[Canada Issues More Than 8,000 Express Entry Invitations In Busiest Week Of 2026](https://immigration.ca/canada-issues-more-than-8000-express-entry-invitations-in-busiest-week-of-2026/)July 14, 2026
