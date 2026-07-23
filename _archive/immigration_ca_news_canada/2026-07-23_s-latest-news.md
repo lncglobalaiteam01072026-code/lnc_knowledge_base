@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 0d711ec283190332
+content_hash: d913b113c2267542
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-23'
+last_updated: '2026-07-22'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Significant Jump In Parents and Grandparents Immigration To Canada](https://immigration.ca/wp-content/uploads/2024/07/Significant-Jump-In-Parents-and-Grandparents-Immigration-To-Canada-300x169.jpg)](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
+[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-300x169.jpg)](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Pauses New Parents and Grandparents Sponsorship Applications: What Families Should Do Next ](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
-[ Read More » ](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
-Colin R. Singer  July 22, 2026 
-[![IRCC Express Entry Targets Canadian Experience Class Workers Immigrating to Canada](https://immigration.ca/wp-content/uploads/2025/11/IRCC-Express-Entry-Targets-Canadian-Experience-Class-Workers-Immigrating-to-Canada-300x157.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
+###  [ New Canada LMIA Wage Thresholds Take Effect ](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
+[ Read More » ](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
+Colin R. Singer  July 21, 2026 
+[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-300x169.jpg)](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Invites 2,000 Canadian Experience Class Candidates in July 21 Express Entry Draw ](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
-[ Read More » ](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
-Colin R. Singer  July 22, 2026 
+###  [ Canada Invites 511 Provincial Nominees in July 20 Express Entry Draw ](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
+Colin R. Singer  July 21, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,10 +66,6 @@ Colin R. Singer  March 26, 2018
 Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
 Colin R. Singer  March 17, 2025 
-[![Significant Jump In Parents and Grandparents Immigration To Canada](https://immigration.ca/wp-content/uploads/2024/07/Significant-Jump-In-Parents-and-Grandparents-Immigration-To-Canada-40x40.jpg)](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
-[Canada Pauses New Parents and Grandparents Sponsorship Applications: What Families Should Do Next](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)July 22, 2026
-[![IRCC Express Entry Targets Canadian Experience Class Workers Immigrating to Canada](https://immigration.ca/wp-content/uploads/2025/11/IRCC-Express-Entry-Targets-Canadian-Experience-Class-Workers-Immigrating-to-Canada-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
-[Canada Invites 2,000 Canadian Experience Class Candidates in July 21 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)July 22, 2026
 [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
 [New Canada LMIA Wage Thresholds Take Effect](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)July 21, 2026
 [![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
@@ -78,3 +74,7 @@ Colin R. Singer  March 17, 2025
 [Latin American Immigration To Canada Evolves As Skilled Worker Arrivals Overtake Refugee Admissions](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)July 20, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
 [Follow-Up — Canadian Citizenship by Descent Consultation](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)July 17, 2026
+[![Canada Discusses Immigration Needs Of Yellowknife and Northwest Territories](https://immigration.ca/wp-content/uploads/2024/08/Canada-Discusses-Immigration-Needs-Of-Yellowknife-and-Northwest-Territories-40x40.jpg)](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)
+[Canada Invests $860,000 To Strengthen Francophone Immigration In The Northwest Territories](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)July 17, 2026
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)
+[British Columbia Invites 569 High Economic Impact Workers Under BC PNP](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)July 17, 2026

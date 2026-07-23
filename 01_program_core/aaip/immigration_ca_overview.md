@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 94b75771d105c12c
+content_hash: 1c8ef78204f00a02
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-07-22'
+last_updated: '2026-07-23'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,6 +379,10 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![Significant Jump In Parents and Grandparents Immigration To Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/07/Significant-Jump-In-Parents-and-Grandparents-Immigration-To-Canada-40x40.jpg)](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
+[Canada Pauses New Parents and Grandparents Sponsorship Applications: What Families Should Do Next](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)July 22, 2026
+  * [![IRCC Express Entry Targets Canadian Experience Class Workers Immigrating to Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/11/IRCC-Express-Entry-Targets-Canadian-Experience-Class-Workers-Immigrating-to-Canada-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
+[Canada Invites 2,000 Canadian Experience Class Candidates in July 21 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)July 22, 2026
   * [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
 [New Canada LMIA Wage Thresholds Take Effect](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)July 21, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
@@ -387,10 +391,6 @@ Latest News
 [Latin American Immigration To Canada Evolves As Skilled Worker Arrivals Overtake Refugee Admissions](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)July 20, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
 [Follow-Up — Canadian Citizenship by Descent Consultation](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)July 17, 2026
-  * [![Canada Discusses Immigration Needs Of Yellowknife and Northwest Territories](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/Canada-Discusses-Immigration-Needs-Of-Yellowknife-and-Northwest-Territories-40x40.jpg)](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)
-[Canada Invests $860,000 To Strengthen Francophone Immigration In The Northwest Territories](https://immigration.ca/canada-invests-860000-to-strengthen-francophone-immigration-in-the-northwest-territories/)July 17, 2026
-  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)
-[British Columbia Invites 569 High Economic Impact Workers Under BC PNP](https://immigration.ca/british-columbia-invites-569-high-economic-impact-workers-bc-pnp-july-2026/)July 17, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
