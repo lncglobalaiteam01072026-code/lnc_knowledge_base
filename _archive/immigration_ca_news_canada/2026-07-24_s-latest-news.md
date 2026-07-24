@@ -1,0 +1,80 @@
+---
+access_level: internal
+chunk_strategy: standard
+content_hash: 0d711ec283190332
+country: CA
+crawl_depth_level: 1
+file_role: deep_crawl_page
+lang: en
+last_updated: '2026-07-23'
+priority_weight: 0.8
+program: NEWS
+retrieval_strategy: direct
+source_id: immigration_ca_news_canada
+source_url: https://immigration.ca/?s=Latest+News
+topic: immigration_news
+version: '1.0'
+---
+
+[![Significant Jump In Parents and Grandparents Immigration To Canada](https://immigration.ca/wp-content/uploads/2024/07/Significant-Jump-In-Parents-and-Grandparents-Immigration-To-Canada-300x169.jpg)](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Pauses New Parents and Grandparents Sponsorship Applications: What Families Should Do Next ](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
+[ Read More » ](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
+Colin R. Singer  July 22, 2026 
+[![IRCC Express Entry Targets Canadian Experience Class Workers Immigrating to Canada](https://immigration.ca/wp-content/uploads/2025/11/IRCC-Express-Entry-Targets-Canadian-Experience-Class-Workers-Immigrating-to-Canada-300x157.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Invites 2,000 Canadian Experience Class Candidates in July 21 Express Entry Draw ](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
+[ Read More » ](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
+Colin R. Singer  July 22, 2026 
+###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
+Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
+[ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
+Colin R. Singer  December 30, 2016 
+###  [ CRS Score Drops To 444 In Latest Canada Express Entry Draw ](https://immigration.ca/crs-score-drops-444-latest-canada-express-entry-draw/)
+January 24, 2017 – Canadian immigration authorities conducted the 2nd round of invitations under Express Entry in 2018 and 82nd overall, with 2,750 candidates issued Invitations to Apply
+[ Read More » ](https://immigration.ca/crs-score-drops-444-latest-canada-express-entry-draw/)
+Colin R. Singer  March 26, 2018 
+###  [ Latest Canada Express Entry Draw Sees New Ranking Format and 2,000 Invitations Issued ](https://immigration.ca/latest-canada-express-entry-draw-sees-new-ranking-format-2000-invites-issued/)
+November 8, 2017 – Canadian immigration authorities conducted the 27th round of invitations under Express Entry in 2017 and 77th overall, with 2,000 candidates issued Invitations to Apply
+[ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-sees-new-ranking-format-2000-invites-issued/)
+Colin R. Singer  November 8, 2017 
+[![Canada Issues 648 Invitations In New Provincial Nominee Program Express Entry Draw](https://immigration.ca/wp-content/uploads/2024/10/Canada-Issues-648-Invitations-In-New-Provincial-Nominee-Program-Express-Entry-Draw-300x157.jpg)](https://immigration.ca/canada-issues-646-invitations-in-latest-provincial-nominee-program-express-entry-draw/)
+###  [ Canada Issues 646 Invitations in Latest Provincial Nominee Program Express Entry Draw ](https://immigration.ca/canada-issues-646-invitations-in-latest-provincial-nominee-program-express-entry-draw/)
+Canada’s latest Express Entry draw issued 646 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
+[ Read More » ](https://immigration.ca/canada-issues-646-invitations-in-latest-provincial-nominee-program-express-entry-draw/)
+Melissa Gosselin  February 17, 2025 
+###  [ Latest Express Entry Draw Sees 3,000 Candidates Invited To Apply ](https://immigration.ca/latest-express-entry-draw-sees-3000-candidates-invited-to-apply/)
+March 14, 2018 – Canadian immigration authorities have conducted another large Express Entry draw, with 3,000 candidates issued Invitations to Apply (ITAs) for permanent residence
+[ Read More » ](https://immigration.ca/latest-express-entry-draw-sees-3000-candidates-invited-to-apply/)
+Colin R. Singer  March 26, 2018 
+[![Indian Citizens Dominate Canada’s 2019 Permanent Resident Arrivals](https://immigration.ca/wp-content/uploads/2018/08/British-Columbia_162644667-300x200.jpeg)](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
+###  [ Latest Canada Express Entry Draw Matches Lowest CRS Score and Highest Number of Invitations in 2018 ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
+Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
+[ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
+Colin R. Singer  October 15, 2018 
+[![](https://immigration.ca/wp-content/uploads/2025/05/How-Education-Professionals-immigrate-to-Canada-300x157.jpg)](https://immigration.ca/canada-invites-1000-education-professionals-in-latest-express-entry-category-based-draw/)
+###  [ Canada Invites 1,000 Education Professionals in Latest Express Entry Category-Based Draw ](https://immigration.ca/canada-invites-1000-education-professionals-in-latest-express-entry-category-based-draw/)
+What you need to know about Canada’s latest Express Entry draw, which issued 1,000 Invitations to Apply (ITAs) in the Education occupations category.
+[ Read More » ](https://immigration.ca/canada-invites-1000-education-professionals-in-latest-express-entry-category-based-draw/)
+Melissa Gosselin  May 1, 2025 
+###  [ 3,000 Candidates Invited To Apply in Latest Canada Express Entry Draw ](https://immigration.ca/3000-candidates-invited-apply-latest-canada-express-entry-draw/)
+February 21, 2018 – Canadian immigration authorities have conducted another large Express Entry draw, with 3,000 candidates issued Invitations to Apply (ITAs) for permanent residence
+[ Read More » ](https://immigration.ca/3000-candidates-invited-apply-latest-canada-express-entry-draw/)
+Colin R. Singer  March 26, 2018 
+[![](https://immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-300x157.jpg)](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
+###  [ Canada Issues 536 Invitations in Latest PNP Express Entry Draw ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
+Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
+[ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
+Colin R. Singer  March 17, 2025 
+[![Significant Jump In Parents and Grandparents Immigration To Canada](https://immigration.ca/wp-content/uploads/2024/07/Significant-Jump-In-Parents-and-Grandparents-Immigration-To-Canada-40x40.jpg)](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
+[Canada Pauses New Parents and Grandparents Sponsorship Applications: What Families Should Do Next](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)July 22, 2026
+[![IRCC Express Entry Targets Canadian Experience Class Workers Immigrating to Canada](https://immigration.ca/wp-content/uploads/2025/11/IRCC-Express-Entry-Targets-Canadian-Experience-Class-Workers-Immigrating-to-Canada-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
+[Canada Invites 2,000 Canadian Experience Class Candidates in July 21 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)July 22, 2026
+[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)
+[New Canada LMIA Wage Thresholds Take Effect](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)July 21, 2026
+[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
+[Canada Invites 511 Provincial Nominees in July 20 Express Entry Draw](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)July 21, 2026
+[![](https://immigration.ca/wp-content/uploads/2012/12/Federal-Skilled-Worker-Program-Requirements-40x40.jpg)](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)
+[Latin American Immigration To Canada Evolves As Skilled Worker Arrivals Overtake Refugee Admissions](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)July 20, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
+[Follow-Up — Canadian Citizenship by Descent Consultation](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)July 17, 2026

@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 70af20f5c6cd73a8
+content_hash: 1c8ef78204f00a02
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-07-24'
+last_updated: '2026-07-23'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,10 +379,6 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![Ontario Targets Huge List Of Occupations With 1,424 Express Entry Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Ontario-Targets-Huge-List-Of-Occupations-With-1424-Express-Entry-Invitations-40x40.jpg)](https://immigration.ca/ontario-workforce-priority-stream-complete-guide/)
-[Ontario Workforce Priority Stream: Complete Guide](https://immigration.ca/ontario-workforce-priority-stream-complete-guide/)July 23, 2026
-  * [![Express Entry Invitations to French Speakers](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/10/Express-Entry-Invitations-to-French-Speakers-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-399-july-22-2026/)
-[Canada Invites 5,000 French-Speaking Candidates as Express Entry CRS Cutoff Falls to 399](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-399-july-22-2026/)July 23, 2026
   * [![Significant Jump In Parents and Grandparents Immigration To Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/07/Significant-Jump-In-Parents-and-Grandparents-Immigration-To-Canada-40x40.jpg)](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
 [Canada Pauses New Parents and Grandparents Sponsorship Applications: What Families Should Do Next](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)July 22, 2026
   * [![IRCC Express Entry Targets Canadian Experience Class Workers Immigrating to Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/11/IRCC-Express-Entry-Targets-Canadian-Experience-Class-Workers-Immigrating-to-Canada-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-july-21-express-entry-draw/)
@@ -391,6 +387,10 @@ Latest News
 [New Canada LMIA Wage Thresholds Take Effect](https://immigration.ca/new-canada-lmia-wage-thresholds-take-effect/)July 21, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)
 [Canada Invites 511 Provincial Nominees in July 20 Express Entry Draw](https://immigration.ca/canada-invites-511-provincial-nominees-express-entry-july-20-2026/)July 21, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2012/12/Federal-Skilled-Worker-Program-Requirements-40x40.jpg)](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)
+[Latin American Immigration To Canada Evolves As Skilled Worker Arrivals Overtake Refugee Admissions](https://immigration.ca/latin-american-immigration-to-canada-evolves-as-skilled-worker-arrivals-overtake-refugee-admissions/)July 20, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)
+[Follow-Up — Canadian Citizenship by Descent Consultation](https://immigration.ca/follow-up-canadian-citizenship-by-descent-consultation/)July 17, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
