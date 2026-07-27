@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: cd8b69315f9e4bf1
+content_hash: 6f7e0b3b6ffb46fe
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-27'
+last_updated: '2026-07-20'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -140,7 +140,6 @@ CanadaVisa.com | 420 Notre-Dame Ouest., Suite 310, Montreal, QC, Canada｜H2Y 1V
 * [**Ontario Documents**](https://www.canadavisa.com/citizenship-by-descent/ontario-documents)
 * [**Nova Scotia Documents**](https://www.canadavisa.com/citizenship-by-descent/nova-scotia-documents)
 * [**Quebec Documents**](https://www.canadavisa.com/citizenship-by-descent/quebec-documents)
-* [**Prince Edward Island Documents**](https://www.canadavisa.com/citizenship-by-descent/prince-edward-island-documents)
 [Get a Free Citizenship Consultation](https://www.canadavisa.com/</canadian-citizenship-immigration-and-settlement-in-canada.html>) [Calculate Your Citizenship Eligibility](https://www.canadavisa.com/</canadian-citizenship-eligibility-calculator.html>) [Citizenship through Parents or Grandparents](https://www.canadavisa.com/</citizenship-by-descent.html>)
 * [**Overcome Inadmissibility**](https://www.canadavisa.com/immigration-inadmissibility.html)
 * [**Temporary Resident Permit**](https://www.canadavisa.com/canadian-temporary-resident-permit.html)
