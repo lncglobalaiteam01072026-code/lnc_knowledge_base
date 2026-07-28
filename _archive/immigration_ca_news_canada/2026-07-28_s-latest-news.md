@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: c0efdc5cfd3873e7
+content_hash: 24482535fee4dff4
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-28'
+last_updated: '2026-07-27'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -25,7 +25,7 @@ Colin Singer  July 25, 2026
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Schedule Your Immigration Consultation ($100 Discount Applied) ](https://immigration.ca/schedule-your-immigration-consultation-100-discount-applied/)
 [ Read More » ](https://immigration.ca/schedule-your-immigration-consultation-100-discount-applied/)
-Colin Singer  July 27, 2026 
+Colin Singer  July 24, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
