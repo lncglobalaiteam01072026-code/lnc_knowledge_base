@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: dc1f4599dfb5a889
+content_hash: c0efdc5cfd3873e7
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-29'
+last_updated: '2026-07-28'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2012/12/Nova-Scotia-Immigration-1-300x169.jpg)](https://immigration.ca/nova-scotia-expands-immigration-selection-for-in-province-workers/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Nova Scotia Expands Immigration Selection For In-Province Workers ](https://immigration.ca/nova-scotia-expands-immigration-selection-for-in-province-workers/)
-[ Read More » ](https://immigration.ca/nova-scotia-expands-immigration-selection-for-in-province-workers/)
-Colin R. Singer  July 28, 2026 
 [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-300x169.jpg)](https://immigration.ca/british-columbia-issues-60-canada-immigration-invitations-in-new-bc-pnp-draw/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ British Columbia Issues 60 Canada Immigration Invitations In New BC PNP Draw ](https://immigration.ca/british-columbia-issues-60-canada-immigration-invitations-in-new-bc-pnp-draw/)
 [ Read More » ](https://immigration.ca/british-columbia-issues-60-canada-immigration-invitations-in-new-bc-pnp-draw/)
 Colin Singer  July 25, 2026 
+[![Immigration Consultation](https://immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-300x169.jpg)](https://immigration.ca/schedule-your-immigration-consultation-100-discount-applied/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Schedule Your Immigration Consultation ($100 Discount Applied) ](https://immigration.ca/schedule-your-immigration-consultation-100-discount-applied/)
+[ Read More » ](https://immigration.ca/schedule-your-immigration-consultation-100-discount-applied/)
+Colin Singer  July 27, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -65,8 +65,6 @@ Colin R. Singer  March 26, 2018
 Canada’s latest Express Entry draw issued 511 Invitations to Apply (ITAs) in the Provincial Nominee Program. The May 12 draw saw a minimum. Comprehensive Ranking System (CRS) score of 706 points. 
 [ Read More » ](https://immigration.ca/canada-invites-511-pnp-candidates-in-latest-express-entry-draw/)
 Melissa Gosselin  May 12, 2025 
-[![](https://immigration.ca/wp-content/uploads/2012/12/Nova-Scotia-Immigration-1-40x40.jpg)](https://immigration.ca/nova-scotia-expands-immigration-selection-for-in-province-workers/)
-[Nova Scotia Expands Immigration Selection For In-Province Workers](https://immigration.ca/nova-scotia-expands-immigration-selection-for-in-province-workers/)July 28, 2026
 [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-issues-60-canada-immigration-invitations-in-new-bc-pnp-draw/)
 [British Columbia Issues 60 Canada Immigration Invitations In New BC PNP Draw](https://immigration.ca/british-columbia-issues-60-canada-immigration-invitations-in-new-bc-pnp-draw/)July 25, 2026
 [![Immigration Consultation](https://immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/schedule-your-immigration-consultation-100-discount-applied/)
@@ -77,3 +75,5 @@ Melissa Gosselin  May 12, 2025
 [Ontario Workforce Priority Stream: Complete Guide](https://immigration.ca/ontario-workforce-priority-stream-complete-guide/)July 23, 2026
 [![Express Entry Invitations to French Speakers](https://immigration.ca/wp-content/uploads/2025/10/Express-Entry-Invitations-to-French-Speakers-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-399-july-22-2026/)
 [Canada Invites 5,000 French-Speaking Candidates as Express Entry CRS Cutoff Falls to 399](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-399-july-22-2026/)July 23, 2026
+[![Significant Jump In Parents and Grandparents Immigration To Canada](https://immigration.ca/wp-content/uploads/2024/07/Significant-Jump-In-Parents-and-Grandparents-Immigration-To-Canada-40x40.jpg)](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)
+[Canada Pauses New Parents and Grandparents Sponsorship Applications: What Families Should Do Next](https://immigration.ca/canada-pauses-new-parents-and-grandparents-sponsorship-applications-what-families-should-do-next/)July 22, 2026
