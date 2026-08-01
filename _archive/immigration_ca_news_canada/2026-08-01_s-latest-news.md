@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: a8746ac1c6ac11d7
+content_hash: 49c99cdecb5bf13d
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-01'
+last_updated: '2026-07-31'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-300x157.jpg)](https://immigration.ca/new-brunswick-immigration/)
+[![Saskatchewan PNP, Province Issues 89 Invitations In First Draw Since June](https://immigration.ca/wp-content/uploads/2024/09/Saskatchewan-PNP-Province-Issues-89-Invitations-In-First-Draw-Since-June-300x169.jpg)](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ New Brunswick Immigration ](https://immigration.ca/new-brunswick-immigration/)
-[ Read More » ](https://immigration.ca/new-brunswick-immigration/)
-Colin R. Singer  July 31, 2026 
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Manitoba Issues 766 Letters of Advice to Apply in MPNP Draw #276 ](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
-[ Read More » ](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
-Colin Singer  July 31, 2026 
+###  [ Saskatchewan Reserves 750 SINP Immigration Nominations For Local Graduates ](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)
+[ Read More » ](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)
+Colin R. Singer  July 29, 2026 
+[![IRCC Proposes New Study Permits for Those Switching DLIs](https://immigration.ca/wp-content/uploads/2024/07/IRCC-Proposes-New-Study-Permits-for-Those-Switching-DLIs-300x169.jpg)](https://immigration.ca/canada-reveals-more-than-700000-permanent-residence-applications-await-decisions/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Reveals More Than 700,000 Permanent Residence Applications Await Decisions ](https://immigration.ca/canada-reveals-more-than-700000-permanent-residence-applications-await-decisions/)
+[ Read More » ](https://immigration.ca/canada-reveals-more-than-700000-permanent-residence-applications-await-decisions/)
+Colin R. Singer  July 29, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,10 +66,6 @@ Colin R. Singer  March 26, 2018
 Canada’s latest Express Entry draw issued 511 Invitations to Apply (ITAs) in the Provincial Nominee Program. The May 12 draw saw a minimum. Comprehensive Ranking System (CRS) score of 706 points. 
 [ Read More » ](https://immigration.ca/canada-invites-511-pnp-candidates-in-latest-express-entry-draw/)
 Melissa Gosselin  May 12, 2025 
-[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-immigration/)
-[New Brunswick Immigration](https://immigration.ca/new-brunswick-immigration/)July 31, 2026
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
-[Manitoba Issues 766 Letters of Advice to Apply in MPNP Draw #276](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)July 31, 2026
 [![Saskatchewan PNP, Province Issues 89 Invitations In First Draw Since June](https://immigration.ca/wp-content/uploads/2024/09/Saskatchewan-PNP-Province-Issues-89-Invitations-In-First-Draw-Since-June-40x40.jpg)](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)
 [Saskatchewan Reserves 750 SINP Immigration Nominations For Local Graduates](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)July 29, 2026
 [![IRCC Proposes New Study Permits for Those Switching DLIs](https://immigration.ca/wp-content/uploads/2024/07/IRCC-Proposes-New-Study-Permits-for-Those-Switching-DLIs-40x40.jpg)](https://immigration.ca/canada-reveals-more-than-700000-permanent-residence-applications-await-decisions/)
@@ -78,3 +74,7 @@ Melissa Gosselin  May 12, 2025
 [Canada Introduces Online Passport Renewals](https://immigration.ca/canada-introduces-online-passport-renewals/)July 29, 2026
 [![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/canada-expands-francophone-student-pilot-with-open-work-permit-pathway/)
 [Canada Expands Francophone Student Pilot With Open Work Permit Pathway](https://immigration.ca/canada-expands-francophone-student-pilot-with-open-work-permit-pathway/)July 29, 2026
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-invitations-in-july-2026-mpnp-draws-274-and-275/)
+[Manitoba Issues Invitations in July 2026 MPNP Draws #274 and #275](https://immigration.ca/manitoba-issues-invitations-in-july-2026-mpnp-draws-274-and-275/)July 29, 2026
+[![](https://immigration.ca/wp-content/uploads/2012/12/Nova-Scotia-Immigration-1-40x40.jpg)](https://immigration.ca/nova-scotia-expands-immigration-selection-for-in-province-workers/)
+[Nova Scotia Expands Immigration Selection For In-Province Workers](https://immigration.ca/nova-scotia-expands-immigration-selection-for-in-province-workers/)July 28, 2026
