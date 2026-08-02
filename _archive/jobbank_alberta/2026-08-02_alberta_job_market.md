@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: f02e2848ab6a1ad3
 file_role: alberta_job_market
 lang: en
-last_updated: '2026-08-02'
+last_updated: '2026-07-10'
 priority_weight: 0.8
 program: JOBBANK
 province: AB
