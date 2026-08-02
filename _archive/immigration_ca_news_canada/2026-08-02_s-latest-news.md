@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: bfafe099b91f0e14
+content_hash: a8746ac1c6ac11d7
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-02'
+last_updated: '2026-08-01'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-300x169.jpg)](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)
+[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-300x157.jpg)](https://immigration.ca/new-brunswick-immigration/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ New Brunswick Immigration ](https://immigration.ca/new-brunswick-immigration/)
+[ Read More » ](https://immigration.ca/new-brunswick-immigration/)
+Colin R. Singer  July 31, 2026 
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ British Columbia Invites 10 Entrepreneurs In July 28 BC PNP Draw ](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)
-[ Read More » ](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)
-Colin Singer  August 1, 2026 
-[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-300x169.jpg)](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Alberta Issues More Than 1,160 Invitations Across Six AAIP Draws In July 2026 ](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)
-[ Read More » ](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)
-Colin Singer  August 1, 2026 
+###  [ Manitoba Issues 766 Letters of Advice to Apply in MPNP Draw #276 ](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
+[ Read More » ](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
+Colin Singer  July 31, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,10 +66,6 @@ Colin R. Singer  March 26, 2018
 Canada’s latest Express Entry draw issued 511 Invitations to Apply (ITAs) in the Provincial Nominee Program. The May 12 draw saw a minimum. Comprehensive Ranking System (CRS) score of 706 points. 
 [ Read More » ](https://immigration.ca/canada-invites-511-pnp-candidates-in-latest-express-entry-draw/)
 Melissa Gosselin  May 12, 2025 
-[![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)
-[British Columbia Invites 10 Entrepreneurs In July 28 BC PNP Draw](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)August 1, 2026
-[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)
-[Alberta Issues More Than 1,160 Invitations Across Six AAIP Draws In July 2026](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)August 1, 2026
 [![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-immigration/)
 [New Brunswick Immigration](https://immigration.ca/new-brunswick-immigration/)July 31, 2026
 [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
@@ -78,3 +74,7 @@ Melissa Gosselin  May 12, 2025
 [Saskatchewan Reserves 750 SINP Immigration Nominations For Local Graduates](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)July 29, 2026
 [![IRCC Proposes New Study Permits for Those Switching DLIs](https://immigration.ca/wp-content/uploads/2024/07/IRCC-Proposes-New-Study-Permits-for-Those-Switching-DLIs-40x40.jpg)](https://immigration.ca/canada-reveals-more-than-700000-permanent-residence-applications-await-decisions/)
 [Canada Reveals More Than 700,000 Permanent Residence Applications Await Decisions](https://immigration.ca/canada-reveals-more-than-700000-permanent-residence-applications-await-decisions/)July 29, 2026
+[![](https://immigration.ca/wp-content/uploads/2026/05/Passport-40x40.jpg)](https://immigration.ca/canada-introduces-online-passport-renewals/)
+[Canada Introduces Online Passport Renewals](https://immigration.ca/canada-introduces-online-passport-renewals/)July 29, 2026
+[![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/canada-expands-francophone-student-pilot-with-open-work-permit-pathway/)
+[Canada Expands Francophone Student Pilot With Open Work Permit Pathway](https://immigration.ca/canada-expands-francophone-student-pilot-with-open-work-permit-pathway/)July 29, 2026
