@@ -1,23 +1,20 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 03/08/2026 lúc 20:23 tối (giờ VN)  
-**Loại cập nhật:** Weekly  
-**Kết quả:** 4 nguồn | ✅ 4 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 03/08/2026 lúc 20:30 tối (giờ VN)  
+**Loại cập nhật:** Monthly  
+**Kết quả:** 3 nguồn | ✅ 3 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### BCPNP — BC Provincial Nominee Program
-- ✅ Lịch sử draws / mời ứng viên
-
-### Immigration.ca — Tin tức nhập cư Canada
-- ✅ immigration_news
-- ✅ immigration_news
+### CIC News — Tin tức di trú
+- ✅ news_pnp
+- ✅ news_express_entry
 
 ### NZAEWV — New Zealand Accredited Employer Work Visa
-- ✅ immigration_news
+- ✅ news_policy
 
 ---
 
-_Cập nhật tiếp theo: tuần tới (thứ Hai)._
+_Cập nhật tiếp theo: tháng tới (ngày 1)._
