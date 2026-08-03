@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: beb28697174fee86
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-03'
+last_updated: '2026-08-02'
 priority_weight: 0.7
 program: AAIP
 province: AB
