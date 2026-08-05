@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 7a86c5fe90f81c0e
+content_hash: fd40a41edbba3d43
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-05'
+last_updated: '2026-08-04'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -16,12 +16,12 @@ version: '1.0'
 ---
 
 [Skip to content](#content)
-  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-colombie-britannique/)
+  * [ ![](https://immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-colombie-britannique/)
 
 
 Clear
 Search
-[ ![Immigration.ca | Live and Work in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2021/01/Live-and-Work-in-Canada.jpg) ](https://immigration.ca)
+[ ![Immigration.ca | Live and Work in Canada](https://immigration.ca/wp-content/uploads/2021/01/Live-and-Work-in-Canada.jpg) ](https://immigration.ca)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
 [ Book a Consultation ](https://immigration.ca/british-columbia-immigration/</immigration-telephone-consultation>)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
@@ -29,7 +29,7 @@ Search
 [ Book a Consultation ](https://immigration.ca/british-columbia-immigration/</immigration-telephone-consultation>)
   * [About](https://immigration.ca/british-columbia-immigration/</about-us/>)
     * [About Us](https://immigration.ca/about-us/)
-    * [Our Team of Immigration Professionals](https://immigration.ca/our-team-of-immigration-professionals/)
+    * [Our Team of Immigration Professionals​](https://immigration.ca/our-team-of-immigration-professionals/)
     * [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
   * Immigration
     * [Canada Immigration Overview](https://immigration.ca/immigration-to-canada-overview/)
@@ -165,7 +165,7 @@ Search
 
   * [About](https://immigration.ca/british-columbia-immigration/</about-us/>)
     * [About Us](https://immigration.ca/about-us/)
-    * [Our Team of Immigration Professionals](https://immigration.ca/our-team-of-immigration-professionals/)
+    * [Our Team of Immigration Professionals​](https://immigration.ca/our-team-of-immigration-professionals/)
     * [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
   * Immigration
     * [Canada Immigration Overview](https://immigration.ca/immigration-to-canada-overview/)
@@ -300,14 +300,14 @@ Search
 
 
 # British Columbia Immigration
-![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
+![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
 Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
 Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
 Published: **November 23, 2018**
 Last updated: **September 29, 2025**
 Reading time: 4 min
 Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
-![British Columbia PNP Draw Province Issues 200 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/10/British-Columbia-PNP-Draw-Province-Issues-200-Canada-Immigration-Invitations.jpg)
+![British Columbia PNP Draw Province Issues 200 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/10/British-Columbia-PNP-Draw-Province-Issues-200-Canada-Immigration-Invitations.jpg)
 The British Columbia Provincial Nominee Program (BCPNP) targets skilled workers and entrepreneurs for[ Canadian permanent residence](https://immigration.ca/benefits-obligations-permanent-resident-canada/), who intend to settle in the province.
 ### On This Page, You Will Find:
   * **Overview of the British Columbia PNP** and how it works
@@ -378,7 +378,7 @@ Most BC PNP streams require a valid job offer from an employer in British Columb
 If your application is refused, you can request a review or reapply if your circumstances change. You may also explore other Canadian immigration pathways.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
 About the author
-![Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
 [Colin R. Singer, LL.L, BA](https://immigration.ca/author/colin-singer/)
 Canadian Immigration Lawyer · Founder & Managing Partner, immigration.ca
 Colin R. Singer has been a licensed immigration lawyer in good standing with the [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) for over 35 years and has led immigration.ca, Canada’s longest-standing online immigration platform, since 1994. He has [testified before the House of Commons Standing Committee on Citizenship and Immigration](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence), contributed to [Law360 (LexisNexis)](https://www.law360.ca/ca/search?q=Colin+Singer) since 2015 and to national media including the Financial Post, and has served as a lifetime [Governor of the Fondation du Barreau du Québec](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1) since 2009.
@@ -389,18 +389,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![Canada’s Federal Government ‘Failing To Crack Down on Fake Immigration Consultants’](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/04/Canadas-Federal-Government-%E2%80%98Failing-To-Crack-Down-on-Fake-Immigration-Consultants-40x40.jpg)](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)
-[Canada To Introduce New Penalties For Immigration Consultants Later In 2026](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)August 4, 2026
-  * [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)
+  * [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)
 [British Columbia Invites 10 Entrepreneurs In July 28 BC PNP Draw](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)August 1, 2026
-  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)
+  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)
 [Alberta Issues More Than 1,160 Invitations Across Six AAIP Draws In July 2026](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)August 1, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-immigration/)
+  * [![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-immigration/)
 [New Brunswick Immigration](https://immigration.ca/new-brunswick-immigration/)July 31, 2026
-  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
+  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
 [Manitoba Issues 766 Letters of Advice to Apply in MPNP Draw #276](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)July 31, 2026
-  * [![Saskatchewan PNP, Province Issues 89 Invitations In First Draw Since June](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Saskatchewan-PNP-Province-Issues-89-Invitations-In-First-Draw-Since-June-40x40.jpg)](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)
+  * [![Saskatchewan PNP, Province Issues 89 Invitations In First Draw Since June](https://immigration.ca/wp-content/uploads/2024/09/Saskatchewan-PNP-Province-Issues-89-Invitations-In-First-Draw-Since-June-40x40.jpg)](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)
 [Saskatchewan Reserves 750 SINP Immigration Nominations For Local Graduates](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)July 29, 2026
+  * [![IRCC Proposes New Study Permits for Those Switching DLIs](https://immigration.ca/wp-content/uploads/2024/07/IRCC-Proposes-New-Study-Permits-for-Those-Switching-DLIs-40x40.jpg)](https://immigration.ca/canada-reveals-more-than-700000-permanent-residence-applications-await-decisions/)
+[Canada Reveals More Than 700,000 Permanent Residence Applications Await Decisions](https://immigration.ca/canada-reveals-more-than-700000-permanent-residence-applications-await-decisions/)July 29, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -423,8 +423,8 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
   * [ Fraud alert ](https://immigration.ca/fraud-alert)
 
 
-![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2022/01/Logo-on-dark-transparent-bg-defringe-1024x256.png)
-  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-colombie-britannique/)
+![](https://immigration.ca/wp-content/uploads/2022/01/Logo-on-dark-transparent-bg-defringe-1024x256.png)
+  * [ ![](https://immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-colombie-britannique/)
 
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
