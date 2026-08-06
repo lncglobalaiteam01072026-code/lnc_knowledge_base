@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: cb702d7b64fc3df0
+content_hash: 7a86c5fe90f81c0e
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-06'
+last_updated: '2026-08-05'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -389,8 +389,6 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)
-[Canada Invites 507 Provincial Nominees in August 4 Express Entry Draw](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)August 5, 2026
   * [![Canada’s Federal Government ‘Failing To Crack Down on Fake Immigration Consultants’](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/04/Canadas-Federal-Government-%E2%80%98Failing-To-Crack-Down-on-Fake-Immigration-Consultants-40x40.jpg)](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)
 [Canada To Introduce New Penalties For Immigration Consultants Later In 2026](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)August 4, 2026
   * [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)
@@ -401,6 +399,8 @@ Latest News
 [New Brunswick Immigration](https://immigration.ca/new-brunswick-immigration/)July 31, 2026
   * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
 [Manitoba Issues 766 Letters of Advice to Apply in MPNP Draw #276](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)July 31, 2026
+  * [![Saskatchewan PNP, Province Issues 89 Invitations In First Draw Since June](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Saskatchewan-PNP-Province-Issues-89-Invitations-In-First-Draw-Since-June-40x40.jpg)](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)
+[Saskatchewan Reserves 750 SINP Immigration Nominations For Local Graduates](https://immigration.ca/saskatchewan-reserves-750-sinp-immigration-nominations-for-local-graduates/)July 29, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
