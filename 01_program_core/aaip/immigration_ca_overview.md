@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: d3ad2665c25c0da1
+content_hash: 7c50c873fa794d03
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-06'
+last_updated: '2026-08-07'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,6 +379,10 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/canada-needs-20250-more-francophone-immigrants-to-hit-2026-target/)
+[Canada Needs 20,250 More Francophone Immigrants To Hit 2026 Target](https://immigration.ca/canada-needs-20250-more-francophone-immigrants-to-hit-2026-target/)August 6, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-3000-canadian-experience-class-august-5-express-entry-draw/)
+[Canada Invites 3,000 Canadian Experience Class Candidates in August 5 Express Entry Draw](https://immigration.ca/canada-invites-3000-canadian-experience-class-august-5-express-entry-draw/)August 6, 2026
   * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)
 [Canada Invites 507 Provincial Nominees in August 4 Express Entry Draw](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)August 5, 2026
   * [![Canada’s Federal Government ‘Failing To Crack Down on Fake Immigration Consultants’](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/04/Canadas-Federal-Government-%E2%80%98Failing-To-Crack-Down-on-Fake-Immigration-Consultants-40x40.jpg)](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)
@@ -387,10 +391,6 @@ Latest News
 [British Columbia Invites 10 Entrepreneurs In July 28 BC PNP Draw](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)August 1, 2026
   * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)
 [Alberta Issues More Than 1,160 Invitations Across Six AAIP Draws In July 2026](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)August 1, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-immigration/)
-[New Brunswick Immigration](https://immigration.ca/new-brunswick-immigration/)July 31, 2026
-  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
-[Manitoba Issues 766 Letters of Advice to Apply in MPNP Draw #276](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)July 31, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.

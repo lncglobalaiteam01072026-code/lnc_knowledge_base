@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 83a73dd7c82fd591
+content_hash: 25810c9cdbef1936
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-07'
+last_updated: '2026-08-06'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Claim Canadian Citizenship by Inheritance](https://immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-300x169.jpg)](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-300x169.jpg)](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Invites 507 Provincial Nominees in August 4 Express Entry Draw ](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)
+Colin Singer  August 5, 2026 
+[![Canada’s Federal Government ‘Failing To Crack Down on Fake Immigration Consultants’](https://immigration.ca/wp-content/uploads/2024/04/Canadas-Federal-Government-‘Failing-To-Crack-Down-on-Fake-Immigration-Consultants-300x169.jpg)](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Urgent Processing of Canadian Citizenship for Medical Hardship ](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)
-[ Read More » ](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)
-Colin R. Singer  August 6, 2026 
-[![Ontario Targets Huge List Of Occupations With 1,424 Express Entry Invitations](https://immigration.ca/wp-content/uploads/2024/09/Ontario-Targets-Huge-List-Of-Occupations-With-1424-Express-Entry-Invitations-300x157.jpg)](https://immigration.ca/ontarios-new-workforce-priority-immigration-stream-now-open-to-candidates/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Ontario’s New Workforce Priority Immigration Stream Now Open To Candidates ](https://immigration.ca/ontarios-new-workforce-priority-immigration-stream-now-open-to-candidates/)
-[ Read More » ](https://immigration.ca/ontarios-new-workforce-priority-immigration-stream-now-open-to-candidates/)
-Colin R. Singer  August 6, 2026 
+###  [ Canada To Introduce New Penalties For Immigration Consultants Later In 2026 ](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)
+[ Read More » ](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)
+Colin R. Singer  August 4, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -65,15 +65,15 @@ Colin R. Singer  March 17, 2025
 March 26, 2018 – Canadian immigration authorities have conducted another large Express Entry draw, with 3,000 candidates issued Invitations to Apply (ITAs) for permanent residence
 [ Read More » ](https://immigration.ca/crs-score-drops-to-446-in-latest-canada-express-entry-immigration-draw/)
 Colin R. Singer  March 26, 2018 
-[![Claim Canadian Citizenship by Inheritance](https://immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)
-[Urgent Processing of Canadian Citizenship for Medical Hardship](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)August 6, 2026
-[![Ontario Targets Huge List Of Occupations With 1,424 Express Entry Invitations](https://immigration.ca/wp-content/uploads/2024/09/Ontario-Targets-Huge-List-Of-Occupations-With-1424-Express-Entry-Invitations-40x40.jpg)](https://immigration.ca/ontarios-new-workforce-priority-immigration-stream-now-open-to-candidates/)
-[Ontario’s New Workforce Priority Immigration Stream Now Open To Candidates](https://immigration.ca/ontarios-new-workforce-priority-immigration-stream-now-open-to-candidates/)August 6, 2026
-[![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/canada-needs-20250-more-francophone-immigrants-to-hit-2026-target/)
-[Canada Needs 20,250 More Francophone Immigrants To Hit 2026 Target](https://immigration.ca/canada-needs-20250-more-francophone-immigrants-to-hit-2026-target/)August 6, 2026
-[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-3000-canadian-experience-class-august-5-express-entry-draw/)
-[Canada Invites 3,000 Canadian Experience Class Candidates in August 5 Express Entry Draw](https://immigration.ca/canada-invites-3000-canadian-experience-class-august-5-express-entry-draw/)August 6, 2026
 [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)
 [Canada Invites 507 Provincial Nominees in August 4 Express Entry Draw](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)August 5, 2026
 [![Canada’s Federal Government ‘Failing To Crack Down on Fake Immigration Consultants’](https://immigration.ca/wp-content/uploads/2024/04/Canadas-Federal-Government-‘Failing-To-Crack-Down-on-Fake-Immigration-Consultants-40x40.jpg)](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)
 [Canada To Introduce New Penalties For Immigration Consultants Later In 2026](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)August 4, 2026
+[![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)
+[British Columbia Invites 10 Entrepreneurs In July 28 BC PNP Draw](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)August 1, 2026
+[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)
+[Alberta Issues More Than 1,160 Invitations Across Six AAIP Draws In July 2026](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)August 1, 2026
+[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-immigration/)
+[New Brunswick Immigration](https://immigration.ca/new-brunswick-immigration/)July 31, 2026
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)
+[Manitoba Issues 766 Letters of Advice to Apply in MPNP Draw #276](https://immigration.ca/manitoba-issues-766-letters-of-advice-to-apply-mpnp-draw-276-july-30-2026/)July 31, 2026
