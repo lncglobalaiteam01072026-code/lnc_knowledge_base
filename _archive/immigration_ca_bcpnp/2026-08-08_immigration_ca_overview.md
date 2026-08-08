@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 9c6b4982922b88a7
+content_hash: e8a78e413c3f7775
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-08'
+last_updated: '2026-08-07'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -389,18 +389,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-391-august-6-2026/)
-[Canada Invites 5,000 French-Speaking Candidates as Express Entry CRS Cutoff Falls to 391](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-391-august-6-2026/)August 7, 2026
-  * [![Claim Canadian Citizenship by Inheritance](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)
-[Urgent Processing of Canadian Citizenship for Medical Hardship](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)August 6, 2026
-  * [![Ontario Targets Huge List Of Occupations With 1,424 Express Entry Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/09/Ontario-Targets-Huge-List-Of-Occupations-With-1424-Express-Entry-Invitations-40x40.jpg)](https://immigration.ca/ontarios-new-workforce-priority-immigration-stream-now-open-to-candidates/)
-[Ontario’s New Workforce Priority Immigration Stream Now Open To Candidates](https://immigration.ca/ontarios-new-workforce-priority-immigration-stream-now-open-to-candidates/)August 6, 2026
-  * [![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/canada-needs-20250-more-francophone-immigrants-to-hit-2026-target/)
-[Canada Needs 20,250 More Francophone Immigrants To Hit 2026 Target](https://immigration.ca/canada-needs-20250-more-francophone-immigrants-to-hit-2026-target/)August 6, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-3000-canadian-experience-class-august-5-express-entry-draw/)
 [Canada Invites 3,000 Canadian Experience Class Candidates in August 5 Express Entry Draw](https://immigration.ca/canada-invites-3000-canadian-experience-class-august-5-express-entry-draw/)August 6, 2026
   * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)
 [Canada Invites 507 Provincial Nominees in August 4 Express Entry Draw](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)August 5, 2026
+  * [![Canada’s Federal Government ‘Failing To Crack Down on Fake Immigration Consultants’](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/04/Canadas-Federal-Government-%E2%80%98Failing-To-Crack-Down-on-Fake-Immigration-Consultants-40x40.jpg)](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)
+[Canada To Introduce New Penalties For Immigration Consultants Later In 2026](https://immigration.ca/canada-to-introduce-new-penalties-for-immigration-consultants-later-in-2026/)August 4, 2026
+  * [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)
+[British Columbia Invites 10 Entrepreneurs In July 28 BC PNP Draw](https://immigration.ca/british-columbia-invites-10-entrepreneurs-bc-pnp-draw-july-28-2026/)August 1, 2026
+  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)
+[Alberta Issues More Than 1,160 Invitations Across Six AAIP Draws In July 2026](https://immigration.ca/alberta-issues-more-than-1160-invitations-six-aaip-draws-july-2026/)August 1, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-49826d9/immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-immigration/)
+[New Brunswick Immigration](https://immigration.ca/new-brunswick-immigration/)July 31, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
