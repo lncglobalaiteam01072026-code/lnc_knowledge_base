@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 762cd32fcd21b01c
+content_hash: ae9c4f06b0ae94ad
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-09'
+last_updated: '2026-08-08'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-300x157.jpg)](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
+[![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-300x169.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-391-august-6-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ New Brunswick Issues 750 Invitations Across Five July 2026 Immigration Rounds ](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
-[ Read More » ](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
-Colin Singer  August 8, 2026 
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Newfoundland And Labrador Issues 445 Invitations In Largest Round Of 2026 ](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
-[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
-Colin Singer  August 8, 2026 
+###  [ Canada Invites 5,000 French-Speaking Candidates as Express Entry CRS Cutoff Falls to 391 ](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-391-august-6-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-391-august-6-2026/)
+Colin Singer  August 7, 2026 
+[![Claim Canadian Citizenship by Inheritance](https://immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-300x169.jpg)](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Urgent Processing of Canadian Citizenship for Medical Hardship ](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)
+[ Read More » ](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)
+Colin R. Singer  August 6, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,15 +66,15 @@ Melissa Gosselin  February 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
-[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
-[New Brunswick Issues 750 Invitations Across Five July 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)August 8, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
-[Newfoundland And Labrador Issues 445 Invitations In Largest Round Of 2026](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)August 8, 2026
-[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-82-invitations-two-aaip-priority-sector-draws-july-2026/)
-[Alberta Issues 82 Invitations In Two Late-July AAIP Priority Sector Draws](https://immigration.ca/alberta-issues-82-invitations-two-aaip-priority-sector-draws-july-2026/)August 8, 2026
-[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-500-workers-bc-pnp-draw-august-6-2026/)
-[British Columbia Invites 500 Workers in Largest BC PNP Sector Draw of 2026](https://immigration.ca/british-columbia-invites-500-workers-bc-pnp-draw-august-6-2026/)August 8, 2026
-[![](https://immigration.ca/wp-content/uploads/2023/07/Aircraft-Inspector_218990497-40x40.jpeg)](https://immigration.ca/canada-invites-300-transport-workers-express-entry-draw-august-7-2026/)
-[Canada Invites 300 Transport Workers in First Express Entry Draw Under Revamped Category](https://immigration.ca/canada-invites-300-transport-workers-express-entry-draw-august-7-2026/)August 8, 2026
 [![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-391-august-6-2026/)
 [Canada Invites 5,000 French-Speaking Candidates as Express Entry CRS Cutoff Falls to 391](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-391-august-6-2026/)August 7, 2026
+[![Claim Canadian Citizenship by Inheritance](https://immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)
+[Urgent Processing of Canadian Citizenship for Medical Hardship](https://immigration.ca/urgent-processing-of-canadian-citizenship-for-medical-hardship/)August 6, 2026
+[![Ontario Targets Huge List Of Occupations With 1,424 Express Entry Invitations](https://immigration.ca/wp-content/uploads/2024/09/Ontario-Targets-Huge-List-Of-Occupations-With-1424-Express-Entry-Invitations-40x40.jpg)](https://immigration.ca/ontarios-new-workforce-priority-immigration-stream-now-open-to-candidates/)
+[Ontario’s New Workforce Priority Immigration Stream Now Open To Candidates](https://immigration.ca/ontarios-new-workforce-priority-immigration-stream-now-open-to-candidates/)August 6, 2026
+[![New Canada Immigration Pilot To Welcome More Francophone International Students](https://immigration.ca/wp-content/uploads/2024/08/New-Canada-Immigration-Pilot-To-Welcome-More-Francophone-International-Students-40x40.jpg)](https://immigration.ca/canada-needs-20250-more-francophone-immigrants-to-hit-2026-target/)
+[Canada Needs 20,250 More Francophone Immigrants To Hit 2026 Target](https://immigration.ca/canada-needs-20250-more-francophone-immigrants-to-hit-2026-target/)August 6, 2026
+[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-3000-canadian-experience-class-august-5-express-entry-draw/)
+[Canada Invites 3,000 Canadian Experience Class Candidates in August 5 Express Entry Draw](https://immigration.ca/canada-invites-3000-canadian-experience-class-august-5-express-entry-draw/)August 6, 2026
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)
+[Canada Invites 507 Provincial Nominees in August 4 Express Entry Draw](https://immigration.ca/canada-invites-507-provincial-nominees-express-entry-august-4-2026/)August 5, 2026
