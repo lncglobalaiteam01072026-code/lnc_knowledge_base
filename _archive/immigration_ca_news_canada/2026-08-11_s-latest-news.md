@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: d76eee9574b8aa47
+content_hash: 762cd32fcd21b01c
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-11'
+last_updated: '2026-08-10'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,15 +16,15 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Top 10 Citizenships Of New Canada Permanent Residents In 2024](https://immigration.ca/wp-content/uploads/2024/07/Top-10-Citizenships-Of-New-Canada-Permanent-Residents-In-2024-300x169.jpg)](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues ](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)
-[ Read More » ](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)
-Colin R. Singer  August 10, 2026 
 [![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-300x157.jpg)](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ New Brunswick Issues 750 Invitations Across Five July 2026 Immigration Rounds ](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
 [ Read More » ](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
+Colin Singer  August 8, 2026 
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Newfoundland And Labrador Issues 445 Invitations In Largest Round Of 2026 ](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
+[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
 Colin Singer  August 8, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
@@ -66,8 +66,6 @@ Melissa Gosselin  February 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
-[![Top 10 Citizenships Of New Canada Permanent Residents In 2024](https://immigration.ca/wp-content/uploads/2024/07/Top-10-Citizenships-Of-New-Canada-Permanent-Residents-In-2024-40x40.jpg)](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)
-[Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)August 10, 2026
 [![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
 [New Brunswick Issues 750 Invitations Across Five July 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)August 8, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
@@ -78,3 +76,5 @@ Colin R. Singer  December 17, 2025
 [British Columbia Invites 500 Workers in Largest BC PNP Sector Draw of 2026](https://immigration.ca/british-columbia-invites-500-workers-bc-pnp-draw-august-6-2026/)August 8, 2026
 [![](https://immigration.ca/wp-content/uploads/2023/07/Aircraft-Inspector_218990497-40x40.jpeg)](https://immigration.ca/canada-invites-300-transport-workers-express-entry-draw-august-7-2026/)
 [Canada Invites 300 Transport Workers in First Express Entry Draw Under Revamped Category](https://immigration.ca/canada-invites-300-transport-workers-express-entry-draw-august-7-2026/)August 8, 2026
+[![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-391-august-6-2026/)
+[Canada Invites 5,000 French-Speaking Candidates as Express Entry CRS Cutoff Falls to 391](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-391-august-6-2026/)August 7, 2026
