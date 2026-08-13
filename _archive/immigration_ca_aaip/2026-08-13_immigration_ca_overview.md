@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: f372f8a7261539fd
+content_hash: e718ab1e4bc3280d
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-13'
+last_updated: '2026-08-12'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,10 +379,6 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![Canada Express Entry Guide 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
-[Express Entry Route For H-1B Visa Holders Among Possible Changes For 2027](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)August 12, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-208-invitations-august-10-2026/)
-[Newfoundland And Labrador Issues 208 Invitations In August 10 Immigration Draw](https://immigration.ca/newfoundland-and-labrador-issues-208-invitations-august-10-2026/)August 12, 2026
   * [![Canada Announces Cap on Start-Up Visa Applications to Reduce Processing Times](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/04/Canada-Announces-Cap-on-Start-Up-Visa-Applications-to-Reduce-Processing-Times-1-40x40.jpg)](https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules/)
 [Canada Start-Up Visa 2026: IRCC’s Strict Active Management Rules](https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules/)August 11, 2026
   * [![Top 10 Citizenships Of New Canada Permanent Residents In 2024](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Top-10-Citizenships-Of-New-Canada-Permanent-Residents-In-2024-40x40.jpg)](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)
@@ -391,6 +387,10 @@ Latest News
 [New Brunswick Issues 750 Invitations Across Five July 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)August 8, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
 [Newfoundland And Labrador Issues 445 Invitations In Largest Round Of 2026](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)August 8, 2026
+  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-82-invitations-two-aaip-priority-sector-draws-july-2026/)
+[Alberta Issues 82 Invitations In Two Late-July AAIP Priority Sector Draws](https://immigration.ca/alberta-issues-82-invitations-two-aaip-priority-sector-draws-july-2026/)August 8, 2026
+  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-500-workers-bc-pnp-draw-august-6-2026/)
+[British Columbia Invites 500 Workers in Largest BC PNP Sector Draw of 2026](https://immigration.ca/british-columbia-invites-500-workers-bc-pnp-draw-august-6-2026/)August 8, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
