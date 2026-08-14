@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 0db7fd02dee08d39
+content_hash: ff6cfb91e433b566
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-14'
+last_updated: '2026-08-13'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-300x169.jpg)](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Adds 75,000 Jobs As Labour Market Strengthens For Newcomers ](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
-[ Read More » ](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
-Colin R. Singer  August 13, 2026 
 [![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-300x169.jpg)](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Express Entry Route For H-1B Visa Holders Among Possible Changes For 2027 ](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
 [ Read More » ](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
 Colin R. Singer  August 12, 2026 
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-208-invitations-august-10-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Newfoundland And Labrador Issues 208 Invitations In August 10 Immigration Draw ](https://immigration.ca/newfoundland-and-labrador-issues-208-invitations-august-10-2026/)
+[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-208-invitations-august-10-2026/)
+Colin Singer  August 12, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,8 +66,6 @@ Melissa Gosselin  February 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
-[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
-[Canada Adds 75,000 Jobs As Labour Market Strengthens For Newcomers](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)August 13, 2026
 [![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
 [Express Entry Route For H-1B Visa Holders Among Possible Changes For 2027](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)August 12, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-208-invitations-august-10-2026/)
@@ -78,3 +76,5 @@ Colin R. Singer  December 17, 2025
 [Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)August 10, 2026
 [![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
 [New Brunswick Issues 750 Invitations Across Five July 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)August 8, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
+[Newfoundland And Labrador Issues 445 Invitations In Largest Round Of 2026](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)August 8, 2026

@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 142fe29344cb04b4
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-14'
+last_updated: '2026-08-13'
 priority_weight: 0.7
 program: BCPNP
 province: BC
