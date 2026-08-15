@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 142fe29344cb04b4
+content_hash: a50f224ef3e4f8ed
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-14'
+last_updated: '2026-08-15'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -389,6 +389,10 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![Canada Border Services Agency To Launch New Biometrics App ReportIn](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Canada-Border-Services-Agency-To-Launch-New-Biometrics-App-ReportIn-40x40.jpg)](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
+[CBSA Report Warns Criminal Groups Exploited Canada’s Student Visa System](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)August 14, 2026
+  * [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
+[Canada Adds 75,000 Jobs As Labour Market Strengthens For Newcomers](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)August 13, 2026
   * [![Canada Express Entry Guide 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
 [Express Entry Route For H-1B Visa Holders Among Possible Changes For 2027](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)August 12, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-208-invitations-august-10-2026/)
@@ -397,10 +401,6 @@ Latest News
 [Canada Start-Up Visa 2026: IRCC’s Strict Active Management Rules](https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules/)August 11, 2026
   * [![Top 10 Citizenships Of New Canada Permanent Residents In 2024](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Top-10-Citizenships-Of-New-Canada-Permanent-Residents-In-2024-40x40.jpg)](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)
 [Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)August 10, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
-[New Brunswick Issues 750 Invitations Across Five July 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)August 8, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)
-[Newfoundland And Labrador Issues 445 Invitations In Largest Round Of 2026](https://immigration.ca/newfoundland-and-labrador-issues-445-invitations-largest-round-2026/)August 8, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.

@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 31d3dbd44fdacc66
+content_hash: 0db7fd02dee08d39
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-15'
+last_updated: '2026-08-14'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Canada Border Services Agency To Launch New Biometrics App ReportIn](https://immigration.ca/wp-content/uploads/2024/08/Canada-Border-Services-Agency-To-Launch-New-Biometrics-App-ReportIn-300x169.jpg)](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ CBSA Report Warns Criminal Groups Exploited Canada’s Student Visa System ](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
-[ Read More » ](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
-Colin R. Singer  August 13, 2026 
 [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-300x169.jpg)](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Canada Adds 75,000 Jobs As Labour Market Strengthens For Newcomers ](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
 [ Read More » ](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
 Colin R. Singer  August 13, 2026 
+[![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-300x169.jpg)](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Express Entry Route For H-1B Visa Holders Among Possible Changes For 2027 ](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
+[ Read More » ](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
+Colin R. Singer  August 12, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,8 +66,6 @@ Melissa Gosselin  February 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
-[![Canada Border Services Agency To Launch New Biometrics App ReportIn](https://immigration.ca/wp-content/uploads/2024/08/Canada-Border-Services-Agency-To-Launch-New-Biometrics-App-ReportIn-40x40.jpg)](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
-[CBSA Report Warns Criminal Groups Exploited Canada’s Student Visa System](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)August 14, 2026
 [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
 [Canada Adds 75,000 Jobs As Labour Market Strengthens For Newcomers](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)August 13, 2026
 [![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
@@ -78,3 +76,5 @@ Colin R. Singer  December 17, 2025
 [Canada Start-Up Visa 2026: IRCC’s Strict Active Management Rules](https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules/)August 11, 2026
 [![Top 10 Citizenships Of New Canada Permanent Residents In 2024](https://immigration.ca/wp-content/uploads/2024/07/Top-10-Citizenships-Of-New-Canada-Permanent-Residents-In-2024-40x40.jpg)](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)
 [Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)August 10, 2026
+[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)
+[New Brunswick Issues 750 Invitations Across Five July 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-750-invitations-five-immigration-rounds-july-2026/)August 8, 2026
