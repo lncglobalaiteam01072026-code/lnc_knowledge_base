@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 757430da0cc956fd
+content_hash: e08deb87a76411b7
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-17'
+last_updated: '2026-08-16'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,11 +16,9 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Labour Market Impact Assessment Application Processing Times](https://immigration.ca/wp-content/uploads/2024/10/Labour-Market-Impact-Assessment-Application-Processing-Times-300x157.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ 25-Month Processing Time for Proof of Canadian Citizenship: Should You Submit Now or Delay? ](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)
 [ Read More » ](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)
-Colin R. Singer  August 16, 2026 
+Colin R. Singer  August 15, 2026 
 [![Canada Border Services Agency To Launch New Biometrics App ReportIn](https://immigration.ca/wp-content/uploads/2024/08/Canada-Border-Services-Agency-To-Launch-New-Biometrics-App-ReportIn-300x169.jpg)](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ CBSA Report Warns Criminal Groups Exploited Canada’s Student Visa System ](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
@@ -66,7 +64,7 @@ Melissa Gosselin  February 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
-[![Labour Market Impact Assessment Application Processing Times](https://immigration.ca/wp-content/uploads/2024/10/Labour-Market-Impact-Assessment-Application-Processing-Times-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)
+[](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)
 [25-Month Processing Time for Proof of Canadian Citizenship: Should You Submit Now or Delay?](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)August 15, 2026
 [![Canada Border Services Agency To Launch New Biometrics App ReportIn](https://immigration.ca/wp-content/uploads/2024/08/Canada-Border-Services-Agency-To-Launch-New-Biometrics-App-ReportIn-40x40.jpg)](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
 [CBSA Report Warns Criminal Groups Exploited Canada’s Student Visa System](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)August 14, 2026
