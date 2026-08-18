@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 5b890d4fd276c7c3
+content_hash: 1d18ad9bbadd3b83
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-18'
+last_updated: '2026-08-17'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,18 +379,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-53-letters-of-advice-to-apply-mpnp-draw-277-august-13-2026/)
-[Manitoba Issues 53 Letters of Advice to Apply in MPNP Draw #277](https://immigration.ca/manitoba-issues-53-letters-of-advice-to-apply-mpnp-draw-277-august-13-2026/)August 17, 2026
-  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-367-invitations-five-aaip-draws-august-2026/)
-[Alberta Issues 367 Invitations Across Five August 2026 AAIP Draws](https://immigration.ca/alberta-issues-367-invitations-five-aaip-draws-august-2026/)August 17, 2026
-  * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-442-provincial-nominees-express-entry-august-17-2026/)
-[Canada Invites 442 Provincial Nominees in August 17 Express Entry Draw](https://immigration.ca/canada-invites-442-provincial-nominees-express-entry-august-17-2026/)August 17, 2026
-  * [![Labour Market Impact Assessment Application Processing Times](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/10/Labour-Market-Impact-Assessment-Application-Processing-Times-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)
-[25-Month Processing Time for Proof of Canadian Citizenship: Should You Submit Now or Delay?](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)August 15, 2026
   * [![Canada Border Services Agency To Launch New Biometrics App ReportIn](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Canada-Border-Services-Agency-To-Launch-New-Biometrics-App-ReportIn-40x40.jpg)](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
 [CBSA Report Warns Criminal Groups Exploited Canada’s Student Visa System](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)August 14, 2026
   * [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
 [Canada Adds 75,000 Jobs As Labour Market Strengthens For Newcomers](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)August 13, 2026
+  * [![Canada Express Entry Guide 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)
+[Express Entry Route For H-1B Visa Holders Among Possible Changes For 2027](https://immigration.ca/express-entry-route-for-h-1b-visa-holders-among-possible-changes-for-2027/)August 12, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-208-invitations-august-10-2026/)
+[Newfoundland And Labrador Issues 208 Invitations In August 10 Immigration Draw](https://immigration.ca/newfoundland-and-labrador-issues-208-invitations-august-10-2026/)August 12, 2026
+  * [![Canada Announces Cap on Start-Up Visa Applications to Reduce Processing Times](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/04/Canada-Announces-Cap-on-Start-Up-Visa-Applications-to-Reduce-Processing-Times-1-40x40.jpg)](https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules/)
+[Canada Start-Up Visa 2026: IRCC’s Strict Active Management Rules](https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules/)August 11, 2026
+  * [![Top 10 Citizenships Of New Canada Permanent Residents In 2024](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Top-10-Citizenships-Of-New-Canada-Permanent-Residents-In-2024-40x40.jpg)](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)
+[Canada Permanent Residence Admissions Down 13% As 2026 Immigration Slowdown Continues](https://immigration.ca/canada-permanent-residence-admissions-down-13-as-2026-immigration-slowdown-continues/)August 10, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
