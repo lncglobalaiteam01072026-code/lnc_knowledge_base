@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: e64eeb253991bca0
+content_hash: 5b890d4fd276c7c3
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-20'
+last_updated: '2026-08-19'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,8 +379,6 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-1000-canadian-experience-class-express-entry-august-18-2026/)
-[Canada Invites 1,000 Canadian Experience Class Candidates in August 18 Express Entry Draw](https://immigration.ca/canada-invites-1000-canadian-experience-class-express-entry-august-18-2026/)August 19, 2026
   * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-53-letters-of-advice-to-apply-mpnp-draw-277-august-13-2026/)
 [Manitoba Issues 53 Letters of Advice to Apply in MPNP Draw #277](https://immigration.ca/manitoba-issues-53-letters-of-advice-to-apply-mpnp-draw-277-august-13-2026/)August 17, 2026
   * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-367-invitations-five-aaip-draws-august-2026/)
@@ -391,6 +389,8 @@ Latest News
 [25-Month Processing Time for Proof of Canadian Citizenship: Should You Submit Now or Delay?](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)August 15, 2026
   * [![Canada Border Services Agency To Launch New Biometrics App ReportIn](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Canada-Border-Services-Agency-To-Launch-New-Biometrics-App-ReportIn-40x40.jpg)](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
 [CBSA Report Warns Criminal Groups Exploited Canada’s Student Visa System](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)August 14, 2026
+  * [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)
+[Canada Adds 75,000 Jobs As Labour Market Strengthens For Newcomers](https://immigration.ca/canada-adds-75000-jobs-as-labour-market-strengthens-for-newcomers/)August 13, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
