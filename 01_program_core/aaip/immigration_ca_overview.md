@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: e64eeb253991bca0
+content_hash: 3ff1e9df0293e18f
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-21'
+last_updated: '2026-08-22'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,18 +379,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-602-high-economic-impact-workers-bc-pnp-august-2026/)
+[British Columbia Invites 602 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-602-high-economic-impact-workers-bc-pnp-august-2026/)August 21, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/)
+[Express Entry Sets New Annual Record With 114,865 Invitations In 2026](https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/)August 20, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2026/05/Passport-40x40.jpg)](https://immigration.ca/ircc-urgent-citizenship-certificate-processing-air-travel/)
+[IRCC Confirms Air Travel Can Qualify For Urgent Citizenship Certificate Processing](https://immigration.ca/ircc-urgent-citizenship-certificate-processing-air-travel/)August 20, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-1000-canadian-experience-class-express-entry-august-18-2026/)
 [Canada Invites 1,000 Canadian Experience Class Candidates in August 18 Express Entry Draw](https://immigration.ca/canada-invites-1000-canadian-experience-class-express-entry-august-18-2026/)August 19, 2026
   * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-53-letters-of-advice-to-apply-mpnp-draw-277-august-13-2026/)
 [Manitoba Issues 53 Letters of Advice to Apply in MPNP Draw #277](https://immigration.ca/manitoba-issues-53-letters-of-advice-to-apply-mpnp-draw-277-august-13-2026/)August 17, 2026
   * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-367-invitations-five-aaip-draws-august-2026/)
 [Alberta Issues 367 Invitations Across Five August 2026 AAIP Draws](https://immigration.ca/alberta-issues-367-invitations-five-aaip-draws-august-2026/)August 17, 2026
-  * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-442-provincial-nominees-express-entry-august-17-2026/)
-[Canada Invites 442 Provincial Nominees in August 17 Express Entry Draw](https://immigration.ca/canada-invites-442-provincial-nominees-express-entry-august-17-2026/)August 17, 2026
-  * [![Labour Market Impact Assessment Application Processing Times](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/10/Labour-Market-Impact-Assessment-Application-Processing-Times-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)
-[25-Month Processing Time for Proof of Canadian Citizenship: Should You Submit Now or Delay?](https://immigration.ca/proof-of-canadian-citizenship-processing-time-25-months/)August 15, 2026
-  * [![Canada Border Services Agency To Launch New Biometrics App ReportIn](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Canada-Border-Services-Agency-To-Launch-New-Biometrics-App-ReportIn-40x40.jpg)](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)
-[CBSA Report Warns Criminal Groups Exploited Canada’s Student Visa System](https://immigration.ca/cbsa-report-warns-criminal-groups-exploited-canadas-student-visa-system/)August 14, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.

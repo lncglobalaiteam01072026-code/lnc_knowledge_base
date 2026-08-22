@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 78611d2a46fee6dc
+content_hash: 9e9023d6c88ea678
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-22'
+last_updated: '2026-08-21'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,15 +16,15 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-300x169.jpg)](https://immigration.ca/british-columbia-invites-602-high-economic-impact-workers-bc-pnp-august-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ British Columbia Invites 602 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026 ](https://immigration.ca/british-columbia-invites-602-high-economic-impact-workers-bc-pnp-august-2026/)
-[ Read More » ](https://immigration.ca/british-columbia-invites-602-high-economic-impact-workers-bc-pnp-august-2026/)
-Colin Singer  August 21, 2026 
 [![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-300x169.jpg)](https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Express Entry Sets New Annual Record With 114,865 Invitations In 2026 ](https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/)
 [ Read More » ](https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/)
+Colin R. Singer  August 20, 2026 
+[![](https://immigration.ca/wp-content/uploads/2026/05/Passport-300x169.jpg)](https://immigration.ca/ircc-urgent-citizenship-certificate-processing-air-travel/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ IRCC Confirms Air Travel Can Qualify For Urgent Citizenship Certificate Processing ](https://immigration.ca/ircc-urgent-citizenship-certificate-processing-air-travel/)
+[ Read More » ](https://immigration.ca/ircc-urgent-citizenship-certificate-processing-air-travel/)
 Colin R. Singer  August 20, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
@@ -66,8 +66,6 @@ Melissa Gosselin  February 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
-[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-602-high-economic-impact-workers-bc-pnp-august-2026/)
-[British Columbia Invites 602 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-602-high-economic-impact-workers-bc-pnp-august-2026/)August 21, 2026
 [![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/)
 [Express Entry Sets New Annual Record With 114,865 Invitations In 2026](https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/)August 20, 2026
 [![](https://immigration.ca/wp-content/uploads/2026/05/Passport-40x40.jpg)](https://immigration.ca/ircc-urgent-citizenship-certificate-processing-air-travel/)
@@ -78,3 +76,5 @@ Colin R. Singer  December 17, 2025
 [Manitoba Issues 53 Letters of Advice to Apply in MPNP Draw #277](https://immigration.ca/manitoba-issues-53-letters-of-advice-to-apply-mpnp-draw-277-august-13-2026/)August 17, 2026
 [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-367-invitations-five-aaip-draws-august-2026/)
 [Alberta Issues 367 Invitations Across Five August 2026 AAIP Draws](https://immigration.ca/alberta-issues-367-invitations-five-aaip-draws-august-2026/)August 17, 2026
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-442-provincial-nominees-express-entry-august-17-2026/)
+[Canada Invites 442 Provincial Nominees in August 17 Express Entry Draw](https://immigration.ca/canada-invites-442-provincial-nominees-express-entry-august-17-2026/)August 17, 2026
