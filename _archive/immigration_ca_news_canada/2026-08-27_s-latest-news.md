@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 2df0dfcadfd95ce8
+content_hash: 4d0818c8a2dd6d1c
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-27'
+last_updated: '2026-08-26'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,15 +16,15 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-300x169.jpg)](https://immigration.ca/british-columbia-invites-16-entrepreneurs-bc-pnp-draw-august-25-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ British Columbia Invites 16 Entrepreneurs In August 25 BC PNP Draw ](https://immigration.ca/british-columbia-invites-16-entrepreneurs-bc-pnp-draw-august-25-2026/)
-[ Read More » ](https://immigration.ca/british-columbia-invites-16-entrepreneurs-bc-pnp-draw-august-25-2026/)
-Colin Singer  August 26, 2026 
 [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-300x157.jpg)](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Prince Edward Island Issues 181 Invitations in August 2026 PNP Draw ](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)
 [ Read More » ](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)
+Colin Singer  August 23, 2026 
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Newfoundland and Labrador Issues 122 Invitations in August 18 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)
+[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)
 Colin Singer  August 23, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
@@ -66,8 +66,6 @@ Melissa Gosselin  February 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
-[![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-16-entrepreneurs-bc-pnp-draw-august-25-2026/)
-[British Columbia Invites 16 Entrepreneurs In August 25 BC PNP Draw](https://immigration.ca/british-columbia-invites-16-entrepreneurs-bc-pnp-draw-august-25-2026/)August 26, 2026
 [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)
 [Prince Edward Island Issues 181 Invitations in August 2026 PNP Draw](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)August 23, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)
@@ -78,3 +76,5 @@ Colin R. Singer  December 17, 2025
 [British Columbia Invites 602 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-602-high-economic-impact-workers-bc-pnp-august-2026/)August 21, 2026
 [![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/)
 [Express Entry Sets New Annual Record With 114,865 Invitations In 2026](https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/)August 20, 2026
+[![](https://immigration.ca/wp-content/uploads/2026/05/Passport-40x40.jpg)](https://immigration.ca/ircc-urgent-citizenship-certificate-processing-air-travel/)
+[IRCC Confirms Air Travel Can Qualify For Urgent Citizenship Certificate Processing](https://immigration.ca/ircc-urgent-citizenship-certificate-processing-air-travel/)August 20, 2026
