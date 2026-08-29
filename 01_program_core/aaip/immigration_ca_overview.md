@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: f8a1a0ba9c153634
+content_hash: a9e0d7d91b0b461c
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-28'
+last_updated: '2026-08-29'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,6 +379,8 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)
+[Manitoba Issues 741 Letters of Advice to Apply in MPNP Draw #278](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)August 28, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)
 [Newfoundland and Labrador Issues 140 Invitations in August 26 Draw](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)August 27, 2026
   * [![New Bill to Extend Canada Citizenship Rights to Children Born Abroad](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/05/New-Bill-to-Extend-Canada-Citizenship-Rights-to-Children-Born-Abroad-40x40.jpg)](https://immigration.ca/ircc-updates-citizenship-certificate-forms-physical-presence-requirement/)
@@ -389,8 +391,6 @@ Latest News
 [Prince Edward Island Issues 181 Invitations in August 2026 PNP Draw](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)August 23, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)
 [Newfoundland and Labrador Issues 122 Invitations in August 18 Draw](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)August 23, 2026
-  * [![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-382-august-19-2026/)
-[Canada Invites 5,000 French-Speaking Candidates in August 19 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-382-august-19-2026/)August 23, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.

@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 27ac87b955b18716
+content_hash: 2a68fdf65a882094
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-08-29'
+last_updated: '2026-08-28'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Canada To Cancel Express Entry Points For LMIA-Backed Job Offer](https://immigration.ca/wp-content/uploads/2024/12/Canada-To-Cancel-Express-Entry-Points-For-LMIA-Backed-Job-Offer-300x157.jpg)](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Gives Work Permit Applicants 90 Days To Produce A Positive LMIA ](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)
-[ Read More » ](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)
-Colin R. Singer  August 28, 2026 
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Manitoba Issues 741 Letters of Advice to Apply in MPNP Draw #278 ](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)
-[ Read More » ](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)
-Colin Singer  August 28, 2026 
+###  [ Newfoundland and Labrador Issues 140 Invitations in August 26 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)
+[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)
+Colin Singer  August 27, 2026 
+[![New Bill to Extend Canada Citizenship Rights to Children Born Abroad](https://immigration.ca/wp-content/uploads/2024/05/New-Bill-to-Extend-Canada-Citizenship-Rights-to-Children-Born-Abroad-300x169.jpg)](https://immigration.ca/ircc-updates-citizenship-certificate-forms-physical-presence-requirement/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ IRCC Updates Citizenship by Descent Certificate Forms And Tightens Proof Of The 1,095-Day Presence Test ](https://immigration.ca/ircc-updates-citizenship-certificate-forms-physical-presence-requirement/)
+[ Read More » ](https://immigration.ca/ircc-updates-citizenship-certificate-forms-physical-presence-requirement/)
+Colin R. Singer  August 27, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,10 +66,6 @@ Colin R. Singer  March 26, 2018
 What you need to know about Canada’s latest Express Entry draw, which issued 1,000 Invitations to Apply (ITAs) in the Education occupations category.
 [ Read More » ](https://immigration.ca/canada-invites-1000-education-professionals-in-latest-express-entry-category-based-draw/)
 Melissa Gosselin  May 1, 2025 
-[![Canada To Cancel Express Entry Points For LMIA-Backed Job Offer](https://immigration.ca/wp-content/uploads/2024/12/Canada-To-Cancel-Express-Entry-Points-For-LMIA-Backed-Job-Offer-40x40.jpg)](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)
-[Canada Gives Work Permit Applicants 90 Days To Produce A Positive LMIA](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)August 28, 2026
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)
-[Manitoba Issues 741 Letters of Advice to Apply in MPNP Draw #278](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)August 28, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)
 [Newfoundland and Labrador Issues 140 Invitations in August 26 Draw](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)August 27, 2026
 [![New Bill to Extend Canada Citizenship Rights to Children Born Abroad](https://immigration.ca/wp-content/uploads/2024/05/New-Bill-to-Extend-Canada-Citizenship-Rights-to-Children-Born-Abroad-40x40.jpg)](https://immigration.ca/ircc-updates-citizenship-certificate-forms-physical-presence-requirement/)
@@ -78,3 +74,7 @@ Melissa Gosselin  May 1, 2025
 [British Columbia Invites 16 Entrepreneurs In August 25 BC PNP Draw](https://immigration.ca/british-columbia-invites-16-entrepreneurs-bc-pnp-draw-august-25-2026/)August 26, 2026
 [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)
 [Prince Edward Island Issues 181 Invitations in August 2026 PNP Draw](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)August 23, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)
+[Newfoundland and Labrador Issues 122 Invitations in August 18 Draw](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)August 23, 2026
+[![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-382-august-19-2026/)
+[Canada Invites 5,000 French-Speaking Candidates in August 19 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-382-august-19-2026/)August 23, 2026
