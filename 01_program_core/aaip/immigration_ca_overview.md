@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: a9e0d7d91b0b461c
+content_hash: e4cb3d9376bd00cc
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-08-29'
+last_updated: '2026-08-30'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,18 +379,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)
+[New Brunswick Selects 68 Atlantic Immigration Program Applications in August Rounds](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)August 29, 2026
+  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)
+[Alberta Issues 767 Invitations In Two Mid-August AAIP Draws](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)August 29, 2026
+  * [![Canada To Cancel Express Entry Points For LMIA-Backed Job Offer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/12/Canada-To-Cancel-Express-Entry-Points-For-LMIA-Backed-Job-Offer-40x40.jpg)](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)
+[Canada Gives Work Permit Applicants 90 Days To Produce A Positive LMIA](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)August 28, 2026
   * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)
 [Manitoba Issues 741 Letters of Advice to Apply in MPNP Draw #278](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)August 28, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)
 [Newfoundland and Labrador Issues 140 Invitations in August 26 Draw](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)August 27, 2026
   * [![New Bill to Extend Canada Citizenship Rights to Children Born Abroad](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/05/New-Bill-to-Extend-Canada-Citizenship-Rights-to-Children-Born-Abroad-40x40.jpg)](https://immigration.ca/ircc-updates-citizenship-certificate-forms-physical-presence-requirement/)
 [IRCC Updates Citizenship by Descent Certificate Forms And Tightens Proof Of The 1,095-Day Presence Test](https://immigration.ca/ircc-updates-citizenship-certificate-forms-physical-presence-requirement/)August 27, 2026
-  * [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-16-entrepreneurs-bc-pnp-draw-august-25-2026/)
-[British Columbia Invites 16 Entrepreneurs In August 25 BC PNP Draw](https://immigration.ca/british-columbia-invites-16-entrepreneurs-bc-pnp-draw-august-25-2026/)August 26, 2026
-  * [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)
-[Prince Edward Island Issues 181 Invitations in August 2026 PNP Draw](https://immigration.ca/prince-edward-island-issues-181-invitations-august-2026-pnp-draw/)August 23, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)
-[Newfoundland and Labrador Issues 122 Invitations in August 18 Draw](https://immigration.ca/newfoundland-and-labrador-issues-122-invitations-august-18-2026/)August 23, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
