@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 64fb827c6e3837ce
+content_hash: dd97a91497f9a51f
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-01'
+last_updated: '2026-08-31'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2024/10/Provincial-Reactions-to-Canadas-New-International-Student-Rules-300x157.jpg)](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Studying In Canada Can Qualify For Urgent Citizenship Certificate Processing ](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
-[ Read More » ](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
-Colin R. Singer  August 31, 2026 
-[![Canada to Give PR Applicants From Hong Kong Work Permit Extensions While Awaiting Decision](https://immigration.ca/wp-content/uploads/2024/05/Canada-to-Give-PR-Applicants-From-Hong-Kong-Work-Permit-Extensions-While-Awaiting-Decision-300x169.jpg)](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Closes Hong Kong Immigration Pathways With Tens Of Thousands Still Waiting ](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
-[ Read More » ](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
-Colin R. Singer  August 31, 2026 
+[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-300x157.jpg)](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ New Brunswick Selects 68 Atlantic Immigration Program Applications in August Rounds ](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)
+[ Read More » ](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)
+Colin Singer  August 29, 2026 
+[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-300x169.jpg)](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Alberta Issues 767 Invitations In Two Mid-August AAIP Draws ](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)
+[ Read More » ](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)
+Colin Singer  August 29, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,10 +66,6 @@ Colin R. Singer  March 26, 2018
 What you need to know about Canada’s latest Express Entry draw, which issued 1,000 Invitations to Apply (ITAs) in the Education occupations category.
 [ Read More » ](https://immigration.ca/canada-invites-1000-education-professionals-in-latest-express-entry-category-based-draw/)
 Melissa Gosselin  May 1, 2025 
-[![](https://immigration.ca/wp-content/uploads/2024/10/Provincial-Reactions-to-Canadas-New-International-Student-Rules-40x40.jpg)](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
-[Studying In Canada Can Qualify For Urgent Citizenship Certificate Processing](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)August 31, 2026
-[![Canada to Give PR Applicants From Hong Kong Work Permit Extensions While Awaiting Decision](https://immigration.ca/wp-content/uploads/2024/05/Canada-to-Give-PR-Applicants-From-Hong-Kong-Work-Permit-Extensions-While-Awaiting-Decision-40x40.jpg)](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
-[Canada Closes Hong Kong Immigration Pathways With Tens Of Thousands Still Waiting](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)August 31, 2026
 [![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)
 [New Brunswick Selects 68 Atlantic Immigration Program Applications in August Rounds](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)August 29, 2026
 [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)
@@ -78,3 +74,7 @@ Melissa Gosselin  May 1, 2025
 [Canada Gives Work Permit Applicants 90 Days To Produce A Positive LMIA](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)August 28, 2026
 [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)
 [Manitoba Issues 741 Letters of Advice to Apply in MPNP Draw #278](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)August 28, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)
+[Newfoundland and Labrador Issues 140 Invitations in August 26 Draw](https://immigration.ca/newfoundland-and-labrador-issues-140-invitations-august-26-2026/)August 27, 2026
+[![New Bill to Extend Canada Citizenship Rights to Children Born Abroad](https://immigration.ca/wp-content/uploads/2024/05/New-Bill-to-Extend-Canada-Citizenship-Rights-to-Children-Born-Abroad-40x40.jpg)](https://immigration.ca/ircc-updates-citizenship-certificate-forms-physical-presence-requirement/)
+[IRCC Updates Citizenship by Descent Certificate Forms And Tightens Proof Of The 1,095-Day Presence Test](https://immigration.ca/ircc-updates-citizenship-certificate-forms-physical-presence-requirement/)August 27, 2026
