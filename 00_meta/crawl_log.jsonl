@@ -3284,3 +3284,8 @@
 {"run_id": "2026-09-01T05:59Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": true, "duration_s": 13.3, "timestamp": "2026-09-01T05:59:20.805299+00:00"}
 {"run_id": "2026-09-01T05:59Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": true, "duration_s": 13.1, "timestamp": "2026-09-01T05:59:20.805299+00:00"}
 {"run_id": "2026-09-01T05:59Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": true, "duration_s": 14.3, "timestamp": "2026-09-01T05:59:20.805299+00:00"}
+{"run_id": "2026-09-01T07:40Z_monthly", "source_id": "aaip_processing_info", "status": "ok", "changed": true, "duration_s": 5.5, "timestamp": "2026-09-01T07:40:00.940549+00:00"}
+{"run_id": "2026-09-01T07:40Z_monthly", "source_id": "aaip_draw_summary_pdf", "status": "ok", "changed": false, "duration_s": 4.1, "timestamp": "2026-09-01T07:40:00.940549+00:00"}
+{"run_id": "2026-09-01T07:40Z_monthly", "source_id": "ircc_processing_times", "status": "ok", "changed": true, "duration_s": 2.1, "timestamp": "2026-09-01T07:40:00.940549+00:00"}
+{"run_id": "2026-09-01T07:40Z_monthly", "source_id": "ircc_pnp_approvals", "status": "ok", "changed": false, "duration_s": 2.5, "timestamp": "2026-09-01T07:40:00.940549+00:00"}
+{"run_id": "2026-09-01T07:40Z_monthly", "source_id": "nzaewv_processing_times", "status": "ok", "changed": true, "duration_s": 3.0, "timestamp": "2026-09-01T07:40:00.940549+00:00"}

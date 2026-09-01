@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 379cde87d9b0a149
+content_hash: 602a8e7cde57284b
 country: NZ
 file_role: processing_times
 lang: en
-last_updated: '2026-09-01'
+last_updated: '2026-08-01'
 priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct
@@ -39,7 +39,7 @@ Topics
 
 Key information about the Accredited Employer Work Visa (AEWV).
 
-Latest update: 12 August 2026.
+Latest update: 17 July 2026.
 
 ## What is the Accredited Employer Work Visa (AEWV)?
 
@@ -81,7 +81,7 @@ We are continuing to review how we allocate AEWV applications for processing. Yo
 
 Accreditation applications opened on 23 May 2022, job check applications opened on 20 June 2022 and work visa applications opened on 4 July 2022.
 
-As at 31 July 2026, Immigration New Zealand (INZ) has approved more than 205,000 AEWV applications since the scheme opened. There are almost 30,000 accredited employers and more than 95,000 AEWV holders.
+As at 30 June 2026, Immigration New Zealand (INZ) has approved more than 202,000 AEWV applications since the scheme opened. There are almost 30,000 accredited employers and more than 93,000 AEWV holders.
 
 On 7 April 2024, changes were announced to the Accredited Employer Work Visa scheme. These include:
 
@@ -117,13 +117,13 @@ Post-accreditation checks are a routine process introduced as part of the scheme
 
 We expect employers to take their responsibilities seriously and comply with AEWV conditions, and there are penalties for employers who do not comply with employment or immigration laws.
 
-### As at 31 July 2026
+### As at 30 June 2026
 
-- Since 1 July 2022 MBIE has received 9,280 complaints against accredited employers. This number only indicates an allegation involving an Accredited Employer has been received, not whether the allegation can be substantiated.
-- INZ has undertaken 9,061 post-accreditation checks on 6,310 employers. An additional 35 are underway.
-- There are currently 143 active investigations on 156 Accredited Employers underway (as some are multiple employers recorded under one investigation case).
-- 1,563 employers have had their accreditation revoked and 1,019 have had their accreditation suspended.
-- 106 employer is currently under assessment to have their accreditation revoked or suspended.
+- Since 1 July 2022 MBIE has received 9,151 complaints against accredited employers. This number only indicates an allegation involving an Accredited Employer has been received, not whether the allegation can be substantiated.
+- INZ has undertaken 8,824 post-accreditation checks on 6,184 employers. An additional 9 are underway.
+- There are currently 139 active investigations on 151 Accredited Employers underway (as some are multiple employers recorded under one investigation case).
+- 1,493 employers have had their accreditation revoked and 961 have had their accreditation suspended.
+- 1 employer is currently under assessment to have their accreditation revoked or suspended.
 
 ### Revoking and suspending employer accreditation
 
