@@ -3289,3 +3289,6 @@
 {"run_id": "2026-09-01T07:40Z_monthly", "source_id": "ircc_processing_times", "status": "ok", "changed": true, "duration_s": 2.1, "timestamp": "2026-09-01T07:40:00.940549+00:00"}
 {"run_id": "2026-09-01T07:40Z_monthly", "source_id": "ircc_pnp_approvals", "status": "ok", "changed": false, "duration_s": 2.5, "timestamp": "2026-09-01T07:40:00.940549+00:00"}
 {"run_id": "2026-09-01T07:40Z_monthly", "source_id": "nzaewv_processing_times", "status": "ok", "changed": true, "duration_s": 3.0, "timestamp": "2026-09-01T07:40:00.940549+00:00"}
+{"run_id": "2026-09-01T08:13Z_biweekly", "source_id": "reddit_alberta", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-09-01T08:13:24.439487+00:00"}
+{"run_id": "2026-09-01T08:13Z_biweekly", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.1, "timestamp": "2026-09-01T08:13:24.439487+00:00"}
+{"run_id": "2026-09-01T08:13Z_biweekly", "source_id": "reddit_nz", "status": "ok", "changed": false, "duration_s": 6.1, "timestamp": "2026-09-01T08:13:24.439487+00:00"}
