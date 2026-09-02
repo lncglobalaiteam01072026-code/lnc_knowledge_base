@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: 751ce4b4837dcf96
 file_role: bc_job_market
 lang: en
-last_updated: '2026-09-02'
+last_updated: '2026-08-02'
 priority_weight: 0.8
 program: JOBBANK
 province: BC
