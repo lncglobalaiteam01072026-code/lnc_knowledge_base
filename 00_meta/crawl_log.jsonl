@@ -3292,3 +3292,6 @@
 {"run_id": "2026-09-01T08:13Z_biweekly", "source_id": "reddit_alberta", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-09-01T08:13:24.439487+00:00"}
 {"run_id": "2026-09-01T08:13Z_biweekly", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.1, "timestamp": "2026-09-01T08:13:24.439487+00:00"}
 {"run_id": "2026-09-01T08:13Z_biweekly", "source_id": "reddit_nz", "status": "ok", "changed": false, "duration_s": 6.1, "timestamp": "2026-09-01T08:13:24.439487+00:00"}
+{"run_id": "2026-09-02T05:23Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": true, "duration_s": 13.2, "timestamp": "2026-09-02T05:23:02.016999+00:00"}
+{"run_id": "2026-09-02T05:23Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": true, "duration_s": 13.4, "timestamp": "2026-09-02T05:23:02.016999+00:00"}
+{"run_id": "2026-09-02T05:23Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": true, "duration_s": 14.8, "timestamp": "2026-09-02T05:23:02.016999+00:00"}

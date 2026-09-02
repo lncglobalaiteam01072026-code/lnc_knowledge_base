@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 994d4ee3461b7a19
+content_hash: 64fb827c6e3837ce
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-02'
+last_updated: '2026-09-01'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![New Canada Visa Targets Digital Nomads To Work Remotely](https://immigration.ca/wp-content/uploads/2023/07/Remotely_472116433-300x200.jpeg)](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)
+[![](https://immigration.ca/wp-content/uploads/2024/10/Provincial-Reactions-to-Canadas-New-International-Student-Rules-300x157.jpg)](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ IRCC Says Self-Employed Immigration Program Is No Longer Fit For Purpose ](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)
-[ Read More » ](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)
-Colin R. Singer  September 1, 2026 
-[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-300x169.jpg)](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Invites 562 Provincial Nominees in August 31 Express Entry Draw ](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)
-[ Read More » ](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)
-Colin Singer  September 1, 2026 
+###  [ Studying In Canada Can Qualify For Urgent Citizenship Certificate Processing ](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
+[ Read More » ](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
+Colin R. Singer  August 31, 2026 
+[![Canada to Give PR Applicants From Hong Kong Work Permit Extensions While Awaiting Decision](https://immigration.ca/wp-content/uploads/2024/05/Canada-to-Give-PR-Applicants-From-Hong-Kong-Work-Permit-Extensions-While-Awaiting-Decision-300x169.jpg)](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Closes Hong Kong Immigration Pathways With Tens Of Thousands Still Waiting ](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
+[ Read More » ](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
+Colin R. Singer  August 31, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,10 +66,6 @@ Colin R. Singer  March 26, 2018
 What you need to know about Canada’s latest Express Entry draw, which issued 1,000 Invitations to Apply (ITAs) in the Education occupations category.
 [ Read More » ](https://immigration.ca/canada-invites-1000-education-professionals-in-latest-express-entry-category-based-draw/)
 Melissa Gosselin  May 1, 2025 
-[![New Canada Visa Targets Digital Nomads To Work Remotely](https://immigration.ca/wp-content/uploads/2023/07/Remotely_472116433-scaled-40x40.jpeg)](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)
-[IRCC Says Self-Employed Immigration Program Is No Longer Fit For Purpose](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)September 1, 2026
-[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)
-[Canada Invites 562 Provincial Nominees in August 31 Express Entry Draw](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)September 1, 2026
 [![](https://immigration.ca/wp-content/uploads/2024/10/Provincial-Reactions-to-Canadas-New-International-Student-Rules-40x40.jpg)](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
 [Studying In Canada Can Qualify For Urgent Citizenship Certificate Processing](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)August 31, 2026
 [![Canada to Give PR Applicants From Hong Kong Work Permit Extensions While Awaiting Decision](https://immigration.ca/wp-content/uploads/2024/05/Canada-to-Give-PR-Applicants-From-Hong-Kong-Work-Permit-Extensions-While-Awaiting-Decision-40x40.jpg)](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
@@ -78,3 +74,7 @@ Melissa Gosselin  May 1, 2025
 [New Brunswick Selects 68 Atlantic Immigration Program Applications in August Rounds](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)August 29, 2026
 [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)
 [Alberta Issues 767 Invitations In Two Mid-August AAIP Draws](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)August 29, 2026
+[![Canada To Cancel Express Entry Points For LMIA-Backed Job Offer](https://immigration.ca/wp-content/uploads/2024/12/Canada-To-Cancel-Express-Entry-Points-For-LMIA-Backed-Job-Offer-40x40.jpg)](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)
+[Canada Gives Work Permit Applicants 90 Days To Produce A Positive LMIA](https://immigration.ca/canada-extends-lmia-grace-period-work-permit-applications-90-days/)August 28, 2026
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)
+[Manitoba Issues 741 Letters of Advice to Apply in MPNP Draw #278](https://immigration.ca/manitoba-issues-741-letters-of-advice-to-apply-mpnp-draw-278-august-27-2026/)August 28, 2026
