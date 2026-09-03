@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: cfb0adfd47dcdfad
+content_hash: 561336a2dd04adbc
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-03'
+last_updated: '2026-09-02'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,8 +379,6 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)
-[Canada Invites 2,000 Canadian Experience Class Candidates in September 1 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)September 2, 2026
   * [![New Canada Visa Targets Digital Nomads To Work Remotely](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2023/07/Remotely_472116433-scaled-40x40.jpeg)](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)
 [IRCC Says Self-Employed Immigration Program Is No Longer Fit For Purpose](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)September 1, 2026
   * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)
@@ -391,6 +389,8 @@ Latest News
 [Canada Closes Hong Kong Immigration Pathways With Tens Of Thousands Still Waiting](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)August 31, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)
 [New Brunswick Selects 68 Atlantic Immigration Program Applications in August Rounds](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)August 29, 2026
+  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)
+[Alberta Issues 767 Invitations In Two Mid-August AAIP Draws](https://immigration.ca/alberta-issues-767-invitations-two-mid-august-aaip-draws-2026/)August 29, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
