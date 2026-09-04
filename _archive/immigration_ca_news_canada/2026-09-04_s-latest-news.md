@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: ae426a67c796ef20
+content_hash: 71630e2309881be3
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-04'
+last_updated: '2026-09-03'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Ontario Targets General Practitioners and Family Physicians With 209 Invitations In New Express Entry Draw](https://immigration.ca/wp-content/uploads/2024/07/Ontario-Targets-General-Practitioners-and-Family-Physicians-With-209-Invitations-In-New-Express-Entry-Draw-300x169.jpg)](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Invites 229 Physicians as Express Entry CRS Cut-Off Falls to 198 ](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)
-[ Read More » ](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)
-Colin Singer  September 3, 2026 
 [![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-300x169.jpg)](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Canada Increases Study Permit Financial Requirements: What Applicants Must Now Prove ](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)
 [ Read More » ](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)
 Colin R. Singer  September 2, 2026 
+[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-300x169.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Invites 2,000 Canadian Experience Class Candidates in September 1 Express Entry Draw ](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)
+Colin Singer  September 2, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,8 +66,6 @@ Colin R. Singer  December 17, 2025
 Discover Canada’s latest Express Entry draw, which issued 4,500 Invitations to Apply (ITAs) in the French language proficiency category.
 [ Read More » ](https://immigration.ca/canada-issues-4500-invitations-to-french-speakers-in-latest-express-entry-draw/)
 Melissa Gosselin  March 6, 2025 
-[![Ontario Targets General Practitioners and Family Physicians With 209 Invitations In New Express Entry Draw](https://immigration.ca/wp-content/uploads/2024/07/Ontario-Targets-General-Practitioners-and-Family-Physicians-With-209-Invitations-In-New-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)
-[Canada Invites 229 Physicians as Express Entry CRS Cut-Off Falls to 198](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)September 3, 2026
 [![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-40x40.jpg)](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)
 [Canada Increases Study Permit Financial Requirements: What Applicants Must Now Prove](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)September 2, 2026
 [![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)
@@ -78,3 +76,5 @@ Melissa Gosselin  March 6, 2025
 [Canada Invites 562 Provincial Nominees in August 31 Express Entry Draw](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)September 1, 2026
 [![](https://immigration.ca/wp-content/uploads/2024/10/Provincial-Reactions-to-Canadas-New-International-Student-Rules-40x40.jpg)](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
 [Studying In Canada Can Qualify For Urgent Citizenship Certificate Processing](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)August 31, 2026
+[![Canada to Give PR Applicants From Hong Kong Work Permit Extensions While Awaiting Decision](https://immigration.ca/wp-content/uploads/2024/05/Canada-to-Give-PR-Applicants-From-Hong-Kong-Work-Permit-Extensions-While-Awaiting-Decision-40x40.jpg)](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
+[Canada Closes Hong Kong Immigration Pathways With Tens Of Thousands Still Waiting](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)August 31, 2026

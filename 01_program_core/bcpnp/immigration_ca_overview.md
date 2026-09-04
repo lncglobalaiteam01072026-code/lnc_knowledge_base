@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 9306b8e270fb792e
+content_hash: 2162e5ad5bf6e60a
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-03'
+last_updated: '2026-09-04'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -40,7 +40,7 @@ Search
       * [Express Entry Invitations to Apply (ITAs)](https://immigration.ca/invitations-apply-permanent-residence-itas/)
     * [Federal Skilled Worker](https://immigration.ca/who-qualifies-for-canadian-permanent-residence-skilled-worker-immigration/)
       * [Federal Skilled Worker Program Eligible Occupations](https://immigration.ca/fast-track-high-demand-occupations/)
-    * [Federal Skilled Trades Program](https://immigration.ca/federal-skilled-trades-program/)
+    * [Federal Skilled Trades Program (FSTP): Eligibility and How to Apply](https://immigration.ca/federal-skilled-trades-program/)
     * [Canadian Experience Class](https://immigration.ca/canadian-experience-class-cec/)
     * [Provincial Immigration](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/)
       * [Overview](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/)
@@ -176,7 +176,7 @@ Search
       * [Express Entry Invitations to Apply (ITAs)](https://immigration.ca/invitations-apply-permanent-residence-itas/)
     * [Federal Skilled Worker](https://immigration.ca/who-qualifies-for-canadian-permanent-residence-skilled-worker-immigration/)
       * [Federal Skilled Worker Program Eligible Occupations](https://immigration.ca/fast-track-high-demand-occupations/)
-    * [Federal Skilled Trades Program](https://immigration.ca/federal-skilled-trades-program/)
+    * [Federal Skilled Trades Program (FSTP): Eligibility and How to Apply](https://immigration.ca/federal-skilled-trades-program/)
     * [Canadian Experience Class](https://immigration.ca/canadian-experience-class-cec/)
     * [Provincial Immigration](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/)
       * [Overview](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/)
@@ -389,6 +389,10 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![Ontario Targets General Practitioners and Family Physicians With 209 Invitations In New Express Entry Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Ontario-Targets-General-Practitioners-and-Family-Physicians-With-209-Invitations-In-New-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)
+[Canada Invites 229 Physicians as Express Entry CRS Cut-Off Falls to 198](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)September 3, 2026
+  * [![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-40x40.jpg)](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)
+[Canada Increases Study Permit Financial Requirements: What Applicants Must Now Prove](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)September 2, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)
 [Canada Invites 2,000 Canadian Experience Class Candidates in September 1 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)September 2, 2026
   * [![New Canada Visa Targets Digital Nomads To Work Remotely](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2023/07/Remotely_472116433-scaled-40x40.jpeg)](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)
@@ -397,10 +401,6 @@ Latest News
 [Canada Invites 562 Provincial Nominees in August 31 Express Entry Draw](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)September 1, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/10/Provincial-Reactions-to-Canadas-New-International-Student-Rules-40x40.jpg)](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
 [Studying In Canada Can Qualify For Urgent Citizenship Certificate Processing](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)August 31, 2026
-  * [![Canada to Give PR Applicants From Hong Kong Work Permit Extensions While Awaiting Decision](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/05/Canada-to-Give-PR-Applicants-From-Hong-Kong-Work-Permit-Extensions-While-Awaiting-Decision-40x40.jpg)](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)
-[Canada Closes Hong Kong Immigration Pathways With Tens Of Thousands Still Waiting](https://immigration.ca/canada-closes-hong-kong-immigration-pathways-with-tens-of-thousands-still-waiting/)August 31, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)
-[New Brunswick Selects 68 Atlantic Immigration Program Applications in August Rounds](https://immigration.ca/new-brunswick-selects-68-atlantic-immigration-program-applications-august-2026/)August 29, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
