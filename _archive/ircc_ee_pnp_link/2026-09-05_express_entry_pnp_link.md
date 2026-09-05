@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 7f84f83f4dd4dc14
+content_hash: 71416430951505fa
 file_role: express_entry_pnp_link
 lang: en
-last_updated: '2026-09-05'
+last_updated: '2026-08-05'
 priority_weight: 1
 program: IRCC
 retrieval_strategy: direct
@@ -30,8 +30,8 @@ Each province and territory has its own requirements. They also set the number o
 
    - [Alberta](https://www.alberta.ca/alberta-advantage-immigration-program)
    - [British Columbia](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program?)
-   - [Manitoba](https://immigratemanitoba.com/mpnp/)
-   - [New Brunswick](https://www.gnb.ca/en/topic/family-home-community/immigration/provincial-nominee-program.html)
+   - [Manitoba](https://immigratemanitoba.com/immigrate/)
+   - [New Brunswick](https://www2.gnb.ca/content/gnb/en/corporate/promo/immigration/immigrating-to-nb/nb-immigration-program-streams.html?)
    - [Newfoundland and Labrador](https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/provincial-nominee-program/overview/?)
    - [Northwest Territories](https://www.immigratenwt.ca/immigrate-here?)
    - [Nova Scotia](https://liveinnovascotia.com/)
@@ -98,4 +98,4 @@ Learn how processing times are [calculated](https://ircc.canada.ca/english/helpc
 
 ## Page details
 
-2026-08-19
+2026-04-17

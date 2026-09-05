@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: bacea3cc8fb56fcb
+content_hash: 8221ba112ba126be
 file_role: pnp_processing_times
 lang: en
-last_updated: '2026-09-05'
+last_updated: '2026-09-01'
 priority_weight: 1
 program: IRCC
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ version: '1.0'
 
 # IRCC PNP Processing Times
 
-**Last updated:** September 3, 2026
+**Last updated:** August 10, 2026
 
 ## Provincial nominees (base stream)
 
 Estimated processing time: About 13 months
 
-Total people waiting: About 101,500 people waiting
+Total people waiting: About 102,400 people waiting
 
 ## Provincial nominees via Express Entry
 
 Estimated processing time: About 7 months
 
-Total people waiting: About 12,800 people waiting
+Total people waiting: About 11,800 people waiting
