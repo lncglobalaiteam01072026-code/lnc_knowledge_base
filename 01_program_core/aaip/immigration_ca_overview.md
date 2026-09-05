@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 2ad65e340c6e51bd
+content_hash: 329c4f7f6b4ef8a8
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-04'
+last_updated: '2026-09-05'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -34,7 +34,7 @@ Search
   * Immigration
     * [Canada Immigration Overview](https://immigration.ca/immigration-to-canada-overview/)
     * [Express Entry Overview](https://immigration.ca/canada-express-entry-immigration/)
-      * [Express Entry for Skilled Immigration](https://immigration.ca/express-entry-skilled-immigration/)
+      * [Express Entry for Skilled Immigration to Canada](https://immigration.ca/express-entry-skilled-immigration/)
       * [Express Entry Draws in 2026](https://immigration.ca/express-entry-draws-2026/)
       * [Comprehensive Ranking System (CRS)](https://immigration.ca/comprehensive-ranking-system-crs/)
       * [Express Entry Invitations to Apply (ITAs)](https://immigration.ca/invitations-apply-permanent-residence-itas/)
@@ -170,7 +170,7 @@ Search
   * Immigration
     * [Canada Immigration Overview](https://immigration.ca/immigration-to-canada-overview/)
     * [Express Entry Overview](https://immigration.ca/canada-express-entry-immigration/)
-      * [Express Entry for Skilled Immigration](https://immigration.ca/express-entry-skilled-immigration/)
+      * [Express Entry for Skilled Immigration to Canada](https://immigration.ca/express-entry-skilled-immigration/)
       * [Express Entry Draws in 2026](https://immigration.ca/express-entry-draws-2026/)
       * [Comprehensive Ranking System (CRS)](https://immigration.ca/comprehensive-ranking-system-crs/)
       * [Express Entry Invitations to Apply (ITAs)](https://immigration.ca/invitations-apply-permanent-residence-itas/)
