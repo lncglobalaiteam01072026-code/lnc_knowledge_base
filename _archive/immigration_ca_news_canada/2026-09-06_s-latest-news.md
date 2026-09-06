@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: c0ee2807de6e5942
+content_hash: 01c904fe0922701f
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-06'
+last_updated: '2026-09-05'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Newfoundland and Labrador Issues 97 Invitations in September 4 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
-[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
-Colin Singer  September 5, 2026 
-[![Hospital Interior, Healthcare in Canada](https://immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-300x157.jpg)](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Invites 3,500 Healthcare Workers in Express Entry Draw as CRS Holds at 475 ](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
-[ Read More » ](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
-Colin Singer  September 5, 2026 
+[![Claim Canadian Citizenship by Inheritance](https://immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-300x169.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Proof Of Canadian Citizenship Now Takes 33 Months, And The Queue No Longer Explains Why ](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
+[ Read More » ](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
+Colin R. Singer  September 4, 2026 
+[![Canada a Leader in Race to Attract Top Global Talent](https://immigration.ca/wp-content/uploads/2024/05/Canada-a-Leader-in-Race-to-Attract-Top-Global-Talent-300x169.jpg)](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Must Reclaim Its Economic Edge With a Smarter Immigration Strategy ](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)
+[ Read More » ](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)
+Colin R. Singer  September 4, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,10 +66,6 @@ Colin R. Singer  December 17, 2025
 Discover Canada’s latest Express Entry draw, which issued 4,500 Invitations to Apply (ITAs) in the French language proficiency category.
 [ Read More » ](https://immigration.ca/canada-issues-4500-invitations-to-french-speakers-in-latest-express-entry-draw/)
 Melissa Gosselin  March 6, 2025 
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
-[Newfoundland and Labrador Issues 97 Invitations in September 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)September 5, 2026
-[![Hospital Interior, Healthcare in Canada](https://immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-40x40.jpg)](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
-[Canada Invites 3,500 Healthcare Workers in Express Entry Draw as CRS Holds at 475](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)September 5, 2026
 [![Claim Canadian Citizenship by Inheritance](https://immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
 [Proof Of Canadian Citizenship Now Takes 33 Months, And The Queue No Longer Explains Why](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)September 4, 2026
 [![Canada a Leader in Race to Attract Top Global Talent](https://immigration.ca/wp-content/uploads/2024/05/Canada-a-Leader-in-Race-to-Attract-Top-Global-Talent-40x40.jpg)](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)
@@ -78,3 +74,7 @@ Melissa Gosselin  March 6, 2025
 [Canada Invites 229 Physicians as Express Entry CRS Cut-Off Falls to 198](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)September 3, 2026
 [![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-40x40.jpg)](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)
 [Canada Increases Study Permit Financial Requirements: What Applicants Must Now Prove](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)September 2, 2026
+[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)
+[Canada Invites 2,000 Canadian Experience Class Candidates in September 1 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)September 2, 2026
+[![New Canada Visa Targets Digital Nomads To Work Remotely](https://immigration.ca/wp-content/uploads/2023/07/Remotely_472116433-scaled-40x40.jpeg)](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)
+[IRCC Says Self-Employed Immigration Program Is No Longer Fit For Purpose](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)September 1, 2026

@@ -1,15 +1,21 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 05/09/2026 lúc 13:51 chiều (giờ VN)  
-**Loại cập nhật:** Ircc_ee_pnp_link  
-**Kết quả:** 1 nguồn | ✅ 1 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 06/09/2026 lúc 12:27 chiều (giờ VN)  
+**Loại cập nhật:** Daily  
+**Kết quả:** 3 nguồn | ✅ 3 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### IRCC — Immigration, Refugees and Citizenship Canada
-- ✅ program_overview
+### AAIP — Alberta Advantage Immigration Program
+- ✅ overview
+
+### BCPNP — BC Provincial Nominee Program
+- ✅ overview
+
+### Immigration.ca — Tin tức nhập cư Canada
+- ✅ immigration_news
 
 ---
 

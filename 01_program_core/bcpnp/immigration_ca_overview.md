@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 6b2696e07dfdf2e7
+content_hash: fbfa40f8b89bb668
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-05'
+last_updated: '2026-09-06'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -389,18 +389,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
+[Newfoundland and Labrador Issues 97 Invitations in September 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)September 5, 2026
+  * [![Hospital Interior, Healthcare in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-40x40.jpg)](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
+[Canada Invites 3,500 Healthcare Workers in Express Entry Draw as CRS Holds at 475](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)September 5, 2026
+  * [![Claim Canadian Citizenship by Inheritance](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
+[Proof Of Canadian Citizenship Now Takes 33 Months, And The Queue No Longer Explains Why](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)September 4, 2026
+  * [![Canada a Leader in Race to Attract Top Global Talent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/05/Canada-a-Leader-in-Race-to-Attract-Top-Global-Talent-40x40.jpg)](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)
+[Canada Must Reclaim Its Economic Edge With a Smarter Immigration Strategy](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)September 4, 2026
   * [![Ontario Targets General Practitioners and Family Physicians With 209 Invitations In New Express Entry Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Ontario-Targets-General-Practitioners-and-Family-Physicians-With-209-Invitations-In-New-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)
 [Canada Invites 229 Physicians as Express Entry CRS Cut-Off Falls to 198](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)September 3, 2026
   * [![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-40x40.jpg)](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)
 [Canada Increases Study Permit Financial Requirements: What Applicants Must Now Prove](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)September 2, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)
-[Canada Invites 2,000 Canadian Experience Class Candidates in September 1 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-1-2026/)September 2, 2026
-  * [![New Canada Visa Targets Digital Nomads To Work Remotely](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2023/07/Remotely_472116433-scaled-40x40.jpeg)](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)
-[IRCC Says Self-Employed Immigration Program Is No Longer Fit For Purpose](https://immigration.ca/ircc-says-self-employed-immigration-program-is-no-longer-fit-for-purpose/)September 1, 2026
-  * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)
-[Canada Invites 562 Provincial Nominees in August 31 Express Entry Draw](https://immigration.ca/canada-invites-562-provincial-nominees-express-entry-august-31-2026/)September 1, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/10/Provincial-Reactions-to-Canadas-New-International-Student-Rules-40x40.jpg)](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)
-[Studying In Canada Can Qualify For Urgent Citizenship Certificate Processing](https://immigration.ca/urgent-citizenship-certificate-processing-study-in-canada/)August 31, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
