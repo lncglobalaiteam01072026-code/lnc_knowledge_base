@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 86f00a6d6414fef7
+content_hash: cb5b69450b56876e
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-08'
+last_updated: '2026-09-09'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -16,12 +16,12 @@ version: '1.0'
 ---
 
 [Skip to content](#content)
-  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-alberta/)
+  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-alberta/)
 
 
 Clear
 Search
-[ ![Immigration.ca | Live and Work in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2021/01/Live-and-Work-in-Canada.jpg) ](https://immigration.ca)
+[ ![Immigration.ca | Live and Work in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2021/01/Live-and-Work-in-Canada.jpg) ](https://immigration.ca)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
 [ Book a Consultation ](https://immigration.ca/alberta-immigration/</immigration-telephone-consultation>)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
@@ -300,14 +300,14 @@ Search
 
 
 # Alberta Immigration
-![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
+![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
 Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
 Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
 Published: **February 16, 2013**
 Last updated: **July 13, 2026**
 Reading time: 5 min
 Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
-![Alberta To Launch New Expression of Interest System Next Month](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/08/Alberta-To-Launch-New-Expression-of-Interest-System-Next-Month.jpg)
+![Alberta To Launch New Expression of Interest System Next Month](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Alberta-To-Launch-New-Expression-of-Interest-System-Next-Month.jpg)
 ## On This Page, You Will Find:
   * An overview of the Alberta Advantage Immigration Program
   * Current AAIP immigration streams
@@ -368,7 +368,7 @@ AAIP has multiple worker and business streams to support Alberta's labour market
 Alberta selects candidates through regular AAIP draws based on EOI rankings and provincial labour market needs. Candidates with high scores and relevant job offers are prioritized. Those selected receive an invitation to apply for nomination, and if approved, they can apply for permanent residence with IRCC. Express Entry candidates who receive a provincial nomination get an additional 600 Comprehensive Ranking System (CRS) points, significantly boosting their chances of receiving an Invitation to Apply (ITA) for permanent residence.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
 About the author
-![Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
+![Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
 [Colin R. Singer, LL.L, BA](https://immigration.ca/author/colin-singer/)
 Canadian Immigration Lawyer · Founder & Managing Partner, immigration.ca
 Colin R. Singer has been a licensed immigration lawyer in good standing with the [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) for over 35 years and has led immigration.ca, Canada’s longest-standing online immigration platform, since 1994. He has [testified before the House of Commons Standing Committee on Citizenship and Immigration](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence), contributed to [Law360 (LexisNexis)](https://www.law360.ca/ca/search?q=Colin+Singer) since 2015 and to national media including the Financial Post, and has served as a lifetime [Governor of the Fondation du Barreau du Québec](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1) since 2009.
@@ -379,18 +379,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
+  * [![Canadian Immigration Law Application Review](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/05/Canadian-Immigration-Law-Application-Review-40x40.jpg)](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
+[Can ‘Lost Canadians’ Force IRCC to Clear the C-3 Backlog?](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)September 8, 2026
+  * [![Canada Unemployment Slightly Rose In June, New Report Says](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Canada-Unemployment-Slightly-Rose-In-June-New-Report-Says-40x40.jpg)](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
+[Canada Loses 42,000 Jobs As Labour Market Softens – But Immigration Skills Shortages Remain](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)September 8, 2026
+  * [![Immigration to Canada Application Review](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Immigration-to-Canada-Application-Review-40x40.jpg)](https://immigration.ca/clear-bill-c-3-citizenship-backlog-before-new-immigration-levels/)
+[Before Ottawa Recruits New Immigrants, It Needs To Process The Citizens It Already Has](https://immigration.ca/clear-bill-c-3-citizenship-backlog-before-new-immigration-levels/)September 8, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
 [Newfoundland and Labrador Issues 97 Invitations in September 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)September 5, 2026
-  * [![Hospital Interior, Healthcare in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-40x40.jpg)](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
+  * [![Hospital Interior, Healthcare in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-40x40.jpg)](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
 [Canada Invites 3,500 Healthcare Workers in Express Entry Draw as CRS Holds at 475](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)September 5, 2026
-  * [![Claim Canadian Citizenship by Inheritance](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
+  * [![Claim Canadian Citizenship by Inheritance](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
 [Proof Of Canadian Citizenship Now Takes 33 Months, And The Queue No Longer Explains Why](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)September 4, 2026
-  * [![Canada a Leader in Race to Attract Top Global Talent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/05/Canada-a-Leader-in-Race-to-Attract-Top-Global-Talent-40x40.jpg)](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)
-[Canada Must Reclaim Its Economic Edge With a Smarter Immigration Strategy](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)September 4, 2026
-  * [![Ontario Targets General Practitioners and Family Physicians With 209 Invitations In New Express Entry Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/07/Ontario-Targets-General-Practitioners-and-Family-Physicians-With-209-Invitations-In-New-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)
-[Canada Invites 229 Physicians as Express Entry CRS Cut-Off Falls to 198](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)September 3, 2026
-  * [![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-40x40.jpg)](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)
-[Canada Increases Study Permit Financial Requirements: What Applicants Must Now Prove](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)September 2, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -413,8 +413,8 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
   * [ Fraud alert ](https://immigration.ca/fraud-alert)
 
 
-![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/uploads/2022/01/Logo-on-dark-transparent-bg-defringe-1024x256.png)
-  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-19ba235/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-alberta/)
+![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2022/01/Logo-on-dark-transparent-bg-defringe-1024x256.png)
+  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-alberta/)
 
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)

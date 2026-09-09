@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 95469aa7a8a2da32
+content_hash: dc9015caa9e8c92d
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-09'
+last_updated: '2026-09-08'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Canadian Immigration Law Application Review](https://immigration.ca/wp-content/uploads/2025/05/Canadian-Immigration-Law-Application-Review-300x157.jpg)](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Can ‘Lost Canadians’ Force IRCC to Clear the C-3 Backlog? ](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
-[ Read More » ](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
-Colin R. Singer  September 8, 2026 
-[![Canada Unemployment Slightly Rose In June, New Report Says](https://immigration.ca/wp-content/uploads/2024/07/Canada-Unemployment-Slightly-Rose-In-June-New-Report-Says-300x169.jpg)](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Loses 42,000 Jobs As Labour Market Softens – But Immigration Skills Shortages Remain ](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
-[ Read More » ](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
-Colin R. Singer  September 8, 2026 
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Newfoundland and Labrador Issues 97 Invitations in September 4 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
+[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
+Colin Singer  September 5, 2026 
+[![Hospital Interior, Healthcare in Canada](https://immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-300x157.jpg)](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Invites 3,500 Healthcare Workers in Express Entry Draw as CRS Holds at 475 ](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
+Colin Singer  September 5, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -56,24 +56,24 @@ Colin R. Singer  March 26, 2018
 Discover Canada’s latest Express Entry draw, which issued 4,500 Invitations to Apply (ITAs) in the French language proficiency category.
 [ Read More » ](https://immigration.ca/canada-issues-4500-invitations-to-french-speakers-in-latest-express-entry-draw/)
 Melissa Gosselin  March 6, 2025 
+[![](https://immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-300x157.jpg)](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
+###  [ Canada Issues 536 Invitations in Latest PNP Express Entry Draw ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
+Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
+[ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
+Colin R. Singer  March 17, 2025 
 ###  [ CRS Score Drops to 446 in Latest Canada Express Entry Immigration Draw ](https://immigration.ca/crs-score-drops-to-446-in-latest-canada-express-entry-immigration-draw/)
 March 26, 2018 – Canadian immigration authorities have conducted another large Express Entry draw, with 3,000 candidates issued Invitations to Apply (ITAs) for permanent residence
 [ Read More » ](https://immigration.ca/crs-score-drops-to-446-in-latest-canada-express-entry-immigration-draw/)
 Colin R. Singer  March 26, 2018 
-[![Indian Citizens Dominate Canada’s 2019 Permanent Resident Arrivals](https://immigration.ca/wp-content/uploads/2018/08/British-Columbia_162644667-300x200.jpeg)](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
-###  [ Latest Canada Express Entry Draw Matches Lowest CRS Score and Highest Number of Invitations in 2018 ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
-Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
-[ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
-Colin R. Singer  October 15, 2018 
-[![Canadian Immigration Law Application Review](https://immigration.ca/wp-content/uploads/2025/05/Canadian-Immigration-Law-Application-Review-40x40.jpg)](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
-[Can ‘Lost Canadians’ Force IRCC to Clear the C-3 Backlog?](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)September 8, 2026
-[![Canada Unemployment Slightly Rose In June, New Report Says](https://immigration.ca/wp-content/uploads/2024/07/Canada-Unemployment-Slightly-Rose-In-June-New-Report-Says-40x40.jpg)](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
-[Canada Loses 42,000 Jobs As Labour Market Softens – But Immigration Skills Shortages Remain](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)September 8, 2026
-[![Immigration to Canada Application Review](https://immigration.ca/wp-content/uploads/2025/10/Immigration-to-Canada-Application-Review-40x40.jpg)](https://immigration.ca/clear-bill-c-3-citizenship-backlog-before-new-immigration-levels/)
-[Before Ottawa Recruits New Immigrants, It Needs To Process The Citizens It Already Has](https://immigration.ca/clear-bill-c-3-citizenship-backlog-before-new-immigration-levels/)September 8, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
 [Newfoundland and Labrador Issues 97 Invitations in September 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)September 5, 2026
 [![Hospital Interior, Healthcare in Canada](https://immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-40x40.jpg)](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
 [Canada Invites 3,500 Healthcare Workers in Express Entry Draw as CRS Holds at 475](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)September 5, 2026
 [![Claim Canadian Citizenship by Inheritance](https://immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
 [Proof Of Canadian Citizenship Now Takes 33 Months, And The Queue No Longer Explains Why](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)September 4, 2026
+[![Canada a Leader in Race to Attract Top Global Talent](https://immigration.ca/wp-content/uploads/2024/05/Canada-a-Leader-in-Race-to-Attract-Top-Global-Talent-40x40.jpg)](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)
+[Canada Must Reclaim Its Economic Edge With a Smarter Immigration Strategy](https://immigration.ca/canada-must-reclaim-its-economic-edge-with-a-smarter-immigration-strategy/)September 4, 2026
+[![Ontario Targets General Practitioners and Family Physicians With 209 Invitations In New Express Entry Draw](https://immigration.ca/wp-content/uploads/2024/07/Ontario-Targets-General-Practitioners-and-Family-Physicians-With-209-Invitations-In-New-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)
+[Canada Invites 229 Physicians as Express Entry CRS Cut-Off Falls to 198](https://immigration.ca/canada-invites-229-physicians-express-entry-september-3-2026/)September 3, 2026
+[![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-40x40.jpg)](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)
+[Canada Increases Study Permit Financial Requirements: What Applicants Must Now Prove](https://immigration.ca/canada-increases-study-permit-financial-requirements-what-applicants-must-now-prove/)September 2, 2026
