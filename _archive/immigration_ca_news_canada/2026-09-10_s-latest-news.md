@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 6b7b62565a74d3e1
+content_hash: 95469aa7a8a2da32
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-10'
+last_updated: '2026-09-09'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-300x169.jpg)](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
+[![Canadian Immigration Law Application Review](https://immigration.ca/wp-content/uploads/2025/05/Canadian-Immigration-Law-Application-Review-300x157.jpg)](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ How To Be Prepared If Canada Introduces H-1B Express Entry Pathway ](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
-[ Read More » ](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
-Colin R. Singer  September 9, 2026 
-[![How To Make It Easier For International Students To Get Jobs After Graduation](https://immigration.ca/wp-content/uploads/2024/08/How-To-Make-It-Easier-For-International-Students-To-Get-Jobs-After-Graduation-300x169.jpg)](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)
+###  [ Can ‘Lost Canadians’ Force IRCC to Clear the C-3 Backlog? ](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
+[ Read More » ](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
+Colin R. Singer  September 8, 2026 
+[![Canada Unemployment Slightly Rose In June, New Report Says](https://immigration.ca/wp-content/uploads/2024/07/Canada-Unemployment-Slightly-Rose-In-June-New-Report-Says-300x169.jpg)](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Faces Backlash Over PGWP Refusals And Removal Orders For International Graduates ](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)
-[ Read More » ](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)
-Colin R. Singer  September 9, 2026 
+###  [ Canada Loses 42,000 Jobs As Labour Market Softens – But Immigration Skills Shortages Remain ](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
+[ Read More » ](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
+Colin R. Singer  September 8, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -65,15 +65,15 @@ Colin R. Singer  March 26, 2018
 Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
 [ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
 Colin R. Singer  October 15, 2018 
-[![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
-[How To Be Prepared If Canada Introduces H-1B Express Entry Pathway](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)September 9, 2026
-[![How To Make It Easier For International Students To Get Jobs After Graduation](https://immigration.ca/wp-content/uploads/2024/08/How-To-Make-It-Easier-For-International-Students-To-Get-Jobs-After-Graduation-40x40.jpg)](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)
-[Canada Faces Backlash Over PGWP Refusals And Removal Orders For International Graduates](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)September 9, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/10/International-Students-40x40.jpg)](https://immigration.ca/canada-international-student-population-down-one-third/)
-[Canada’s International Student Population Has Fallen By A Third Since 2024](https://immigration.ca/canada-international-student-population-down-one-third/)September 9, 2026
-[![Immigration Consultation](https://immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/citizenship-by-descent-consultation/)
-[Book a Canadian Citizenship-by-Descent Consultation](https://immigration.ca/citizenship-by-descent-consultation/)September 9, 2026
 [![Canadian Immigration Law Application Review](https://immigration.ca/wp-content/uploads/2025/05/Canadian-Immigration-Law-Application-Review-40x40.jpg)](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
 [Can ‘Lost Canadians’ Force IRCC to Clear the C-3 Backlog?](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)September 8, 2026
 [![Canada Unemployment Slightly Rose In June, New Report Says](https://immigration.ca/wp-content/uploads/2024/07/Canada-Unemployment-Slightly-Rose-In-June-New-Report-Says-40x40.jpg)](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
 [Canada Loses 42,000 Jobs As Labour Market Softens – But Immigration Skills Shortages Remain](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)September 8, 2026
+[![Immigration to Canada Application Review](https://immigration.ca/wp-content/uploads/2025/10/Immigration-to-Canada-Application-Review-40x40.jpg)](https://immigration.ca/clear-bill-c-3-citizenship-backlog-before-new-immigration-levels/)
+[Before Ottawa Recruits New Immigrants, It Needs To Process The Citizens It Already Has](https://immigration.ca/clear-bill-c-3-citizenship-backlog-before-new-immigration-levels/)September 8, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
+[Newfoundland and Labrador Issues 97 Invitations in September 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)September 5, 2026
+[![Hospital Interior, Healthcare in Canada](https://immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-40x40.jpg)](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
+[Canada Invites 3,500 Healthcare Workers in Express Entry Draw as CRS Holds at 475](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)September 5, 2026
+[![Claim Canadian Citizenship by Inheritance](https://immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
+[Proof Of Canadian Citizenship Now Takes 33 Months, And The Queue No Longer Explains Why](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)September 4, 2026
