@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 16b948ef85d7e6bb
+content_hash: cb5b69450b56876e
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-11'
+last_updated: '2026-09-10'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -93,7 +93,7 @@ Search
       * [Open Work Permits](https://immigration.ca/open-work-permit-in-canada/)
       * [Global Skills Stream](https://immigration.ca/canada-work-permit-global-talent-stream/)
       * [International Mobility Program](https://immigration.ca/international-mobility-program/)
-      * [International Experience Canada: The 2026 Season Explained](https://immigration.ca/international-experience-canada-program/)
+      * [International Experience Canada](https://immigration.ca/international-experience-canada-program/)
     * How to apply
       * [The Process](https://immigration.ca/how-to-apply-work-permit-canada/)
       * [After Submission](https://immigration.ca/what-happens-after-submitting-work-permit/)
@@ -229,7 +229,7 @@ Search
       * [Open Work Permits](https://immigration.ca/open-work-permit-in-canada/)
       * [Global Skills Stream](https://immigration.ca/canada-work-permit-global-talent-stream/)
       * [International Mobility Program](https://immigration.ca/international-mobility-program/)
-      * [International Experience Canada: The 2026 Season Explained](https://immigration.ca/international-experience-canada-program/)
+      * [International Experience Canada](https://immigration.ca/international-experience-canada-program/)
     * How to apply
       * [The Process](https://immigration.ca/how-to-apply-work-permit-canada/)
       * [After Submission](https://immigration.ca/what-happens-after-submitting-work-permit/)
@@ -379,18 +379,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![Canada Express Entry Guide 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
-[How To Be Prepared If Canada Introduces H-1B Express Entry Pathway](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)September 9, 2026
-  * [![How To Make It Easier For International Students To Get Jobs After Graduation](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/How-To-Make-It-Easier-For-International-Students-To-Get-Jobs-After-Graduation-40x40.jpg)](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)
-[Canada Faces Backlash Over PGWP Refusals And Removal Orders For International Graduates](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)September 9, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/International-Students-40x40.jpg)](https://immigration.ca/canada-international-student-population-down-one-third/)
-[Canada’s International Student Population Has Fallen By A Third Since 2024](https://immigration.ca/canada-international-student-population-down-one-third/)September 9, 2026
-  * [![Immigration Consultation](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/citizenship-by-descent-consultation/)
-[Book a Canadian Citizenship-by-Descent Consultation](https://immigration.ca/citizenship-by-descent-consultation/)September 9, 2026
   * [![Canadian Immigration Law Application Review](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/05/Canadian-Immigration-Law-Application-Review-40x40.jpg)](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
 [Can ‘Lost Canadians’ Force IRCC to Clear the C-3 Backlog?](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)September 8, 2026
   * [![Canada Unemployment Slightly Rose In June, New Report Says](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Canada-Unemployment-Slightly-Rose-In-June-New-Report-Says-40x40.jpg)](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
 [Canada Loses 42,000 Jobs As Labour Market Softens – But Immigration Skills Shortages Remain](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)September 8, 2026
+  * [![Immigration to Canada Application Review](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Immigration-to-Canada-Application-Review-40x40.jpg)](https://immigration.ca/clear-bill-c-3-citizenship-backlog-before-new-immigration-levels/)
+[Before Ottawa Recruits New Immigrants, It Needs To Process The Citizens It Already Has](https://immigration.ca/clear-bill-c-3-citizenship-backlog-before-new-immigration-levels/)September 8, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)
+[Newfoundland and Labrador Issues 97 Invitations in September 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-97-invitations-september-4-2026/)September 5, 2026
+  * [![Hospital Interior, Healthcare in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/12/Hospital-Interior-Healthcare-in-Canada-40x40.jpg)](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)
+[Canada Invites 3,500 Healthcare Workers in Express Entry Draw as CRS Holds at 475](https://immigration.ca/canada-invites-3500-healthcare-workers-express-entry-september-4-2026/)September 5, 2026
+  * [![Claim Canadian Citizenship by Inheritance](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/12/Claim-Canadian-Citizenship-by-Inheritance-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)
+[Proof Of Canadian Citizenship Now Takes 33 Months, And The Queue No Longer Explains Why](https://immigration.ca/proof-of-canadian-citizenship-processing-time-33-months/)September 4, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
