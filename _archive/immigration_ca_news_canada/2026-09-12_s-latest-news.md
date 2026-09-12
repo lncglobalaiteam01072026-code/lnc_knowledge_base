@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 565b9a3d11891eb0
+content_hash: 5fac99c4d42051c7
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-12'
+last_updated: '2026-09-11'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-300x169.jpg)](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
+[![](https://immigration.ca/wp-content/uploads/2025/10/Canada-Immigration-Pilot-Programs-300x157.jpg)](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Is Building A New Express Entry Platform – Here’s What IRCC Has Revealed ](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
-[ Read More » ](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
-Colin R. Singer  September 11, 2026 
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Manitoba Issues 793 Letters of Advice to Apply in MPNP Draw #279 ](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
-[ Read More » ](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
-Colin Singer  September 11, 2026 
+###  [ Canada Lets More Foreign Workers Study Without A Study Permit – Who Qualifies? ](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)
+[ Read More » ](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)
+Colin R. Singer  September 10, 2026 
+[![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-300x169.jpg)](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ How To Be Prepared If Canada Introduces H-1B Express Entry Pathway ](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
+[ Read More » ](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
+Colin R. Singer  September 9, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,15 +66,15 @@ Melissa Gosselin  May 12, 2025
 February 21, 2018 – Canadian immigration authorities have conducted another large Express Entry draw, with 3,000 candidates issued Invitations to Apply (ITAs) for permanent residence
 [ Read More » ](https://immigration.ca/3000-candidates-invited-apply-latest-canada-express-entry-draw/)
 Colin R. Singer  March 26, 2018 
-[![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
-[Canada Is Building A New Express Entry Platform – Here’s What IRCC Has Revealed](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)September 11, 2026
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
-[Manitoba Issues 793 Letters of Advice to Apply in MPNP Draw #279](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)September 11, 2026
-[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-722-invitations-three-september-aaip-draws-2026/)
-[Alberta Issues 722 Invitations Across Three September AAIP Draws](https://immigration.ca/alberta-issues-722-invitations-three-september-aaip-draws-2026/)September 11, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)
-[Newfoundland and Labrador Issues 36 Invitations in September 10 Draw](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)September 11, 2026
-[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-429-workers-bc-pnp-draw-september-10-2026/)
-[British Columbia Invites 429 Workers In September 10 BC PNP Sector Draw](https://immigration.ca/british-columbia-invites-429-workers-bc-pnp-draw-september-10-2026/)September 11, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Canada-Immigration-Pilot-Programs-40x40.jpg)](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)
 [Canada Lets More Foreign Workers Study Without A Study Permit – Who Qualifies?](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)September 10, 2026
+[![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
+[How To Be Prepared If Canada Introduces H-1B Express Entry Pathway](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)September 9, 2026
+[![How To Make It Easier For International Students To Get Jobs After Graduation](https://immigration.ca/wp-content/uploads/2024/08/How-To-Make-It-Easier-For-International-Students-To-Get-Jobs-After-Graduation-40x40.jpg)](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)
+[Canada Faces Backlash Over PGWP Refusals And Removal Orders For International Graduates](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)September 9, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/International-Students-40x40.jpg)](https://immigration.ca/canada-international-student-population-down-one-third/)
+[Canada’s International Student Population Has Fallen By A Third Since 2024](https://immigration.ca/canada-international-student-population-down-one-third/)September 9, 2026
+[![Immigration Consultation](https://immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/citizenship-by-descent-consultation/)
+[Book a Canadian Citizenship-by-Descent Consultation](https://immigration.ca/citizenship-by-descent-consultation/)September 9, 2026
+[![Canadian Immigration Law Application Review](https://immigration.ca/wp-content/uploads/2025/05/Canadian-Immigration-Law-Application-Review-40x40.jpg)](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
+[Can ‘Lost Canadians’ Force IRCC to Clear the C-3 Backlog?](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)September 8, 2026
