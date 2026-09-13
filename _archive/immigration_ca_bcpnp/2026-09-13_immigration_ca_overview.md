@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 929decaccea2da55
+content_hash: 7c7975bba2c406b7
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-13'
+last_updated: '2026-09-12'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -419,18 +419,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![Canada Express Entry Guide 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
-[Canada Is Building A New Express Entry Platform – Here’s What IRCC Has Revealed](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)September 11, 2026
-  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
-[Manitoba Issues 793 Letters of Advice to Apply in MPNP Draw #279](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)September 11, 2026
-  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-722-invitations-three-september-aaip-draws-2026/)
-[Alberta Issues 722 Invitations Across Three September AAIP Draws](https://immigration.ca/alberta-issues-722-invitations-three-september-aaip-draws-2026/)September 11, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)
-[Newfoundland and Labrador Issues 36 Invitations in September 10 Draw](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)September 11, 2026
-  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-429-workers-bc-pnp-draw-september-10-2026/)
-[British Columbia Invites 429 Workers In September 10 BC PNP Sector Draw](https://immigration.ca/british-columbia-invites-429-workers-bc-pnp-draw-september-10-2026/)September 11, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Canada-Immigration-Pilot-Programs-40x40.jpg)](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)
-[Canada Lets More Foreign Workers Study Without A Study Permit – Who Qualifies?](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)September 10, 2026
+  * [![Canada Express Entry Guide 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)
+[How To Be Prepared If Canada Introduces H-1B Express Entry Pathway](https://immigration.ca/how-to-be-prepared-if-canada-introduces-h-1b-express-entry-pathway/)September 9, 2026
+  * [![How To Make It Easier For International Students To Get Jobs After Graduation](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/How-To-Make-It-Easier-For-International-Students-To-Get-Jobs-After-Graduation-40x40.jpg)](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)
+[Canada Faces Backlash Over PGWP Refusals And Removal Orders For International Graduates](https://immigration.ca/canada-faces-backlash-over-pgwp-refusals-and-removal-orders-for-international-graduates/)September 9, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/International-Students-40x40.jpg)](https://immigration.ca/canada-international-student-population-down-one-third/)
+[Canada’s International Student Population Has Fallen By A Third Since 2024](https://immigration.ca/canada-international-student-population-down-one-third/)September 9, 2026
+  * [![Immigration Consultation](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/citizenship-by-descent-consultation/)
+[Book a Canadian Citizenship-by-Descent Consultation](https://immigration.ca/citizenship-by-descent-consultation/)September 9, 2026
+  * [![Canadian Immigration Law Application Review](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/05/Canadian-Immigration-Law-Application-Review-40x40.jpg)](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)
+[Can ‘Lost Canadians’ Force IRCC to Clear the C-3 Backlog?](https://immigration.ca/can-lost-canadians-force-ircc-to-clear-the-c-3-backlog/)September 8, 2026
+  * [![Canada Unemployment Slightly Rose In June, New Report Says](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Canada-Unemployment-Slightly-Rose-In-June-New-Report-Says-40x40.jpg)](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)
+[Canada Loses 42,000 Jobs As Labour Market Softens – But Immigration Skills Shortages Remain](https://immigration.ca/canada-loses-42000-jobs-as-labour-market-softens-but-immigration-skills-shortages-remain/)September 8, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
