@@ -1,22 +1,23 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 14/09/2026 lúc 12:41 chiều (giờ VN)  
-**Loại cập nhật:** Daily  
-**Kết quả:** 3 nguồn | ✅ 3 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 14/09/2026 lúc 14:21 chiều (giờ VN)  
+**Loại cập nhật:** Weekly  
+**Kết quả:** 4 nguồn | ✅ 4 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### AAIP — Alberta Advantage Immigration Program
-- ✅ overview
-
 ### BCPNP — BC Provincial Nominee Program
-- ✅ overview
+- ✅ Lịch sử draws / mời ứng viên
 
 ### Immigration.ca — Tin tức nhập cư Canada
+- ✅ immigration_news
+- ✅ immigration_news
+
+### NZAEWV — New Zealand Accredited Employer Work Visa
 - ✅ immigration_news
 
 ---
 
-_Cập nhật tiếp theo: lần chạy tiếp theo._
+_Cập nhật tiếp theo: tuần tới (thứ Hai)._
