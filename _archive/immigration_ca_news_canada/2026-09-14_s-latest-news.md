@@ -6,7 +6,7 @@ country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-14'
+last_updated: '2026-09-13'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
