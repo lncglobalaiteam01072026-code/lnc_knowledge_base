@@ -3347,3 +3347,6 @@
 {"run_id": "2026-09-14T07:21Z_weekly", "source_id": "canadavisa_immigration_news", "status": "ok", "changed": true, "duration_s": 9.8, "timestamp": "2026-09-14T07:21:58.963145+00:00"}
 {"run_id": "2026-09-14T07:21Z_weekly", "source_id": "cbc_immigration_news", "status": "ok", "changed": true, "duration_s": 10.0, "timestamp": "2026-09-14T07:21:58.963145+00:00"}
 {"run_id": "2026-09-14T07:21Z_weekly", "source_id": "nzaewv_inz_news_deep", "status": "ok", "changed": true, "duration_s": 10.1, "timestamp": "2026-09-14T07:21:58.963145+00:00"}
+{"run_id": "2026-09-15T05:43Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": true, "duration_s": 8.7, "timestamp": "2026-09-15T05:43:17.472397+00:00"}
+{"run_id": "2026-09-15T05:43Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": true, "duration_s": 8.5, "timestamp": "2026-09-15T05:43:17.472397+00:00"}
+{"run_id": "2026-09-15T05:43Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": true, "duration_s": 8.7, "timestamp": "2026-09-15T05:43:17.472397+00:00"}
