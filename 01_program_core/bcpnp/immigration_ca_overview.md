@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 929decaccea2da55
+content_hash: bf8a4deb7da1b6d7
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-15'
+last_updated: '2026-09-16'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -419,6 +419,10 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-15-2026/)
+[Canada Invites 2,000 Canadian Experience Class Candidates in September 15 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-15-2026/)September 15, 2026
+  * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-576-provincial-nominees-express-entry-september-14-2026/)
+[Canada Invites 576 Provincial Nominees in September 14 Express Entry Draw](https://immigration.ca/canada-invites-576-provincial-nominees-express-entry-september-14-2026/)September 15, 2026
   * [![Canada Express Entry Guide 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
 [Canada Is Building A New Express Entry Platform – Here’s What IRCC Has Revealed](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)September 11, 2026
   * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
@@ -427,10 +431,6 @@ Latest News
 [Alberta Issues 722 Invitations Across Three September AAIP Draws](https://immigration.ca/alberta-issues-722-invitations-three-september-aaip-draws-2026/)September 11, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)
 [Newfoundland and Labrador Issues 36 Invitations in September 10 Draw](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)September 11, 2026
-  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-429-workers-bc-pnp-draw-september-10-2026/)
-[British Columbia Invites 429 Workers In September 10 BC PNP Sector Draw](https://immigration.ca/british-columbia-invites-429-workers-bc-pnp-draw-september-10-2026/)September 11, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Canada-Immigration-Pilot-Programs-40x40.jpg)](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)
-[Canada Lets More Foreign Workers Study Without A Study Permit – Who Qualifies?](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)September 10, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.

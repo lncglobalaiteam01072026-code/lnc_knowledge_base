@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 611386bc058022bb
+content_hash: 565b9a3d11891eb0
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-16'
+last_updated: '2026-09-15'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2025/04/Office-workers-reviewing-submitted-job-applications-for-employment-opportunity-300x157.jpg)](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)
+[![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-300x169.jpg)](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Beyond Ottawa’s Processing Delays: Preparing And Enforcing A Citizenship-By-Descent Claim ](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)
-[ Read More » ](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)
-Colin R. Singer  September 15, 2026 
-[![Quebec Caps Family Sponsorship Immigration Applications](https://immigration.ca/wp-content/uploads/2024/07/Quebec-Caps-Family-Sponsorship-Immigration-Applications-300x169.jpg)](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Ends Special Family Sponsorship Policy Over ‘Integrity Concerns’ – Who Is Affected? ](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)
-[ Read More » ](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)
-Colin R. Singer  September 15, 2026 
+###  [ Canada Is Building A New Express Entry Platform – Here’s What IRCC Has Revealed ](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
+[ Read More » ](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
+Colin R. Singer  September 11, 2026 
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Manitoba Issues 793 Letters of Advice to Apply in MPNP Draw #279 ](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
+[ Read More » ](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
+Colin Singer  September 11, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,15 +66,15 @@ Melissa Gosselin  May 12, 2025
 February 21, 2018 – Canadian immigration authorities have conducted another large Express Entry draw, with 3,000 candidates issued Invitations to Apply (ITAs) for permanent residence
 [ Read More » ](https://immigration.ca/3000-candidates-invited-apply-latest-canada-express-entry-draw/)
 Colin R. Singer  March 26, 2018 
-[![](https://immigration.ca/wp-content/uploads/2025/04/Office-workers-reviewing-submitted-job-applications-for-employment-opportunity-40x40.jpg)](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)
-[Beyond Ottawa’s Processing Delays: Preparing And Enforcing A Citizenship-By-Descent Claim](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)September 15, 2026
-[![Quebec Caps Family Sponsorship Immigration Applications](https://immigration.ca/wp-content/uploads/2024/07/Quebec-Caps-Family-Sponsorship-Immigration-Applications-40x40.jpg)](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)
-[Canada Ends Special Family Sponsorship Policy Over ‘Integrity Concerns’ – Who Is Affected?](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)September 15, 2026
-[![](https://immigration.ca/wp-content/uploads/2023/08/Young-Professionals-Immigration-to-Canada-40x40.jpg)](https://immigration.ca/canada-opens-new-lmia-exempt-work-permit-pathway-for-british-professionals/)
-[Canada Opens New LMIA-Exempt Work Permit Pathway For British Professionals](https://immigration.ca/canada-opens-new-lmia-exempt-work-permit-pathway-for-british-professionals/)September 15, 2026
-[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-15-2026/)
-[Canada Invites 2,000 Canadian Experience Class Candidates in September 15 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-15-2026/)September 15, 2026
-[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-576-provincial-nominees-express-entry-september-14-2026/)
-[Canada Invites 576 Provincial Nominees in September 14 Express Entry Draw](https://immigration.ca/canada-invites-576-provincial-nominees-express-entry-september-14-2026/)September 15, 2026
 [![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
 [Canada Is Building A New Express Entry Platform – Here’s What IRCC Has Revealed](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)September 11, 2026
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
+[Manitoba Issues 793 Letters of Advice to Apply in MPNP Draw #279](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)September 11, 2026
+[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-722-invitations-three-september-aaip-draws-2026/)
+[Alberta Issues 722 Invitations Across Three September AAIP Draws](https://immigration.ca/alberta-issues-722-invitations-three-september-aaip-draws-2026/)September 11, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)
+[Newfoundland and Labrador Issues 36 Invitations in September 10 Draw](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)September 11, 2026
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-429-workers-bc-pnp-draw-september-10-2026/)
+[British Columbia Invites 429 Workers In September 10 BC PNP Sector Draw](https://immigration.ca/british-columbia-invites-429-workers-bc-pnp-draw-september-10-2026/)September 11, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Canada-Immigration-Pilot-Programs-40x40.jpg)](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)
+[Canada Lets More Foreign Workers Study Without A Study Permit – Who Qualifies?](https://immigration.ca/canada-lets-more-foreign-workers-study-without-a-study-permit-who-qualifies/)September 10, 2026
