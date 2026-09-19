@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 819d90e9b1c1b2ee
+content_hash: bf8a4deb7da1b6d7
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-19'
+last_updated: '2026-09-18'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -419,18 +419,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-33-rural-health-bc-pnp-draw-september-17-2026/)
-[British Columbia Invites 33 Candidates In September 17 BC PNP Rural Health Draw](https://immigration.ca/british-columbia-invites-33-rural-health-bc-pnp-draw-september-17-2026/)September 18, 2026
-  * [![Canada Issues 3,750 Express Entry Invitations to Apply for Healthcare Occupations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Canada-Issues-3750-Express-Entry-Invitations-to-Apply-for-Healthcare-Occupations-40x40.jpg)](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)
-[How Canada Is Giving Health Workers Multiple Routes Through Express Entry In 2026](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)September 17, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-250-senior-managers-express-entry-september-16-2026/)
-[Canada Invites 250 Senior Managers in September 16 Express Entry Draw](https://immigration.ca/canada-invites-250-senior-managers-express-entry-september-16-2026/)September 17, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/04/Office-workers-reviewing-submitted-job-applications-for-employment-opportunity-40x40.jpg)](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)
-[Beyond Ottawa’s Processing Delays: Preparing And Enforcing A Citizenship-By-Descent Claim](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)September 15, 2026
-  * [![Quebec Caps Family Sponsorship Immigration Applications](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Quebec-Caps-Family-Sponsorship-Immigration-Applications-40x40.jpg)](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)
-[Canada Ends Special Family Sponsorship Policy Over ‘Integrity Concerns’ – Who Is Affected?](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)September 15, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2023/08/Young-Professionals-Immigration-to-Canada-40x40.jpg)](https://immigration.ca/canada-opens-new-lmia-exempt-work-permit-pathway-for-british-professionals/)
-[Canada Opens New LMIA-Exempt Work Permit Pathway For British Professionals](https://immigration.ca/canada-opens-new-lmia-exempt-work-permit-pathway-for-british-professionals/)September 15, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-15-2026/)
+[Canada Invites 2,000 Canadian Experience Class Candidates in September 15 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-15-2026/)September 15, 2026
+  * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-576-provincial-nominees-express-entry-september-14-2026/)
+[Canada Invites 576 Provincial Nominees in September 14 Express Entry Draw](https://immigration.ca/canada-invites-576-provincial-nominees-express-entry-september-14-2026/)September 15, 2026
+  * [![Canada Express Entry Guide 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)
+[Canada Is Building A New Express Entry Platform – Here’s What IRCC Has Revealed](https://immigration.ca/canada-is-building-a-new-express-entry-platform-heres-what-ircc-has-revealed/)September 11, 2026
+  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)
+[Manitoba Issues 793 Letters of Advice to Apply in MPNP Draw #279](https://immigration.ca/manitoba-issues-793-letters-of-advice-to-apply-mpnp-draw-279-september-10-2026/)September 11, 2026
+  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-722-invitations-three-september-aaip-draws-2026/)
+[Alberta Issues 722 Invitations Across Three September AAIP Draws](https://immigration.ca/alberta-issues-722-invitations-three-september-aaip-draws-2026/)September 11, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)
+[Newfoundland and Labrador Issues 36 Invitations in September 10 Draw](https://immigration.ca/newfoundland-and-labrador-issues-36-invitations-september-10-2026/)September 11, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
