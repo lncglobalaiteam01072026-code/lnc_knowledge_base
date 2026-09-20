@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: d10112721a730ff7
+content_hash: d1c3a9257d9ca791
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-20'
+last_updated: '2026-09-19'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-300x157.jpg)](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Prince Edward Island Issues 195 Invitations in September 2026 PNP Draw ](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)
-[ Read More » ](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)
-Colin Singer  September 19, 2026 
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Newfoundland and Labrador Issues 62 Invitations in September 18 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)
-[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)
-Colin Singer  September 19, 2026 
+[![Labour Market Impact Assessment Application Processing Times](https://immigration.ca/wp-content/uploads/2024/10/Labour-Market-Impact-Assessment-Application-Processing-Times-300x157.jpg)](https://immigration.ca/ircc-refusal-carousel-repeat-visa-refusals/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ The IRCC Refusal Carousel: How Repeat Visa Denials Are Undermining Canadian Justice ](https://immigration.ca/ircc-refusal-carousel-repeat-visa-refusals/)
+[ Read More » ](https://immigration.ca/ircc-refusal-carousel-repeat-visa-refusals/)
+Colin R. Singer  September 18, 2026 
+[![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-300x169.jpg)](https://immigration.ca/canadas-international-student-crackdown-has-changed-who-gets-study-permits/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada’s International Student Crackdown Has Changed Who Gets Study Permits ](https://immigration.ca/canadas-international-student-crackdown-has-changed-who-gets-study-permits/)
+[ Read More » ](https://immigration.ca/canadas-international-student-crackdown-has-changed-who-gets-study-permits/)
+Colin R. Singer  September 18, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,10 +66,6 @@ Colin R. Singer  October 15, 2018
 Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
 Colin R. Singer  March 17, 2025 
-[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)
-[Prince Edward Island Issues 195 Invitations in September 2026 PNP Draw](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)September 19, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)
-[Newfoundland and Labrador Issues 62 Invitations in September 18 Draw](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)September 19, 2026
 [![Labour Market Impact Assessment Application Processing Times](https://immigration.ca/wp-content/uploads/2024/10/Labour-Market-Impact-Assessment-Application-Processing-Times-40x40.jpg)](https://immigration.ca/ircc-refusal-carousel-repeat-visa-refusals/)
 [The IRCC Refusal Carousel: How Repeat Visa Denials Are Undermining Canadian Justice](https://immigration.ca/ircc-refusal-carousel-repeat-visa-refusals/)September 18, 2026
 [![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-40x40.jpg)](https://immigration.ca/canadas-international-student-crackdown-has-changed-who-gets-study-permits/)
@@ -78,3 +74,7 @@ Colin R. Singer  March 17, 2025
 [British Columbia Invites 33 Candidates In September 17 BC PNP Rural Health Draw](https://immigration.ca/british-columbia-invites-33-rural-health-bc-pnp-draw-september-17-2026/)September 18, 2026
 [![Canada Issues 3,750 Express Entry Invitations to Apply for Healthcare Occupations](https://immigration.ca/wp-content/uploads/2024/07/Canada-Issues-3750-Express-Entry-Invitations-to-Apply-for-Healthcare-Occupations-40x40.jpg)](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)
 [How Canada Is Giving Health Workers Multiple Routes Through Express Entry In 2026](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)September 17, 2026
+[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-250-senior-managers-express-entry-september-16-2026/)
+[Canada Invites 250 Senior Managers in September 16 Express Entry Draw](https://immigration.ca/canada-invites-250-senior-managers-express-entry-september-16-2026/)September 17, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/04/Office-workers-reviewing-submitted-job-applications-for-employment-opportunity-40x40.jpg)](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)
+[Beyond Ottawa’s Processing Delays: Preparing And Enforcing A Citizenship-By-Descent Claim](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)September 15, 2026
