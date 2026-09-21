@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 735eabc993d9f22d
+content_hash: 64809e770c50c1aa
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-21'
+last_updated: '2026-09-14'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -137,15 +137,12 @@ CanadaVisa.com | 420 Notre-Dame Ouest., Suite 310, Montreal, QC, Canada｜H2Y 1V
 * [**Apply for Proof of Citizenship**](https://www.canadavisa.com/applying-for-proof-of-citizenship.html)
 * [**Dual Citizenship**](https://www.canadavisa.com/dual-citizenship.html)
 * [**Citizenship Ceremony**](https://www.canadavisa.com/canadian-citizenship-ceremony.html)
+* [**Ontario Documents**](https://www.canadavisa.com/citizenship-by-descent/ontario-documents)
+* [**Nova Scotia Documents**](https://www.canadavisa.com/citizenship-by-descent/nova-scotia-documents)
+* [**Quebec Documents**](https://www.canadavisa.com/citizenship-by-descent/quebec-documents)
+* [**Prince Edward Island Documents**](https://www.canadavisa.com/citizenship-by-descent/prince-edward-island-documents)
 * [**Alberta Documents**](https://www.canadavisa.com/citizenship-by-descent/alberta-documents)
 * [**Manitoba Documents**](https://www.canadavisa.com/citizenship-by-descent/manitoba-documents)
-* [**New Brunswick Documents**](https://www.canadavisa.com/citizenship-by-descent/new-brunswick-documents)
-* [**Newfoundland and Labrador Documents**](https://www.canadavisa.com/citizenship-by-descent/newfoundland-and-labrador-documents)
-* [**Nova Scotia Documents**](https://www.canadavisa.com/citizenship-by-descent/nova-scotia-documents)
-* [**Ontario Documents**](https://www.canadavisa.com/citizenship-by-descent/ontario-documents)
-* [**Prince Edward Island Documents**](https://www.canadavisa.com/citizenship-by-descent/prince-edward-island-documents)
-* [**Quebec Documents**](https://www.canadavisa.com/citizenship-by-descent/quebec-documents)
-* [**Saskatchewan Documents**](https://www.canadavisa.com/citizenship-by-descent/saskatchewan-documents)
 [Get a Free Citizenship Consultation](https://www.canadavisa.com/</canadian-citizenship-immigration-and-settlement-in-canada.html>) [Calculate Your Citizenship Eligibility](https://www.canadavisa.com/</canadian-citizenship-eligibility-calculator.html>) [Citizenship through Parents or Grandparents](https://www.canadavisa.com/</citizenship-by-descent.html>)
 * [**Overcome Inadmissibility**](https://www.canadavisa.com/immigration-inadmissibility.html)
 * [**Temporary Resident Permit**](https://www.canadavisa.com/canadian-temporary-resident-permit.html)
