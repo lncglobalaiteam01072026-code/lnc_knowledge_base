@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 9f9aad0133fc5418
+content_hash: d10112721a730ff7
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-24'
+last_updated: '2026-09-23'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Canada Set To Tighten Rules on Temporary Foreign Worker Program](https://immigration.ca/wp-content/uploads/2024/08/Canada-Set-To-Tighten-Rules-on-Temporary-Foreign-Worker-Program-300x169.jpg)](https://immigration.ca/canada-tightens-lmia-rules-for-employers-hiring-temporary-foreign-workers/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Tightens LMIA Rules For Employers Hiring Temporary Foreign Workers ](https://immigration.ca/canada-tightens-lmia-rules-for-employers-hiring-temporary-foreign-workers/)
-[ Read More » ](https://immigration.ca/canada-tightens-lmia-rules-for-employers-hiring-temporary-foreign-workers/)
-Colin R. Singer  September 23, 2026 
-[![What To Expect From Canada Express Entry In 2026](https://immigration.ca/wp-content/uploads/2024/07/Express-Entry-CRS-Drops-As-Canada-Invites-5000-CEC-Candidates-300x169.jpg)](https://immigration.ca/express-entry-why-senior-managers-can-get-canada-pr-with-a-crs-of-389-while-cec-candidates-need-519/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Express Entry: Why Senior Managers Can Get Canada PR With A CRS Of 389 While CEC Candidates Need 519 ](https://immigration.ca/express-entry-why-senior-managers-can-get-canada-pr-with-a-crs-of-389-while-cec-candidates-need-519/)
-[ Read More » ](https://immigration.ca/express-entry-why-senior-managers-can-get-canada-pr-with-a-crs-of-389-while-cec-candidates-need-519/)
-Colin R. Singer  September 23, 2026 
+[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-300x157.jpg)](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Prince Edward Island Issues 195 Invitations in September 2026 PNP Draw ](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)
+[ Read More » ](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)
+Colin Singer  September 19, 2026 
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Newfoundland and Labrador Issues 62 Invitations in September 18 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)
+[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)
+Colin Singer  September 19, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,15 +66,15 @@ Colin R. Singer  October 15, 2018
 Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
 Colin R. Singer  March 17, 2025 
-[![Canada Set To Tighten Rules on Temporary Foreign Worker Program](https://immigration.ca/wp-content/uploads/2024/08/Canada-Set-To-Tighten-Rules-on-Temporary-Foreign-Worker-Program-40x40.jpg)](https://immigration.ca/canada-tightens-lmia-rules-for-employers-hiring-temporary-foreign-workers/)
-[Canada Tightens LMIA Rules For Employers Hiring Temporary Foreign Workers](https://immigration.ca/canada-tightens-lmia-rules-for-employers-hiring-temporary-foreign-workers/)September 23, 2026
-[![What To Expect From Canada Express Entry In 2026](https://immigration.ca/wp-content/uploads/2024/07/Express-Entry-CRS-Drops-As-Canada-Invites-5000-CEC-Candidates-40x40.jpg)](https://immigration.ca/express-entry-why-senior-managers-can-get-canada-pr-with-a-crs-of-389-while-cec-candidates-need-519/)
-[Express Entry: Why Senior Managers Can Get Canada PR With A CRS Of 389 While CEC Candidates Need 519](https://immigration.ca/express-entry-why-senior-managers-can-get-canada-pr-with-a-crs-of-389-while-cec-candidates-need-519/)September 23, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/06/Healthcare-Technology-Skilled-Worker-Immigration-to-Canada-40x40.jpg)](https://immigration.ca/canada-cuts-global-talent-stream-referral-partners/)
-[Canada Cuts Global Talent Stream Referral Partners](https://immigration.ca/canada-cuts-global-talent-stream-referral-partners/)September 23, 2026
-[![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-september-22-2026/)
-[British Columbia Invites Entrepreneurs At Score 119 In September 22 BC PNP Draw](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-september-22-2026/)September 23, 2026
 [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)
 [Prince Edward Island Issues 195 Invitations in September 2026 PNP Draw](https://immigration.ca/prince-edward-island-issues-195-invitations-september-2026-pnp-draw/)September 19, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)
 [Newfoundland and Labrador Issues 62 Invitations in September 18 Draw](https://immigration.ca/newfoundland-and-labrador-issues-62-invitations-september-18-2026/)September 19, 2026
+[![Labour Market Impact Assessment Application Processing Times](https://immigration.ca/wp-content/uploads/2024/10/Labour-Market-Impact-Assessment-Application-Processing-Times-40x40.jpg)](https://immigration.ca/ircc-refusal-carousel-repeat-visa-refusals/)
+[The IRCC Refusal Carousel: How Repeat Visa Denials Are Undermining Canadian Justice](https://immigration.ca/ircc-refusal-carousel-repeat-visa-refusals/)September 18, 2026
+[![Canada Remains Attractive to International Students Despite Study Permit Cap](https://immigration.ca/wp-content/uploads/2024/09/Canada-Remains-Attractive-to-International-Students-Despite-Study-Permit-Cap-40x40.jpg)](https://immigration.ca/canadas-international-student-crackdown-has-changed-who-gets-study-permits/)
+[Canada’s International Student Crackdown Has Changed Who Gets Study Permits](https://immigration.ca/canadas-international-student-crackdown-has-changed-who-gets-study-permits/)September 18, 2026
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-33-rural-health-bc-pnp-draw-september-17-2026/)
+[British Columbia Invites 33 Candidates In September 17 BC PNP Rural Health Draw](https://immigration.ca/british-columbia-invites-33-rural-health-bc-pnp-draw-september-17-2026/)September 18, 2026
+[![Canada Issues 3,750 Express Entry Invitations to Apply for Healthcare Occupations](https://immigration.ca/wp-content/uploads/2024/07/Canada-Issues-3750-Express-Entry-Invitations-to-Apply-for-Healthcare-Occupations-40x40.jpg)](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)
+[How Canada Is Giving Health Workers Multiple Routes Through Express Entry In 2026](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)September 17, 2026

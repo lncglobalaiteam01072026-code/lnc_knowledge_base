@@ -1,33 +1,33 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 43795058e6c8939c
+content_hash: 819d90e9b1c1b2ee
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-09-24'
+last_updated: '2026-09-23'
 priority_weight: 0.7
-program: AAIP
-province: AB
+program: BCPNP
+province: BC
 retrieval_strategy: direct
-source_id: immigration_ca_aaip
-source_url: https://immigration.ca/alberta-immigration/
+source_id: immigration_ca_bcpnp
+source_url: https://immigration.ca/british-columbia-immigration/
 topic: overview
 version: '1.0'
 ---
 
 [Skip to content](#content)
-  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-alberta/)
+  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-colombie-britannique/)
 
 
 Clear
 Search
 [ ![Immigration.ca | Live and Work in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2021/01/Live-and-Work-in-Canada.jpg) ](https://immigration.ca)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
-[ Book a Consultation ](https://immigration.ca/alberta-immigration/</immigration-telephone-consultation>)
+[ Book a Consultation ](https://immigration.ca/british-columbia-immigration/</immigration-telephone-consultation>)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
 Search
-[ Book a Consultation ](https://immigration.ca/alberta-immigration/</immigration-telephone-consultation>)
-  * [About](https://immigration.ca/alberta-immigration/</about-us/>)
+[ Book a Consultation ](https://immigration.ca/british-columbia-immigration/</immigration-telephone-consultation>)
+  * [About](https://immigration.ca/british-columbia-immigration/</about-us/>)
     * [About Us](https://immigration.ca/about-us/)
     * [Our Team of Immigration Professionals](https://immigration.ca/our-team-of-immigration-professionals/)
     * [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
@@ -61,26 +61,26 @@ Search
       * [Quebec Skilled Worker Selection Program (PSTQ)](https://immigration.ca/quebec-skilled-worker-immigration/)
       * [Quebec Experience Class (PEQ)](https://immigration.ca/quebec-experience-program/)
       * [Quebec Business Immigration](https://immigration.ca/quebec-business-immigration/)
-    * [Pilot Immigration Programs](https://immigration.ca/alberta-immigration/</canada-immigration-pilot-programs/>)
+    * [Pilot Immigration Programs](https://immigration.ca/british-columbia-immigration/</canada-immigration-pilot-programs/>)
       * [Rural Community Immigration Pilot](https://immigration.ca/everything-you-need-to-know-about-rural-community-immigration-pilot/)
       * [Francophone Community Immigration Pilot](https://immigration.ca/everything-we-know-so-far-about-canadas-francophone-community-immigration-pilot/)
       * [Francophone Minority Communities Student Pilot](https://immigration.ca/francophone-minority-communities-student-pilot/)
       * [Economic Mobility Pathways Pilot](https://immigration.ca/canadas-economic-mobility-pathways-pilot/)
       * [Canada Caregiver Immigration Pilots](https://immigration.ca/how-to-get-a-canada-work-permit-for-a-caregiver/)
     * Sponsorship Immigration
-      * [Overview](https://immigration.ca/alberta-immigration/</family-sponsorship-immigration-overview/>)
+      * [Overview](https://immigration.ca/british-columbia-immigration/</family-sponsorship-immigration-overview/>)
       * [Sponsor Your Spouse or Common-Law Partner](https://immigration.ca/sponsor-your-spouse-common-law-or-conjugal-partner-for-canada-immigration/)
       * [Sponsor Your Parents & Grandparents](https://immigration.ca/sponsor-your-parents-and-grandparents-for-canada-immigration/)
       * [Parents and Grandparents Super Visa](https://immigration.ca/super-visa-canada/)
       * [Sponsor your children](https://immigration.ca/family-sponsorship-immigration-for-dependent-children/)
       * [Sponsorship of Adopted Children](https://immigration.ca/adoption-immigration-canada/)
-    * [Refugee Immigration](https://immigration.ca/alberta-immigration/</refugee-protection/>)
+    * [Refugee Immigration](https://immigration.ca/british-columbia-immigration/</refugee-protection/>)
   * [Business](https://immigration.ca/canada-business-and-investment-immigration-overview/)
     * [Overview](https://immigration.ca/canada-business-and-investment-immigration-overview/)
     * [Start-Up Visa Program](https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules/)
       * [Canada’s Immigration Pathway for Entrepreneurs](https://immigration.ca/canada-business-and-investment-immigration-overview/)
       * [Eight Things to Know About Canada’s Start-Up Visa Program](https://immigration.ca/canada-business-and-investment-immigration-overview/)
-    * [Quebec Investor Program](https://immigration.ca/alberta-immigration/</quebec-immigrant-investor-program/>)
+    * [Quebec Investor Program](https://immigration.ca/british-columbia-immigration/</quebec-immigrant-investor-program/>)
     * [Provincial Entrepreneur Programs](https://immigration.ca/provincial-entrepreneur-programs/)
     * [Self-Employed Programs](https://immigration.ca/self-employed-programs/)
     * [Buy a Business and Move to Canada](https://businesses.immigration.ca)
@@ -140,7 +140,7 @@ Search
     * [Essential Guide for Newcomers](https://immigration.ca/guide-for-newcomers/)
     * [Immigration Lawyers and Consultants](https://immigration.ca/canada-immigration-lawyers-and-consultants/)
     * [News](https://immigration.ca/canada-immigration-latest-news-articles/)
-    * [Email Newsletter](https://immigration.ca/alberta-immigration/</newsletters/>)
+    * [Email Newsletter](https://immigration.ca/british-columbia-immigration/</newsletters/>)
     * [My Great Canada Podcast](https://immigration.ca/my-great-canada-podcast/)
     * [Immigration Processing Fees](https://immigration.ca/government-of-canada-immigration-fee-schedule/)
     * [Immigration Processing Times](https://immigration.ca/canada-immigration-applications-processing-times/)
@@ -163,7 +163,7 @@ Search
       * [Temporary Residence Permits (TRP)](https://immigration.ca/criminal-inadmissibility-temporary-residence-permit-trp/)
 
 
-  * [About](https://immigration.ca/alberta-immigration/</about-us/>)
+  * [About](https://immigration.ca/british-columbia-immigration/</about-us/>)
     * [About Us](https://immigration.ca/about-us/)
     * [Our Team of Immigration Professionals](https://immigration.ca/our-team-of-immigration-professionals/)
     * [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
@@ -197,26 +197,26 @@ Search
       * [Quebec Skilled Worker Selection Program (PSTQ)](https://immigration.ca/quebec-skilled-worker-immigration/)
       * [Quebec Experience Class (PEQ)](https://immigration.ca/quebec-experience-program/)
       * [Quebec Business Immigration](https://immigration.ca/quebec-business-immigration/)
-    * [Pilot Immigration Programs](https://immigration.ca/alberta-immigration/</canada-immigration-pilot-programs/>)
+    * [Pilot Immigration Programs](https://immigration.ca/british-columbia-immigration/</canada-immigration-pilot-programs/>)
       * [Rural Community Immigration Pilot](https://immigration.ca/everything-you-need-to-know-about-rural-community-immigration-pilot/)
       * [Francophone Community Immigration Pilot](https://immigration.ca/everything-we-know-so-far-about-canadas-francophone-community-immigration-pilot/)
       * [Francophone Minority Communities Student Pilot](https://immigration.ca/francophone-minority-communities-student-pilot/)
       * [Economic Mobility Pathways Pilot](https://immigration.ca/canadas-economic-mobility-pathways-pilot/)
       * [Canada Caregiver Immigration Pilots](https://immigration.ca/how-to-get-a-canada-work-permit-for-a-caregiver/)
     * Sponsorship Immigration
-      * [Overview](https://immigration.ca/alberta-immigration/</family-sponsorship-immigration-overview/>)
+      * [Overview](https://immigration.ca/british-columbia-immigration/</family-sponsorship-immigration-overview/>)
       * [Sponsor Your Spouse or Common-Law Partner](https://immigration.ca/sponsor-your-spouse-common-law-or-conjugal-partner-for-canada-immigration/)
       * [Sponsor Your Parents & Grandparents](https://immigration.ca/sponsor-your-parents-and-grandparents-for-canada-immigration/)
       * [Parents and Grandparents Super Visa](https://immigration.ca/super-visa-canada/)
       * [Sponsor your children](https://immigration.ca/family-sponsorship-immigration-for-dependent-children/)
       * [Sponsorship of Adopted Children](https://immigration.ca/adoption-immigration-canada/)
-    * [Refugee Immigration](https://immigration.ca/alberta-immigration/</refugee-protection/>)
+    * [Refugee Immigration](https://immigration.ca/british-columbia-immigration/</refugee-protection/>)
   * [Business](https://immigration.ca/canada-business-and-investment-immigration-overview/)
     * [Overview](https://immigration.ca/canada-business-and-investment-immigration-overview/)
     * [Start-Up Visa Program](https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules/)
       * [Canada’s Immigration Pathway for Entrepreneurs](https://immigration.ca/canada-business-and-investment-immigration-overview/)
       * [Eight Things to Know About Canada’s Start-Up Visa Program](https://immigration.ca/canada-business-and-investment-immigration-overview/)
-    * [Quebec Investor Program](https://immigration.ca/alberta-immigration/</quebec-immigrant-investor-program/>)
+    * [Quebec Investor Program](https://immigration.ca/british-columbia-immigration/</quebec-immigrant-investor-program/>)
     * [Provincial Entrepreneur Programs](https://immigration.ca/provincial-entrepreneur-programs/)
     * [Self-Employed Programs](https://immigration.ca/self-employed-programs/)
     * [Buy a Business and Move to Canada](https://businesses.immigration.ca)
@@ -276,7 +276,7 @@ Search
     * [Essential Guide for Newcomers](https://immigration.ca/guide-for-newcomers/)
     * [Immigration Lawyers and Consultants](https://immigration.ca/canada-immigration-lawyers-and-consultants/)
     * [News](https://immigration.ca/canada-immigration-latest-news-articles/)
-    * [Email Newsletter](https://immigration.ca/alberta-immigration/</newsletters/>)
+    * [Email Newsletter](https://immigration.ca/british-columbia-immigration/</newsletters/>)
     * [My Great Canada Podcast](https://immigration.ca/my-great-canada-podcast/)
     * [Immigration Processing Fees](https://immigration.ca/government-of-canada-immigration-fee-schedule/)
     * [Immigration Processing Times](https://immigration.ca/canada-immigration-applications-processing-times/)
@@ -299,73 +299,113 @@ Search
       * [Temporary Residence Permits (TRP)](https://immigration.ca/criminal-inadmissibility-temporary-residence-permit-trp/)
 
 
-# Alberta Immigration
+# British Columbia Immigration: The BC PNP in 2026
 ![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
 Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
 Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
-Published: **February 16, 2013**
-Last updated: **July 13, 2026**
-Reading time: 5 min
+Published: **November 23, 2018**
+Last updated: **September 10, 2026**
+Reading time: 8 min
 Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
-![Alberta To Launch New Expression of Interest System Next Month](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Alberta-To-Launch-New-Expression-of-Interest-System-Next-Month.jpg)
-## On This Page, You Will Find:
-  * An overview of the Alberta Advantage Immigration Program
-  * Current AAIP immigration streams
-  * How the Alberta Expression of Interest system works
-  * Eligibility requirements for skilled workers and entrepreneurs
-  * How Alberta selects candidates for provincial nomination
-  * Recent AAIP draws and selection priorities
-  * Frequently asked questions about Alberta immigration
+![British Columbia PNP Draw Province Issues 200 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/British-Columbia-PNP-Draw-Province-Issues-200-Canada-Immigration-Invitations.jpg)
+### On This Page, You Will Find:
+  * British Columbia’s 2026 nomination allocation and what it means for applicants
+  * How the BC Provincial Nominee Program works
+  * Which BC PNP streams are open, closed or paused in 2026
+  * The Care, Build and Innovate priorities and the occupations they target
+  * What happened to the BC PNP tech draws
+  * BC PNP draws, minimum scores and the registration pool
+  * How to register and apply, step by step
+  * Fees and processing
+  * Frequently asked questions
 
 
-The Alberta Advantage Immigration Program (AAIP) is Alberta’s [Provincial Nominee Program](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/) (PNP), offering skilled workers, entrepreneurs and international graduates a pathway to Canadian permanent residence.
-The program helps Alberta address labour shortages by selecting candidates with the skills, work experience and business expertise needed to support the province’s growing economy. It includes streams for workers already in Alberta, candidates in the federal Express Entry pool, rural communities and entrepreneurs looking to establish or purchase a business.
-Most AAIP streams now use an Expression of Interest (EOI) system. Eligible candidates submit an online profile and are ranked based on factors such as education, work experience, language ability, age, employment in Alberta and other economic factors. The province regularly issues invitations to the highest-ranking candidates and those who meet targeted labour market priorities.
-Successful applicants receive a provincial nomination, which they can use to apply for Canadian permanent residence through Immigration, Refugees and Citizenship Canada (IRCC). Candidates nominated through an Express Entry-aligned stream also receive an additional 600 Comprehensive Ranking System (CRS) points, effectively guaranteeing an Invitation to Apply (ITA) in a future Express Entry draw.
-## What Is the Alberta Advantage Immigration Program?
-The Alberta Advantage Immigration Program is Alberta’s economic immigration program, operated jointly by the Government of Alberta and Immigration, Refugees and Citizenship Canada (IRCC). It enables the province to nominate individuals whose skills align with Alberta’s labour market and economic development priorities.
-The AAIP includes several pathways for skilled workers, entrepreneurs and rural applicants. Worker streams include the Alberta Opportunity Stream, the Alberta Express Entry Stream, the Rural Renewal Stream and the Tourism and Hospitality Stream. Business pathways include the Farm Stream, Graduate Entrepreneur Stream, Foreign Graduate Entrepreneur Stream and Rural Entrepreneur Stream.
-## How Does the Alberta Expression of Interest System Work?
-Most AAIP streams operate through an [Expression of Interest system](https://immigration.ca/alberta-expression-of-interest-eoi/). Eligible candidates submit an online profile outlining their education, work experience, language proficiency and other qualifying factors.
-Profiles are assessed using Alberta’s points-based ranking system, which considers human capital and economic factors. The province conducts regular invitation rounds, selecting candidates who best meet Alberta’s current labour market needs. Receiving an invitation allows a candidate to submit a full application for provincial nomination, but creating an Expression of Interest does not guarantee selection.
-## How to Apply
-Most worker applicants apply directly to the relevant AAIP stream online; Express Entry candidates should also maintain an active federal profile. A provincial nomination through the Alberta Express Entry Stream adds 600 CRS points, effectively guaranteeing an invitation. For the federal side of the process, see our overview of [Express Entry](https://immigration.ca/canada-express-entry-immigration/), and if you still need work authorization, our [Canada work permit](https://immigration.ca/canada-work-visa/) guide. To compare Alberta with other routes, see [12 ways you can immigrate to Canada](https://immigration.ca/12-ways-you-can-immigrate-to-canada/).
-## AAIP Streams
-[ ](https://immigration.ca/alberta-opportunity-stream)
-#####  [ Alberta Opportunity Stream ](https://immigration.ca/alberta-opportunity-stream)
-The Alberta Opportunity Stream was designed to simplify the Alberta Advantage Immigration Program application process, reduce waiting times and make the system fairer for candidates and employers 
-[ ](https://immigration.ca/alberta-immigration-express-entry-stream)
-#####  [ Express Entry Stream ](https://immigration.ca/alberta-immigration-express-entry-stream)
-Alberta Express Entry allows Alberta to nominate a limited number of qualified candidates from federal Express Entry pool. 
-[ ](https://immigration.ca/alberta-immigration-rural-renewal-stream)
-#####  [ Rural Renewal Stream ](https://immigration.ca/alberta-immigration-rural-renewal-stream)
-The Rural Renewal Stream allows qualified candidates with a job offer from an Alberta employer to work in a designated rural Alberta community to apply for Alberta immigration. 
-[ ](https://immigration.ca/alberta-tourism-and-hospitality-stream/)
-#####  [ Tourism and Hospitality Stream ](https://immigration.ca/alberta-tourism-and-hospitality-stream/)
-The Tourism and Hospitality Stream allows Alberta to support skilled workers in the tourism and hospitality sector by offering a pathway to permanent residency. Applicants must meet employment, language, and education requirements while working for an approved employer in Alberta. 
-[ ](https://immigration.ca/alberta-immigration-self-employed-farmer-stream)
-#####  [ Farm Stream ](https://immigration.ca/alberta-immigration-self-employed-farmer-stream)
-The AAIP manages the Farm Stream in close collaboration with the Alberta Agriculture and Forestry, and targets applicants with farm management skills and sufficient financial resources to invest in a farming business in Alberta. 
-[ ](https://immigration.ca/alberta-immigration-foreign-graduate-start-up-visa-stream)
-#####  [ Foreign Graduate Entrepreneur Stream ](https://immigration.ca/alberta-immigration-foreign-graduate-start-up-visa-stream)
-This Foreign Graduate Entrepreneur Stream is aimed at qualified foreign-educated graduates from outside Canada, who wish to receive permanent residence upon launching start-up enterprises in Alberta. 
-[ ](https://immigration.ca/alberta-immigration-rural-entrepreneur-stream)
-#####  [ Rural Entrepreneur Stream ](https://immigration.ca/alberta-immigration-rural-entrepreneur-stream)
-The Rural Entrepreneur Stream is aimed at entrepreneurs who want to start a business or buy an existing business in a rural Alberta community. 
-[ ](https://immigration.ca/alberta-international-graduate-entrepreneur-immigration-stream)
-#####  [ Graduate Entrepreneur Stream ](https://immigration.ca/alberta-international-graduate-entrepreneur-immigration-stream)
-The Graduate Entrepreneur Stream is aimed at international graduates from Alberta post-secondary institutions who want to establish or operate a business in the province. 
-## AAIP Draws
-Alberta conducts [periodic draws](https://immigration.ca/alberta-immigration-draws) through the provincial Expression of Interest system and federal Express Entry system. Candidates are invited to apply for Alberta immigration through one of the province’s streams.
-### Frequently Asked Questions (FAQ)
-##### What is the Alberta Advantage Immigration Program (AAIP)?
-The Alberta Advantage Immigration Program (AAIP) is a provincial immigration program designed to attract skilled workers and entrepreneurs to Alberta. It helps fill labour shortages in key industries by offering pathways to permanent residency through multiple streams. Candidates must first apply for provincial nomination, and if successful, they can apply for permanent residence with Immigration, Refugees and Citizenship Canada (IRCC). Alberta receives a limited number of nominations from the federal government each year.
-##### How does the Alberta Expression of Interest (EOI) system work?
-The Alberta Expression of Interest (EOI) system allows skilled workers to apply for immigration under AAIP by submitting an online profile. Candidates are ranked based on factors like education, work experience, language skills, and job offers. Alberta regularly holds draws to select top-ranking candidates for provincial nomination. Although submitting an EOI is free, selection is not guaranteed. Successful candidates receive an invitation to apply for nomination and, if approved, can apply for permanent residence.
-##### What are the main AAIP immigration streams?
-AAIP has multiple worker and business streams to support Alberta's labour market and economic growth. Worker streams include the Alberta Opportunity Stream, Express Entry Stream, Rural Renewal Stream, and Tourism and Hospitality Stream. Business streams include the Farm Stream, Foreign Graduate Entrepreneur Stream, Graduate Entrepreneur Stream, and Rural Entrepreneur Stream. Each stream has specific eligibility criteria, including job offers, work experience, education, and investment requirements.
-##### How does Alberta select candidates for nomination?
-Alberta selects candidates through regular AAIP draws based on EOI rankings and provincial labour market needs. Candidates with high scores and relevant job offers are prioritized. Those selected receive an invitation to apply for nomination, and if approved, they can apply for permanent residence with IRCC. Express Entry candidates who receive a provincial nomination get an additional 600 Comprehensive Ranking System (CRS) points, significantly boosting their chances of receiving an Invitation to Apply (ITA) for permanent residence.
+The British Columbia Provincial Nominee Program (BC PNP) is the province’s only economic immigration tool. It offers a pathway to [Canadian permanent residence](https://immigration.ca/benefits-obligations-permanent-resident-canada/) for skilled workers, entrepreneurs and businesses that meet B.C.’s labour market and economic development needs.
+The program is operated by the Province of British Columbia in partnership with Immigration, Refugees and Citizenship Canada (IRCC). Candidates follow a two-stage process: they apply to the province for a nomination, and then, if nominated, apply to the federal government for permanent residence.
+In 2026 the defining feature of the program is scarcity. B.C. has fewer nominations than it says it needs, and it has rebuilt its selection rules around that constraint.
+## British Columbia’s 2026 Nomination Allocation
+IRCC notified the province on 18 December 2025 that B.C.’s opening 2026 allocation for the BC PNP was 5,254 nominations.
+That figure has since gone up. On 18 August 2026 the province confirmed it had received an additional 1,000 nominations from the federal government, taking the **2026 allocation to 6,254**. The BC PNP says it plans to use its full allocation by 31 December 2026, and the extra nominations are being applied to the program objectives announced on 23 April 2026.
+British Columbia had requested 9,000 nominations for 2026 to address its labour market needs, so even after the top-up it holds roughly 70 per cent of what it asked for, and it has said it will continue to discuss the allocation with IRCC.
+For context on how the province arrived here:
+  * B.C.’s 2025 allocation opened at 4,000 nominations, a 50 per cent reduction from 2024.
+  * Additional federal nominations in October and December 2025 brought the 2025 total to 6,214.
+  * The 2026 figure of 6,254, after the August top-up, is marginally above the final 2025 total.
+
+
+Nationally, the 2026-2028 Immigration Levels Plan sets a Provincial Nominee Program admissions target of 91,500 for 2026, within a range of 82,000 to 105,000. Provincial allocations are set separately by IRCC and can be topped up during the year, as happened in both 2025 and 2026.
+The practical consequence for candidates is that the BC PNP invites a small number of people, in narrowly defined categories, at high scores. Applicants who do not fit a current priority should look at other [provincial nominee programs](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/) or at federal [Express Entry](https://immigration.ca/canada-express-entry-immigration/) options.
+## BC PNP Streams Open in 2026
+The BC PNP now has two main pathways: Skills Immigration for workers, and Entrepreneur Immigration for entrepreneurs and businesses.
+Under [Skills Immigration](https://immigration.ca/british-columbia-skills-immigration-streams/), workers choose between two streams based on their job offer:
+  * **Skilled Worker stream** – requires a full-time, indeterminate job offer from an eligible B.C. employer in a NOC TEER 0, 1, 2 or 3 occupation, at least two years of full-time equivalent work experience, and Canadian Language Benchmark level 4 or higher.
+  * **Health Authority stream** – requires a full-time, indeterminate job offer from a B.C. health authority employer in a health authority-eligible occupation.
+
+
+Both streams have an [Express Entry BC option](https://immigration.ca/british-columbia-express-entry-streams/). Candidates already in the federal Express Entry pool who meet the stream criteria can select the Express Entry BC version of their stream when they register, which links the provincial nomination to the federal profile.
+[Entrepreneur Immigration](https://immigration.ca/british-columbia-business-immigration/) continues under three routes: the Base stream and the Regional stream for individual entrepreneurs, and the Strategic Projects stream for businesses establishing operations in B.C. Entrepreneur draws have run monthly through 2026.
+Two important changes announced on 23 April 2026:
+  * The Entry Level and Semi-Skilled (ELSS) stream is officially closed. Its last invitations were issued on 10 December 2024 and it is being removed from the registration system and Program Guide.
+  * The BC PNP will not launch new student streams. International graduates must use the existing streams, although study completed in B.C. or elsewhere in Canada still earns additional registration points.
+
+
+## The 2026 Priorities: Care, Build and Innovate
+On 23 April 2026 the province reorganised the BC PNP around three objectives aligned with its Look West strategy. At least 35 per cent of nominations are expected to go to candidates working outside Metro Vancouver.
+**Care** covers 36 in-demand occupations in health care, education, childcare and veterinary care. Certified early childhood educators, veterinarians and veterinary technologists working toward Canadian certification are prioritised. French-speaking teachers in the province’s public K-12 system are also targeted, using federal allocations available for francophone recruitment.
+**Build** targets nine certified skilled trades supporting construction and major infrastructure, including welders, electricians, plumbers, steamfitters, carpenters, millwrights, heavy-duty equipment mechanics and HVAC mechanics. A valid SkilledTradesBC certificate or registered apprenticeship is required to receive a targeted invitation.
+**Innovate** is delivered through High Economic Impact invitations, which target top talent across all sectors, including experienced entrepreneurs.
+The province also runs a time-limited initiative in 2026: the Temporary Rural/Remote Health Support Initiative, which will nominate up to 250 workers already employed by a health authority in a cleaning or security role in a rural or remote community. Registration opened on 15 June 2026. It was originally due to close on 31 August 2026, but on 13 August 2026 the BC PNP extended the intake to 11:59 pm on **7 October 2026** to account for wildfire-related impacts.
+## What Happened to the BC PNP Tech Stream
+There is no longer a standalone technology stream or dedicated tech draw at the BC PNP.
+The final draw for BC PNP priority technology occupations took place on 3 December 2024. Since then, technology talent has been selected through the High Economic Impact invitations rather than through a separate tech list.
+All occupations that appeared on the previous technology occupations list remain eligible for the BC PNP. Tech workers therefore still qualify, but they compete on wage and score against candidates from every other sector.
+## BC PNP Draws and Scores in 2026
+Invitations to apply are issued periodically from the registration pool. Registrations are scored on human capital factors such as work experience, education and language, plus economic factors such as wage and job location in B.C. A registration stays in the pool for up to 12 months.
+Two patterns are visible in 2026. Targeted Care and Build draws run roughly every six to seven weeks, and High Economic Impact draws run on their own schedule.
+In the draw of 6 August 2026, the BC PNP issued invitations as follows:
+  * Care: Childcare – 183 invitations, minimum score 102
+  * Care: Health – 124 invitations, minimum score 84
+  * Care: Education – fewer than five invitations, minimum score 68
+  * Care: Veterinary Care – six invitations, minimum score 72
+  * Build: Construction Trades – 187 invitations, minimum score 88
+
+
+The High Economic Impact draw of 16 July 2026 issued 223 invitations to candidates with a job offer in NOC TEER 0, 1, 2 or 3 paying at least $58 an hour and $115,000 a year, plus a further 346 invitations at a minimum score of 132.
+Minimum scores in the targeted categories have eased through 2026. The Care: Health cut-off fell from 108 in May to 84 in August, and Build: Construction Trades fell from 108 to 88 over the same period.
+As of 4 August 2026 there were 8,306 registrations in the Skills Immigration pool, with 1,312 scoring 120 or above.
+Entrepreneur Immigration draws in 2026 have invited between seven and 15 Base stream candidates a month, with minimum scores between 115 and 121.
+## How to Register and Apply
+The Skills Immigration process has four components: registration, invitation, application and decision.
+  * **Choose your stream** – Skilled Worker or Health Authority, and decide whether to use the Express Entry BC option.
+  * **Register online** – create a profile in the BC PNP Online User Portal. There is no registration fee. You receive a score and enter the pool for up to 12 months.
+  * **Wait for an invitation** – if invited, you have 30 calendar days to submit a complete application. Missing that deadline removes your registration from the pool.
+  * **Apply** – pay the application fee and upload supporting documents through the portal.
+  * **Receive a decision** – approved applicants get a nomination package and a Confirmation of Nomination letter.
+  * **Apply to IRCC** – submit the permanent residence application before the nomination expires. A provincial nomination adds 600 points to an Express Entry profile.
+
+
+Some occupations are excluded from every Skills Immigration stream, including executive assistants, administrative officers and assistants, human resources officers, accounting technicians and bookkeepers, retail and food service supervisors, real estate agents, and religious leaders and workers.
+## Fees
+The BC PNP increased its Skills Immigration application fee on 22 January 2026. Current fees are:
+  * Registration – no fee
+  * Skills Immigration application – $1,750 CAD
+  * Request for review – $500 CAD, non-refundable
+
+
+Federal fees are separate. See our guide to [Canadian immigration processing times](https://immigration.ca/canada-immigration-applications-processing-times/) for what to expect after nomination.
+## Frequently Asked Questions
+### How many nominations does British Columbia have in 2026?
+The BC PNP’s 2026 allocation is 6,254 nominations. IRCC set the opening allocation at 5,254 on 18 December 2025 and added a further 1,000 on 18 August 2026. British Columbia had asked for 9,000, and the province says it will keep discussing the figure with the federal government.
+### Is there still a BC PNP tech stream?
+No. The last targeted draw for BC PNP priority technology occupations was held on 3 December 2024. Technology occupations remain eligible for the program, but tech candidates are now selected through High Economic Impact invitations that cover all sectors rather than through a dedicated tech draw.
+### Do I need a job offer for the BC PNP?
+Yes, for Skills Immigration. Both the Skilled Worker stream and the Health Authority stream require a full-time, indeterminate job offer from an eligible British Columbia employer, supported by a completed Employer Declaration Form. Entrepreneur Immigration does not require a job offer.
+### What score do I need to be invited by the BC PNP?
+It depends on the category and the draw. In the 6 August 2026 draw, minimum scores ranged from 68 for priority education occupations to 102 for early childhood educators. High Economic Impact draws have required around 132 to 138 points, or a job offer meeting a set wage threshold instead of a score.
+### Can international graduates still use the BC PNP?
+There are no BC PNP student streams and the province confirmed in April 2026 that it will not launch new ones. Graduates can register under the Skilled Worker or Health Authority streams if they hold a qualifying job offer, and studies completed in B.C. or elsewhere in Canada still earn extra registration points.
+### How long is a BC PNP nomination valid?
+A Confirmation of Nomination has an expiry date, and the federal permanent residence application must be submitted before it expires. Provincial nomination processing and federal processing are separate stages, each with its own timelines, so applicants should check IRCC’s current processing times before planning a move.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
 About the author
 ![Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
@@ -375,10 +415,12 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 [Barreau du Québec · 35+ yrs](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe "Verify licence with the Barreau du Quebec")[House of Commons testimony](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence "Read the official House of Commons record")[Law360 / LexisNexis contributor](https://www.law360.ca/ca/search?q=Colin+Singer "Law360 contributions")[Governor, Fondation du Barreau](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1 "Fondation du Barreau du Quebec governors")
 [Full profile →](https://immigration.ca/author/colin-singer/)[Verify licence](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe)[LinkedIn](https://www.linkedin.com/company/immigration-ca)[X / Twitter](https://twitter.com/immigrationca)[Book a consultation](https://immigration.ca/immigration-consultation/)
 **Stay ahead on Canadian immigration news.** Make immigration.ca your preferred source on Google to see our latest stories first in Top Stories.  [ Add as preferred source ](https://google.com/preferences/source?q=immigration.ca)
-  * Tags: [AAIP](https://immigration.ca/tag/aaip/), [Alberta Immigration](https://immigration.ca/tag/alberta-immigration/), [Alberta Opportunity Stream](https://immigration.ca/tag/alberta-opportunity-stream/), [Canada immigration](https://immigration.ca/tag/canada-immigration/), [canadian lawyer](https://immigration.ca/tag/canadian-lawyer/), [Rural Renewal Stream](https://immigration.ca/tag/rural-renewal-stream/), [skilled worker](https://immigration.ca/tag/skilled-worker/)
+  * Tags: [BC PNP](https://immigration.ca/tag/bc-pnp/), [BC PNP 2026](https://immigration.ca/tag/bc-pnp-2026/), [BC PNP allocation](https://immigration.ca/tag/bc-pnp-allocation/), [BC PNP draws](https://immigration.ca/tag/bc-pnp-draws/), [British Columbia Immigration](https://immigration.ca/tag/british-columbia-immigration/), [British Columbia Provincial Nominee Program](https://immigration.ca/tag/british-columbia-provincial-nominee-program/), [Immigrate to British Columbia](https://immigration.ca/tag/immigrate-to-british-columbia/), [Skills Immigration](https://immigration.ca/tag/skills-immigration/)
 
 
 Latest News
+  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-33-rural-health-bc-pnp-draw-september-17-2026/)
+[British Columbia Invites 33 Candidates In September 17 BC PNP Rural Health Draw](https://immigration.ca/british-columbia-invites-33-rural-health-bc-pnp-draw-september-17-2026/)September 18, 2026
   * [![Canada Issues 3,750 Express Entry Invitations to Apply for Healthcare Occupations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Canada-Issues-3750-Express-Entry-Invitations-to-Apply-for-Healthcare-Occupations-40x40.jpg)](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)
 [How Canada Is Giving Health Workers Multiple Routes Through Express Entry In 2026](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)September 17, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-250-senior-managers-express-entry-september-16-2026/)
@@ -389,33 +431,31 @@ Latest News
 [Canada Ends Special Family Sponsorship Policy Over ‘Integrity Concerns’ – Who Is Affected?](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)September 15, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2023/08/Young-Professionals-Immigration-to-Canada-40x40.jpg)](https://immigration.ca/canada-opens-new-lmia-exempt-work-permit-pathway-for-british-professionals/)
 [Canada Opens New LMIA-Exempt Work Permit Pathway For British Professionals](https://immigration.ca/canada-opens-new-lmia-exempt-work-permit-pathway-for-british-professionals/)September 15, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-15-2026/)
-[Canada Invites 2,000 Canadian Experience Class Candidates in September 15 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-15-2026/)September 15, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
 ## Useful Links
   * [ Free Immigration to Canada Evaluation ](https://form.immigration.ca/skilled-worker/)
-  * [ Sign-up for Canadian Immigration Newsletter ](https://immigration.ca/alberta-immigration/</newsletters/>)
-  * [ Canadian Citizenship Requirements ](https://immigration.ca/alberta-immigration/</canadian-citizenship-requirements/>)
-  * [ Canada Work Visa – Work in Canada ](https://immigration.ca/alberta-immigration/</canada-work-visa/>)
-  * [ Canada Visitor Visa Guide ](https://immigration.ca/alberta-immigration/</canada-visitor-visa-guide/>)
-  * [ 12 Ways You Can Immigrate To Canada ](https://immigration.ca/alberta-immigration/</12-ways-you-can-immigrate-to-canada/>)
+  * [ Sign-up for Canadian Immigration Newsletter ](https://immigration.ca/british-columbia-immigration/</newsletters/>)
+  * [ Canadian Citizenship Requirements ](https://immigration.ca/british-columbia-immigration/</canadian-citizenship-requirements/>)
+  * [ Canada Work Visa – Work in Canada ](https://immigration.ca/british-columbia-immigration/</canada-work-visa/>)
+  * [ Canada Visitor Visa Guide ](https://immigration.ca/british-columbia-immigration/</canada-visitor-visa-guide/>)
+  * [ 12 Ways You Can Immigrate To Canada ](https://immigration.ca/british-columbia-immigration/</12-ways-you-can-immigrate-to-canada/>)
   * [ How to Claim Canadian Citizenship by Descent ](https://immigration.ca/claiming-canadian-citizenship-by-descent-under-canadas-new-citizenship-act-bill-c-3/)
   * [ Canadian Citizenship by Descent Calculator: Check Your Eligibility ](https://immigration.ca/canadian-citizenship-by-descent-calculator/)
 
 
 ## Help
-  * [ Book an Immigration Consultation ](https://immigration.ca/alberta-immigration/</immigration-telephone-consultation>)
-  * [ Contact Us ](https://immigration.ca/alberta-immigration/</contact-us/>)
+  * [ Book an Immigration Consultation ](https://immigration.ca/british-columbia-immigration/</immigration-telephone-consultation>)
+  * [ Contact Us ](https://immigration.ca/british-columbia-immigration/</contact-us/>)
   * [ Disclaimer ](https://immigration.ca/disclaimer)
   * [ Privacy Policy ](https://immigration.ca/privacy-policy)
   * [ Fraud alert ](https://immigration.ca/fraud-alert)
 
 
 ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2022/01/Logo-on-dark-transparent-bg-defringe-1024x256.png)
-  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-alberta/)
+  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-colombie-britannique/)
 
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
-[Go to Top](https://immigration.ca/alberta-immigration/<#>)
+[Go to Top](https://immigration.ca/british-columbia-immigration/<#>)
