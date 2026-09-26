@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 9f24a93bb64f50ac
+content_hash: 2b520b6eb48db370
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-26'
+last_updated: '2026-09-25'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Manitoba Issues 474 Letters of Advice to Apply in MPNP Draw #280 ](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)
-[ Read More » ](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)
-Colin Singer  September 25, 2026 
-[![Find Out Which Sectors Have Most Canada Job Vacancies](https://immigration.ca/wp-content/uploads/2024/06/Find-Out-Which-Sectors-Have-Most-Canada-Job-Vacancies-300x169.jpg)](https://immigration.ca/canada-job-vacancies-hold-above-500000-as-demand-rises-for-trades-and-tech-workers/)
+[![Canada's Population Exceeds 41 Million, Driven by Strong Immigration](https://immigration.ca/wp-content/uploads/2024/06/Canadas-Population-Exceeds-41-Million-Driven-by-Strong-Immigration-300x169.jpg)](https://immigration.ca/canada-population-growth-slows-sharply-as-immigration-levels-fall/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Job Vacancies Hold Above 500,000 As Demand Rises For Trades And Tech Workers ](https://immigration.ca/canada-job-vacancies-hold-above-500000-as-demand-rises-for-trades-and-tech-workers/)
-[ Read More » ](https://immigration.ca/canada-job-vacancies-hold-above-500000-as-demand-rises-for-trades-and-tech-workers/)
-Colin R. Singer  September 25, 2026 
+###  [ Canada Population Growth Slows Sharply As Immigration Levels Fall ](https://immigration.ca/canada-population-growth-slows-sharply-as-immigration-levels-fall/)
+[ Read More » ](https://immigration.ca/canada-population-growth-slows-sharply-as-immigration-levels-fall/)
+Colin R. Singer  September 24, 2026 
+[![Challenges in Managing Temporary Resident Surge, Bank Of Canada Warns](https://immigration.ca/wp-content/uploads/2024/07/Challenges-in-Managing-Temporary-Resident-Surge-Bank-Of-Canada-Warns-300x169.jpg)](https://immigration.ca/canada-revises-non-permanent-resident-numbers-up-by-240000/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Revises Non-Permanent Resident Numbers Up By 240,000 ](https://immigration.ca/canada-revises-non-permanent-resident-numbers-up-by-240000/)
+[ Read More » ](https://immigration.ca/canada-revises-non-permanent-resident-numbers-up-by-240000/)
+Colin R. Singer  September 24, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,15 +66,15 @@ Colin R. Singer  October 15, 2018
 Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
 Colin R. Singer  March 17, 2025 
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)
-[Manitoba Issues 474 Letters of Advice to Apply in MPNP Draw #280](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)September 25, 2026
-[![Find Out Which Sectors Have Most Canada Job Vacancies](https://immigration.ca/wp-content/uploads/2024/06/Find-Out-Which-Sectors-Have-Most-Canada-Job-Vacancies-40x40.jpg)](https://immigration.ca/canada-job-vacancies-hold-above-500000-as-demand-rises-for-trades-and-tech-workers/)
-[Canada Job Vacancies Hold Above 500,000 As Demand Rises For Trades And Tech Workers](https://immigration.ca/canada-job-vacancies-hold-above-500000-as-demand-rises-for-trades-and-tech-workers/)September 25, 2026
-[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-380-invitations-six-september-aaip-draws-2026/)
-[Alberta Issues At Least 380 Invitations Across Six Mid-September AAIP Draws](https://immigration.ca/alberta-issues-380-invitations-six-september-aaip-draws-2026/)September 25, 2026
-[![Quebec Issues 1,650 Canada Immigration Invitations In New Expression of Interest Draw](https://immigration.ca/wp-content/uploads/2024/10/Quebec-Issues-1650-Canada-Immigration-Invitations-In-New-Expression-of-Interest-Draw-40x40.jpg)](https://immigration.ca/quebec-invites-519-candidates-arrima-pstq-draws-september-24-2026/)
-[Quebec Invites 519 Candidates Across Four PSTQ Streams In September 24, 2026 Arrima Draws](https://immigration.ca/quebec-invites-519-candidates-arrima-pstq-draws-september-24-2026/)September 25, 2026
-[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-714-high-economic-impact-workers-bc-pnp-september-24-2026/)
-[British Columbia Invites 714 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-714-high-economic-impact-workers-bc-pnp-september-24-2026/)September 25, 2026
 [![Canada's Population Exceeds 41 Million, Driven by Strong Immigration](https://immigration.ca/wp-content/uploads/2024/06/Canadas-Population-Exceeds-41-Million-Driven-by-Strong-Immigration-40x40.jpg)](https://immigration.ca/canada-population-growth-slows-sharply-as-immigration-levels-fall/)
 [Canada Population Growth Slows Sharply As Immigration Levels Fall](https://immigration.ca/canada-population-growth-slows-sharply-as-immigration-levels-fall/)September 24, 2026
+[![Challenges in Managing Temporary Resident Surge, Bank Of Canada Warns](https://immigration.ca/wp-content/uploads/2024/07/Challenges-in-Managing-Temporary-Resident-Surge-Bank-Of-Canada-Warns-40x40.jpg)](https://immigration.ca/canada-revises-non-permanent-resident-numbers-up-by-240000/)
+[Canada Revises Non-Permanent Resident Numbers Up By 240,000](https://immigration.ca/canada-revises-non-permanent-resident-numbers-up-by-240000/)September 24, 2026
+[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-issues-610-invitations-four-immigration-rounds-september-2026/)
+[New Brunswick Issues 610 Invitations Across Four September 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-610-invitations-four-immigration-rounds-september-2026/)September 24, 2026
+[![Canada Set To Tighten Rules on Temporary Foreign Worker Program](https://immigration.ca/wp-content/uploads/2024/08/Canada-Set-To-Tighten-Rules-on-Temporary-Foreign-Worker-Program-40x40.jpg)](https://immigration.ca/canada-tightens-lmia-rules-for-employers-hiring-temporary-foreign-workers/)
+[Canada Tightens LMIA Rules For Employers Hiring Temporary Foreign Workers](https://immigration.ca/canada-tightens-lmia-rules-for-employers-hiring-temporary-foreign-workers/)September 23, 2026
+[![What To Expect From Canada Express Entry In 2026](https://immigration.ca/wp-content/uploads/2024/07/Express-Entry-CRS-Drops-As-Canada-Invites-5000-CEC-Candidates-40x40.jpg)](https://immigration.ca/express-entry-why-senior-managers-can-get-canada-pr-with-a-crs-of-389-while-cec-candidates-need-519/)
+[Express Entry: Why Senior Managers Can Get Canada PR With A CRS Of 389 While CEC Candidates Need 519](https://immigration.ca/express-entry-why-senior-managers-can-get-canada-pr-with-a-crs-of-389-while-cec-candidates-need-519/)September 23, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/06/Healthcare-Technology-Skilled-Worker-Immigration-to-Canada-40x40.jpg)](https://immigration.ca/canada-cuts-global-talent-stream-referral-partners/)
+[Canada Cuts Global Talent Stream Referral Partners](https://immigration.ca/canada-cuts-global-talent-stream-referral-partners/)September 23, 2026
