@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 40f4e07f246c1e23
+content_hash: b5d771a6c5b1830c
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-09-29'
+last_updated: '2026-09-28'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Newcomers Believe Canadian Immigration Targets Are Too High](https://immigration.ca/wp-content/uploads/2024/04/Newcomers-Believe-Canadian-Immigration-Targets-Are-Too-High-300x169.jpg)](https://immigration.ca/canada-immigration-targets-are-creating-long-permanent-residence-waiting-lists/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Immigration Targets Are Creating Long Permanent Residence Waiting Lists ](https://immigration.ca/canada-immigration-targets-are-creating-long-permanent-residence-waiting-lists/)
-[ Read More » ](https://immigration.ca/canada-immigration-targets-are-creating-long-permanent-residence-waiting-lists/)
-Colin R. Singer  September 28, 2026 
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-41-invitations-september-25-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Newfoundland and Labrador Issues 41 Invitations in September 25 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-41-invitations-september-25-2026/)
 [ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-41-invitations-september-25-2026/)
 Colin Singer  September 26, 2026 
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Manitoba Issues 474 Letters of Advice to Apply in MPNP Draw #280 ](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)
+[ Read More » ](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)
+Colin Singer  September 25, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,8 +66,6 @@ Colin R. Singer  October 15, 2018
 Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
 Colin R. Singer  March 17, 2025 
-[![Newcomers Believe Canadian Immigration Targets Are Too High](https://immigration.ca/wp-content/uploads/2024/04/Newcomers-Believe-Canadian-Immigration-Targets-Are-Too-High-40x40.jpg)](https://immigration.ca/canada-immigration-targets-are-creating-long-permanent-residence-waiting-lists/)
-[Canada Immigration Targets Are Creating Long Permanent Residence Waiting Lists](https://immigration.ca/canada-immigration-targets-are-creating-long-permanent-residence-waiting-lists/)September 28, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-41-invitations-september-25-2026/)
 [Newfoundland and Labrador Issues 41 Invitations in September 25 Draw](https://immigration.ca/newfoundland-and-labrador-issues-41-invitations-september-25-2026/)September 26, 2026
 [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)
@@ -78,3 +76,5 @@ Colin R. Singer  March 17, 2025
 [Alberta Issues At Least 380 Invitations Across Six Mid-September AAIP Draws](https://immigration.ca/alberta-issues-380-invitations-six-september-aaip-draws-2026/)September 25, 2026
 [![Quebec Issues 1,650 Canada Immigration Invitations In New Expression of Interest Draw](https://immigration.ca/wp-content/uploads/2024/10/Quebec-Issues-1650-Canada-Immigration-Invitations-In-New-Expression-of-Interest-Draw-40x40.jpg)](https://immigration.ca/quebec-invites-519-candidates-arrima-pstq-draws-september-24-2026/)
 [Quebec Invites 519 Candidates Across Four PSTQ Streams In September 24, 2026 Arrima Draws](https://immigration.ca/quebec-invites-519-candidates-arrima-pstq-draws-september-24-2026/)September 25, 2026
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-714-high-economic-impact-workers-bc-pnp-september-24-2026/)
+[British Columbia Invites 714 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-714-high-economic-impact-workers-bc-pnp-september-24-2026/)September 25, 2026
