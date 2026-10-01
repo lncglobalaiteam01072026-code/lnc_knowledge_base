@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: c555f70dff8f7e03
+content_hash: a099632815a12081
 file_role: overview
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -15,6 +15,15 @@ topic: program_overview
 version: '1.0'
 ---
 
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Alberta Express Entry Stream**
+## Explore pages in:
+Alberta Express Entry Stream 
+  * [Eligibility](https://www.alberta.ca/aaip-alberta-express-entry-stream-eligibility)
+  * [After you are nominated](https://www.alberta.ca/aaip-alberta-express-entry-stream-after-you-are-nominated)
+
+
+Read [important program and fee updates](https://www.alberta.ca/aaip-updates "Alberta Advantage Immigration Program – Updates") to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.
 ## Introduction
 The Alberta Express Entry Stream allows Alberta to nominate a limited number of qualified candidates from Immigration, Refugees and Citizenship Canada’s Express Entry system. Priorities and approaches towards selection of candidates in the Alberta Express Entry System are shared as a courtesy and are subject to change without prior notice.
 ## In focus

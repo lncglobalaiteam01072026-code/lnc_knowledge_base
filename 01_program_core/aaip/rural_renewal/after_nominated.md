@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 5dbeac62c42cf87f
+content_hash: 5c63aab8f8dbfd84
 file_role: after_nominated
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -15,6 +15,26 @@ topic: post_nomination
 version: '1.0'
 ---
 
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Rural Renewal Stream**
+## Explore pages in:
+[Rural Renewal Stream](https://www.alberta.ca/aaip-rural-renewal-stream)
+  * [Eligibility](https://www.alberta.ca/aaip-rural-renewal-stream-eligibility)
+  * After you are nominated 
+  * [Community designation](https://www.alberta.ca/aaip-rural-renewal-stream-community-designation)
+
+
+## On this page:
+  * [Regular system updates](#jumplinks-0)
+  * [Overview](#jumplinks-1)
+  * [Apply for permanent residence](#jumplinks-2)
+  * [After you apply](#jumplinks-3)
+  * [Extend your work permit](#jumplinks-4)
+  * [Extend your nomination](#jumplinks-5)
+  * [Contact](#jumplinks-6)
+
+
+Read [important program and fee updates](https://www.alberta.ca/aaip-updates "Alberta Advantage Immigration Program – Updates") to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.
 ## Regular system updates
 System maintenance for the AAIP portal occurs Fridays from 11 pm to Sundays at 7 pm. If you experience technical issues during these times, try again later. We apologize for any inconvenience.
 ## Overview

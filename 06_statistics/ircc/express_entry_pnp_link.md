@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 7f84f83f4dd4dc14
+content_hash: e3ab2c02285a7c18
 file_role: express_entry_pnp_link
 lang: en
-last_updated: '2026-09-05'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: IRCC
 retrieval_strategy: direct
@@ -66,7 +66,7 @@ Each province and territory has its own requirements. They also set the number o
 
    ### Apply through the non-Express Entry process
 
-   This option applies to you if you qualify for the province or territory’s PNP stream, but don’t quality for the [federal program under Express Entry](/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply.html).
+   This option applies to you if you qualify for the province or territory’s PNP stream, but don’t qualify for the [federal program under Express Entry](/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply.html).
 
    [Start your application (non-Express Entry)](/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/non-express-entry.html)
 
@@ -98,4 +98,4 @@ Learn how processing times are [calculated](https://ircc.canada.ca/english/helpc
 
 ## Page details
 
-2026-08-19
+2026-09-14

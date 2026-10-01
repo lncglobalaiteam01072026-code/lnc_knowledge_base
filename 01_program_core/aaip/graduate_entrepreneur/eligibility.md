@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: fc24ad3ad53cf11e
+content_hash: be1cb7af587ff11f
 file_role: eligibility
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,27 @@ source_url: https://www.alberta.ca/aaip-graduate-entrepreneur-stream-eligibility
 topic: eligibility
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Graduate Entrepreneur Stream**
+## Explore pages in:
+[Graduate Entrepreneur Stream](https://www.alberta.ca/aaip-graduate-entrepreneur-stream)
+  * Eligibility 
+  * [How to apply](https://www.alberta.ca/aaip-graduate-entrepreneur-stream-how-to-apply)
+  * [After you are nominated](https://www.alberta.ca/aaip-graduate-entrepreneur-stream-after-you-are-nominated)
+
+
+## On this page:
+  * [Check your eligibility for AAIP](#jumplinks-0)
+  * [Overview](#jumplinks-1)
+  * [Eligibility criteria](#jumplinks-2)
+  * [AAIP Self-assessment tool](#jumplinks-3)
+  * [Selection from EOI pool](#jumplinks-4)
+  * [Ineligibility](#jumplinks-5)
+  * [Established businesses in Alberta](#jumplinks-6)
+  * [Business eligibility](#jumplinks-7)
+  * [Contact](#jumplinks-8)
+
 
 ## Check your eligibility for AAIP
 Before you begin, make sure you are eligible to apply for AAIP and what stream you should apply for.
@@ -148,6 +169,20 @@ EOI submissions will be scored based on the Graduate Entrepreneur Stream Points 
 Eligible international graduates will be issued a nomination certificate after submitting their Business Application to AAIP and must continue to operate their business in Alberta while they go through the permanent residence application process with IRCC.
 Read [After you are nominated](https://www.alberta.ca/aaip-graduate-entrepreneur-stream-after-you-are-nominated) for more information on next steps.
 ## Business eligibility
+### Economic establishment
+Candidates must have a strong likelihood of becoming economically established in Alberta. AAIP may decline an application if it determines that a candidate is unlikely to economically establish in Alberta.
+For the Entrepreneur Streams, economic establishment means demonstrating a credible and substantial likelihood that you will establish, actively manage, operate and sustain a viable business in Alberta as an owner-operator, in accordance with the requirements of your stream.
+AAIP assesses economic establishment using relevant, credible and verifiable information available at the time of assessment.
+When assessing economic establishment, AAIP may consider factors including:
+  * Alberta business presence: How you will actively manage the business on a day-to-day basis in Alberta as an owner-operator, including operating from business premises where required.
+  * Business viability and sustainability: Whether the proposed or acquired business has a reasonable prospect of operating successfully, remaining financially sustainable and adapting to market conditions in Alberta.
+  * Economic contribution to Alberta: The expected economic benefit of the business to Alberta, which may include investment, job creation, business expansion, innovation, export development, regional diversification or other economic contributions.
+  * Employment and workforce planning: Whether proposed workforce plans, including hiring and salaries, are reasonable in relation to the scale, nature, operational needs, financial projections and growth plans of the business. AAIP may also consider relevant Alberta labour market information.
+  * Applicant capacity and business alignment: Your relevant experience, knowledge, financial capacity and managerial competency to establish, operate and grow the proposed business.
+  * Regulatory readiness: Whether you have considered applicable federal, provincial and municipal laws, regulations, licensing requirements and industry standards relevant to the proposed business and how those requirements will be met. 
+
+
+Information provided at the time of submitting your Entrepreneur Expression of Interest, Business Application, throughout the assessment process, and during any subsequent monitoring and reporting period, as applicable, may be used to assess economic establishment. AAIP may request additional information where needed to complete the assessment.
 ### Eligible businesses
 It is your responsibility to ensure your proposed business meets the criteria for eligible businesses. If it is not an eligible business or does not clearly demonstrate a significant economic benefit to Alberta, your Business Application may be declined.
 Business must have the potential for creating economic benefit to Alberta, as assessed by AAIP. A proposed business must align with the following general requirements to be eligible under the Graduate Entrepreneur Stream:

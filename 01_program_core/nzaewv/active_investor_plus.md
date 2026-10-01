@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 41b2c2a6715bcb36
+content_hash: 811b953a7986391c
 country: NZ
 file_role: active_investor_plus
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 0.9
 program: NZAEWV
 retrieval_strategy: direct
@@ -42,7 +42,7 @@ Apply for this visa to live, work and invest in New Zealand. You must have at le
 
   Approval in principle 80% within
 
-  10.5 weeks
+  4 months
 
 #### To apply you must:
 
@@ -82,7 +82,7 @@ On this page
 
 ## How long you can stay
 
-An Active Investor Plus Visa lets you stay in New Zealand indefinitely.
+An Active Investor Plus Visa lets you stay in New Zealand indefinitely.
 
 ## Who can apply
 
@@ -113,7 +113,7 @@ If you, or anyone else included in your application, are aged 17 or older you mu
 - all the countries you are a citizen of, and
 - any other country you have stayed in for 12 months or more over the last 10 years, even if it was not all in the same stay.
 
-[How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/good-character-requirements-and-police-certificates/get-a-police-certificate/)
+[How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/character-requirements-third-party-checks-and-police-certificates/get-a-police-certificate/)
 
 Character requirements for New Zealand visas
 
@@ -190,7 +190,7 @@ You must invest your nominated investment funds in acceptable investments in New
 
 **Note**
 
-The Active Investor Plus Visa scheme is not designed to cater to every available investment opportunity in New Zealand. There are instances where opportunities do not meet the criteria under either the Growth and/or Balanced categories.
+The Active Investor Plus Visa scheme is not designed to cater to every available investment opportunity in New Zealand. There are instances where opportunities do not meet the criteria under either the Growth and/or Balanced categories.
 
 Therefore, applicants and entities seeking to qualify as acceptable investments under this visa are encouraged to carefully review the acceptable investment criteria in the immigration instructions. This should be done before making an investment or applying to Invest New Zealand to become an acceptable investment.
 
@@ -354,7 +354,7 @@ Managing your investments: Active Investor Plus Visa
 
 **Note**
 
-Moving to and investing in New Zealand can have tax consequences. We recommend you seek professional tax advice. Inland Revenue provides general advice on tax residency, so you pay the right taxes in New Zealand.
+Investing in New Zealand can have tax consequences. We recommend you seek professional tax advice. Inland Revenue provides general advice on tax residency, so you pay the right taxes in New Zealand. This advice is available on the Inland Revenue website.
 
 [International tax for individuals — Inland Revenue](https://www.ird.govt.nz/international-tax/individuals)
 

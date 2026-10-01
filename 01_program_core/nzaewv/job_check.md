@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 7134014fce59444b
+content_hash: f1b0070ffffe46e7
 country: NZ
 file_role: job_check
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct
@@ -217,17 +217,43 @@ What you need to do before applying, and the evidence you must provide for a job
 
    In your job check application, you must:
 
-   1. - enter the location where most of the work will be based or take place
-      - if the work will be based in more than 1 location, you must enter each location state if some travel is required.
+   - enter the location or region where the work will be based or take place
+   - enter the same location details if you are including multiple jobs in your job check
+   - enter each location if the work will be based in more than one location.
 
-   If the job requires some occasional travel or is based in 1 region but with some travel, you only need to list the location the person will be based in.
+   If the job requires some occasional travel, or is based in one location but with some travel, you only need to list the location the person will be based in.
 
    If multiple jobs are included in your job check, the location details must be the same for each job.
 
-   **Example**
+   ##### If the job requires work in other locations for less than 6 weeks
 
-   1. You are applying for a job check for a truck driver that will be based in Hamilton. The job requires daily travel across the Waikato, but the worker will return to the Hamilton depot each night. You can list the location as Hamilton in your job check application.
-   2. You are applying for a job check for an engineer job. The worker will spend 6 months of the year in New Plymouth and 6 months in Dunedin. You must advertise in both locations and list both locations in your job check application.
+   You can temporarily send a worker to other locations or regions for up to 6 weeks (30 working days) without needing to apply for a new job check. This is the maximum time in a 12-month period they can spend outside their approved location.
+
+   This means you do not need to include the other locations in your job check.
+
+   ##### If the job requires work in other locations for more than 6 weeks
+
+   If your worker needs to work outside their approved location for more than 6 weeks (30 working days) in a 12-month period, you must:
+
+   - complete a new job check application, and
+   - the worker must apply for a Job Change before they start working at the new location.
+
+   ##### If the job requires regular work in multiple locations
+
+   If your worker needs to regularly work in multiple locations, you must:
+
+   - provide the different locations in the job check, and
+   - provide evidence you have advertised the job in those locations.
+
+   ##### How we check that your worker has met these requirements
+
+   If we check that your AEWV worker has met these requirements, we look back at the previous 12 months before the date we check to make sure they have not worked for more than 6 weeks (30 working days) outside the approved location.
+
+   **Examples**
+
+   1. You are applying for a job check for a truck driver that will be based in Hamilton. The job requires daily travel throughout the Waikato region, but the worker will return to the Hamilton depot each night. You can list the location as Hamilton in your job check application.
+   2. You are applying for a job check for an engineering job. The worker will spend 6 months of the year in New Plymouth and 6 months in Dunedin. You must advertise in both locations and list both locations in your job check application.
+   3. You are applying for a job check for an IT support engineer. The job is based in Wellington but the worker will be required to spend 2 weeks in Christchurch and 2 weeks in Auckland within a 12-month period to support an upcoming IT system rollout. As the worker remains based in Wellington and spends less than 6 weeks (30 working days) working outside their approved location, only Wellington needs to be declared in your job check application.
 
    #### If we ask you for more information
 
@@ -238,7 +264,7 @@ What you need to do before applying, and the evidence you must provide for a job
    [Enhancements to Immigration Online — A guide for users  
 
    (pdf, 
-   4.3 MB)](/assets/inz/documents/online-systems/Enhancements-to-immigration-online-guide-for-users.pdf)
+   8.9 MB)](/assets/inz/documents/online-systems/Enhancements-to-immigration-online-guide-for-users.pdf)
 
    There is a maximum file size limit of 10 MB each file. If you have issues uploading a document, you can try:
 

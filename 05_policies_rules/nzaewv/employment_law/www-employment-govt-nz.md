@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 94fe7aa0acac37bb
+content_hash: 3e736a45bd039d04
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 0.8
 program: NZAEWV
 retrieval_strategy: direct
@@ -18,7 +18,7 @@ version: '1.0'
 ---
 
 [Skip to content](https://www.employment.govt.nz/</#page-content>) [Skip to search](https://www.employment.govt.nz/</#search-toggle>) [Skip to navigation](https://www.employment.govt.nz/</#nav-toggle>) [Skip to search](https://www.employment.govt.nz/</#search-box>) [Skip to main navigation](https://www.employment.govt.nz/</#main-nav>)
-[![Employment New Zealand](https://www.employment.govt.nz/_resources/themes/enz/images/logos/enz-logo.svg?m=1782787290)](https://www.employment.govt.nz/</>)
+[![Employment New Zealand](https://www.employment.govt.nz/_resources/themes/enz/images/logos/enz-logo.svg?m=1790543096)](https://www.employment.govt.nz/</>)
   * [About](https://www.employment.govt.nz/</employment-new-zealand/about-us>)
   * [Contact](https://www.employment.govt.nz/</employment-new-zealand/contact-us>)
   * [News](https://www.employment.govt.nz/</news-and-updates>)
@@ -208,6 +208,18 @@ Employees are entitled to annual holidays, public holidays, sick leave, bereavem
       * [Defence force volunteers](https://www.employment.govt.nz/</leave-and-holidays/other-types-of-leave/defence-force-volunteers> "Go to the Defence force volunteers page")
       * [Leave during and after a natural disaster](https://www.employment.govt.nz/</leave-and-holidays/other-types-of-leave/leave-during-or-after-a-natural-disaster> "Go to the Leave during and after a natural disaster page")
       * [Time off to vote](https://www.employment.govt.nz/</leave-and-holidays/other-types-of-leave/time-off-to-vote> "Go to the Time off to vote page")
+    * [Changes to leave coming in 2028](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028> "Display Changes to leave coming in 2028 submenu")[Changes to leave coming in 2028](https://www.employment.govt.nz/<> "Display Changes to leave coming in 2028 submenu")
+[ Changes to leave coming in 2028 ](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028> "Go to the Changes to leave coming in 2028 page")
+      * [ How payroll software providers can get ready for the changes coming in 2028 ](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/how-payroll-software-providers-can-get-ready-for-the-changes-coming-in-2028> "Go to the How payroll software providers can get ready for the changes coming in 2028 page")
+      * [ How employers can get ready for the changes coming in 2028 ](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/how-employers-can-get-ready-for-the-changes-coming-in-2028> "Go to the How employers can get ready for the changes coming in 2028 page")
+      * [ How employees can get ready for the changes coming in 2028 ](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/how-employees-can-get-ready-for-the-changes-coming-in-2028> "Go to the How employees can get ready for the changes coming in 2028 page")
+      * [ Timeline for Employment Leave Act guidance and resources ](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/timeline-for-employment-leave-act-guidance-and-resources> "Go to the Timeline for Employment Leave Act guidance and resources page")
+      * [ Suggested preparation for Employment Leave Act changes ](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/suggested-preparation-for-payroll-providers-employers-and-employees> "Go to the Suggested preparation for Employment Leave Act changes page")
+      * [How payroll software providers can get ready for the changes coming in 2028](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/how-payroll-software-providers-can-get-ready-for-the-changes-coming-in-2028> "Go to the How payroll software providers can get ready for the changes coming in 2028 page")
+      * [How employers can get ready for the changes coming in 2028](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/how-employers-can-get-ready-for-the-changes-coming-in-2028> "Go to the How employers can get ready for the changes coming in 2028 page")
+      * [How employees can get ready for the changes coming in 2028](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/how-employees-can-get-ready-for-the-changes-coming-in-2028> "Go to the How employees can get ready for the changes coming in 2028 page")
+      * [Timeline for Employment Leave Act guidance and resources](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/timeline-for-employment-leave-act-guidance-and-resources> "Go to the Timeline for Employment Leave Act guidance and resources page")
+      * [Suggested preparation for Employment Leave Act changes](https://www.employment.govt.nz/</leave-and-holidays/changes-to-leave-coming-in-2028/suggested-preparation-for-payroll-providers-employers-and-employees> "Go to the Suggested preparation for Employment Leave Act changes page")
   * [Fair work practicesNgā tikanga mahi tōkeke](https://www.employment.govt.nz/</fair-work-practices> "Display Fair work practices submenu")
 ##### [Fair work practices ](https://www.employment.govt.nz/</fair-work-practices>)
 Fair work practices balance the rights and responsibilities of employees and employers. They establish clear and consistent expectations and support the mana and dignity of everyone in the workplace. 
@@ -341,7 +353,7 @@ How to prevent and resolve employment problems
 There are several ways in which employment relationships may be ended, such as resignation, retirement, dismissal or redundancy.
     * [Resignation](https://www.employment.govt.nz/</ending-employment/resignation> "Go to the Resignation page")[Resignation](https://www.employment.govt.nz/</ending-employment/resignation> "Go to the Resignation page")
     * [Retirement](https://www.employment.govt.nz/</ending-employment/retirement> "Go to the Retirement page")[Retirement](https://www.employment.govt.nz/</ending-employment/retirement> "Go to the Retirement page")
-    * [Giving notice ](https://www.employment.govt.nz/</ending-employment/giving-notice> "Go to the Giving notice page")[Giving notice ](https://www.employment.govt.nz/</ending-employment/giving-notice> "Go to the Giving notice page")
+    * [Notice periods](https://www.employment.govt.nz/</ending-employment/giving-notice> "Go to the Notice periods page")[Notice periods](https://www.employment.govt.nz/</ending-employment/giving-notice> "Go to the Notice periods page")
     * [Redundancy](https://www.employment.govt.nz/</ending-employment/redundancy> "Go to the Redundancy page")[Redundancy](https://www.employment.govt.nz/</ending-employment/redundancy> "Go to the Redundancy page")
     * [Dismissal](https://www.employment.govt.nz/</ending-employment/dismissal> "Display Dismissal submenu")[Dismissal](https://www.employment.govt.nz/<> "Display Dismissal submenu")
 [ Dismissal ](https://www.employment.govt.nz/</ending-employment/dismissal> "Go to the Dismissal page")
@@ -395,9 +407,9 @@ There are several ways in which employment relationships may be ended, such as r
   * [EveryoneLabour Inspectorate complaintsYou can complain to the Labour Inspectorate if you see or suspect a breach of employment standards.](https://www.employment.govt.nz/</resolving-problems/how-to-resolve-problems/labour-inspectorate-complaints>)
 
 
-## Employment Leave Bill
-A new Employment Leave Bill has been introduced to replace the Holidays Act. Until the new Bill takes effect, employers must continue to follow the current law.
-[Employment Leave Bill 2026](https://www.employment.govt.nz/</news-and-updates/employment-leave-bill-2026>)
+## Employment Leave Act
+The Employment Leave Act 2026 has now passed into law. It will replace the Holidays Act in August 2028.
+[Employment Leave Act 2026](https://www.employment.govt.nz/</news-and-updates/employment-leave-act-2026>)
 ![](https://www.employment.govt.nz/assets/uploads/images/227243-ENZ-Leave-and-Holidays__FillWzYwOCwzNjVd.jpg)
 ## Popular topics
   * [EveryonePublic holidays and anniversary datesEmployees have minimum rights that apply to public holidays.](https://www.employment.govt.nz/</leave-and-holidays/public-holidays/public-holidays-and-anniversary-dates>)
@@ -408,12 +420,10 @@ A new Employment Leave Bill has been introduced to replace the Holidays Act. Unt
 
 ## Latest news
 [News and updates](https://www.employment.govt.nz/</news-and-updates>)
-  * [2 Jul 2026Horticulture company and director fined $135,000 for migrant worker breachesA horticulture company and its director have been ordered to pay $135,000 in penalties after the Employment Relations Authority (ERA) found they breached minimum employment standards affecting 4 migrant workers.
-    * Migrant exploitation](https://www.employment.govt.nz/</news-and-updates/horticulture-company-and-director-fined-135000-for-migrant-worker-breaches>)
-  * [24 Jun 2026Auckland restaurant and owner must pay $377,000 for exploiting migrant workersAn Auckland restaurant has been ordered by the Employment Relations Authority (ERA) to pay almost $200,000 in wage arrears to seven employees, while the company’s sole director was penalised $177,300 for exploiting the workers.
-    * Migrant exploitation](https://www.employment.govt.nz/</news-and-updates/auckland-restaurant-and-owner-must-pay-377000-for-exploiting-migrant-workers>)
-  * [23 Jun 2026Getting employment right in franchisingA new Ministry of Business, Innovation and Employment (MBIE) article looks at common employment issues in franchising and how to prevent them. It focuses on setting up good systems and getting things right from the start.](https://www.employment.govt.nz/</news-and-updates/getting-employment-right-in-franchising>)
-  * [18 Jun 2026Parental leave payments to increase from 1 JulyFind out how much parental leave payment rates will be from 1 July 2026.](https://www.employment.govt.nz/</news-and-updates/parental-leave-payments-to-increase-from-1-july>)
+  * [15 Sept 2026Labour Inspectorate returns to Northland for compliance checksThe Labour Inspectorate has completed the third phase of Operation Orzo, a targeted Northland compliance operation to lift employment standards and increase awareness of workers' rights and employers' obligations.](https://www.employment.govt.nz/</news-and-updates/labour-inspectorate-returns-to-northland-for-compliance-checks>)
+  * [3 Sept 2026Restaurant and owner fined $130,000 for exploiting workersA restaurant and takeaway business with branches in Auckland and Cromwell, and its owner, have been ordered by the Employment Relations Authority (ERA) to pay NZD $130,000 in penalties for exploiting workers, after the Authority earlier ordered them to pay 5 former employees NZD $147,001 in wage arrears.](https://www.employment.govt.nz/</news-and-updates/restaurant-and-owner-fined-130000-for-exploiting-workers>)
+  * [19 Aug 2026Horticulture employer ordered to pay more than $400,000 after migrant worker exploitationA Bay of Plenty horticulture labour hire company and its former director have been ordered to pay more than $400,000 in arrears and penalties after exploiting migrant workers through unlawful premium payments and multiple breaches of employment standards.](https://www.employment.govt.nz/</news-and-updates/horticulture-employer-ordered-to-pay-more-than-400000-after-migrant-worker-exploitation>)
+  * [7 Aug 2026Employment Leave Act 2026The Employment Leave Act 2026 has now passed into law. It will replace the Holidays Act in August 2028.](https://www.employment.govt.nz/</news-and-updates/employment-leave-act-2026>)
 
 
 ## Subscribe to our newsletter
@@ -443,9 +453,9 @@ Keep up to date with news and information about your employment rights and respo
   * [ Subscribe ](https://eepurl.com/dC1q1r)
 
 
-[ Hīkina Whakatutuki ![Ministry of Business, Innovation & Employment](https://www.employment.govt.nz/_resources/themes/enz/images/logos/mbie-logo-light.svg?m=1782787290) ](https://www.mbie.govt.nz)
+[ Hīkina Whakatutuki ![Ministry of Business, Innovation & Employment](https://www.employment.govt.nz/_resources/themes/enz/images/logos/mbie-logo-light.svg?m=1790543096) ](https://www.mbie.govt.nz)
 ![Womens Refuge Shield Button](https://www.employment.govt.nz/assets/uploads/womens-refuge-shield.png)
-[ Te Kāwanatanga o Aotearoa ![New Zealand Government](https://www.employment.govt.nz/_resources/themes/enz/images/logos/NZGovt-logo-wordmark-white.png?m=1782787290) ](https://www.govt.nz)
+[ Te Kāwanatanga o Aotearoa ![New Zealand Government](https://www.employment.govt.nz/_resources/themes/enz/images/logos/NZGovt-logo-wordmark-white.png?m=1790543096) ](https://www.govt.nz)
   * [Privacy statement](https://www.employment.govt.nz/</employment-new-zealand/privacy-statement>)
   * [Disclaimer ](https://www.employment.govt.nz/</employment-new-zealand/disclaimer>)
   * [Copyright](https://www.employment.govt.nz/</employment-new-zealand/copyright>)

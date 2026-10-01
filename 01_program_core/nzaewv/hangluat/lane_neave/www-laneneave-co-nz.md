@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: ec9b52123982bdd0
+content_hash: a5a97862cb11f61a
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 0.8
 program: NZAEWV
 retrieval_strategy: direct
@@ -160,60 +160,63 @@ Our unique place in the legal services market allows us to provide the legal cap
 [Search for a lawyer](https://www.laneneave.co.nz/our-people/) [Contact us today](https://www.laneneave.co.nz/contact/)
 ## News, insights and events
 [View More](https://www.laneneave.co.nz/</news-events/>)
-[Corporate](https://www.laneneave.co.nz/news-events-category/corporate/)[Web3 & Digital Assets](https://www.laneneave.co.nz/news-events-category/web3-digital-assets/) 02/07/2026
-##### Crypto Yield, Full Regulation: What the Australian Block Earner Decision Could Mean for New Zealand Businesses
-A recent decision from Australia’s highest court reinforces a clear message to the crypto industry both across the Tasman... Read More
-[](https://www.laneneave.co.nz/news-events/australia-block-earner-decision-new-zealand/)
-[General News](https://www.laneneave.co.nz/news-events-category/general-news/) 02/07/2026
-##### Six recognised in 2026 mid-year promotions
-Six lawyers and support staff have been recognised for their hard work, talent and drive, in our annual mid-year... Read More
-[](https://www.laneneave.co.nz/news-events/2026-mid-year-promotions/)
-[General News](https://www.laneneave.co.nz/news-events-category/general-news/) 01/07/2026
-##### Ben Russell appointed Managing Partner of Lane Neave
-Litigation Partner Ben Russell today becomes Lane Neave’s Managing Partner, marking the next chapter in the firm’s leadership. The... Read More
-[](https://www.laneneave.co.nz/news-events/ben-russell-appointed-managing-partner/)
-[Employment](https://www.laneneave.co.nz/news-events-category/employment/) 09/07/2026
-##### Election 2026: What a change in government could mean for your workplace
-With the General Election only a few months away, a change in government may shift the employment landscape away... Read More
-[](https://www.laneneave.co.nz/news-events/election-2026-employment-law/)
-[General News](https://www.laneneave.co.nz/news-events-category/general-news/)[Immigration](https://www.laneneave.co.nz/news-events-category/immigration/) 06/07/2026
-##### Lane Neave welcomes Arran Hunt to its Immigration Law practice
-Lane Neave is thrilled to welcome Arran Hunt, who today, 6 July 2026, joins the firm in Auckland as... Read More
-[](https://www.laneneave.co.nz/news-events/lane-neave-welcomes-arran-hunt/)
-[Corporate](https://www.laneneave.co.nz/news-events-category/corporate/)[Web3 & Digital Assets](https://www.laneneave.co.nz/news-events-category/web3-digital-assets/) 02/07/2026
-##### Crypto Yield, Full Regulation: What the Australian Block Earner Decision Could Mean for New Zealand Businesses
-A recent decision from Australia’s highest court reinforces a clear message to the crypto industry both across the Tasman... Read More
-[](https://www.laneneave.co.nz/news-events/australia-block-earner-decision-new-zealand/)
-[General News](https://www.laneneave.co.nz/news-events-category/general-news/) 02/07/2026
-##### Six recognised in 2026 mid-year promotions
-Six lawyers and support staff have been recognised for their hard work, talent and drive, in our annual mid-year... Read More
-[](https://www.laneneave.co.nz/news-events/2026-mid-year-promotions/)
-[General News](https://www.laneneave.co.nz/news-events-category/general-news/) 01/07/2026
-##### Ben Russell appointed Managing Partner of Lane Neave
-Litigation Partner Ben Russell today becomes Lane Neave’s Managing Partner, marking the next chapter in the firm’s leadership. The... Read More
-[](https://www.laneneave.co.nz/news-events/ben-russell-appointed-managing-partner/)
-[Employment](https://www.laneneave.co.nz/news-events-category/employment/) 09/07/2026
-##### Election 2026: What a change in government could mean for your workplace
-With the General Election only a few months away, a change in government may shift the employment landscape away... Read More
-[](https://www.laneneave.co.nz/news-events/election-2026-employment-law/)
-[General News](https://www.laneneave.co.nz/news-events-category/general-news/)[Immigration](https://www.laneneave.co.nz/news-events-category/immigration/) 06/07/2026
-##### Lane Neave welcomes Arran Hunt to its Immigration Law practice
-Lane Neave is thrilled to welcome Arran Hunt, who today, 6 July 2026, joins the firm in Auckland as... Read More
-[](https://www.laneneave.co.nz/news-events/lane-neave-welcomes-arran-hunt/)
-[Corporate](https://www.laneneave.co.nz/news-events-category/corporate/)[Web3 & Digital Assets](https://www.laneneave.co.nz/news-events-category/web3-digital-assets/) 02/07/2026
-##### Crypto Yield, Full Regulation: What the Australian Block Earner Decision Could Mean for New Zealand Businesses
-A recent decision from Australia’s highest court reinforces a clear message to the crypto industry both across the Tasman... Read More
-[](https://www.laneneave.co.nz/news-events/australia-block-earner-decision-new-zealand/)
+[Immigration](https://www.laneneave.co.nz/news-events-category/immigration/) 18/09/2026
+##### Tougher Approach Being Applied to Active Investor Plus Managed Funds and Direct Investments
+Immigration New Zealand has announced significant changes to the requirements for approved managed funds and direct investments under the... Read More
+[](https://www.laneneave.co.nz/news-events/tougher-approach-active-investor-plus-managed-funds-direct-investments/)
+[Estate Planning and Wealth Management](https://www.laneneave.co.nz/news-events-category/estate-planning-and-wealth-management/)[Lifelaw](https://www.laneneave.co.nz/news-events-category/lifelaw/) 17/09/2026
+##### Four considerations for smooth succession planning
+Succession planning is a big job – it involves family, business and considerations for the future of each, which,... Read More
+[](https://www.laneneave.co.nz/news-events/four-considerations-succession-planning/)
+[Estate Planning and Wealth Management](https://www.laneneave.co.nz/news-events-category/estate-planning-and-wealth-management/)[Relationship property](https://www.laneneave.co.nz/news-events-category/relationship-property/) 15/09/2026
+##### Your Relationship Property Agreement will outlive you – is it up to the task?
+If you and your spouse or partner have signed a Contracting Out Agreement, a recent Supreme Court decision has... Read More
+[](https://www.laneneave.co.nz/news-events/relationship-property-agreement-rimmer-wilton/)
+[Immigration](https://www.laneneave.co.nz/news-events-category/immigration/) 29/09/2026
+##### New Invest NZ Guidance Released for Approvals and Recertification of Active Investor Plus Managed Funds and Direct Investments
+Invest NZ has published anticipated guidance updates designed to assist managed fund and direct investment applicants under the Active... Read More
+[](https://www.laneneave.co.nz/news-events/new-investnz-guidance-active-investor-plus-managed-funds-direct-investments/)
+[Employment](https://www.laneneave.co.nz/news-events-category/employment/) 23/09/2026
+##### Talk Is Expensive: The Cost of Breaching a Settlement Agreement
+Have you ever felt the urge to complain to friends, family or even social media followers, about that awful... Read More
+[](https://www.laneneave.co.nz/news-events/the-cost-of-breaching-a-settlement-agreement/)
+[Immigration](https://www.laneneave.co.nz/news-events-category/immigration/) 18/09/2026
+##### Tougher Approach Being Applied to Active Investor Plus Managed Funds and Direct Investments
+Immigration New Zealand has announced significant changes to the requirements for approved managed funds and direct investments under the... Read More
+[](https://www.laneneave.co.nz/news-events/tougher-approach-active-investor-plus-managed-funds-direct-investments/)
+[Estate Planning and Wealth Management](https://www.laneneave.co.nz/news-events-category/estate-planning-and-wealth-management/)[Lifelaw](https://www.laneneave.co.nz/news-events-category/lifelaw/) 17/09/2026
+##### Four considerations for smooth succession planning
+Succession planning is a big job – it involves family, business and considerations for the future of each, which,... Read More
+[](https://www.laneneave.co.nz/news-events/four-considerations-succession-planning/)
+[Estate Planning and Wealth Management](https://www.laneneave.co.nz/news-events-category/estate-planning-and-wealth-management/)[Relationship property](https://www.laneneave.co.nz/news-events-category/relationship-property/) 15/09/2026
+##### Your Relationship Property Agreement will outlive you – is it up to the task?
+If you and your spouse or partner have signed a Contracting Out Agreement, a recent Supreme Court decision has... Read More
+[](https://www.laneneave.co.nz/news-events/relationship-property-agreement-rimmer-wilton/)
+[Immigration](https://www.laneneave.co.nz/news-events-category/immigration/) 29/09/2026
+##### New Invest NZ Guidance Released for Approvals and Recertification of Active Investor Plus Managed Funds and Direct Investments
+Invest NZ has published anticipated guidance updates designed to assist managed fund and direct investment applicants under the Active... Read More
+[](https://www.laneneave.co.nz/news-events/new-investnz-guidance-active-investor-plus-managed-funds-direct-investments/)
+[Employment](https://www.laneneave.co.nz/news-events-category/employment/) 23/09/2026
+##### Talk Is Expensive: The Cost of Breaching a Settlement Agreement
+Have you ever felt the urge to complain to friends, family or even social media followers, about that awful... Read More
+[](https://www.laneneave.co.nz/news-events/the-cost-of-breaching-a-settlement-agreement/)
+[Immigration](https://www.laneneave.co.nz/news-events-category/immigration/) 18/09/2026
+##### Tougher Approach Being Applied to Active Investor Plus Managed Funds and Direct Investments
+Immigration New Zealand has announced significant changes to the requirements for approved managed funds and direct investments under the... Read More
+[](https://www.laneneave.co.nz/news-events/tougher-approach-active-investor-plus-managed-funds-direct-investments/)
 ## Careers
 We're an award-winning firm that handles interesting and diverse work, and has a great culture; want to be part of it? 
 [Careers at Lane Neave](https://www.laneneave.co.nz/careers/)
-[ ![](https://www.laneneave.co.nz/wp-content/uploads/2025/12/TeUruTaTangata_Logo_Members_colour-1000px-e1767816237546.jpg) ](https://workplaceinclusion.org.nz/)
-[ ![](https://www.laneneave.co.nz/wp-content/uploads/2023/02/Group-57.jpg) ](https://www.toitu.co.nz/)
-[ ![](https://www.laneneave.co.nz/wp-content/uploads/2024/02/ICLA_full-logo_Black-e1706826283347.png) ](https://www.icl-alliance.com/)
-[ ![](https://www.laneneave.co.nz/wp-content/uploads/2026/01/GEC-Signatory-Logo-2025-colour-e1767816265458.png) ](https://lawsociety.org.nz)
+[ ![](https://www.laneneave.co.nz/wp-content/webp-express/webp-images/uploads/2025/12/TeUruTaTangata_Logo_Members_colour-1000px-e1767816237546.jpg.webp) ](https://workplaceinclusion.org.nz/)
+[ ![](https://www.laneneave.co.nz/wp-content/webp-express/webp-images/uploads/2023/02/Group-57.jpg.webp) ](https://www.toitu.co.nz/)
+[ ![](https://www.laneneave.co.nz/wp-content/webp-express/webp-images/uploads/2024/02/ICLA_full-logo_Black-e1706826283347.png.webp) ](https://www.icl-alliance.com/)
+[ ![](https://www.laneneave.co.nz/wp-content/webp-express/webp-images/uploads/2026/01/GEC-Signatory-Logo-2025-colour-e1767816265458.png.webp) ](https://lawsociety.org.nz)
 ![Lane Neave](https://www.laneneave.co.nz/wp-content/themes/lane-neave/images/logo-white.svg)
 **Newsletter Signup**
+Email
+This field is for validation purposes and should be left unchanged.
 Newsletter
+Sign me up
 Δ
 ##### Business Law
   * [Agribusiness](https://www.laneneave.co.nz/our-services/business-law/agribusiness/)
@@ -311,7 +314,7 @@ Sign up to our newsletter
 Yes, I would like to subscribe to the newsletter.
 By checking this box, you agree to receive our newsletter, which includes legal updates and information about related events. You can unsubscribe at any time by clicking the unsubscribe link in the email.
 _Lane Neave is not able to provide legal opinion or advice without specific instructions from you and the completion of all formal engagement processes._
-CAPTCHA
+Submit
 Δ
 × 
 Notifications

@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 7b0dc317098c01eb
+content_hash: f358c903fcab8ad3
 country: NZ
 file_role: resident_visa
 lang: en
-last_updated: '2026-07-14'
+last_updated: '2026-10-01'
 priority_weight: 0.9
 program: NZAEWV
 retrieval_strategy: direct
@@ -184,7 +184,7 @@ If you, or anyone else included in your application, are aged 17 or older you mu
 - all the countries you are a citizen of, and
 - any other country you have stayed in for 12 months or more over the last 10 years, even if it was not all in the same stay.
 
-[How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/good-character-requirements-and-police-certificates/get-a-police-certificate/)
+[How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/character-requirements-third-party-checks-and-police-certificates/get-a-police-certificate/)
 
 Character requirements for New Zealand visas
 
@@ -268,9 +268,9 @@ If you are including your partner and dependent children, provide:
 
 Acceptable photos for a visa or NZeTA
 
-[Police certificates](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/good-character-requirements-and-police-certificates/police-certificates/)
+[Police certificates](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/character-requirements-third-party-checks-and-police-certificates/police-certificates/)
 
-Applicants from Hong Kong or Macao applying within Hong Kong or Macao
+Applicants from Hong Kong or Macau applying within Hong Kong or Macau
 
 
 You must also provide a copy of your identity card.
@@ -357,7 +357,7 @@ To help prevent delays with processing, make sure your application contains all 
 
    If you do, use the tool to find out how to get police certificates in different countries.
 
-   [How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/good-character-requirements-and-police-certificates/get-a-police-certificate/)
+   [How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/character-requirements-third-party-checks-and-police-certificates/get-a-police-certificate/)
 
    Police certificates
 

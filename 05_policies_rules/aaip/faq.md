@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 1a2b4f8f72aa8dc7
+content_hash: 19a4ec92e055b1b3
 file_role: faq
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,30 @@ source_url: https://www.alberta.ca/aaip-answers-for-common-questions
 topic: faq
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Alberta Advantage Immigration Program**
+## Explore pages in:
+[Alberta Advantage Immigration Program](https://www.alberta.ca/alberta-advantage-immigration-program)
+  * [AAIP application streams](https://www.alberta.ca/aaip-application-streams)
+  * [Processing information](https://www.alberta.ca/aaip-processing-information)
+  * [Expired streams](https://www.alberta.ca/aaip-expired-streams)
+  * [Job offer and employer requirements](https://www.alberta.ca/job-offer-and-employer-requirements)
+  * [Learning resources](https://www.alberta.ca/aaip-resources)
+  * [Updates](https://www.alberta.ca/aaip-updates)
+  * AAIP answers for common questions 
+  * [Reporting fraud](https://www.alberta.ca/alberta-advantage-immigration-program-reporting-fraud)
+
+
+## On this page:
+  * [Overview](#jumplinks-0)
+  * [Expression of Interest system](#jumplinks-1)
+  * [Education credentials](#jumplinks-2)
+  * [Regulated occupation certification](#jumplinks-3)
+  * [Job offers](#jumplinks-4)
+  * [Work experience](#jumplinks-5)
+  * [Family connection](#jumplinks-6)
+
 
 ## Overview
 Below are answers to some common questions about AAIP’s Expression of Interest.

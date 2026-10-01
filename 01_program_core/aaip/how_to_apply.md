@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 78033b6f46992631
+content_hash: 0ca1d695272bce0f
 file_role: how_to_apply
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -15,6 +15,28 @@ topic: process
 version: '1.0'
 ---
 
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Rural Entrepreneur Stream**
+## Explore pages in:
+[Rural Entrepreneur Stream](https://www.alberta.ca/aaip-rural-entrepreneur-stream)
+  * [Eligibility](https://www.alberta.ca/aaip-rural-entrepreneur-stream-eligibility)
+  * How to apply 
+  * [After you are nominated](https://www.alberta.ca/aaip-rural-entrepreneur-stream-after-you-are-nominated)
+  * [Participating communities](https://www.alberta.ca/aaip-rural-entrepreneur-stream-participating-communities)
+
+
+## On this page:
+  * [Regular system updates](#jumplinks-0)
+  * [Before you apply](#jumplinks-1)
+  * [How to apply](#jumplinks-2)
+  * [After you apply](#jumplinks-3)
+  * [Request for reconsideration](#jumplinks-4)
+  * [Resources](#jumplinks-5)
+  * [Contact](#jumplinks-6)
+
+
+To ensure fair access to the program and maintain processing times, review the document checklist and include all required documents. Failure to include documents will impact processing times while AAIP clarifies your information.
+Read [important program and fee updates](https://www.alberta.ca/aaip-updates "Alberta Advantage Immigration Program – Updates") to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.
 ## Regular system updates
 System maintenance for the AAIP portal occurs Fridays from 11 pm to Sundays at 7 pm. If you experience technical issues during these times, try again later. We apologize for any inconvenience.
 ## Before you apply
@@ -43,7 +65,7 @@ Program criteria are eligibility minimums, and meeting program criteria does not
 Candidates must have a strong likelihood of becoming economically established in Alberta and AAIP reserves the right to decline applications if AAIP is of the opinion that the candidate may not economically establish in Alberta.
 ### Step 2. Review the Eligibility Criteria
 Review the [Rural Entrepreneur Stream Eligibility Criteria](https://www.alberta.ca/aaip-rural-entrepreneur-stream-eligibility) and the AAIP Terms and Conditions (see Step 1 above) before submitting an Expression of Interest (EOI).
-AAIP does not guarantee that all complete Business Applications received will be assessed, or that all candidates who meet the eligibility criteria will be issued a Business Application Approval Letter and/or nomination. Review the AAIP Terms and Conditions for complete information (see Step 1 above).
+AAIP does not guarantee that all complete Business Applications received will be assessed, or that all candidates who meet the eligibility criteria will be issued a Business Application Approval Letter and/or nomination. Review the AAIP Terms and Conditions for complete information (see Step 1 above). Additionally, review the economic establishment information on the [Rural Entrepreneur Stream Eligibility](https://www.alberta.ca/aaip-rural-entrepreneur-stream-eligibility "Rural Entrepreneur Stream – Eligibility") page to understand the factors AAIP may consider when assessing this requirement.
 Submission of a Business Application or nomination by AAIP does not guarantee you will be issued a permanent resident visa.
 ### Step 3. Submit an Expression of Interest (EOI)
 If you meet the Rural Entrepreneur Stream criteria, you can submit your Expression of Interest (EOI) by accessing the AAIP Portal. AAIP will review and score your EOI submission. Highest-ranking candidates will be requested to submit a Business Application.

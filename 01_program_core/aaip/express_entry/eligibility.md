@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 7a034bd8aafbbd49
+content_hash: 5a5a55abaf01dd9d
 file_role: eligibility
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,20 @@ source_url: https://www.alberta.ca/aaip-alberta-express-entry-stream-eligibility
 topic: eligibility
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Alberta Express Entry Stream**
+## Explore pages in:
+[Alberta Express Entry Stream](https://www.alberta.ca/aaip-alberta-express-entry-stream)
+  * Eligibility 
+  * [After you are nominated](https://www.alberta.ca/aaip-alberta-express-entry-stream-after-you-are-nominated)
+
+
+## On this page:
+  * [Check your eligibility for AAIP](#jumplinks-0)
+  * [Overview](#jumplinks-1)
+  * [Eligibility requirements](#jumplinks-2)
+
 
 ## Check your eligibility for AAIP
 Before you begin, make sure you are eligible to apply for AAIP and what stream you should apply for.

@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: ad17f332eb42a18a
+content_hash: 404b8bf51b3b81eb
 country: NZ
 file_role: visa_decision_stats
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct
@@ -20,9 +20,10 @@ version: '1.0'
    ...
 2. [About us](/about-us/)
 3. [Research and statistics](/about-us/research-and-statistics/)
-4. Statistics
+4. [Immigration statistics](/about-us/research-and-statistics/immigration-statistics/)
+5. Immigration datasets and Migration Data Explorer
 
-# Statistics
+# Immigration datasets and Migration Data Explorer
 
 Find statistics on Immigration New Zealand’s migration data and the Migration Data Explorer tool.
 
@@ -68,7 +69,7 @@ They are broken down by:
 [Statistics — Resident decisions by financial year  
 
 (pdf, 
-3.2 MB)](/assets/inz/documents/statistics/statistics-residents-decisions-financial-year.pdf)
+2.1 MB)](/assets/inz/documents/statistics/statistics-residents-decisions-financial-year.pdf)
 
 #### Resident visa applications accepted
 
@@ -83,7 +84,7 @@ They are broken down by:
 [Statistics — Residence applications accepted  
 
 (pdf, 
-675 KB)](/assets/inz/documents/statistics/statistics-residence-applications-accepted.pdf)
+541 KB)](/assets/inz/documents/statistics/statistics-residence-applications-accepted.pdf)
 
 #### Occupation and region of employment
 
@@ -97,7 +98,7 @@ They are broken down by:
 [Statistics — Occupation and region for resident principal applicants  
 
 (pdf, 
-1.7 MB)](/assets/inz/documents/statistics/statistics-occupation-region-for-resident-principal-applicant.pdf)
+1.1 MB)](/assets/inz/documents/statistics/statistics-occupation-region-for-resident-principal-applicant.pdf)
 
 #### Residence applications on hand
 
@@ -113,7 +114,7 @@ They are broken down by:
 [Statistics — Residence applications on hand by month  
 
 (pdf, 
-524 KB)](/assets/inz/documents/statistics/statistics-residence-applications-on-hand-by-month.pdf)
+441 KB)](/assets/inz/documents/statistics/statistics-residence-applications-on-hand-by-month.pdf)
 
 #### Returning resident visa applications
 
@@ -130,7 +131,7 @@ They are broken down by:
 [Statistics — Returning resident visa applications  
 
 (pdf, 
-1.2 MB)](/assets/inz/documents/statistics/statistics-returning-residence-applications-decided-by-year.pdf)
+878 KB)](/assets/inz/documents/statistics/statistics-returning-residence-applications-decided-by-year.pdf)
 
 
 Refugee and protection programmes
@@ -149,10 +150,10 @@ The statistics also provide information on the Refugee Family Support Category a
 - invitations to apply, and
 - nationality.
 
-[INZ refugee statistics pack for May 2026  
+[INZ refugee statistics pack for August 2026  
 
 (pdf, 
-520 KB)](/assets/inz/documents/statistics/INZ-Refugee-Statistics-Pack-for-May-2026.pdf)
+519 KB)](/assets/INZ-refugee-statistics-pack-for-August-2026.pdf)
 
 
 Student visas and first-time students
@@ -174,7 +175,7 @@ They are broken down by:
 [Statistics — Student visa applications decided  
 
 (pdf, 
-1.3 MB)](/assets/inz/documents/statistics/statistics-student-applications-decided.pdf)
+850 KB)](/assets/inz/documents/statistics/statistics-student-applications-decided.pdf)
 
 
 
@@ -190,7 +191,7 @@ It also includes the number of first-time students changing from student visas t
 [Statistics — First-time students  
 
 (pdf, 
-327 KB)](/assets/inz/documents/statistics/statistics-first-time-students.pdf)
+325 KB)](/assets/inz/documents/statistics/statistics-first-time-students.pdf)
 
 
 Visitors to New Zealand
@@ -208,7 +209,7 @@ They are broken down by:
 [Statistics — Visitor applications decided  
 
 (pdf, 
-1.8 MB)](/assets/inz/documents/statistics/statistics-visitor-applications-decided.pdf)
+1.2 MB)](/assets/inz/documents/statistics/statistics-visitor-applications-decided.pdf)
 
 
 Work visas and RSE arrivals
@@ -229,7 +230,7 @@ These statistics are broken down by:
 [AEWV — Data report  
 
 (xlsx, 
-127 KB)](/assets/inz/documents/statistics/AEWV-Data-Report.xlsx)
+128 KB)](/assets/inz/documents/statistics/AEWV-Data-Report.xlsx)
 
 #### Work visa applications
 
@@ -244,7 +245,7 @@ They are broken down by:
 [Statistics — Work applications decided  
 
 (pdf, 
-1.5 MB)](/assets/inz/documents/statistics/statistics-work-applications-decided.pdf)
+1.4 MB)](/assets/inz/documents/statistics/statistics-work-applications-decided.pdf)
 
 #### Recognised Seasonal Employer workers
 
@@ -264,7 +265,7 @@ They also show the number of onshore RSE workers, broken down by:
 [RSE — Data report  
 
 (xlsx, 
-69 KB)](/assets/inz/documents/statistics/RSE-Website-Stats.xlsx)
+67 KB)](/assets/inz/documents/statistics/RSE-Website-Stats.xlsx)
 
 
 Limited visas
@@ -284,7 +285,7 @@ They are broken down by:
 [Statistics — Limited purpose applications by financial year  
 
 (pdf, 
-381 KB)](/assets/inz/documents/statistics/statistics-limited-purpose-applications-by-financial-year.pdf)
+538 KB)](/assets/inz/documents/statistics/statistics-limited-purpose-applications-by-financial-year.pdf)
 
 
 Arrivals and departures
@@ -298,9 +299,9 @@ These statistics show border movement data, including:
 [Statistics — Arrivals by month and visa type  
 
 (pdf, 
-437 KB)](/assets/inz/documents/statistics/statistics-arrivals-by-month-and-visa-type.pdf)
+170 KB)](/assets/inz/documents/statistics/statistics-arrivals-by-month-and-visa-type.pdf)
 
 [Statistics — Departures of all people not travelling on New Zealand passports  
 
 (pdf, 
-735 KB)](/assets/inz/documents/statistics/statistics-all-departures-by-month.pdf)
+554 KB)](/assets/inz/documents/statistics/statistics-all-departures-by-month.pdf)

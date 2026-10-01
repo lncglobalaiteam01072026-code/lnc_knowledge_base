@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 65956997ef37f3c4
+content_hash: 55faa66083857c5e
 file_role: bc_pnp_comprehensive_guide
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: BCPNP
 province: BC
@@ -282,7 +282,7 @@ It can take 6-8 months after submitting your Expression of Interest or Registrat
     * Designated agencies authorized to assess foreign education credentials for Canadian equivalency.
   * [Approved Language Testing Providers](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-requirements.html)
     * Information on accepted English and French language tests for business immigration programs.
-  * [British Columbia Government Starting a Small Business Guide](https://www2.gov.bc.ca/gov/content?id=29C34EE6A660494C82907BFC5B10958D)
+  * [British Columbia Government Starting a Small Business Guide](https://www2.gov.bc.ca/gov/content/employment-business/business/managing-a-business/starting-a-business)
 
 
 ### Related Articles:

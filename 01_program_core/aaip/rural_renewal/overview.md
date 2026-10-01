@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 86a000722209e65b
+content_hash: f2a89c8c1f9d8330
 file_role: overview
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -15,6 +15,16 @@ topic: program_overview
 version: '1.0'
 ---
 
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Rural Renewal Stream**
+## Explore pages in:
+Rural Renewal Stream 
+  * [Eligibility](https://www.alberta.ca/aaip-rural-renewal-stream-eligibility)
+  * [After you are nominated](https://www.alberta.ca/aaip-rural-renewal-stream-after-you-are-nominated)
+  * [Community designation](https://www.alberta.ca/aaip-rural-renewal-stream-community-designation)
+
+
+Read [important program and fee updates](https://www.alberta.ca/aaip-updates "Alberta Advantage Immigration Program – Updates") to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.
 ## Introduction
 The Rural Renewal Stream supports the attraction and retention of newcomers to rural Alberta through a community-driven approach that supports local economic development needs and contributes to the growth of the community. The Rural Renewal Stream empowers rural communities to recruit and retain foreign nationals to live, work and settle in their communities.
 ## In focus

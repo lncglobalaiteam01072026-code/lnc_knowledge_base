@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 0d9128fb25f23dfd
+content_hash: 88dc8c48c3e54b36
 file_role: rural_renewal_communities
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,24 @@ source_url: https://www.alberta.ca/aaip-rural-renewal-stream-community-designati
 topic: communities
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Rural Renewal Stream**
+## Explore pages in:
+[Rural Renewal Stream](https://www.alberta.ca/aaip-rural-renewal-stream)
+  * [Eligibility](https://www.alberta.ca/aaip-rural-renewal-stream-eligibility)
+  * [After you are nominated](https://www.alberta.ca/aaip-rural-renewal-stream-after-you-are-nominated)
+  * Community designation 
+
+
+## On this page:
+  * [Overview](#jumplinks-0)
+  * [Designated communities](#jumplinks-1)
+  * [Community designation](#jumplinks-2)
+  * [How to apply](#jumplinks-3)
+  * [After receiving designation](#jumplinks-4)
+  * [Contact](#jumplinks-5)
+
 
 ## Overview
 The Rural Renewal Stream is one of several immigration streams to address local labour needs and skill shortages in rural Alberta communities and helps newcomers settle into the community. This stream requires a community to apply to the Government of Alberta for community designation.

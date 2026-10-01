@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 98ace9208e9e7fdd
+content_hash: 4614bcfc447d7f3d
 file_role: overview
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,15 @@ source_url: https://www.alberta.ca/aaip-graduate-entrepreneur-stream
 topic: program_overview
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Graduate Entrepreneur Stream**
+## Explore pages in:
+Graduate Entrepreneur Stream 
+  * [Eligibility](https://www.alberta.ca/aaip-graduate-entrepreneur-stream-eligibility)
+  * [How to apply](https://www.alberta.ca/aaip-graduate-entrepreneur-stream-how-to-apply)
+  * [After you are nominated](https://www.alberta.ca/aaip-graduate-entrepreneur-stream-after-you-are-nominated)
+
 
 ## Program and fee updates
 Learn about [important updates](https://www.alberta.ca/aaip-updates "Alberta Advantage Immigration Program – Updates") to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.

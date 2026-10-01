@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 0dbaa098894e846c
+content_hash: 493638fe81ef55e8
 file_role: eligibility
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,29 @@ source_url: https://www.alberta.ca/aaip-rural-entrepreneur-stream-eligibility
 topic: eligibility
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Rural Entrepreneur Stream**
+## Explore pages in:
+[Rural Entrepreneur Stream](https://www.alberta.ca/aaip-rural-entrepreneur-stream)
+  * Eligibility 
+  * [How to apply](https://www.alberta.ca/aaip-rural-entrepreneur-stream-how-to-apply)
+  * [After you are nominated](https://www.alberta.ca/aaip-rural-entrepreneur-stream-after-you-are-nominated)
+  * [Participating communities](https://www.alberta.ca/aaip-rural-entrepreneur-stream-participating-communities)
+
+
+## On this page:
+  * [Check your eligibility for AAIP](#jumplinks-0)
+  * [Overview](#jumplinks-1)
+  * [Exploratory visit](#jumplinks-2)
+  * [Eligibility](#jumplinks-3)
+  * [AAIP self-assessment tool](#jumplinks-4)
+  * [Selection from EOI pool](#jumplinks-5)
+  * [Ineligibility](#jumplinks-6)
+  * [Established businesses in Alberta](#jumplinks-7)
+  * [Business eligibility](#jumplinks-8)
+  * [Contact](#jumplinks-9)
+
 
 ## Check your eligibility for AAIP
 Before you begin, make sure you are eligible to apply for AAIP and what stream you should apply for.

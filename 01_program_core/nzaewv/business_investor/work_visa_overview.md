@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 61c4b2accb0f7151
+content_hash: 22fdf79269091b72
 country: NZ
 file_role: work_visa_overview
 lang: en
-last_updated: '2026-07-14'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct
@@ -58,16 +58,6 @@ Apply for this visa if you want to invest in and operate a business in New Zeala
 - invest in and run an established business
 - study for up to 3 months in any 12-month period
 - include your partner and dependent children in your visa application.
-
-**Note**
-
-As part of your Business Investor Work Visa application, you can now:
-
-- invest in franchise businesses
-- use lawful gifted funds or assets to purchase your nominated business, and
-- purchase your nominated business through a New Zealand resident entity.
-
-[Business Investor Work Visa updates to unlock wider investment opportunities](/about-us/news-centre/business-investor-visa-updates-to-unlock-wider-investment-opportunities/)
 
 Open
 
@@ -281,7 +271,7 @@ As part of your application, you must provide:
 [Business Investor Work Visa – Business Proposal (INZ 1393)  
 
 (pdf, 
-679 KB)](/assets/inz/documents/forms-and-guides/business-investor-work-visa-business-proposal-inz-1393.pdf)
+589 KB)](/assets/inz/documents/forms-and-guides/business-investor-work-visa-business-proposal-inz-1393.pdf)
 
 **Note**
 
@@ -308,7 +298,7 @@ Character requirements for New Zealand visas
 
 Police certificates
 
-[How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/good-character-requirements-and-police-certificates/get-a-police-certificate/)
+[How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/character-requirements-third-party-checks-and-police-certificates/get-a-police-certificate/)
 
 **Note**
 
@@ -375,7 +365,7 @@ Complete this form if you want to include more than 4 dependent children in your
 
 Your partner and any dependent children do not have to meet the English language requirement at this stage. However, if you later apply for residence, they will either need to meet the requirement or pay for English language classes before we can grant a resident visa.
 
-#### Applicants from Hong Kong or Macao applying within Hong Kong or Macao
+#### Applicants from Hong Kong or Macau applying within Hong Kong or Macau
 
 You should provide copies of identity cards for family members included in your application.
 
@@ -413,7 +403,7 @@ You may not be allowed to check in to your flight if your passport is close to e
 
 [Before you travel to New Zealand](/visit/what-you-need-to-visit-new-zealand/before-you-travel-to-new-zealand/)
 
-Citizens of China applying from China, Hong Kong or Macao
+Citizens of China applying from China, Hong Kong or Macau
 
 
 You must also provide a completed supplementary form giving more details of your background and intentions.
@@ -426,7 +416,7 @@ You must also provide a completed supplementary form giving more details of your
 You can also provide your Hukou — household registration book as an additional form of identity.
 
 
-Applicants from Hong Kong or Macao applying within China, Hong Kong or Macao
+Applicants from Hong Kong or Macau applying within China, Hong Kong or Macau
 
 
 You must also provide a completed supplementary form if you are applying with a:
@@ -434,7 +424,7 @@ You must also provide a completed supplementary form if you are applying with a:
 - passport from Hong Kong
 - Hong Kong document of identity
 - Hong Kong British National Overseas passport (HKBNO)
-- passport from Macao.
+- passport from Macau.
 
 [Supplementary Form for Hong Kong and Macau visitors, workers and students (INZ 1220) 補充表 - 適用於香港及澳門居民的 訪問、學生及工作申請  
 
@@ -508,7 +498,7 @@ To help prevent delays with processing, make sure your application contains all 
 
    Use the tool to find out how to get police certificates in different countries.
 
-   [How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/good-character-requirements-and-police-certificates/get-a-police-certificate/)
+   [How to get a police certificate](/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/character-requirements-third-party-checks-and-police-certificates/get-a-police-certificate/)
 
    Police certificates
 
@@ -624,7 +614,7 @@ If you do not provide acceptable evidence within the first 9 months, your visa w
 [Business Investor Work Visa – Operating Stage (INZ 1398)  
 
 (pdf, 
-800 KB)](/assets/inz/documents/forms-and-guides/Business-Investor-Work-Visa-Operating-Stage-INZ-1398.pdf)
+677 KB)](/assets/inz/documents/forms-and-guides/Business-Investor-Work-Visa-Operating-Stage-INZ-1398.pdf)
 
 #### If the sale of your business falls through
 
@@ -642,7 +632,7 @@ You must still provide evidence that you have purchased the business and started
 [Business Investor Work Visa – Change of Nominated Business (INZ 1396)  
 
 (pdf, 
-739 KB)](/assets/inz/documents/forms-and-guides/Business-Investor-Work-Visa-Change-of-Nominated-Business-INZ-1396.pdf)
+612 KB)](/assets/inz/documents/forms-and-guides/Business-Investor-Work-Visa-Change-of-Nominated-Business-INZ-1396.pdf)
 
 #### Changing your business during the Operating stage
 

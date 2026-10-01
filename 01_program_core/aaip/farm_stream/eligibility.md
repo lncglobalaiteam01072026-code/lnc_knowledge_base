@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 90ec1e7b76ae4a59
+content_hash: 90041c1b3e2c92a0
 file_role: eligibility
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,22 @@ source_url: https://www.alberta.ca/aaip-farm-stream-eligibility
 topic: eligibility
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Farm Stream**
+## Explore pages in:
+[Farm Stream](https://www.alberta.ca/aaip-farm-stream)
+  * Eligibility 
+  * [How to apply](https://www.alberta.ca/aaip-farm-stream-how-to-apply)
+  * [After you are nominated](https://www.alberta.ca/aaip-farm-stream-after-you-are-nominated)
+
+
+## On this page:
+  * [Check your eligibility for AAIP](#jumplinks-0)
+  * [Eligibility criteria](#jumplinks-1)
+  * [Ineligibility](#jumplinks-2)
+  * [Contact](#jumplinks-3)
+
 
 ## Check your eligibility for AAIP
 Before you begin, make sure you are eligible to apply for AAIP and what stream you should apply for.

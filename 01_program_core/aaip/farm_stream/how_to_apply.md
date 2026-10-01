@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 72bad5e5936f9e87
+content_hash: 70be014201beef18
 file_role: how_to_apply
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -15,6 +15,27 @@ topic: process
 version: '1.0'
 ---
 
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Farm Stream**
+## Explore pages in:
+[Farm Stream](https://www.alberta.ca/aaip-farm-stream)
+  * [Eligibility](https://www.alberta.ca/aaip-farm-stream-eligibility)
+  * How to apply 
+  * [After you are nominated](https://www.alberta.ca/aaip-farm-stream-after-you-are-nominated)
+
+
+## On this page:
+  * [Before you apply](#jumplinks-0)
+  * [Application steps](#jumplinks-1)
+  * [After you apply](#jumplinks-2)
+  * [Decision on your application](#jumplinks-3)
+  * [Request for reconsideration](#jumplinks-4)
+  * [Forms and documents](#jumplinks-5)
+  * [Contact](#jumplinks-6)
+
+
+To ensure fair access to the program and maintain processing times, review the document checklist and include all required documents. Failure to include documents will impact processing times while AAIP clarifies your information.
+Read [important program and fee updates](https://www.alberta.ca/aaip-updates "Alberta Advantage Immigration Program – Updates") to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.
 ## Before you apply
 You may only have one Alberta Advantage Immigration Program (AAIP) application in process at any time.
 ### How to withdraw an application in process

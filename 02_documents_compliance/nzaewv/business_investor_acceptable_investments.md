@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: f80fdcefd39c2f23
+content_hash: 1a9c1736bd4c29c6
 country: NZ
 file_role: business_investor_acceptable_investments
 lang: en
-last_updated: '2026-07-14'
+last_updated: '2026-10-01'
 priority_weight: 0.8
 program: NZAEWV
 retrieval_strategy: direct
@@ -28,12 +28,6 @@ version: '1.0'
 # Acceptable investments for a Business Investor Work Visa
 
 If you apply for a Business Investor Work Visa, you must nominate an acceptable New Zealand business you will invest in.
-
-**Note**
-
-You can now invest in franchise businesses as part of your Business Investor Work Visa application.
-
-[Business Investor Work Visa updates to unlock wider investment opportunities](/about-us/news-centre/business-investor-visa-updates-to-unlock-wider-investment-opportunities/)
 
 ## What makes an investment acceptable
 
@@ -116,7 +110,7 @@ As part of your application, you must provide:
 [Business Investor Work Visa – Business Proposal (INZ 1393)  
 
 (pdf, 
-679 KB)](/assets/inz/documents/forms-and-guides/business-investor-work-visa-business-proposal-inz-1393.pdf)
+589 KB)](/assets/inz/documents/forms-and-guides/business-investor-work-visa-business-proposal-inz-1393.pdf)
 
 **Note**
 

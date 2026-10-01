@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: f83252c2c72e2437
+content_hash: a1d4c742d90f6338
 file_role: worker_streams_how_to_apply
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -15,6 +15,31 @@ topic: process
 version: '1.0'
 ---
 
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **AAIP application streams**
+## Explore pages in:
+[AAIP application streams](https://www.alberta.ca/aaip-application-streams)
+  * How to apply to AAIP worker streams 
+  * [Tourism and Hospitality Stream](https://www.alberta.ca/tourism-and-hospitality-stream)
+  * [Alberta Opportunity Stream](https://www.alberta.ca/aaip-alberta-opportunity-stream)
+  * [Alberta Express Entry Stream](https://www.alberta.ca/aaip-alberta-express-entry-stream)
+  * [Dedicated Health Care Pathway](https://www.alberta.ca/dedicated-health-care-pathway)
+  * [Rural Renewal Stream](https://www.alberta.ca/aaip-rural-renewal-stream)
+  * [Rural Entrepreneur Stream](https://www.alberta.ca/aaip-rural-entrepreneur-stream)
+  * [Graduate Entrepreneur Stream](https://www.alberta.ca/aaip-graduate-entrepreneur-stream)
+  * [Farm Stream](https://www.alberta.ca/aaip-farm-stream)
+  * [Foreign Graduate Entrepreneur Stream](https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream)
+
+
+## On this page:
+  * [Check your eligibility for AAIP](#jumplinks-0)
+  * [Regular system updates](#jumplinks-1)
+  * [Overview](#jumplinks-2)
+  * [Worker stream application steps](#jumplinks-3)
+  * [Resources](#jumplinks-4)
+
+
+To ensure fair access to the program and maintain processing times, review the document checklist and include all required documents. Failure to include documents will impact processing times while AAIP clarifies your information.
 ## Check your eligibility for AAIP
 Before you begin, make sure you are eligible to apply for AAIP and what stream you should apply for.
 [Use the AAIP Eligibility Explorer](https://aaip.alberta.ca/eligibility-explorer)

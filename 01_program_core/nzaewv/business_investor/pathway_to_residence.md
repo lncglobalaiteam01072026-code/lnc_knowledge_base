@@ -5,7 +5,7 @@ content_hash: a825d7f71c0bca4b
 country: NZ
 file_role: pathway_to_residence
 lang: en
-last_updated: '2026-07-14'
+last_updated: '2026-10-01'
 priority_weight: 0.9
 program: NZAEWV
 retrieval_strategy: direct

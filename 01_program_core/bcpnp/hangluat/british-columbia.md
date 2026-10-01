@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: aca43d4f42413200
+content_hash: a3d7df25d2444f4a
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: BCPNP
 province: BC
@@ -19,7 +19,7 @@ version: '1.0'
 
 [Home](https://sobirovs.com/) » [Business Immigration](https://sobirovs.com/business-immigration/) » [Canada’s Provincial Nominee Programs: A Complete PNP Guide for Entrepreneurs](https://sobirovs.com/business-immigration/pnp-canada/) » BC PNP Entrepreneur Immigration: A Comprehensive Guide
 ![5 stars](https://sobirovs.com/wp-content/uploads/2024/07/5-stars.svg)
-Specializing in Canadian Business & Investor Immigration | [![phone](https://sobirovs.com/wp-content/uploads/2024/07/phone.svg) +1 416 895 3026](tel:14168953026) | [![phone](https://sobirovs.com/wp-content/uploads/2024/07/phone.svg) +1 888 505-3026](tel:18885053026)
+Specializing in Canadian Business & Investor Immigration | [![phone](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E) +1 416 895 3026](tel:14168953026) | [![phone](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E) +1 888 505-3026](tel:18885053026)
 Search
   * [ ![Four square icons featuring math symbols: plus, minus, multiplication, and equals, each enclosed in a dark border on a light background and arranged in a 2x2 grid.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20194%20194'%3E%3C/svg%3E) Fee Calculator ](https://sobirovs.com/legal-cost-estimator)
 
@@ -156,7 +156,7 @@ Search
 Last updated: March 23, 2026 - Written by Sobirovs Law Firm
 [ Talk To A Lawyer ](https://calendly.com/sobirovslaw/strategy-meeting) [ Free Assessment ](https://sobirovs.com/business-immigration/pnp-canada/british-columbia/</immigration-eligibility-calculator/>)
 [Home](https://sobirovs.com/) » [Business Immigration](https://sobirovs.com/business-immigration/) » [Canada’s Provincial Nominee Programs: A Complete PNP Guide for Entrepreneurs](https://sobirovs.com/business-immigration/pnp-canada/) » BC PNP Entrepreneur Immigration: A Comprehensive Guide
-Published: June 23, 2025 Updated: May 9, 2026
+Published: June 23, 2025 Updated: July 29, 2026
 ## Executive Summary
 The BC PNP Entrepreneur program is British Columbia’s invitation to business owners around the world: come build something here, create jobs, and make Canada your permanent home. It is one of the most established entrepreneur immigration pathways in the country, and for good reason – British Columbia offers a world-class business environment, a mild climate, and some of the most beautiful cities in North America. The program runs three streams to match three different types of entrepreneurs: the Base stream for established business owners, the Regional stream for those willing to build in a smaller community, and the Strategic Projects stream for international companies ready to open a Canadian operation.
 Here is how the journey works from start to finish. You register an Expression of Interest (EOI) through the BC PNP’s online portal, and the province scores your profile based on your background and your business idea. If your score is high enough, you receive an Invitation to Apply (ITA). You then have four months to submit a full application. If it is approved, you sign a Performance Agreement that spells out exactly what you must do. The province issues you a Letter of Support, you apply to the federal government for a work permit, and you move to B.C. with your family. You run your business for up to 20 months, prove you have met your commitments, and receive a provincial nomination. That nomination lets you apply to the federal government for permanent residence.
@@ -423,7 +423,7 @@ It can take 6-8 months after submitting your Expression of Interest or Registrat
     * Designated agencies authorized to assess foreign education credentials for Canadian equivalency.
   * [Approved Language Testing Providers](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-requirements.html)
     * Information on accepted English and French language tests for business immigration programs.
-  * [British Columbia Government Starting a Small Business Guide](https://www2.gov.bc.ca/gov/content?id=29C34EE6A660494C82907BFC5B10958D)
+  * [British Columbia Government Starting a Small Business Guide](https://www2.gov.bc.ca/gov/content/employment-business/business/managing-a-business/starting-a-business)
 
 
 ### Related Articles:
@@ -462,6 +462,14 @@ We have worked with & represented clients from all walks of life. Always just on
 [ Talk to a Lawyer ](https://calendly.com/sobirovslaw/strategy-meeting)
 ### Our Clients Say…
 Posted on Google
+Atiq 
+Trustindex verifies that the original source of the review is Google.
+We had an amazing experience working with Sobirovs Law Firm. Madina, Feruza, and the entire team supported us throughout our Canadian immigration application with great care, professionalism, and attention to detail. They were always responsive, clear, and proactive, which gave us a lot of confidence during the process. Our application was approved, and we are truly grateful for all the hard work and guidance they provided from start to finish. I highly recommend Sobirovs Law Firm to anyone looking for professional and reliable immigration support.
+Posted on Google
+Moe 
+Trustindex verifies that the original source of the review is Google.
+These guys are really good. I went to somebody else to see if they could get a visa for one of my top AI employees, and they said no. Then I asked Sobirovs Law Firm, and within two weeks I had the visa granted. Yeah, they're good. They may be a little bit expensive, but trust me, it's worth it.
+Posted on Google
 Nur 
 Trustindex verifies that the original source of the review is Google.
 I had an extremely complex immigration case involving the BC PNP Strategic Projects stream and choosing this firm was one of the best decisions I made. From the very first day, Mariam handled my intake with great professionalism. She took the time to understand my situation in detail and explained everything clearly, which immediately gave me confidence that I was working with a highly experienced Canadian immigration law team. Throughout the entire process, Judy was truly exceptional. She was always by my side, day and night, helping me navigate a very demanding and sometimes stressful documentation process, including business immigration filings, supporting documents, and application preparation. I specifically mentioned at the beginning how important timely communication was for me, and I can confidently say that the entire team exceeded my expectations. Every email was answered promptly, every meeting was attended on time and never once did I feel ignored or left waiting. I would also like to highlight Feruza, whose expertise as a senior immigration lawyer specializing in business immigration and BC PNP was instrumental in the success of our case. Her guidance, along with the strength of her team, made a real difference in achieving a positive outcome. A special shout-out as well to Vie, who was our case specialist her coordination, attention to detail, and support throughout the process played a key role in keeping everything on track and moving smoothly. What stood out the most is that they treat your case as if it were their own. There is genuine care, responsibility, and commitment behind their work, which is very rare to find in the business immigration and legal services industry in Canada. I would highly recommend this team to anyone, whether you have a straightforward application or a complex case involving BC PNP Strategic Projects, business immigration, or permanent residence (PR). You can trust them to handle your case with professionalism, dedication, and real expertise. Thank you once again for everything.
@@ -485,54 +493,36 @@ Posted on Google
 Avazbek 
 Trustindex verifies that the original source of the review is Google.
 Super professional team of lawyers! Recommended 100%. Special thanks to Mr. Rakhmad aka, Feruza and Judy!
-Posted on Google
-Fazliddin 
-Trustindex verifies that the original source of the review is Google.
-Assalomu aleykum aka shunaqa foydali content olishda charchamang
-Posted on Google
-Guli 
-Trustindex verifies that the original source of the review is Google.
-Avstriyaning Insbruk shaxridan salom ! Hurmatli Raxmatjon aka seminar bizga juda foydali boldi. Albatta fransuz tilida gapirsamam xam nemis ingliz tilini mukammal bilaman. Bizga mos yo'nalishlarni ko'rdim. Shunaqa foydali vebinarlarni yana o'tkazishingizni so'rab qolaman.
-Posted on Google
-Imtiaz 
-Trustindex verifies that the original source of the review is Google.
-I cannot recommend Sobirovs Law enough. They are professional and efficient, best part is their attention to details and transparent communication, which helps our family navigate the difficulties of immigration. If you case is complex and want peace of mind, this is the firm you should go to.
 Load more
 Verified by Trustindex 
 Trustindex verified badge is the Universal Symbol of Trust. Only the greatest companies can get the verified badge who has a review score above 4.5, based on customer reviews over the past 12 months. [Read more](https://www.trustindex.io/?a=sys&c=wp-verified-badge&url=/the-trustindex-verified-badge/)
 [ see all reviews ](https://www.trustindex.io/reviews/sobirovs.com)
 ### Our Lastest Insights
 We publish helpful tips about Canadian immigration programs and are happy to share our knowledge with you. 
-[ ![Business executive stands confident after approval of a BC PNP work permit despite a past criminal record](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20576'%3E%3C/svg%3E) ](https://sobirovs.com/success-stories/bc-pnp-work-permit-criminal-record-approved/) July 1, 2026
-####  [ How We Helped a Senior Executive Overcome a Criminal Record and Secure a BC PNP Work Permit ](https://sobirovs.com/success-stories/bc-pnp-work-permit-criminal-record-approved/)
-Key Takeaways: A past U.S. misdemeanour — resolved without a formal conviction — is not automatic grounds for inadmissibility to Canada. BC PNP – Strategic...
-[ ![A UAE Entrepreneur in a suit shakes hands with a Canadian border officer at an immigration office, with the Canada flag and Toronto skyline visible. Signs display C11 Work Permit and Canadian Border Services Agency.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20576'%3E%3C/svg%3E) ](https://sobirovs.com/success-stories/c11-work-permit-refusal-overturned-uae-entrepreneur/) May 13, 2026
-####  [ C11 Work Permit Refusal Overturned: How One UAE Entrepreneur Got Approved for Canada ](https://sobirovs.com/success-stories/c11-work-permit-refusal-overturned-uae-entrepreneur/)
-Key Takeaways: A C11 Work Permit refusal is not final — a second application, properly structured, can succeed. GCMS notes from a refused application are...
-[ ![A hand signs a document titled Bill C-12 New Immigration Legislation that may impact Start-Up Visa applicants; a judge and a Canadian flag are blurred in the courtroom background.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E) ](https://sobirovs.com/news-publications/bill-c12-start-up-visa-program-2026/) March 30, 2026
-  * [Immigration News](https://sobirovs.com/news-publications/category/immigration-news/)
-
-
-####  [ Bill C-12 and the Start-Up Visa Program: New Government Powers Over Immigration Applications Explained ](https://sobirovs.com/news-publications/bill-c12-start-up-visa-program-2026/)
-Key Takeaway As of March 26, 2026, Bill C-12 is now law, giving IRCC new authority over immigration documents and applications. The risk to Start-Up...
-[ ![A woman in business attire shakes hands with a man across a table in a modern office with large windows. Nearby, professionals work while a screen displays “Immigration Canada” and a map, highlighting C11 vs ICT Work Permit Canada options.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20572'%3E%3C/svg%3E) ](https://sobirovs.com/resources/c11-vs-ict-canada/) March 13, 2026
-####  [ C11 vs ICT Canada: Which Work Permit Is Right for You? (2026) ](https://sobirovs.com/resources/c11-vs-ict-canada/)
-Introduction Canada continues to attract entrepreneurs and international companies that want to expand into a stable and innovative business environment. With access to the North...
-[ ![A digital illustration of diverse people standing on a map of Canada, connected to a red maple leaf labeled Express Entry Permanent Residence and Express Entry Categories 2026, symbolizing evolving immigration pathways. Icons represent jobs, skills, and education.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E) ](https://sobirovs.com/news-publications/express-entry-categories-2026-eligible-occupations/) February 20, 2026
-  * [Immigration News](https://sobirovs.com/news-publications/category/immigration-news/)
-
-
-####  [ Express Entry 2026: Every Occupation Canada Will Prioritize This Year ](https://sobirovs.com/news-publications/express-entry-categories-2026-eligible-occupations/)
-Key Takeaway From the Recent Express Entry Changes On February 18, 2026, IRCC confirmed 10 Express Entry category-based selection categories for 2026. Five are new:...
-[ ![A group of professionals attends a presentation in a modern office. Two presenters point to a screen displaying Canadian Express Entry: A Path for Senior Managers with the Canada logo, while others watch and take notes on gaining Canadian work experience.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E) ](https://sobirovs.com/news-publications/express-entry-senior-managers-category-2026/) February 18, 2026
+[ ![Four men sit on a couch in an office, looking serious. Two are holding signs that say Startup Visa Closed, highlighting the ongoing issues with the Canada Start-Up Visa program. Coffee cups, papers, and a laptop sit on the table in front of them as they consider their options amid the growing Backlog 2026. Shelves with decor are in the background.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E) ](https://sobirovs.com/news-publications/canada-start-up-visa-backlog-options/) September 18, 2026
   * [Business Immigration](https://sobirovs.com/news-publications/category/business-immigration/)
 
 
-####  [ Express Entry Senior Managers Category 2026: Eligibility, NOC 00 Codes, and First Draw Results ](https://sobirovs.com/news-publications/express-entry-senior-managers-category-2026/)
-Key Takeaway On February 18, 2026, Immigration, Refugees and Citizenship Canada (IRCC) announced a new Express Entry category for senior managers with Canadian work experience...
+####  [ Canada Start-Up Visa Backlog 2026: What Your Options Are Now ](https://sobirovs.com/news-publications/canada-start-up-visa-backlog-options/)
+Key Takeaways: The Start-Up Visa is closed. No new applications. The last day to apply was June 30, 2026. The wait is very long. About...
+[ ![Business owner reviewing an IRCC refusal letter with an immigration lawyer in Toronto](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20540'%3E%3C/svg%3E) ](https://sobirovs.com/resources/refusals/) August 3, 2026
+####  [ Refused by IRCC? Your Options and Next Steps ](https://sobirovs.com/resources/refusals/)
+A refusal letter is a decision, not a verdict. It can be reconsidered, reapplied on, or challenged in the Federal Court — but each route...
+[ ![Federal Court of Canada, where judicial review of an IRCC refusal is heard](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E) ](https://sobirovs.com/resources/judicial-review-immigration-canada/) August 3, 2026
+####  [ Judicial Review of an IRCC Refusal: How It Works, and Whether It Is Worth It ](https://sobirovs.com/resources/judicial-review-immigration-canada/)
+Judicial review is not an appeal. The Federal Court does not re-decide your application or form its own view about whether you deserve a visa....
+[ ![Entrepreneur operating a Canadian business after a C11 work permit refusal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E) ](https://sobirovs.com/resources/c11-work-permit-refusal/) August 3, 2026
+####  [ C11 and Intra-Company Transfer Work Permit Refusals: Why They Happen and What Works ](https://sobirovs.com/resources/c11-work-permit-refusal/)
+Business work permit refusals are unusually predictable. Officers rely on a narrow set of grounds, they express them in recognisable language, and each ground has...
+[ ![Applicant opening a procedural fairness letter from IRCC with a response deadline approaching](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E) ](https://sobirovs.com/resources/procedural-fairness-letter/) August 3, 2026
+####  [ You Received a Procedural Fairness Letter. This Is the Most Important Letter in Your File ](https://sobirovs.com/resources/procedural-fairness-letter/)
+A procedural fairness letter means an officer has a concern serious enough to refuse your application, and is giving you a chance to answer it...
+[ ![Start-up founders reviewing options after a Canada Start-Up Visa refusal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E) ](https://sobirovs.com/resources/start-up-visa-refusal/) August 3, 2026
+####  [ Start-Up Visa Refusal: What to Do If You Were Refused or Are Still Waiting ](https://sobirovs.com/resources/start-up-visa-refusal/)
+The Start-Up Visa is closed. New applications stopped being accepted on 30 June 2026, and no replacement pilot has opened. That means the only people...
 Sign Up To Be
 ### The First in Canadian Business Immigration News
-Instagram
+Comments
 This field is for validation purposes and should be left unchanged.
 Email
 Get Our Weekly Newsletter
@@ -581,4 +571,4 @@ wecare@sobirovs.com
   * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2050%2050'%3E%3C/svg%3E) [](https://www.facebook.com/sobirovslawfirm/)
 
 
-[ ![phone](https://sobirovs.com/wp-content/uploads/2024/07/phone.svg) +1 888 505-3026 ](tel:18885053026) (24/7 Toll-Free)
+[ ![phone](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E) +1 888 505-3026 ](tel:18885053026) (24/7 Toll-Free)

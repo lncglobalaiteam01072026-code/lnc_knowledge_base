@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 35d34f1ab7707a24
+content_hash: 97e3800fbb4f8455
 file_role: eligibility
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,25 @@ source_url: https://www.alberta.ca/aaip-alberta-opportunity-stream-eligibility
 topic: eligibility
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Alberta Opportunity Stream**
+## Explore pages in:
+[Alberta Opportunity Stream](https://www.alberta.ca/aaip-alberta-opportunity-stream)
+  * Eligibility 
+  * [After you are nominated](https://www.alberta.ca/aaip-alberta-opportunity-stream-after-you-are-nominated)
+
+
+## On this page:
+  * [Check your eligibility for AAIP](#jumplinks-0)
+  * [Overview](#jumplinks-1)
+  * [Residency, work permit requirements](#jumplinks-2)
+  * [Occupation requirements](#occupation-requirements)
+  * [Language requirements](#jumplinks-4)
+  * [Education requirements](#jumplinks-5)
+  * [Work experience requirements](#jumplinks-6)
+  * [Eligible job offers](#jumplinks-7)
+
 
 ## Check your eligibility for AAIP
 Before you begin, make sure you are eligible to apply for AAIP and what stream you should apply for.
@@ -112,8 +131,7 @@ If you are a Post-Graduation Work Permit (PGWP) holder, your occupation must als
 
 
 ## Language requirements
-You must confirm the TEER Category for your occupation in the [NOC 2021](https://noc.esdc.gc.ca/Home/) and use the TEER Category to determine your minimum language score using the table below.
-If you submitted your application on or before November 15, 2022 review the [NOC 2016 version of the language requirements ](https://www.alberta.ca/system/files/custom_downloaded_images/tim-aaip-noc-2016-alberta-opportunity-stream-criteria.pdf "tim-aaip-noc-2016-alberta-opportunity-stream-criteria.pdf")that applied to you.
+You must confirm the TEER Category for your occupation in the [NOC 2021](https://noc.esdc.gc.ca/Home/) and use the TEER Category to determine your minimum language score using the table below. If you submitted your application on or before November 15, 2022 review the [NOC 2016 version of the language requirements ](https://www.alberta.ca/system/files/custom_downloaded_images/tim-aaip-noc-2016-alberta-opportunity-stream-criteria.pdf "tim-aaip-noc-2016-alberta-opportunity-stream-criteria.pdf")that applied to you.
 You must demonstrate you meet the following language test score in English or French at the time that you submit your application. You must meet the scores based on a single test result.
 **Table 2**. Language requirements
 National Occupational Classification (NOC) TEER category: If you are working in a NOC 0, 1, 2 or 3 occupation. Canadian Language Benchmark (CLB) test score required: Minimum of 5 for each English language skill. Niveaux de compétence linguistique canadiens (NCLC) test score required: Minimum of 5 for each French language skill.

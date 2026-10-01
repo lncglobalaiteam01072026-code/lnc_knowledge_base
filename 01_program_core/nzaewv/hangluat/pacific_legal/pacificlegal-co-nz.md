@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 73059a3dea86fe47
+content_hash: a9fc1dea1c52a29c
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 0.8
 program: NZAEWV
 retrieval_strategy: direct
@@ -19,7 +19,7 @@ version: '1.0'
 
 [ Skip to content](#content)
 [![](https://pacificlegal.co.nz/wp-content/uploads/2025/03/Pacific-legal-Logo.png.webp)](https://pacificlegal.co.nz/)[![](https://pacificlegal.co.nz/wp-content/uploads/2025/03/Pacific-legal-Logo.png-195x54.webp)](https://pacificlegal.co.nz/)
-  * [HOME](https://pacificlegal.co.nz/)
+  * [HOME](https://pacificlegal.co.nz/home/)
   * [VISAS](https://pacificlegal.co.nz/visas/)
     * [RESIDENT VISAS](https://pacificlegal.co.nz/visas/resident-visas/)
       * [INVESTOR VISAS](https://pacificlegal.co.nz/visas/resident-visas/investor-visas/)
@@ -31,7 +31,7 @@ version: '1.0'
     * [STUDENT VISAS](https://pacificlegal.co.nz/visas/student-visas/)
     * [WORK VISAS](https://pacificlegal.co.nz/visas/work-visas/)
       * [Accredited Employer Work Visa (AEWV)](https://pacificlegal.co.nz/visas/work-visas/accredited-employer-work-visa-aewv/)
-    * [VISTOR VISAS](https://pacificlegal.co.nz/visas/visitor-visas/)
+    * [VISITOR VISAS](https://pacificlegal.co.nz/visas/visitor-visas/)
     * [INTERIM VISA](https://pacificlegal.co.nz/visas/interim-visa/)
     * [HARD CASES](https://pacificlegal.co.nz/visas/hard-cases/)
       * [APPEALS](https://pacificlegal.co.nz/visas/hard-cases/appeals/)
@@ -49,12 +49,13 @@ version: '1.0'
   * [BLOG](https://pacificlegal.co.nz/blog/)
   * [CONTACT](https://pacificlegal.co.nz/contact/)
     * [Immigration Forms](https://pacificlegal.co.nz/immigration-forms/)
+  * [![](https://pacificlegal.co.nz/wp-content/uploads/2026/08/chineseflag.svg)](https://pacificlegal.co.nz/our-team-chinese/)
 
 
 [ 0800 722 53425 ](tel:080072253425)[0800 722 53425](tel:080072253425)
 [](https://pacificlegal.co.nz/<#>)
 [![](https://pacificlegal.co.nz/wp-content/uploads/2025/03/Pacific-legal-Logo.png.webp)](https://pacificlegal.co.nz/)[![](https://pacificlegal.co.nz/wp-content/uploads/2025/03/Pacific-legal-Logo.png-195x54.webp)](https://pacificlegal.co.nz/)
-  * [HOME](https://pacificlegal.co.nz/)
+  * [HOME](https://pacificlegal.co.nz/home/)
   * [VISAS](https://pacificlegal.co.nz/visas/)
     * [RESIDENT VISAS](https://pacificlegal.co.nz/visas/resident-visas/)
       * [INVESTOR VISAS](https://pacificlegal.co.nz/visas/resident-visas/investor-visas/)
@@ -66,7 +67,7 @@ version: '1.0'
     * [STUDENT VISAS](https://pacificlegal.co.nz/visas/student-visas/)
     * [WORK VISAS](https://pacificlegal.co.nz/visas/work-visas/)
       * [Accredited Employer Work Visa (AEWV)](https://pacificlegal.co.nz/visas/work-visas/accredited-employer-work-visa-aewv/)
-    * [VISTOR VISAS](https://pacificlegal.co.nz/visas/visitor-visas/)
+    * [VISITOR VISAS](https://pacificlegal.co.nz/visas/visitor-visas/)
     * [INTERIM VISA](https://pacificlegal.co.nz/visas/interim-visa/)
     * [HARD CASES](https://pacificlegal.co.nz/visas/hard-cases/)
       * [APPEALS](https://pacificlegal.co.nz/visas/hard-cases/appeals/)
@@ -84,53 +85,71 @@ version: '1.0'
   * [BLOG](https://pacificlegal.co.nz/blog/)
   * [CONTACT](https://pacificlegal.co.nz/contact/)
     * [Immigration Forms](https://pacificlegal.co.nz/immigration-forms/)
+  * [![](https://pacificlegal.co.nz/wp-content/uploads/2026/08/chineseflag.svg)](https://pacificlegal.co.nz/our-team-chinese/)
 
 
-# Immigration Solutions You Deserve
-[ Let Our Experience Be Your Guide ](https://pacificlegal.co.nz/our-team/)
+# Immigration Solutions for New Zealand
+Experienced Immigration Lawyers Helping Individuals, Families and Employers Navigate New Zealand’s Immigration System
+[ Get Started ](https://pacificlegal.co.nz/visas/)
 ## New Zealand Immigration Lawyers 
-### Pacific Legal Immigration Services are available to you wherever you are in New Zealand or the world.
-### We have clients throughout the Asia Pacific region, Canada, South America, the United States, France and beyond, as well as here in New Zealand.
-Our immigration lawyers are available New Zealand-wide. We often visit Wellington, Christchurch, Hamilton, and many other centres. Our office is located in Newmarket, Auckland, and we are also available to you through Microsoft Teams, Zoom, WhatsApp and other media.
-[ Get Started Here ](https://pacificlegal.co.nz/our-team/)
-## Immigration & Visa Reviews
-#### Read what our customers have to say
-[ ![Paul Mc](https://pacificlegal.co.nz/wp-content/uploads/2025/01/Paul-McA.png) Paul Mc __ __ __ __ __ ](https://www.google.com/maps/reviews/@-36.867577,174.778551,17z/data=!3m1!4b1!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuaFBXRFdREAE!2m1!1s0x0:0x1d0fdff4af774004?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D)
-I can’t recommend Richard enough! After my partner was unexpectedly refused travel to New Zealand due to an issue with her NZETA, we were in an extremely stressful situation. Richard stepped in and worked incredibly fast to resolve the problem, allowing her to travel successfully. His professionalism, clarity, and efficiency were outstanding throughout the process. Thanks to Richard’s swift action, he completely rescued our holiday, and we’re beyond grateful for his help. If you’re ever in need of immigration assistance, Richard is the person to call — highly recommended! 
-[ ![Demi Lin](https://pacificlegal.co.nz/wp-content/uploads/2025/01/Demi.png) Demi Lin __ __ __ __ __ ](https://www.google.com/maps/reviews/@-36.867577,174.778551,17z/data=!3m1!4b1!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuMklhQmVREAE!2m1!1s0x0:0x1d0fdff4af774004?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D)
-If you are seeking a top professional and reliable immigration adviser ,Richard is the best. If you feel alone and no help in darkness of processing of immigration, Pacific legal is your lighthouse which can guide you safely to destination. If you want clear and straight forward answer about NZ immigration ,Richard is the man who have the right answer without hidden corners. We will pass all our family and company future immigration case to pacific without hesitation. Thank you Richard for our 5 years long hard case to help CiCi finally get PR approval in 2024. Thanks to Richard’s swift action, he completely rescued our holiday, and we’re beyond grateful for his help. If you’re ever in need of immigration assistance, Richard is the person to call — highly recommended! 
-[ ![John Kerto](https://pacificlegal.co.nz/wp-content/uploads/2025/01/John-K.png) John Kerto __ __ __ __ __ ](https://www.google.com/maps/contrib/117077234484910326158/place/ChIJf66stHZIDW0RBEB3r_TfDx0/@-36.867577,174.778551,17z/data=!4m6!1m5!8m4!1e1!2s117077234484910326158!3m1!1e1?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D)
-To Richard and Team, thank you very much for everything you do and words cannot describe my gratitude and appreciation. God Bless 
-[ ![Paula Mafi](https://pacificlegal.co.nz/wp-content/uploads/2025/01/Paula-M.png) Paula Mafi __ __ __ __ __ ](https://www.google.com/maps/reviews/@-36.867577,174.778551,17z/data=!3m1!4b1!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2X1lhU1RREAE!2m1!1s0x0:0x1d0fdff4af774004?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D)
-When I was first referred to this firm, I was expecting the worst. I had gotten myself into a whole lot of legal trouble and those that I cared for were dragged into my mess. My first thought was “This’ll just be one of those firms looking to milk as much money out of their clients until nothing is left”. I was in a very dark place at this point in my life. However, I am more than happy to have been proven wrong time and time again by Pacific Legal Office. Pacific Legal Office did not waste any time with my problems. Without hesitation, they advised me with all my options and guided me through various different ways on how to deal with certain situations. With their persistence and attentive nature, they pushed me on even when I expected the worst. They made no promises about a happy ending, but they made it clear that if I wanted my desired outcome we would have to work together in order for me to get anything done. Time and time again, Pacific Legal Office would make sure to keep pushing me to keep going, even when I myself was feeling defeated. For those of you who think that money is the problem, please rest assured that Pacific Legal Office is far from money driven. From my experience, they have shown me that their priorities are their clients, not their money. For instance, When I would be given a bill for their services, they would offer an alternative so that I could make small payments every week until the full amount of a fee was paid off. If you still have doubts, I understand. I had the same doubts that you probably have right now. “Way too costly” or “ Are they really going to deliver on what they offer?”. Pacific Legal Office makes no promises. However, what I do know from experience is they are very persistent, honest, and attentive to their clients. As I have stated previously, their number one priority is always their clients. I highly recommend them to anyone who is looking for assistance with legal problems. I can safely say that you get what you pay for and more when it comes to Pacific Legal Office. 
-[ ![Paul Mc](https://pacificlegal.co.nz/wp-content/uploads/2025/01/Paul-McA.png) Paul Mc __ __ __ __ __ ](https://www.google.com/maps/reviews/@-36.867577,174.778551,17z/data=!3m1!4b1!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuaFBXRFdREAE!2m1!1s0x0:0x1d0fdff4af774004?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D)
-I can’t recommend Richard enough! After my partner was unexpectedly refused travel to New Zealand due to an issue with her NZETA, we were in an extremely stressful situation. Richard stepped in and worked incredibly fast to resolve the problem, allowing her to travel successfully. His professionalism, clarity, and efficiency were outstanding throughout the process. Thanks to Richard’s swift action, he completely rescued our holiday, and we’re beyond grateful for his help. If you’re ever in need of immigration assistance, Richard is the person to call — highly recommended! 
-[ ![Demi Lin](https://pacificlegal.co.nz/wp-content/uploads/2025/01/Demi.png) Demi Lin __ __ __ __ __ ](https://www.google.com/maps/reviews/@-36.867577,174.778551,17z/data=!3m1!4b1!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuMklhQmVREAE!2m1!1s0x0:0x1d0fdff4af774004?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D)
-If you are seeking a top professional and reliable immigration adviser ,Richard is the best. If you feel alone and no help in darkness of processing of immigration, Pacific legal is your lighthouse which can guide you safely to destination. If you want clear and straight forward answer about NZ immigration ,Richard is the man who have the right answer without hidden corners. We will pass all our family and company future immigration case to pacific without hesitation. Thank you Richard for our 5 years long hard case to help CiCi finally get PR approval in 2024. Thanks to Richard’s swift action, he completely rescued our holiday, and we’re beyond grateful for his help. If you’re ever in need of immigration assistance, Richard is the person to call — highly recommended! 
-[ ![John Kerto](https://pacificlegal.co.nz/wp-content/uploads/2025/01/John-K.png) John Kerto __ __ __ __ __ ](https://www.google.com/maps/contrib/117077234484910326158/place/ChIJf66stHZIDW0RBEB3r_TfDx0/@-36.867577,174.778551,17z/data=!4m6!1m5!8m4!1e1!2s117077234484910326158!3m1!1e1?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D)
-To Richard and Team, thank you very much for everything you do and words cannot describe my gratitude and appreciation. God Bless 
-[ ![Paula Mafi](https://pacificlegal.co.nz/wp-content/uploads/2025/01/Paula-M.png) Paula Mafi __ __ __ __ __ ](https://www.google.com/maps/reviews/@-36.867577,174.778551,17z/data=!3m1!4b1!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2X1lhU1RREAE!2m1!1s0x0:0x1d0fdff4af774004?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D)
-When I was first referred to this firm, I was expecting the worst. I had gotten myself into a whole lot of legal trouble and those that I cared for were dragged into my mess. My first thought was “This’ll just be one of those firms looking to milk as much money out of their clients until nothing is left”. I was in a very dark place at this point in my life. However, I am more than happy to have been proven wrong time and time again by Pacific Legal Office. Pacific Legal Office did not waste any time with my problems. Without hesitation, they advised me with all my options and guided me through various different ways on how to deal with certain situations. With their persistence and attentive nature, they pushed me on even when I expected the worst. They made no promises about a happy ending, but they made it clear that if I wanted my desired outcome we would have to work together in order for me to get anything done. Time and time again, Pacific Legal Office would make sure to keep pushing me to keep going, even when I myself was feeling defeated. For those of you who think that money is the problem, please rest assured that Pacific Legal Office is far from money driven. From my experience, they have shown me that their priorities are their clients, not their money. For instance, When I would be given a bill for their services, they would offer an alternative so that I could make small payments every week until the full amount of a fee was paid off. If you still have doubts, I understand. I had the same doubts that you probably have right now. “Way too costly” or “ Are they really going to deliver on what they offer?”. Pacific Legal Office makes no promises. However, what I do know from experience is they are very persistent, honest, and attentive to their clients. As I have stated previously, their number one priority is always their clients. I highly recommend them to anyone who is looking for assistance with legal problems. I can safely say that you get what you pay for and more when it comes to Pacific Legal Office. 
-#### Ruth A. Flora
+Immigration matters can be life-changing. Whether you are applying for a visa, seeking residence, bringing family members to New Zealand, or dealing with a declined application, obtaining the right advice can make all the difference.
+Pacific Legal is a specialist immigration law practice led by Richard Small. We assist individuals, families and employers with a wide range of New Zealand immigration matters, from straightforward applications through to complex cases, appeals and situations where previous applications have been declined.
+Our focus is simple: providing practical advice, clear guidance and strong representation to help clients achieve the best possible outcome.
+[ Contact Us ](https://pacificlegal.co.nz/contact/)
+## Meet Richard Small
+Choosing the right immigration lawyer can make a significant difference to your immigration journey. In this short video, Richard Small explains Pacific Legal’s approach and how we assist individuals, families and employers with New Zealand immigration matters.
+Richard has helped clients from around the world navigate New Zealand’s immigration system and is known for his practical advice, personal service and commitment to achieving the best possible outcome for his clients.
+## Why Clients Choose Pacific Legal
+### Specialist Immigration Practice
+Immigration law is our sole focus. We understand the complexities of New Zealand’s immigration system and stay abreast of ongoing policy and legislative changes.
+### Experience with Complex Cases
+Many clients come to us after encountering difficulties with previous applications, visa declines, character issues, medical concerns, or situations requiring a strategic approach.
+### Personal Service
+Every immigration matter is different. We take the time to understand your circumstances and provide advice tailored to your individual needs and objectives.
+### Proven Results
+We are proud of the trust our clients place in us and the successful outcomes we have achieved for individuals, families and employers over many years.
+Adipiscing elit ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. 
 ##  Our Specialty Immigration Services
-[ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/20241024_170527-scaled.jpg) ](https://pacificlegal.co.nz/visas/resident-visas/)
-### [Residence Visas](https://pacificlegal.co.nz/visas/resident-visas/)
-Do you want to stay permanently in New Zealand? At Pacific Legal we can assist you with the application for any type of New Zealand Residence Visa and can also manage your residency appeals.
 [ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/man-2562325_1280.jpg) ](https://pacificlegal.co.nz/visas/work-visas/)
 ### [Work Visas](https://pacificlegal.co.nz/visas/work-visas/)
-There are several Temporary Work visa options available, but how do you know which work visa is right for you?
-[ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/new-zealand-7494205_1920.jpg) ](https://pacificlegal.co.nz/visas/visitor-visas/)
-### [Visitor Visas](https://pacificlegal.co.nz/visas/visitor-visas/)
-If you wish to visit New Zealand to decide whether it is an ideal destination, a Visitor Visa would be the best avenue to pursue. However, care needs to be taken.
-[ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/4MUMLEK_visa_immigration_generic_jpg.jpg) ](https://pacificlegal.co.nz/visas/skilled-migrant-category/)
-### [Skilled Migrant Visa](https://pacificlegal.co.nz/visas/skilled-migrant-category/)
-The Skilled Migrant Visa provides a complex points based system for gaining residence, under which you may claim points for various factors including your qualifications, work experience, age, and your partner’s or spouse’s qualifications.
-[ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/student-visa.png) ](https://pacificlegal.co.nz/visas/student-visas/)
-### [Student Visas](https://pacificlegal.co.nz/visas/student-visas/)
-New Zealand’s educational institutions are well regarded throughout the world. For international students, there is a range of opportunities available – from quality secondary school education to internationally respected and recognised tertiary education providers.
-[ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/plane-7013022_1280.jpg) ](https://pacificlegal.co.nz/visas/hard-cases/)
-### [Hard Immigration cases](https://pacificlegal.co.nz/visas/hard-cases/)
-We take on even the hardest immigration cases! Our team can help with deportation and detention issues, appeals, and other complex situations. At Pacific Legal we strive to get the best result in even the most complicated immigration case!
+Advice and assistance with Accredited Employer Work Visas (AEWV), employer-supported applications and other temporary work visa pathways.
+[ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/20241024_170527-scaled.jpg) ](https://pacificlegal.co.nz/visas/resident-visas/)
+### [Residence Applications](https://pacificlegal.co.nz/visas/resident-visas/)
+Helping clients navigate New Zealand residence pathways, including skilled migrant, family-based and other residence categories.
+[ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/new-zealand-7494205_1920-768x453.jpg) ](https://pacificlegal.co.nz/visas/resident-visas/partnership-visas/)
+### [Partnership and Family Visas](https://pacificlegal.co.nz/visas/resident-visas/partnership-visas/)
+Supporting couples and families seeking to build their future together in New Zealand.
+[ ![Nursing students practice using a medical mannequin in a simulation lab, focusing on patient care techniques.](https://pacificlegal.co.nz/wp-content/uploads/2026/05/pexels-photo-35645529-35645529-scaled.jpg) ](https://pacificlegal.co.nz/employers/)
+### [Employer Immigration Services](https://pacificlegal.co.nz/employers/)
+Assisting employers with accreditation, migrant recruitment, compliance obligations and workforce planning.
+[ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/man-2562325_1280.jpg) ](https://pacificlegal.co.nz/visas/resident-visas/investor-visas/)
+### [Investors](https://pacificlegal.co.nz/visas/resident-visas/investor-visas/)
+Advice and assistance for people looking to invest in New Zealand, finding the best pathway to achieve the best result.
+[ ![](https://pacificlegal.co.nz/wp-content/uploads/2025/01/new-zealand-7494205_1920-768x453.jpg) ](https://pacificlegal.co.nz/visas/hard-cases/)
+### [Visa Appeals and Complex Cases](https://pacificlegal.co.nz/visas/hard-cases/)
+Representing clients facing declined applications, appeals, character issues, medical concerns and other challenging immigration matters.
+## Client Success Stories
+We understand that immigration decisions can have a profound impact on people's lives. Our clients regularly trust us with some of the most important decisions they will make for themselves, their families and their businesses.
+Richard is extremely knowledgeable, professional, and thorough. He took the time to carefully review our situation, explain every step clearly, and provided practical advice that gave us confidence during a very stressful time. 
+Dinh PhamJune 2026
+Thanks to their expertise and careful attention to detail, my application was successfully approved, more rapidly than I had thought possible. 
+Carolyn LarabellApril 2026
+I’m deeply grateful for their hard work and highly recommend them to anyone seeking immigration services. An exceptional team that genuinely cares about their clients! 
+Linden ZhangJanuary 2026
+Richard is extremely knowledgeable, professional, and thorough. He took the time to carefully review our situation, explain every step clearly, and provided practical advice that gave us confidence during a very stressful time. 
+Dinh PhamJune 2026
+Thanks to their expertise and careful attention to detail, my application was successfully approved, more rapidly than I had thought possible. 
+Carolyn LarabellApril 2026
+I’m deeply grateful for their hard work and highly recommend them to anyone seeking immigration services. An exceptional team that genuinely cares about their clients! 
+Linden ZhangJanuary 2026
+Richard is extremely knowledgeable, professional, and thorough. He took the time to carefully review our situation, explain every step clearly, and provided practical advice that gave us confidence during a very stressful time. 
+Dinh PhamJune 2026
+Thanks to their expertise and careful attention to detail, my application was successfully approved, more rapidly than I had thought possible. 
+Carolyn LarabellApril 2026
+I’m deeply grateful for their hard work and highly recommend them to anyone seeking immigration services. An exceptional team that genuinely cares about their clients! 
+Linden ZhangJanuary 2026
+[ Read More Client Testimonials ](https://pacificlegal.co.nz/our-clients/new-zealand-immigration-success-stories/)
+#### Ruth A. Flora
 ## We are award-winning specialists in New Zealand Immigration 
 ## Talk to Pacific Legal Today
 ### Contact us today to speak to one of our Immigration Lawyers
@@ -142,7 +161,7 @@ We don’t shy away from difficult cases and unexpected events.
 ![](https://pacificlegal.co.nz/wp-content/uploads/2025/02/White-and-blue-logo-300x84.png.webp)
 [ Facebook-f ](https://www.facebook.com/pacificlegallimited) [ Linkedin ](https://www.linkedin.com/company/pacific-legal-immigration-law/)
 #### Services
-  * [HOME](https://pacificlegal.co.nz/)
+  * [HOME](https://pacificlegal.co.nz/home/)
   * [VISAS](https://pacificlegal.co.nz/visas/)
     * [RESIDENT VISAS](https://pacificlegal.co.nz/visas/resident-visas/)
       * [INVESTOR VISAS](https://pacificlegal.co.nz/visas/resident-visas/investor-visas/)
@@ -154,7 +173,7 @@ We don’t shy away from difficult cases and unexpected events.
     * [STUDENT VISAS](https://pacificlegal.co.nz/visas/student-visas/)
     * [WORK VISAS](https://pacificlegal.co.nz/visas/work-visas/)
       * [Accredited Employer Work Visa (AEWV)](https://pacificlegal.co.nz/visas/work-visas/accredited-employer-work-visa-aewv/)
-    * [VISTOR VISAS](https://pacificlegal.co.nz/visas/visitor-visas/)
+    * [VISITOR VISAS](https://pacificlegal.co.nz/visas/visitor-visas/)
     * [INTERIM VISA](https://pacificlegal.co.nz/visas/interim-visa/)
     * [HARD CASES](https://pacificlegal.co.nz/visas/hard-cases/)
       * [APPEALS](https://pacificlegal.co.nz/visas/hard-cases/appeals/)
@@ -172,9 +191,10 @@ We don’t shy away from difficult cases and unexpected events.
   * [BLOG](https://pacificlegal.co.nz/blog/)
   * [CONTACT](https://pacificlegal.co.nz/contact/)
     * [Immigration Forms](https://pacificlegal.co.nz/immigration-forms/)
+  * [![](https://pacificlegal.co.nz/wp-content/uploads/2026/08/chineseflag.svg)](https://pacificlegal.co.nz/our-team-chinese/)
 
 
-  * [HOME](https://pacificlegal.co.nz/)
+  * [HOME](https://pacificlegal.co.nz/home/)
   * [VISAS](https://pacificlegal.co.nz/visas/)
     * [RESIDENT VISAS](https://pacificlegal.co.nz/visas/resident-visas/)
       * [INVESTOR VISAS](https://pacificlegal.co.nz/visas/resident-visas/investor-visas/)
@@ -186,7 +206,7 @@ We don’t shy away from difficult cases and unexpected events.
     * [STUDENT VISAS](https://pacificlegal.co.nz/visas/student-visas/)
     * [WORK VISAS](https://pacificlegal.co.nz/visas/work-visas/)
       * [Accredited Employer Work Visa (AEWV)](https://pacificlegal.co.nz/visas/work-visas/accredited-employer-work-visa-aewv/)
-    * [VISTOR VISAS](https://pacificlegal.co.nz/visas/visitor-visas/)
+    * [VISITOR VISAS](https://pacificlegal.co.nz/visas/visitor-visas/)
     * [INTERIM VISA](https://pacificlegal.co.nz/visas/interim-visa/)
     * [HARD CASES](https://pacificlegal.co.nz/visas/hard-cases/)
       * [APPEALS](https://pacificlegal.co.nz/visas/hard-cases/appeals/)
@@ -204,6 +224,7 @@ We don’t shy away from difficult cases and unexpected events.
   * [BLOG](https://pacificlegal.co.nz/blog/)
   * [CONTACT](https://pacificlegal.co.nz/contact/)
     * [Immigration Forms](https://pacificlegal.co.nz/immigration-forms/)
+  * [![](https://pacificlegal.co.nz/wp-content/uploads/2026/08/chineseflag.svg)](https://pacificlegal.co.nz/our-team-chinese/)
 
 
 #### Contact

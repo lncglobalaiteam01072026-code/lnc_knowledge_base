@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 37c1f91eef4e2a51
+content_hash: 3bb05d330104073f
 file_role: vietnam_country_guide
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: BCPNP
 province: BC
@@ -27,7 +27,7 @@ Bài viết này sẽ giúp quý vị hiểu thêm về 3 loại giấy phép l�
 
 
 Đó là các chương trình: Intra-company Transfer (ICT), Owner/Operator LMIA và Start-up Visa. Mọi thông tin về điều kiện nộp đơn, những giới hạn và những lợi ích của từng chương trình sẽ được trình bày dưới đây.
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3C/svg%3E)
+![](https://sobirovs.com/wp-content/uploads/2020/02/5e4720239415a6c84f8b603b_man-in-suit-jacket-standing-beside-projector-screen-2173508-1024x576.jpg)
 ## 1. Intra-Company Transfer Work Visa (ICT)
 Đây là chương trình được thiết lập dành riêng cho các chủ doanh nghiệp muốn mở rộng quy mô và thành lập chi nhánh tại Canada. Loại giấy phép làm việc này cho phép chủ doanh nghiệp điều động nguồn nhân sự mấu chốt đến vận hành công ty tại Canada.
 **Chi tiết về chương trình** :

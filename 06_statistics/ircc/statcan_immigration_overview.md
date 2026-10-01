@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 5264b5fc02ac1591
+content_hash: d6f3beba7b1fa110
 file_role: statcan_immigration_overview
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 0.9
 program: IRCC
 retrieval_strategy: direct
@@ -56,34 +56,27 @@ Bringing together data, tools and reports to provide you with the latest informa
 - [Tab 5](#slide5)
 - [Tab 6](#slide6)
 
-[![Labour market experiences of recent immigrants, 2019 to 2025](https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/release_photo/11037.jpg)](https://www150.statcan.gc.ca/n1/daily-quotidien/260407/dq260407a-eng.htm)
+[![Study: Portrait of the Latin American populations in Canada](https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/release_photo/10533.jpg)](https://www150.statcan.gc.ca/n1/daily-quotidien/260629/dq260629a-eng.htm)
 
+[Study: Portrait of the Latin American populations in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/260629/dq260629a-eng.htm)
 
-[Labour market experiences of recent immigrants, 2019 to 2025](https://www150.statcan.gc.ca/n1/daily-quotidien/260407/dq260407a-eng.htm)
+[![Study: The homeownership trajectories of recent immigrants, 2017 to 2021](https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/release_photo/11258.jpg)](https://www150.statcan.gc.ca/n1/daily-quotidien/260616/dq260616c-eng.htm)
 
-[![Trends in the wealth gap between immigrant and Canadian-born families from 2016 to 2023](https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/release_photo/9722.jpg)](https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026003/article/00002-eng.htm)
+[Study: The homeownership trajectories of recent immigrants, 2017 to 2021](https://www150.statcan.gc.ca/n1/daily-quotidien/260616/dq260616c-eng.htm)
 
+[![Study: Portrait of the Filipino Populations in Canada](https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/release_photo/11198.jpg)](https://www150.statcan.gc.ca/n1/daily-quotidien/260602/dq260602b-eng.htm)
 
-[Trends in the wealth gap between immigrant and Canadian-born families from 2016 to 2023](https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026003/article/00002-eng.htm)
+[Study: Portrait of the Filipino Populations in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/260602/dq260602b-eng.htm)
 
-[![Criminal court outcomes of Black accused persons in Canada
-            ](https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/release_photo/10977.jpg)](https://www150.statcan.gc.ca/n1/daily-quotidien/260324/dq260324a-eng.htm)
+[![Occupational match and economic outcomes of recent immigrants: A broad assessment](https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/release_photo/9722.jpg)](https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026005/article/00004-eng.htm)
 
-
-[Criminal court outcomes of Black accused persons in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/260324/dq260324a-eng.htm)
-
-[![Study: Portrait of the Chinese populations in Canada](https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/release_photo/10826.jpg)](https://www150.statcan.gc.ca/n1/daily-quotidien/260213/dq260213a-eng.htm)
-
-
-[Study: Portrait of the Chinese populations in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/260213/dq260213a-eng.htm)
+[Occupational match and economic outcomes of recent immigrants: A broad assessment](https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026005/article/00004-eng.htm)
 
 [![Canada in 2041: A larger, more diverse population, with greater differences between regions ](/sites/default/files/images/demography-statistics-feature-canada-in-2041-v2.png)](https://www150.statcan.gc.ca/n1/daily-quotidien/220908/dq220908a-eng.htm)
 
-
 [Canada in 2041: A larger, more diverse population, with greater differences between regions](https://www150.statcan.gc.ca/n1/daily-quotidien/220908/dq220908a-eng.htm)
 
-[![Video: How does Statistics Canada estimate the number of non-permanent residents?](/sites/default/files/images/posters/non-permanent-residents-en.png)](https://www.statcan.gc.ca/en/sc/video/non-permanent-residents) 
-
+[![Video: How does Statistics Canada estimate the number of non-permanent residents?](/sites/default/files/images/posters/non-permanent-residents-en.png)](https://www.statcan.gc.ca/en/sc/video/non-permanent-residents)
 
 [Video: How does Statistics Canada estimate the number of non-permanent residents?](https://www.statcan.gc.ca/en/sc/video/non-permanent-residents)
 
@@ -106,7 +99,7 @@ Bringing together data, tools and reports to provide you with the latest informa
 
   **17.6%**
 
-More key indicators 
+More key indicators
 
 - [Percentage of recent immigrants (2016 to 2021) among the total population](https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm?statisticsProgramId=3902&activeIndicatorId=21140031&visualizationGeographyLevelId=2&focusGeographyId=2021A000011124 "Census Program Data Viewer")  
   (2021 Census of Population)
@@ -176,4 +169,4 @@ Visit Statistics Canada's Centre for [Gender, Diversity and Inclusion Statistics
 - [General Social Survey, an Overview (2019)](https://www150.statcan.gc.ca/n1/pub/89f0115x/89f0115x2019001-eng.htm)
 
 Date modified:
-:   2026-04-14
+:   2026-07-10

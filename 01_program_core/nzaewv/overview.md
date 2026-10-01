@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 44edd58f7c4b5f37
+content_hash: a1c23a16c2a94645
 country: NZ
 file_role: overview
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct
@@ -41,7 +41,7 @@ Apply for this visa if you have a job offer from an Accredited Employer Work Vis
 
   80% within
 
-  7 weeks
+  5.5 weeks
 - #### Residence option
 
   Can lead to a resident visa
@@ -134,8 +134,6 @@ To apply for this visa, you must:
 - have a good character
 - have a genuine reason for coming to New Zealand.
 
----
-
 ### New Zealand job offer
 
 You must have an offer of full-time work from an accredited employer.
@@ -202,8 +200,6 @@ Your job offer cannot be for:
 You must apply for a different work visa for these types of jobs.
 
 [Visas for working in New Zealand](/work/visas-for-working-in-new-zealand/)
-
----
 
 ### Minimum AEWV skill requirements
 
@@ -323,8 +319,6 @@ If your job is ANZSCO or NOL skill level 4 or 5 the total time you can stay in N
 
 [National Occupation List occupations used for an AEWV](/work/requirements-for-work-visas/green-list-occupations-qualifications-and-skills/national-occupation-list-occupations-used-for-an-aewv/)
 
----
-
 ### Employer's requirements of skills and experience
 
 You must show you have the job skills and experience your employer has asked for.
@@ -343,8 +337,6 @@ However, it may include other evidence such as:
 - additional qualifications specific to the role, or
 - certifications specific to the role.
 
----
-
 ### Occupational registration
 
 In New Zealand you have to be registered to work in some jobs — this is called occupational registration.
@@ -356,8 +348,6 @@ If you need occupational registration, you must provide either:
 - confirmation from the appropriate registration body that your job is eligible for New Zealand registration.
 
 [Check if you need occupational registration for your job](/work/requirements-for-work-visas/green-list-occupations-qualifications-and-skills/check-if-you-need-occupational-registration-for-your-job/)
-
----
 
 ### Time required outside New Zealand
 
@@ -373,8 +363,6 @@ The total amount of time you can stay in New Zealand (also called your maximum c
 If you have an AEWV with a visa length that is less than the total time you can stay in New Zealand, you can apply for another AEWV before your current AEWV expires without leaving New Zealand for 12 months.
 
 [Applying for another AEWV](/work/requirements-for-work-visas/how-long-you-can-work-on-work-visas/applying-for-another-aewv/)
-
----
 
 ### English language
 
@@ -404,8 +392,6 @@ English language requirements for the Accredited Employer Work Visa
 
 When we assess your application, we may ask for more evidence of your ability to speak and understand English. If we do, you may have to sit a test and send us the results.
 
----
-
 ### Partner and dependent children
 
 You cannot include your partner and dependent children in an Accredited Employer Work Visa (AEWV). However, if you have an AEWV you may be able to support:
@@ -418,8 +404,6 @@ You cannot include your partner and dependent children in an Accredited Employer
 Supporting a visa for your partner or dependent children depends on how much you earn and your job skill level.
 
 [Bringing family if you have an Accredited Employer Work Visa (AEWV)](/process-to-apply/once-you-have-a-visa/bringing-family-to-new-zealand/bringing-family-if-you-have-a-work-visa/bringing-family-if-you-have-an-accredited-employer-work-visa-aewv/)
-
----
 
 ### Health
 
@@ -438,8 +422,6 @@ You must provide a new chest X-ray certificate, even if you have provided one to
 - are now coming to New Zealand for more than 6 months — if you are in New Zealand this includes any time you have already spent here.
 
 Countries with a low incidence of tuberculosis
-
----
 
 ### Character
 
@@ -479,8 +461,6 @@ If you do not provide a valid police certificate at the time of application, we 
 #### Applicants from the Philippines
 
 The acceptable character certificate for the Philippines is the NBI clearance.
-
----
 
 ### Genuine intentions
 
@@ -545,7 +525,7 @@ Filipino citizens applying from within the Philippines
 Filipino citizens departing the Philippines must have a passport that is valid for 6 months after the intended date of departure. This is to meet the exit requirements in the Philippines.
 
 
-Citizens of China applying from China, Hong Kong or Macao
+Citizens of China applying from China, Hong Kong or Macau
 
 
 You must also provide a completed supplementary form giving more details of your background and intentions.
@@ -558,15 +538,15 @@ You must also provide a completed supplementary form giving more details of your
 You may also provide your Hukou household registration book as an additional form of identity.
 
 
-Applicants from Hong Kong or Macao applying within China, Hong Kong or Macao
+Applicants from Hong Kong or Macau applying within China, Hong Kong or Macau
 
 
-If you are applying within China, Hong Kong or Macao, you must also provide a completed supplementary form if you are applying with a:
+If you are applying within China, Hong Kong or Macau, you must also provide a completed supplementary form if you are applying with a:
 
 - passport from Hong Kong
 - Hong Kong document of identity
 - Hong Kong British National Overseas passport (HKBNO)
-- passport from Macao.
+- passport from Macau.
 
 [Supplementary Form for Hong Kong and Macau visitors, workers and students (INZ 1220) 補充表 - 適用於香港及澳門居民的 訪問、學生及工作申請  
 

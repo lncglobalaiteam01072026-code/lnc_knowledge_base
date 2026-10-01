@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 0937f15d0c7b517d
+content_hash: 2c764b1b315ce80d
 file_role: overview
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -15,6 +15,16 @@ topic: program_overview
 version: '1.0'
 ---
 
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Farm Stream**
+## Explore pages in:
+Farm Stream 
+  * [Eligibility](https://www.alberta.ca/aaip-farm-stream-eligibility)
+  * [How to apply](https://www.alberta.ca/aaip-farm-stream-how-to-apply)
+  * [After you are nominated](https://www.alberta.ca/aaip-farm-stream-after-you-are-nominated)
+
+
+To ensure fair access to the program and maintain processing times, review the document checklist and include all required documents. Failure to include documents will impact processing times while AAIP clarifies your information.
 ## Program and fee updates
 Learn about [important updates](https://www.alberta.ca/aaip-updates "Alberta Advantage Immigration Program – Updates") to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.
 ## Employer fees are illegal

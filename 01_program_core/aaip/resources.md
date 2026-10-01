@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 0ec1de876584d5aa
+content_hash: e042825b2670b6cc
 file_role: resources
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,13 @@ source_url: https://www.alberta.ca/aaip-resources
 topic: resources
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Learning resources**
+## Explore pages in:
+Learning resources 
+  * [AAIP webinars](https://www.alberta.ca/alberta-advantage-immigration-program-webinars)
+
 
 ## Introduction
 Below are tools and resources to help you complete an Expression of Interest, and if you are selected, how to apply to the Alberta Advantage Immigration Program (AAIP). On the webinar page, you can register for upcoming webinars and watch recorded webinars.
@@ -38,12 +45,10 @@ The [International Qualifications Assessment Service](https://www.alberta.ca/int
 ## Translation
 AAIP accepts educational documents, work reference letters or other documents in English or French. Documents in other languages may require translation. Details on translation requirements are included in AAIP Document Checklists for each stream.
 ## Resources
+Fillable PDF forms may not open properly on some mobile devices and web browsers. See the [step-by-step guide](https://cfr.forms.gov.ab.ca/content/formopenhelp.html) or contact [PDF form technical support](https://www.alberta.ca/pdf-form-technical-support "PDF form technical support").
   * [Worker Stream Expression of Interest points grid](https://www.alberta.ca/system/files/im-worker-stream-expression-of-interest-points-grid.pdf "im-worker-stream-expression-of-interest-points-grid.pdf")
   * [Helpful Hints for the AAIP Portal](https://www.alberta.ca/system/files/jeti-aaip-helpful-hints.pdf "jeti-aaip-helpful-hints.pdf")
   * [Worker Stream Document Checklist](https://www.alberta.ca/system/files/jeti-aaip-worker-streams-document-checklist.pdf "jeti-aaip-worker-streams-document-checklist.pdf")
   * [Employer Declaration and Authorization](https://cfr.forms.gov.ab.ca/Form/AINP13484)
   * [Use of Representative form](https://www.alberta.ca/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf "lbr-aaip-candidate-representative-form.pdf")
   * [Spouse, Common-Law Partners and Dependants Authorization form](https://www.alberta.ca/system/files/custom_downloaded_images/lbr-aaip-authorization-spouse-dependants-information-form.pdf "lbr-aaip-authorization-spouse-dependants-information-form.pdf") – this is referred to as Dependants Authorization form in the AAIP portal
-
-
-Fillable PDF forms may not open properly on some mobile devices and web browsers. See the [step-by-step guide](https://cfr.forms.gov.ab.ca/content/formopenhelp.html) or contact [PDF form technical support](https://www.alberta.ca/pdf-form-technical-support "PDF form technical support").

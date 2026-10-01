@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 0266a1878e83cd2a
+content_hash: ab2d0be0e9ff70bb
 file_role: after_nominated
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -15,6 +15,25 @@ topic: post_nomination
 version: '1.0'
 ---
 
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Farm Stream**
+## Explore pages in:
+[Farm Stream](https://www.alberta.ca/aaip-farm-stream)
+  * [Eligibility](https://www.alberta.ca/aaip-farm-stream-eligibility)
+  * [How to apply](https://www.alberta.ca/aaip-farm-stream-how-to-apply)
+  * After you are nominated 
+
+
+## On this page:
+  * [Overview](#jumplinks-0)
+  * [Apply for permanent residence](#jumplinks-1)
+  * [After you apply](#jumplinks-2)
+  * [Extend your nomination](#jumplinks-3)
+  * [Forms and documents](#jumplinks-4)
+  * [Contact](#jumplinks-5)
+
+
+Read [important program and fee updates](https://www.alberta.ca/aaip-updates "Alberta Advantage Immigration Program – Updates") to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.
 ## Overview
 Once you are nominated for the Farm Stream, there are several things to consider:
   * You must apply for permanent residence within 6 months. 

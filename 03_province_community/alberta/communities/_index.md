@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: ed8c1ba0fe4107f0
+content_hash: 7bda086dedbf3b4e
 file_role: _index
 lang: en
-last_updated: '2026-07-10'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: AAIP
 province: AB
@@ -14,6 +14,21 @@ source_url: https://www.alberta.ca/aaip-rural-entrepreneur-stream-participating-
 topic: communities
 version: '1.0'
 ---
+
+[Skip to On this page](#on-this-page) [Skip to Explore pages in](#explore-pages-in)
+Explore pages in: **Rural Entrepreneur Stream**
+## Explore pages in:
+[Rural Entrepreneur Stream](https://www.alberta.ca/aaip-rural-entrepreneur-stream)
+  * [Eligibility](https://www.alberta.ca/aaip-rural-entrepreneur-stream-eligibility)
+  * [How to apply](https://www.alberta.ca/aaip-rural-entrepreneur-stream-how-to-apply)
+  * [After you are nominated](https://www.alberta.ca/aaip-rural-entrepreneur-stream-after-you-are-nominated)
+  * Participating communities 
+
+
+## On this page:
+  * [Overview](#jumplinks-0)
+  * [Contact](#jumplinks-1)
+
 
 ## Overview
 Candidates interested in a specific rural Alberta community can connect with the community contact person to discuss their business proposal and schedule an exploratory visit. Each community has their own process for scheduling an exploratory visit.
