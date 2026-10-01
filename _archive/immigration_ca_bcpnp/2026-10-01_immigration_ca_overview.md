@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 8ecc4b5cf7ccfd56
+content_hash: 819d90e9b1c1b2ee
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-10-01'
+last_updated: '2026-09-30'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -16,12 +16,12 @@ version: '1.0'
 ---
 
 [Skip to content](#content)
-  * [ ![](https://immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-colombie-britannique/)
+  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://immigration.ca/fr/immigration-colombie-britannique/)
 
 
 Clear
 Search
-[ ![Immigration.ca | Live and Work in Canada](https://immigration.ca/wp-content/uploads/2021/01/Live-and-Work-in-Canada.jpg) ](https://immigration.ca)
+[ ![Immigration.ca | Live and Work in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2021/01/Live-and-Work-in-Canada.jpg) ](https://immigration.ca)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
 [ Book a Consultation ](https://immigration.ca/british-columbia-immigration/</immigration-telephone-consultation>)
 [ Free Evaluation Form ](https://form.immigration.ca/skilled-worker/)
@@ -29,7 +29,7 @@ Search
 [ Book a Consultation ](https://immigration.ca/british-columbia-immigration/</immigration-telephone-consultation>)
   * [About](https://immigration.ca/british-columbia-immigration/</about-us/>)
     * [About Us](https://immigration.ca/about-us/)
-    * [Our Team of Immigration Professionals​](https://immigration.ca/our-team-of-immigration-professionals/)
+    * [Our Team of Immigration Professionals](https://immigration.ca/our-team-of-immigration-professionals/)
     * [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
   * Immigration
     * [Canada Immigration Overview](https://immigration.ca/immigration-to-canada-overview/)
@@ -165,7 +165,7 @@ Search
 
   * [About](https://immigration.ca/british-columbia-immigration/</about-us/>)
     * [About Us](https://immigration.ca/about-us/)
-    * [Our Team of Immigration Professionals​](https://immigration.ca/our-team-of-immigration-professionals/)
+    * [Our Team of Immigration Professionals](https://immigration.ca/our-team-of-immigration-professionals/)
     * [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
   * Immigration
     * [Canada Immigration Overview](https://immigration.ca/immigration-to-canada-overview/)
@@ -300,14 +300,14 @@ Search
 
 
 # British Columbia Immigration: The BC PNP in 2026
-![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
+![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
 Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
 Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
 Published: **November 23, 2018**
 Last updated: **September 10, 2026**
 Reading time: 8 min
 Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
-![British Columbia PNP Draw Province Issues 200 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/10/British-Columbia-PNP-Draw-Province-Issues-200-Canada-Immigration-Invitations.jpg)
+![British Columbia PNP Draw Province Issues 200 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/British-Columbia-PNP-Draw-Province-Issues-200-Canada-Immigration-Invitations.jpg)
 ### On This Page, You Will Find:
   * British Columbia’s 2026 nomination allocation and what it means for applicants
   * How the BC Provincial Nominee Program works
@@ -408,7 +408,7 @@ There are no BC PNP student streams and the province confirmed in April 2026 tha
 A Confirmation of Nomination has an expiry date, and the federal permanent residence application must be submitted before it expires. Provincial nomination processing and federal processing are separate stages, each with its own timelines, so applicants should check IRCC’s current processing times before planning a move.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
 About the author
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
+![Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
 [Colin R. Singer, LL.L, BA](https://immigration.ca/author/colin-singer/)
 Canadian Immigration Lawyer · Founder & Managing Partner, immigration.ca
 Colin R. Singer has been a licensed immigration lawyer in good standing with the [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) for over 35 years and has led immigration.ca, Canada’s longest-standing online immigration platform, since 1994. He has [testified before the House of Commons Standing Committee on Citizenship and Immigration](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence), contributed to [Law360 (LexisNexis)](https://www.law360.ca/ca/search?q=Colin+Singer) since 2015 and to national media including the Financial Post, and has served as a lifetime [Governor of the Fondation du Barreau du Québec](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1) since 2009.
@@ -419,18 +419,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![](https://immigration.ca/wp-content/uploads/2025/09/DNA-Testing-40x40.jpg)](https://immigration.ca/canada-extends-ebola-immigration-restrictions-until-november-27/)
-[Canada Extends Ebola Immigration Restrictions Until November 27](https://immigration.ca/canada-extends-ebola-immigration-restrictions-until-november-27/)September 30, 2026
-  * [![Here Are The Top 10 Most In-Demand Jobs In Newfoundland and Labrador](https://immigration.ca/wp-content/uploads/2022/11/Here-Are-The-Top-10-Most-In-Demand-Jobs-In-Newfoundland-and-Labrador-40x40.jpg)](https://immigration.ca/canada-funds-newfoundland-and-labrador-push-to-recruit-francophone-workers/)
-[Canada Funds Newfoundland And Labrador Push To Recruit Francophone Workers](https://immigration.ca/canada-funds-newfoundland-and-labrador-push-to-recruit-francophone-workers/)September 30, 2026
-  * [![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-29-2026/)
-[Canada Invites 2,000 Canadian Experience Class Candidates in September 29 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-29-2026/)September 30, 2026
-  * [![Prime Minister Mark Carney in a dark suit and blue tie, photographed in front of industrial pipefitting equipment at a Calgary union training facility.](https://immigration.ca/wp-content/uploads/2026/09/Mark_Carney_in_Calgary_after_Canada–Alberta_energy_agreement_May_15_2026-40x40.jpg)](https://immigration.ca/carney-signals-canada-may-raise-immigration-levels-again/)
-[Carney Signals Canada May Raise Immigration Levels Again](https://immigration.ca/carney-signals-canada-may-raise-immigration-levels-again/)September 29, 2026
-  * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-733-provincial-nominees-express-entry-september-28-2026/)
-[Canada Invites 733 Provincial Nominees in September 28 Express Entry Draw](https://immigration.ca/canada-invites-733-provincial-nominees-express-entry-september-28-2026/)September 29, 2026
-  * [![Newcomers Believe Canadian Immigration Targets Are Too High](https://immigration.ca/wp-content/uploads/2024/04/Newcomers-Believe-Canadian-Immigration-Targets-Are-Too-High-40x40.jpg)](https://immigration.ca/canada-immigration-targets-are-creating-long-permanent-residence-waiting-lists/)
-[Canada Immigration Targets Are Creating Long Permanent Residence Waiting Lists](https://immigration.ca/canada-immigration-targets-are-creating-long-permanent-residence-waiting-lists/)September 28, 2026
+  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-33-rural-health-bc-pnp-draw-september-17-2026/)
+[British Columbia Invites 33 Candidates In September 17 BC PNP Rural Health Draw](https://immigration.ca/british-columbia-invites-33-rural-health-bc-pnp-draw-september-17-2026/)September 18, 2026
+  * [![Canada Issues 3,750 Express Entry Invitations to Apply for Healthcare Occupations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Canada-Issues-3750-Express-Entry-Invitations-to-Apply-for-Healthcare-Occupations-40x40.jpg)](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)
+[How Canada Is Giving Health Workers Multiple Routes Through Express Entry In 2026](https://immigration.ca/how-canada-is-giving-health-workers-multiple-routes-through-express-entry-in-2026/)September 17, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-250-senior-managers-express-entry-september-16-2026/)
+[Canada Invites 250 Senior Managers in September 16 Express Entry Draw](https://immigration.ca/canada-invites-250-senior-managers-express-entry-september-16-2026/)September 17, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/04/Office-workers-reviewing-submitted-job-applications-for-employment-opportunity-40x40.jpg)](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)
+[Beyond Ottawa’s Processing Delays: Preparing And Enforcing A Citizenship-By-Descent Claim](https://immigration.ca/preparing-enforcing-citizenship-by-descent-claim/)September 15, 2026
+  * [![Quebec Caps Family Sponsorship Immigration Applications](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Quebec-Caps-Family-Sponsorship-Immigration-Applications-40x40.jpg)](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)
+[Canada Ends Special Family Sponsorship Policy Over ‘Integrity Concerns’ – Who Is Affected?](https://immigration.ca/canada-ends-special-family-sponsorship-policy-over-integrity-concerns-who-is-affected/)September 15, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2023/08/Young-Professionals-Immigration-to-Canada-40x40.jpg)](https://immigration.ca/canada-opens-new-lmia-exempt-work-permit-pathway-for-british-professionals/)
+[Canada Opens New LMIA-Exempt Work Permit Pathway For British Professionals](https://immigration.ca/canada-opens-new-lmia-exempt-work-permit-pathway-for-british-professionals/)September 15, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -453,8 +453,8 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
   * [ Fraud alert ](https://immigration.ca/fraud-alert)
 
 
-![](https://immigration.ca/wp-content/uploads/2022/01/Logo-on-dark-transparent-bg-defringe-1024x256.png)
-  * [ ![](https://immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-colombie-britannique/)
+![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2022/01/Logo-on-dark-transparent-bg-defringe-1024x256.png)
+  * [ ![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français (French)](https://immigration.ca/fr/immigration-colombie-britannique/)
 
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)

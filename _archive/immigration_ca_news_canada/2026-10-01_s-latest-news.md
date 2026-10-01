@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 0658b643a27315a9
+content_hash: 3f68da9a41d2407c
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-01'
+last_updated: '2026-09-30'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2025/09/DNA-Testing-300x157.jpg)](https://immigration.ca/canada-extends-ebola-immigration-restrictions-until-november-27/)
+[![](https://immigration.ca/wp-content/uploads/2025/01/Mark-Carney-How-Canada-Permanent-Residents-Can-Vote-For-New-Liberal-Party-Leader-300x157.jpg)](https://immigration.ca/carney-signals-canada-may-raise-immigration-levels-again/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Extends Ebola Immigration Restrictions Until November 27 ](https://immigration.ca/canada-extends-ebola-immigration-restrictions-until-november-27/)
-[ Read More » ](https://immigration.ca/canada-extends-ebola-immigration-restrictions-until-november-27/)
-Colin R. Singer  September 30, 2026 
-[![Here Are The Top 10 Most In-Demand Jobs In Newfoundland and Labrador](https://immigration.ca/wp-content/uploads/2022/11/Here-Are-The-Top-10-Most-In-Demand-Jobs-In-Newfoundland-and-Labrador-300x169.jpg)](https://immigration.ca/canada-funds-newfoundland-and-labrador-push-to-recruit-francophone-workers/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Funds Newfoundland And Labrador Push To Recruit Francophone Workers ](https://immigration.ca/canada-funds-newfoundland-and-labrador-push-to-recruit-francophone-workers/)
-[ Read More » ](https://immigration.ca/canada-funds-newfoundland-and-labrador-push-to-recruit-francophone-workers/)
-Colin R. Singer  September 30, 2026 
+###  [ Carney Signals Canada May Raise Immigration Levels Again ](https://immigration.ca/carney-signals-canada-may-raise-immigration-levels-again/)
+[ Read More » ](https://immigration.ca/carney-signals-canada-may-raise-immigration-levels-again/)
+Colin R. Singer  September 29, 2026 
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-300x169.jpg)](https://immigration.ca/canada-invites-733-provincial-nominees-express-entry-september-28-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Invites 733 Provincial Nominees in September 28 Express Entry Draw ](https://immigration.ca/canada-invites-733-provincial-nominees-express-entry-september-28-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-733-provincial-nominees-express-entry-september-28-2026/)
+Colin Singer  September 29, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,15 +66,15 @@ Melissa Gosselin  May 1, 2025
 Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
 [ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
 Colin R. Singer  October 15, 2018 
-[![](https://immigration.ca/wp-content/uploads/2025/09/DNA-Testing-40x40.jpg)](https://immigration.ca/canada-extends-ebola-immigration-restrictions-until-november-27/)
-[Canada Extends Ebola Immigration Restrictions Until November 27](https://immigration.ca/canada-extends-ebola-immigration-restrictions-until-november-27/)September 30, 2026
-[![Here Are The Top 10 Most In-Demand Jobs In Newfoundland and Labrador](https://immigration.ca/wp-content/uploads/2022/11/Here-Are-The-Top-10-Most-In-Demand-Jobs-In-Newfoundland-and-Labrador-40x40.jpg)](https://immigration.ca/canada-funds-newfoundland-and-labrador-push-to-recruit-francophone-workers/)
-[Canada Funds Newfoundland And Labrador Push To Recruit Francophone Workers](https://immigration.ca/canada-funds-newfoundland-and-labrador-push-to-recruit-francophone-workers/)September 30, 2026
-[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-29-2026/)
-[Canada Invites 2,000 Canadian Experience Class Candidates in September 29 Express Entry Draw](https://immigration.ca/canada-invites-2000-canadian-experience-class-express-entry-september-29-2026/)September 30, 2026
-[![Prime Minister Mark Carney in a dark suit and blue tie, photographed in front of industrial pipefitting equipment at a Calgary union training facility.](https://immigration.ca/wp-content/uploads/2026/09/Mark_Carney_in_Calgary_after_Canada–Alberta_energy_agreement_May_15_2026-40x40.jpg)](https://immigration.ca/carney-signals-canada-may-raise-immigration-levels-again/)
+[![](https://immigration.ca/wp-content/uploads/2025/01/Mark-Carney-How-Canada-Permanent-Residents-Can-Vote-For-New-Liberal-Party-Leader-40x40.jpg)](https://immigration.ca/carney-signals-canada-may-raise-immigration-levels-again/)
 [Carney Signals Canada May Raise Immigration Levels Again](https://immigration.ca/carney-signals-canada-may-raise-immigration-levels-again/)September 29, 2026
 [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-733-provincial-nominees-express-entry-september-28-2026/)
 [Canada Invites 733 Provincial Nominees in September 28 Express Entry Draw](https://immigration.ca/canada-invites-733-provincial-nominees-express-entry-september-28-2026/)September 29, 2026
 [![Newcomers Believe Canadian Immigration Targets Are Too High](https://immigration.ca/wp-content/uploads/2024/04/Newcomers-Believe-Canadian-Immigration-Targets-Are-Too-High-40x40.jpg)](https://immigration.ca/canada-immigration-targets-are-creating-long-permanent-residence-waiting-lists/)
 [Canada Immigration Targets Are Creating Long Permanent Residence Waiting Lists](https://immigration.ca/canada-immigration-targets-are-creating-long-permanent-residence-waiting-lists/)September 28, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-41-invitations-september-25-2026/)
+[Newfoundland and Labrador Issues 41 Invitations in September 25 Draw](https://immigration.ca/newfoundland-and-labrador-issues-41-invitations-september-25-2026/)September 26, 2026
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)
+[Manitoba Issues 474 Letters of Advice to Apply in MPNP Draw #280](https://immigration.ca/manitoba-issues-474-letters-of-advice-to-apply-mpnp-draw-280-september-24-2026/)September 25, 2026
+[![Find Out Which Sectors Have Most Canada Job Vacancies](https://immigration.ca/wp-content/uploads/2024/06/Find-Out-Which-Sectors-Have-Most-Canada-Job-Vacancies-40x40.jpg)](https://immigration.ca/canada-job-vacancies-hold-above-500000-as-demand-rises-for-trades-and-tech-workers/)
+[Canada Job Vacancies Hold Above 500,000 As Demand Rises For Trades And Tech Workers](https://immigration.ca/canada-job-vacancies-hold-above-500000-as-demand-rises-for-trades-and-tech-workers/)September 25, 2026
