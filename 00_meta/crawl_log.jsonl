@@ -3497,3 +3497,6 @@
 {"run_id": "2026-10-02T06:36Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": true, "duration_s": 9.2, "timestamp": "2026-10-02T06:36:04.916549+00:00"}
 {"run_id": "2026-10-02T09:04Z_monthly", "source_id": "jobbank_alberta", "status": "ok", "changed": true, "duration_s": 0.7, "timestamp": "2026-10-02T09:04:19.292105+00:00"}
 {"run_id": "2026-10-02T09:04Z_monthly", "source_id": "jobbank_bc", "status": "ok", "changed": true, "duration_s": 0.6, "timestamp": "2026-10-02T09:04:19.292105+00:00"}
+{"run_id": "2026-10-03T05:58Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": true, "duration_s": 8.0, "timestamp": "2026-10-03T05:58:45.410758+00:00"}
+{"run_id": "2026-10-03T05:58Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": true, "duration_s": 7.7, "timestamp": "2026-10-03T05:58:45.410758+00:00"}
+{"run_id": "2026-10-03T05:58Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": true, "duration_s": 8.7, "timestamp": "2026-10-03T05:58:45.410758+00:00"}
