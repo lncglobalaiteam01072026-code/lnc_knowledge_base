@@ -4,7 +4,7 @@ chunk_strategy: standard
 content_hash: bacea3cc8fb56fcb
 file_role: pnp_processing_times
 lang: en
-last_updated: '2026-10-05'
+last_updated: '2026-10-01'
 priority_weight: 1
 program: IRCC
 retrieval_strategy: direct
