@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: a4afae49cdb13867
+content_hash: 735eabc993d9f22d
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-05'
+last_updated: '2026-09-28'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -126,7 +126,7 @@ CanadaVisa.com | 420 Notre-Dame Ouest., Suite 310, Montreal, QC, Canada｜H2Y 1V
 * [**Study in Canada**](https://www.canadavisa.com/study-in-canada-options.html)
 [Getting Admitted](https://www.canadavisa.com/get-admission-to-a-canadian-educational-institution.html) [Designated Learning Institutions](https://www.canadavisa.com/designated-learning-institution-list.html) [Letter of Acceptance](https://www.canadavisa.com/letter-of-acceptance-to-a-canadian-designated-learning-institution.html) [Programs and Areas of Study](https://www.canadavisa.com/programs-and-areas-of-study.html) [Levels of Study](https://www.canadavisa.com/levels-of-post-secondary-study-in-canada.html) [Transfer Programs](https://www.canadavisa.com/transfer-programs.html) [Pathway Programs](https://www.canadavisa.com/pathway-programs.html) [Accommodation](https://www.canadavisa.com/accommodation-options-for-international-students-in-canada.html) [Financial Aid](https://www.canadavisa.com/financial-aid-for-international-students.html) [Student Health Insurance](https://www.canadavisa.com/student-health-insurance-across-canada.html) [Compliance](https://www.canadavisa.com/international-students-in-canada-compliance.html)
 * [**Get a Study Permit**](https://www.canadavisa.com/canadian-temporary-study-visa.html)
-[Student Direct Stream](https://www.canadavisa.com/student-direct-stream-sds-canada.html) [Study without a Study Permit](https://www.canadavisa.com/study-in-canada-without-study-permit.html) [Study Permit Refusals](https://www.canadavisa.com/study-permit-application-refusals.html) [Renewing or Changing a Study Permit](https://www.canadavisa.com/renewing-or-changing-your-study-permit.html)
+[Student Direct Stream](https://www.canadavisa.com/student-direct-stream-sds-canada.html) [TD International Student GIC Program](https://www.canadavisa.com/td-isgic) [Study without a Study Permit](https://www.canadavisa.com/study-in-canada-without-study-permit.html) [Study Permit Refusals](https://www.canadavisa.com/study-permit-application-refusals.html) [Renewing or Changing a Study Permit](https://www.canadavisa.com/renewing-or-changing-your-study-permit.html)
 * [**Study Pathways to PR**](https://www.canadavisa.com/studypr.html)
 * [**Bringing your Family to Canada**](https://www.canadavisa.com/study-in-canada-bringing-a-partner-and-family-members-to-canada.html)
 * [**Working While Studying**](https://www.canadavisa.com/work-while-studying.html)
