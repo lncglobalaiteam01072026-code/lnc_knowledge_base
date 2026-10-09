@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 83a73d7766545219
+content_hash: e651d101624fe352
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-09'
+last_updated: '2026-10-08'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2024/10/Application-Rejection-300x157.jpg)](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)
+[![Canada To Help More Refugees From Gaza](https://immigration.ca/wp-content/uploads/2024/05/Canada-To-Help-More-Refugees-From-Gaza-300x169.jpg)](https://immigration.ca/canada-changes-refugee-claim-application-process-from-november-3/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Bans AI-Generated Personal Evidence In Immigration And Refugee Hearings ](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)
-[ Read More » ](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)
-Colin R. Singer  October 8, 2026 
-[![Quebec Premier Presses Federal Government For More Immigration Power](https://immigration.ca/wp-content/uploads/2024/05/Quebec-Premier-Presses-Federal-Government-For-More-Immigration-Power-300x169.jpg)](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)
+###  [ Canada Changes Refugee Claim Application Process From November 3 ](https://immigration.ca/canada-changes-refugee-claim-application-process-from-november-3/)
+[ Read More » ](https://immigration.ca/canada-changes-refugee-claim-application-process-from-november-3/)
+Colin R. Singer  October 6, 2026 
+[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-300x169.jpg)](https://immigration.ca/canada-clarifies-work-permit-job-offer-rules-for-home-based-businesses/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Quebec Election Outcome Puts Major Immigration Cuts On The Agenda ](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)
-[ Read More » ](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)
-Colin R. Singer  October 8, 2026 
+###  [ Canada Clarifies Work Permit Job Offer Rules For Home-Based Businesses ](https://immigration.ca/canada-clarifies-work-permit-job-offer-rules-for-home-based-businesses/)
+[ Read More » ](https://immigration.ca/canada-clarifies-work-permit-job-offer-rules-for-home-based-businesses/)
+Colin R. Singer  October 6, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,15 +66,15 @@ Melissa Gosselin  May 1, 2025
 Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
 [ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
 Colin R. Singer  October 15, 2018 
-[![](https://immigration.ca/wp-content/uploads/2024/10/Application-Rejection-40x40.jpg)](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)
-[Canada Bans AI-Generated Personal Evidence In Immigration And Refugee Hearings](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)October 8, 2026
-[![Quebec Premier Presses Federal Government For More Immigration Power](https://immigration.ca/wp-content/uploads/2024/05/Quebec-Premier-Presses-Federal-Government-For-More-Immigration-Power-40x40.jpg)](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)
-[Quebec Election Outcome Puts Major Immigration Cuts On The Agenda](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)October 8, 2026
-[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-90-invitations-october-2026-pnp-draw/)
-[Prince Edward Island Issues 90 Invitations in October 2026 PNP Draw](https://immigration.ca/prince-edward-island-issues-90-invitations-october-2026-pnp-draw/)October 8, 2026
 [![Canada To Help More Refugees From Gaza](https://immigration.ca/wp-content/uploads/2024/05/Canada-To-Help-More-Refugees-From-Gaza-40x40.jpg)](https://immigration.ca/canada-changes-refugee-claim-application-process-from-november-3/)
 [Canada Changes Refugee Claim Application Process From November 3](https://immigration.ca/canada-changes-refugee-claim-application-process-from-november-3/)October 6, 2026
 [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canada-clarifies-work-permit-job-offer-rules-for-home-based-businesses/)
 [Canada Clarifies Work Permit Job Offer Rules For Home-Based Businesses](https://immigration.ca/canada-clarifies-work-permit-job-offer-rules-for-home-based-businesses/)October 6, 2026
 [![How Canada Processes Work Permit Applications for Regulated Occupations Such As Doctors](https://immigration.ca/wp-content/uploads/2024/05/How-Canada-Processes-Work-Permit-Applications-for-Regulated-Occupations-Such-As-Doctors-40x40.jpg)](https://immigration.ca/canada-makes-key-change-to-job-offer-rules-for-work-permit-applications/)
 [Canada Makes Key Change To Job Offer Rules For Work Permit Applications](https://immigration.ca/canada-makes-key-change-to-job-offer-rules-for-work-permit-applications/)October 6, 2026
+[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-3500-trades-occupations-express-entry-october-1-2026/)
+[Canada Invites 3,500 Trades Candidates in October 1 Express Entry Draw](https://immigration.ca/canada-invites-3500-trades-occupations-express-entry-october-1-2026/)October 2, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/09/DNA-Testing-40x40.jpg)](https://immigration.ca/canada-extends-ebola-immigration-restrictions-until-november-27/)
+[Canada Extends Ebola Immigration Restrictions Until November 27](https://immigration.ca/canada-extends-ebola-immigration-restrictions-until-november-27/)September 30, 2026
+[![Here Are The Top 10 Most In-Demand Jobs In Newfoundland and Labrador](https://immigration.ca/wp-content/uploads/2022/11/Here-Are-The-Top-10-Most-In-Demand-Jobs-In-Newfoundland-and-Labrador-40x40.jpg)](https://immigration.ca/canada-funds-newfoundland-and-labrador-push-to-recruit-francophone-workers/)
+[Canada Funds Newfoundland And Labrador Push To Recruit Francophone Workers](https://immigration.ca/canada-funds-newfoundland-and-labrador-push-to-recruit-francophone-workers/)September 30, 2026
