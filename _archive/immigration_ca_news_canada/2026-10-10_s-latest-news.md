@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: edc5a1b5756f5acc
+content_hash: 83a73d7766545219
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-10'
+last_updated: '2026-10-09'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Medical Immigration to Canada](https://immigration.ca/wp-content/uploads/2016/08/Medical-Immigration-to-Canada-300x157.jpg)](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)
+[![](https://immigration.ca/wp-content/uploads/2024/10/Application-Rejection-300x157.jpg)](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ IRCC Clarifies Who Can Avoid A New Canada Immigration Medical Exam ](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)
-[ Read More » ](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)
-Colin R. Singer  October 9, 2026 
-[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-300x169.jpg)](https://immigration.ca/alberta-issues-476-invitations-four-aaip-draws-september-october-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Alberta Issues 476 Invitations Across Four AAIP Draws From September 24 To October 7 ](https://immigration.ca/alberta-issues-476-invitations-four-aaip-draws-september-october-2026/)
-[ Read More » ](https://immigration.ca/alberta-issues-476-invitations-four-aaip-draws-september-october-2026/)
-Colin Singer  October 9, 2026 
+###  [ Canada Bans AI-Generated Personal Evidence In Immigration And Refugee Hearings ](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)
+[ Read More » ](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)
+Colin R. Singer  October 8, 2026 
+[![Quebec Premier Presses Federal Government For More Immigration Power](https://immigration.ca/wp-content/uploads/2024/05/Quebec-Premier-Presses-Federal-Government-For-More-Immigration-Power-300x169.jpg)](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Quebec Election Outcome Puts Major Immigration Cuts On The Agenda ](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)
+[ Read More » ](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)
+Colin R. Singer  October 8, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,15 +66,15 @@ Melissa Gosselin  May 1, 2025
 Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
 [ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
 Colin R. Singer  October 15, 2018 
-[![Medical Immigration to Canada](https://immigration.ca/wp-content/uploads/2016/08/Medical-Immigration-to-Canada-40x40.jpg)](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)
-[IRCC Clarifies Who Can Avoid A New Canada Immigration Medical Exam](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)October 9, 2026
-[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-476-invitations-four-aaip-draws-september-october-2026/)
-[Alberta Issues 476 Invitations Across Four AAIP Draws From September 24 To October 7](https://immigration.ca/alberta-issues-476-invitations-four-aaip-draws-september-october-2026/)October 9, 2026
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-340-letters-of-advice-to-apply-mpnp-draw-281-october-8-2026/)
-[Manitoba Issues 340 Letters of Advice to Apply in MPNP Draw #281](https://immigration.ca/manitoba-issues-340-letters-of-advice-to-apply-mpnp-draw-281-october-8-2026/)October 9, 2026
-[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-care-construction-workers-bc-pnp-draw-october-8-2026/)
-[British Columbia Invites Over 280 Care And Construction Workers In October 8 BC PNP Draw](https://immigration.ca/british-columbia-invites-care-construction-workers-bc-pnp-draw-october-8-2026/)October 9, 2026
 [![](https://immigration.ca/wp-content/uploads/2024/10/Application-Rejection-40x40.jpg)](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)
 [Canada Bans AI-Generated Personal Evidence In Immigration And Refugee Hearings](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)October 8, 2026
 [![Quebec Premier Presses Federal Government For More Immigration Power](https://immigration.ca/wp-content/uploads/2024/05/Quebec-Premier-Presses-Federal-Government-For-More-Immigration-Power-40x40.jpg)](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)
 [Quebec Election Outcome Puts Major Immigration Cuts On The Agenda](https://immigration.ca/quebec-election-outcome-puts-major-immigration-cuts-on-the-agenda/)October 8, 2026
+[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-90-invitations-october-2026-pnp-draw/)
+[Prince Edward Island Issues 90 Invitations in October 2026 PNP Draw](https://immigration.ca/prince-edward-island-issues-90-invitations-october-2026-pnp-draw/)October 8, 2026
+[![Canada To Help More Refugees From Gaza](https://immigration.ca/wp-content/uploads/2024/05/Canada-To-Help-More-Refugees-From-Gaza-40x40.jpg)](https://immigration.ca/canada-changes-refugee-claim-application-process-from-november-3/)
+[Canada Changes Refugee Claim Application Process From November 3](https://immigration.ca/canada-changes-refugee-claim-application-process-from-november-3/)October 6, 2026
+[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canada-clarifies-work-permit-job-offer-rules-for-home-based-businesses/)
+[Canada Clarifies Work Permit Job Offer Rules For Home-Based Businesses](https://immigration.ca/canada-clarifies-work-permit-job-offer-rules-for-home-based-businesses/)October 6, 2026
+[![How Canada Processes Work Permit Applications for Regulated Occupations Such As Doctors](https://immigration.ca/wp-content/uploads/2024/05/How-Canada-Processes-Work-Permit-Applications-for-Regulated-Occupations-Such-As-Doctors-40x40.jpg)](https://immigration.ca/canada-makes-key-change-to-job-offer-rules-for-work-permit-applications/)
+[Canada Makes Key Change To Job Offer Rules For Work Permit Applications](https://immigration.ca/canada-makes-key-change-to-job-offer-rules-for-work-permit-applications/)October 6, 2026
