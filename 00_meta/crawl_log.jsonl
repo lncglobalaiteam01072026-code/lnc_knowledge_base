@@ -3531,3 +3531,6 @@
 {"run_id": "2026-10-10T06:41Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": true, "duration_s": 7.5, "timestamp": "2026-10-10T06:41:16.948083+00:00"}
 {"run_id": "2026-10-10T06:41Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": true, "duration_s": 7.5, "timestamp": "2026-10-10T06:41:16.948083+00:00"}
 {"run_id": "2026-10-10T06:41Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": true, "duration_s": 10.1, "timestamp": "2026-10-10T06:41:16.948083+00:00"}
+{"run_id": "2026-10-11T06:45Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": true, "duration_s": 6.3, "timestamp": "2026-10-11T06:45:42.881376+00:00"}
+{"run_id": "2026-10-11T06:45Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": true, "duration_s": 7.1, "timestamp": "2026-10-11T06:45:42.881376+00:00"}
+{"run_id": "2026-10-11T06:45Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": true, "duration_s": 9.8, "timestamp": "2026-10-11T06:45:42.881376+00:00"}
