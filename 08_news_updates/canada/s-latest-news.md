@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 0a7f448ee4830f0d
+content_hash: 6bae1e482de58eb0
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-13'
+last_updated: '2026-10-14'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-300x169.jpg)](https://immigration.ca/canada-invites-752-provincial-nominees-express-entry-october-13-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Invites 752 Provincial Nominees in October 13 Express Entry Draw ](https://immigration.ca/canada-invites-752-provincial-nominees-express-entry-october-13-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-752-provincial-nominees-express-entry-october-13-2026/)
+Colin Singer  October 13, 2026 
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-131-invitations-october-9-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Newfoundland and Labrador Issues 131 Invitations in October 9 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-131-invitations-october-9-2026/)
 [ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-131-invitations-october-9-2026/)
 Colin Singer  October 11, 2026 
-[![Medical Immigration to Canada](https://immigration.ca/wp-content/uploads/2016/08/Medical-Immigration-to-Canada-300x157.jpg)](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ IRCC Clarifies Who Can Avoid A New Canada Immigration Medical Exam ](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)
-[ Read More » ](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)
-Colin R. Singer  October 9, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,6 +66,8 @@ Melissa Gosselin  May 1, 2025
 Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
 [ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
 Colin R. Singer  October 15, 2018 
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-752-provincial-nominees-express-entry-october-13-2026/)
+[Canada Invites 752 Provincial Nominees in October 13 Express Entry Draw](https://immigration.ca/canada-invites-752-provincial-nominees-express-entry-october-13-2026/)October 13, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-131-invitations-october-9-2026/)
 [Newfoundland and Labrador Issues 131 Invitations in October 9 Draw](https://immigration.ca/newfoundland-and-labrador-issues-131-invitations-october-9-2026/)October 11, 2026
 [![Medical Immigration to Canada](https://immigration.ca/wp-content/uploads/2016/08/Medical-Immigration-to-Canada-40x40.jpg)](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)
@@ -76,5 +78,3 @@ Colin R. Singer  October 15, 2018
 [Manitoba Issues 340 Letters of Advice to Apply in MPNP Draw #281](https://immigration.ca/manitoba-issues-340-letters-of-advice-to-apply-mpnp-draw-281-october-8-2026/)October 9, 2026
 [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-care-construction-workers-bc-pnp-draw-october-8-2026/)
 [British Columbia Invites Over 280 Care And Construction Workers In October 8 BC PNP Draw](https://immigration.ca/british-columbia-invites-care-construction-workers-bc-pnp-draw-october-8-2026/)October 9, 2026
-[![](https://immigration.ca/wp-content/uploads/2024/10/Application-Rejection-40x40.jpg)](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)
-[Canada Bans AI-Generated Personal Evidence In Immigration And Refugee Hearings](https://immigration.ca/canada-bans-ai-generated-personal-evidence-in-immigration-and-refugee-hearings/)October 8, 2026
