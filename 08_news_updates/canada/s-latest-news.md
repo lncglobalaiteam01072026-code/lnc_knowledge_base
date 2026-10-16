@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 9c1cacbfe30a4412
+content_hash: a4b4576d3b9aad60
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-15'
+last_updated: '2026-10-16'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -20,7 +20,7 @@ version: '1.0'
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Proof Of Canadian Citizenship Now Takes 34 Months, Even As The Queue Shrinks ](https://immigration.ca/proof-of-canadian-citizenship-processing-time-34-months/)
 [ Read More » ](https://immigration.ca/proof-of-canadian-citizenship-processing-time-34-months/)
-Colin R. Singer  October 14, 2026 
+Colin R. Singer  October 15, 2026 
 [![Halifax, Nova Scotia](https://immigration.ca/wp-content/uploads/2025/10/Halifax-Nova-Scotia-300x157.jpg)](https://immigration.ca/canada-expands-low-wage-lmia-restrictions-to-30-cities/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Canada Expands Low-Wage LMIA Restrictions To 30 Cities ](https://immigration.ca/canada-expands-low-wage-lmia-restrictions-to-30-cities/)
