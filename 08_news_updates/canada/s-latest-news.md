@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: a4b4576d3b9aad60
+content_hash: 2cb653ec894e23e9
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-16'
+last_updated: '2026-10-17'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Immigration to Canada Application Review](https://immigration.ca/wp-content/uploads/2025/10/Immigration-to-Canada-Application-Review-300x157.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-34-months/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Proof Of Canadian Citizenship Now Takes 34 Months, Even As The Queue Shrinks ](https://immigration.ca/proof-of-canadian-citizenship-processing-time-34-months/)
-[ Read More » ](https://immigration.ca/proof-of-canadian-citizenship-processing-time-34-months/)
-Colin R. Singer  October 15, 2026 
-[![Halifax, Nova Scotia](https://immigration.ca/wp-content/uploads/2025/10/Halifax-Nova-Scotia-300x157.jpg)](https://immigration.ca/canada-expands-low-wage-lmia-restrictions-to-30-cities/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Expands Low-Wage LMIA Restrictions To 30 Cities ](https://immigration.ca/canada-expands-low-wage-lmia-restrictions-to-30-cities/)
-[ Read More » ](https://immigration.ca/canada-expands-low-wage-lmia-restrictions-to-30-cities/)
-Colin R. Singer  October 14, 2026 
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-300x169.jpg)](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ British Columbia Invites 16 Candidates In October 15 BC PNP Rural Health Draw ](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
+[ Read More » ](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
+Colin Singer  October 16, 2026 
+[![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-300x169.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Canada Invites 5,000 French-Speaking Candidates in October 16 Express Entry Draw ](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
+Colin Singer  October 16, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -66,15 +66,15 @@ Melissa Gosselin  May 1, 2025
 Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
 [ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
 Colin R. Singer  October 15, 2018 
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
+[British Columbia Invites 16 Candidates In October 15 BC PNP Rural Health Draw](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)October 16, 2026
+[![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
+[Canada Invites 5,000 French-Speaking Candidates in October 16 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)October 16, 2026
+[![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2500-canadian-experience-class-express-entry-october-15-2026/)
+[Canada Invites 2,500 Canadian Experience Class Candidates in October 15 Express Entry Draw](https://immigration.ca/canada-invites-2500-canadian-experience-class-express-entry-october-15-2026/)October 16, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/05/Hotel-and-Hospitality-Workers-Immigrate-to-Canada-40x40.jpg)](https://immigration.ca/new-brunswick-eases-immigration-restrictions-for-retail-and-hospitality-workers/)
+[New Brunswick Eases Immigration Restrictions For Retail And Hospitality Workers](https://immigration.ca/new-brunswick-eases-immigration-restrictions-for-retail-and-hospitality-workers/)October 16, 2026
+[![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/canada-to-announce-new-express-entry-immigration-changes-today/)
+[Canada Announces Major Express Entry Changes With Up To 150 CRS Points For High-Wage Workers](https://immigration.ca/canada-to-announce-new-express-entry-immigration-changes-today/)October 16, 2026
 [![Immigration to Canada Application Review](https://immigration.ca/wp-content/uploads/2025/10/Immigration-to-Canada-Application-Review-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-34-months/)
 [Proof Of Canadian Citizenship Now Takes 34 Months, Even As The Queue Shrinks](https://immigration.ca/proof-of-canadian-citizenship-processing-time-34-months/)October 14, 2026
-[![Halifax, Nova Scotia](https://immigration.ca/wp-content/uploads/2025/10/Halifax-Nova-Scotia-40x40.jpg)](https://immigration.ca/canada-expands-low-wage-lmia-restrictions-to-30-cities/)
-[Canada Expands Low-Wage LMIA Restrictions To 30 Cities](https://immigration.ca/canada-expands-low-wage-lmia-restrictions-to-30-cities/)October 14, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/09/DNA-Testing-40x40.jpg)](https://immigration.ca/canada-reveals-nearly-25000-immigration-documents-suspended-over-ebola/)
-[Canada Reveals Nearly 25,000 Immigration Documents Suspended Over Ebola](https://immigration.ca/canada-reveals-nearly-25000-immigration-documents-suspended-over-ebola/)October 14, 2026
-[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-752-provincial-nominees-express-entry-october-13-2026/)
-[Canada Invites 752 Provincial Nominees in October 13 Express Entry Draw](https://immigration.ca/canada-invites-752-provincial-nominees-express-entry-october-13-2026/)October 13, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-131-invitations-october-9-2026/)
-[Newfoundland and Labrador Issues 131 Invitations in October 9 Draw](https://immigration.ca/newfoundland-and-labrador-issues-131-invitations-october-9-2026/)October 11, 2026
-[![Medical Immigration to Canada](https://immigration.ca/wp-content/uploads/2016/08/Medical-Immigration-to-Canada-40x40.jpg)](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)
-[IRCC Clarifies Who Can Avoid A New Canada Immigration Medical Exam](https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/)October 9, 2026
