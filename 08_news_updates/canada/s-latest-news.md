@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 2cb653ec894e23e9
+content_hash: 0e6801d5b4a604fc
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-17'
+last_updated: '2026-10-18'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,15 +16,15 @@ topic: immigration_news
 version: '1.0'
 ---
 
+[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-300x157.jpg)](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Prince Edward Island Issues 163 Invitations in October 16 PNP Draw ](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)
+[ Read More » ](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)
+Colin Singer  October 17, 2026 
 [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-300x169.jpg)](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ British Columbia Invites 16 Candidates In October 15 BC PNP Rural Health Draw ](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
 [ Read More » ](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
-Colin Singer  October 16, 2026 
-[![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-300x169.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Invites 5,000 French-Speaking Candidates in October 16 Express Entry Draw ](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
-[ Read More » ](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
 Colin Singer  October 16, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
@@ -66,6 +66,8 @@ Melissa Gosselin  May 1, 2025
 Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
 [ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
 Colin R. Singer  October 15, 2018 
+[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)
+[Prince Edward Island Issues 163 Invitations in October 16 PNP Draw](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)October 17, 2026
 [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
 [British Columbia Invites 16 Candidates In October 15 BC PNP Rural Health Draw](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)October 16, 2026
 [![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
@@ -76,5 +78,3 @@ Colin R. Singer  October 15, 2018
 [New Brunswick Eases Immigration Restrictions For Retail And Hospitality Workers](https://immigration.ca/new-brunswick-eases-immigration-restrictions-for-retail-and-hospitality-workers/)October 16, 2026
 [![Canada Express Entry Guide 2026](https://immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/canada-to-announce-new-express-entry-immigration-changes-today/)
 [Canada Announces Major Express Entry Changes With Up To 150 CRS Points For High-Wage Workers](https://immigration.ca/canada-to-announce-new-express-entry-immigration-changes-today/)October 16, 2026
-[![Immigration to Canada Application Review](https://immigration.ca/wp-content/uploads/2025/10/Immigration-to-Canada-Application-Review-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-34-months/)
-[Proof Of Canadian Citizenship Now Takes 34 Months, Even As The Queue Shrinks](https://immigration.ca/proof-of-canadian-citizenship-processing-time-34-months/)October 14, 2026
