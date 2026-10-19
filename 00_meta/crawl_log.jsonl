@@ -3565,3 +3565,7 @@
 {"run_id": "2026-10-19T05:37Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": true, "duration_s": 9.9, "timestamp": "2026-10-19T05:37:47.528661+00:00"}
 {"run_id": "2026-10-19T05:37Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": true, "duration_s": 10.0, "timestamp": "2026-10-19T05:37:47.528661+00:00"}
 {"run_id": "2026-10-19T05:37Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": true, "duration_s": 10.2, "timestamp": "2026-10-19T05:37:47.528661+00:00"}
+{"run_id": "2026-10-19T07:07Z_weekly", "source_id": "bcpnp_invitations", "status": "ok", "changed": true, "duration_s": 0.6, "timestamp": "2026-10-19T07:07:11.396272+00:00"}
+{"run_id": "2026-10-19T07:07Z_weekly", "source_id": "canadavisa_immigration_news", "status": "ok", "changed": true, "duration_s": 7.0, "timestamp": "2026-10-19T07:07:11.396272+00:00"}
+{"run_id": "2026-10-19T07:07Z_weekly", "source_id": "cbc_immigration_news", "status": "ok", "changed": true, "duration_s": 6.9, "timestamp": "2026-10-19T07:07:11.396272+00:00"}
+{"run_id": "2026-10-19T07:07Z_weekly", "source_id": "nzaewv_inz_news_deep", "status": "ok", "changed": true, "duration_s": 9.3, "timestamp": "2026-10-19T07:07:11.396272+00:00"}
