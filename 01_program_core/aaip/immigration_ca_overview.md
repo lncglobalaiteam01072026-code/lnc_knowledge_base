@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 02389f062896c399
+content_hash: a416c842c19cad70
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-10-20'
+last_updated: '2026-10-21'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -379,18 +379,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/11/Canadian-Election-40x40.jpg)](https://immigration.ca/alberta-rejects-separation-as-voters-back-greater-control-over-immigration/)
+[Alberta Rejects Separation As Voters Back Greater Control Over Immigration](https://immigration.ca/alberta-rejects-separation-as-voters-back-greater-control-over-immigration/)October 20, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2018/08/More-Information-About-Each-Business-Immigration-Canada-Program-scaled-40x40.jpeg)](https://immigration.ca/canada-issues-new-express-entry-instructions-for-job-offers-without-lmias/)
+[Canada Issues New Express Entry Instructions For Job Offers Without LMIAs](https://immigration.ca/canada-issues-new-express-entry-instructions-for-job-offers-without-lmias/)October 19, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-126-invitations-october-16-2026/)
+[Newfoundland and Labrador Issues 126 Invitations in October 16 Draw](https://immigration.ca/newfoundland-and-labrador-issues-126-invitations-october-16-2026/)October 19, 2026
   * [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)
-[Prince Edward Island Issues 163 Invitations in October 16 PNP Draw](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)October 17, 2026
+[Prince Edward Island Issues 164 Invitations in October 16 PNP Draw](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)October 17, 2026
   * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
 [British Columbia Invites 16 Candidates In October 15 BC PNP Rural Health Draw](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)October 16, 2026
   * [![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
 [Canada Invites 5,000 French-Speaking Candidates in October 16 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)October 16, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-invites-2500-canadian-experience-class-express-entry-october-15-2026/)
-[Canada Invites 2,500 Canadian Experience Class Candidates in October 15 Express Entry Draw](https://immigration.ca/canada-invites-2500-canadian-experience-class-express-entry-october-15-2026/)October 16, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/05/Hotel-and-Hospitality-Workers-Immigrate-to-Canada-40x40.jpg)](https://immigration.ca/new-brunswick-eases-immigration-restrictions-for-retail-and-hospitality-workers/)
-[New Brunswick Eases Immigration Restrictions For Retail And Hospitality Workers](https://immigration.ca/new-brunswick-eases-immigration-restrictions-for-retail-and-hospitality-workers/)October 16, 2026
-  * [![Canada Express Entry Guide 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Express-Entry-Guide-2026-40x40.jpg)](https://immigration.ca/canada-to-announce-new-express-entry-immigration-changes-today/)
-[Canada Announces Major Express Entry Changes With Up To 150 CRS Points For High-Wage Workers](https://immigration.ca/canada-to-announce-new-express-entry-immigration-changes-today/)October 16, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -419,3 +419,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/alberta-immigration/<#>)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=0647a04c-7407-4dac-a0eb-84926fe0b25c&bo=1&sid=ea210380cd1111f186316b6b8e40822f&vid=ea2140f0cd1111f1b398a38db0d022f8&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Alberta%20Immigration%202026%3A%20AAIP%20Streams%20%26%20Nominations&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&r=&lt=1644&evt=pageLoad&sv=2&cdb=AQAQ&rn=722569)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=0647a04c-7407-4dac-a0eb-84926fe0b25c&bo=2&sid=ea210380cd1111f186316b6b8e40822f&vid=ea2140f0cd1111f1b398a38db0d022f8&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=926817)
