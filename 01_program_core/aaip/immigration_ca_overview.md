@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 6bd3fa833898d4de
+content_hash: 0554a883bf19a754
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-10-22'
+last_updated: '2026-10-23'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -304,68 +304,140 @@ Search
 Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
 Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
 Published: **February 16, 2013**
-Last updated: **July 13, 2026**
+Last updated: **October 22, 2026**
 Reading time: 5 min
 Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
 ![Alberta To Launch New Expression of Interest System Next Month](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Alberta-To-Launch-New-Expression-of-Interest-System-Next-Month.jpg)
-## On This Page, You Will Find:
-  * An overview of the Alberta Advantage Immigration Program
-  * Current AAIP immigration streams
-  * How the Alberta Expression of Interest system works
-  * Eligibility requirements for skilled workers and entrepreneurs
-  * How Alberta selects candidates for provincial nomination
-  * Recent AAIP draws and selection priorities
-  * Frequently asked questions about Alberta immigration
+### On This Page, You Will Find:
+  * [What is the Alberta Advantage Immigration Program?](#what-is-the-alberta-advantage-immigration-program)
+  * [Alberta’s 2026 nomination allocation](#albertas-2026-nomination-allocation)
+  * [How the Worker Expression of Interest system works](#how-the-worker-expression-of-interest-system-works)
+  * [How to apply to an AAIP worker stream](#how-to-apply-to-an-aaip-worker-stream)
+  * [AAIP fees in 2026](#aaip-fees-in-2026)
+  * [AAIP streams and pathways](#aaip-streams-and-pathways)
+  * [AAIP draws](#aaip-draws)
+  * [Frequently asked questions](#frequently-asked-questions)
 
 
-The Alberta Advantage Immigration Program (AAIP) is Alberta’s [Provincial Nominee Program](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/) (PNP), offering skilled workers, entrepreneurs and international graduates a pathway to Canadian permanent residence.
-The program helps Alberta address labour shortages by selecting candidates with the skills, work experience and business expertise needed to support the province’s growing economy. It includes streams for workers already in Alberta, candidates in the federal Express Entry pool, rural communities and entrepreneurs looking to establish or purchase a business.
-Most AAIP streams now use an Expression of Interest (EOI) system. Eligible candidates submit an online profile and are ranked based on factors such as education, work experience, language ability, age, employment in Alberta and other economic factors. The province regularly issues invitations to the highest-ranking candidates and those who meet targeted labour market priorities.
-Successful applicants receive a provincial nomination, which they can use to apply for Canadian permanent residence through Immigration, Refugees and Citizenship Canada (IRCC). Candidates nominated through an Express Entry-aligned stream also receive an additional 600 Comprehensive Ranking System (CRS) points, effectively guaranteeing an Invitation to Apply (ITA) in a future Express Entry draw.
+The Alberta Advantage Immigration Program (AAIP) is Alberta’s [Provincial Nominee Program (PNP)](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/). It gives skilled workers, international graduates and entrepreneurs a pathway to Canadian permanent residence by nominating people whose skills match the province’s labour market and economic priorities.
+All AAIP worker streams now operate on an invitation-only basis. Candidates first submit a Worker Expression of Interest (WEOI), which since April 7, 2026 carries a $135 fee, and only candidates selected in a draw can submit a full application. Entrepreneur streams use a separate Entrepreneur Expression of Interest.
+A provincial nomination does not by itself grant permanent residence. Nominees then apply to Immigration, Refugees and Citizenship Canada (IRCC). Candidates nominated through the Alberta Express Entry Stream receive an additional 600 Comprehensive Ranking System (CRS) points, which effectively guarantees an Invitation to Apply (ITA) in a following federal Express Entry draw.
 ## What Is the Alberta Advantage Immigration Program?
-The Alberta Advantage Immigration Program is Alberta’s economic immigration program, operated jointly by the Government of Alberta and Immigration, Refugees and Citizenship Canada (IRCC). It enables the province to nominate individuals whose skills align with Alberta’s labour market and economic development priorities.
-The AAIP includes several pathways for skilled workers, entrepreneurs and rural applicants. Worker streams include the Alberta Opportunity Stream, the Alberta Express Entry Stream, the Rural Renewal Stream and the Tourism and Hospitality Stream. Business pathways include the Farm Stream, Graduate Entrepreneur Stream, Foreign Graduate Entrepreneur Stream and Rural Entrepreneur Stream.
-## How Does the Alberta Expression of Interest System Work?
-Most AAIP streams operate through an [Expression of Interest system](https://immigration.ca/alberta-expression-of-interest-eoi/). Eligible candidates submit an online profile outlining their education, work experience, language proficiency and other qualifying factors.
-Profiles are assessed using Alberta’s points-based ranking system, which considers human capital and economic factors. The province conducts regular invitation rounds, selecting candidates who best meet Alberta’s current labour market needs. Receiving an invitation allows a candidate to submit a full application for provincial nomination, but creating an Expression of Interest does not guarantee selection.
-## How to Apply
-Most worker applicants apply directly to the relevant AAIP stream online; Express Entry candidates should also maintain an active federal profile. A provincial nomination through the Alberta Express Entry Stream adds 600 CRS points, effectively guaranteeing an invitation. For the federal side of the process, see our overview of [Express Entry](https://immigration.ca/canada-express-entry-immigration/), and if you still need work authorization, our [Canada work permit](https://immigration.ca/canada-work-visa/) guide. To compare Alberta with other routes, see [12 ways you can immigrate to Canada](https://immigration.ca/12-ways-you-can-immigrate-to-canada/).
-## AAIP Streams
-[ ](https://immigration.ca/alberta-opportunity-stream)
-#####  [ Alberta Opportunity Stream ](https://immigration.ca/alberta-opportunity-stream)
+The AAIP is Alberta’s economic immigration program, run by the Government of Alberta within the nomination limits set each year by IRCC. It was known as the Alberta Immigrant Nominee Program (AINP) until February 2022.
+The program has two families of streams:
+  * **Worker streams** : the Alberta Opportunity Stream, the Alberta Express Entry Stream (including the Accelerated Tech Pathway, the Law Enforcement Pathway and priority-sector selections), the Dedicated Health Care Pathways, the Rural Renewal Stream and the Tourism and Hospitality Stream.
+  * **Entrepreneur streams** : the Rural Entrepreneur Stream, the Graduate Entrepreneur Stream, the Foreign Graduate Entrepreneur Stream and the Farm Stream.
+
+
+In 2026 Alberta says it is prioritizing worker-stream draws and nominations for occupations in key sectors such as health care, technology, construction, manufacturing, aviation and agriculture, as well as communities designated under the Rural Renewal Stream.
+## Alberta’s 2026 Nomination Allocation
+IRCC sets the number of nominations each province can issue. On August 10, 2026, Alberta announced that IRCC had provided an additional 200 nominations, raising its total 2026 allocation to **6,603**.
+Alberta’s processing page (last updated October 7, 2026) showed 5,541 nominations already issued and 1,062 spaces remaining, with the allocation split across streams as follows:
+Stream or pathway: Alberta Opportunity Stream. 2026 allocation: 3,562.
+Stream or pathway: Rural Renewal Stream. 2026 allocation: 1,057.
+Stream or pathway: Alberta Express Entry – Accelerated Tech Pathway. 2026 allocation: 619.
+Stream or pathway: Alberta Express Entry – priority sector draws and other initiatives. 2026 allocation: 619.
+Stream or pathway: Dedicated Health Care Pathways. 2026 allocation: 518.
+Stream or pathway: Tourism and Hospitality Stream. 2026 allocation: 156.
+Stream or pathway: Entrepreneur streams. 2026 allocation: 60.
+Stream or pathway: Alberta Express Entry – Law Enforcement Pathway. 2026 allocation: 12.
+Nominations for practice-ready physicians and Francophones who meet federal criteria can also be issued through additional federal spaces that do not count toward Alberta’s 6,603 allocation. Alberta notes that allocation figures can be redistributed between streams at any time.
+## How the Worker Expression of Interest System Works
+Since September 30, 2024, a candidate must have a Worker Expression of Interest in the pool to be considered for any AAIP worker stream. The [Alberta Expression of Interest](https://immigration.ca/alberta-expression-of-interest-eoi/) is an online profile, not an application, in which you self-declare your education, work experience, language ability, age, Alberta job offer and other factors.
+  * **Points:** each WEOI is scored out of a maximum of 100 points using Alberta’s published WEOI points grid. There is no minimum score to submit a WEOI.
+  * **Additional information:** Alberta also collects details that earn no points but can be used in draws, including your IRCC status, the NOC code of your Alberta job offer, your employer’s industry (NAICS code) and, since February 25, 2026, the wage and hours of work of your job offer.
+  * **Fee:** since April 7, 2026, submitting a WEOI costs $135, payable online within 24 hours of submission. An unpaid WEOI is cancelled automatically and does not enter the pool.
+  * **Validity:** a WEOI stays in the pool for 12 months. For WEOIs created on or after April 7, 2026, the year runs from the date the fee was paid. If you are not selected within that time, you must submit a new WEOI and pay the fee again.
+  * **One profile only:** you can only hold one WEOI, and you cannot create one while you have an existing Entrepreneur EOI or a draft or active AAIP application.
+  * **Editing:** since May 26, 2026, candidates can edit a submitted WEOI in the AAIP portal. Editing does not extend the WEOI’s validity.
+
+
+AAIP selects candidates based on WEOI scores, provincial labour market needs and priorities, available nominations and application volumes. Score is not the only factor, and you may be invited to a stream other than the one you indicated as your preference.
+## How to Apply to an AAIP Worker Stream
+Applying to an Alberta worker stream follows three steps:
+  1. **Submit a WEOI and pay the $135 fee.** Check that you meet the eligibility requirements of at least one worker stream first, using Alberta’s Eligibility Explorer if helpful. Rural Renewal Stream candidates need an endorsement letter from a designated community at the time they submit their WEOI.
+  2. **Receive an invitation.** If selected in a draw, you receive an email inviting you to apply to a specific stream or pathway. You have 15 days to create a draft application, or you can decline the invitation and return to the pool.
+  3. **Submit and pay for your application.** Once you create an application, you have 30 days to complete it, upload every document on the worker stream checklist and pay the $1,500 application fee. Incomplete or ineligible applications are declined and fees are not refunded.
+
+
+Alberta Express Entry Stream candidates must also maintain an active federal Express Entry profile. For the federal side of the process, see our overview of [Express Entry](https://immigration.ca/canada-express-entry-immigration/), and if you still need work authorization, our [Canada work permit guide](https://immigration.ca/canada-work-visa/). To compare Alberta with other routes, see [12 ways you can immigrate to Canada](https://immigration.ca/12-ways-you-can-immigrate-to-canada/).
+## AAIP Fees in 2026
+Alberta’s fee schedule effective April 7, 2026 sets the following main fees:
+  * Worker Expression of Interest: $135
+  * Application to the Alberta Opportunity, Alberta Express Entry, Rural Renewal or Tourism and Hospitality Stream: $1,500
+  * Entrepreneur Expression of Interest (Graduate Entrepreneur, Foreign Graduate Entrepreneur or Rural Entrepreneur Stream): $200
+  * Application to an entrepreneur stream or the Farm Stream: $3,500
+  * Request for reconsideration: $250
+  * Nomination extension, or a 204(c) or 205(a) letter of support for a work permit: $150 each
+
+
+These are provincial fees only. IRCC charges its own fees for the permanent residence application.
+## AAIP Streams and Pathways
+[ ](https://immigration.ca/alberta-opportunity-stream/)
+#####  [ Alberta Opportunity Stream ](https://immigration.ca/alberta-opportunity-stream/)
 The Alberta Opportunity Stream was designed to simplify the Alberta Advantage Immigration Program application process, reduce waiting times and make the system fairer for candidates and employers 
 [ ](https://immigration.ca/alberta-immigration-express-entry-stream)
 #####  [ Express Entry Stream ](https://immigration.ca/alberta-immigration-express-entry-stream)
 Alberta Express Entry allows Alberta to nominate a limited number of qualified candidates from federal Express Entry pool. 
-[ ](https://immigration.ca/alberta-immigration-rural-renewal-stream)
-#####  [ Rural Renewal Stream ](https://immigration.ca/alberta-immigration-rural-renewal-stream)
+[ ](https://immigration.ca/alberta-immigration-rural-renewal-stream/)
+#####  [ Rural Renewal Stream ](https://immigration.ca/alberta-immigration-rural-renewal-stream/)
 The Rural Renewal Stream allows qualified candidates with a job offer from an Alberta employer to work in a designated rural Alberta community to apply for Alberta immigration. 
 [ ](https://immigration.ca/alberta-tourism-and-hospitality-stream/)
 #####  [ Tourism and Hospitality Stream ](https://immigration.ca/alberta-tourism-and-hospitality-stream/)
 The Tourism and Hospitality Stream allows Alberta to support skilled workers in the tourism and hospitality sector by offering a pathway to permanent residency. Applicants must meet employment, language, and education requirements while working for an approved employer in Alberta. 
-[ ](https://immigration.ca/alberta-immigration-self-employed-farmer-stream)
-#####  [ Farm Stream ](https://immigration.ca/alberta-immigration-self-employed-farmer-stream)
+[ ](https://immigration.ca/alberta-immigration-farm-stream/)
+#####  [ Farm Stream ](https://immigration.ca/alberta-immigration-farm-stream/)
 The AAIP manages the Farm Stream in close collaboration with the Alberta Agriculture and Forestry, and targets applicants with farm management skills and sufficient financial resources to invest in a farming business in Alberta. 
-[ ](https://immigration.ca/alberta-immigration-foreign-graduate-start-up-visa-stream)
-#####  [ Foreign Graduate Entrepreneur Stream ](https://immigration.ca/alberta-immigration-foreign-graduate-start-up-visa-stream)
+[ ](https://immigration.ca/alberta-immigration-foreign-graduate-entrepreneur-stream/)
+#####  [ Foreign Graduate Entrepreneur Stream ](https://immigration.ca/alberta-immigration-foreign-graduate-entrepreneur-stream/)
 This Foreign Graduate Entrepreneur Stream is aimed at qualified foreign-educated graduates from outside Canada, who wish to receive permanent residence upon launching start-up enterprises in Alberta. 
-[ ](https://immigration.ca/alberta-immigration-rural-entrepreneur-stream)
-#####  [ Rural Entrepreneur Stream ](https://immigration.ca/alberta-immigration-rural-entrepreneur-stream)
+[ ](https://immigration.ca/alberta-immigration-rural-entrepreneur-stream/)
+#####  [ Rural Entrepreneur Stream ](https://immigration.ca/alberta-immigration-rural-entrepreneur-stream/)
 The Rural Entrepreneur Stream is aimed at entrepreneurs who want to start a business or buy an existing business in a rural Alberta community. 
-[ ](https://immigration.ca/alberta-international-graduate-entrepreneur-immigration-stream)
-#####  [ Graduate Entrepreneur Stream ](https://immigration.ca/alberta-international-graduate-entrepreneur-immigration-stream)
+[ ](https://immigration.ca/alberta-graduate-entrepreneur-stream/)
+#####  [ Graduate Entrepreneur Stream ](https://immigration.ca/alberta-graduate-entrepreneur-stream/)
 The Graduate Entrepreneur Stream is aimed at international graduates from Alberta post-secondary institutions who want to establish or operate a business in the province. 
+Each stream has its own eligibility requirements. Our dedicated guides explain them in more detail.
+### Worker streams
+  * [Alberta Opportunity Stream](https://immigration.ca/alberta-opportunity-stream/): Alberta’s largest stream, for temporary foreign workers already working in Alberta in an eligible occupation with a qualifying full-time job offer.
+  * Alberta Express Entry Stream: for candidates in the federal Express Entry pool. It includes the Accelerated Tech Pathway, the Law Enforcement Pathway and priority-sector selections in fields such as construction, manufacturing, agriculture, aviation and health care.
+  * Dedicated Health Care Pathways: Express Entry and non-Express Entry options for health care workers with an Alberta job offer, including practice-ready physicians.
+  * [Rural Renewal Stream](https://immigration.ca/alberta-immigration-rural-renewal-stream/): for candidates with a job offer from an employer in a designated rural Alberta community and an endorsement from that community. Since January 1, 2026, each designated community is subject to endorsement allocation limits.
+  * [Tourism and Hospitality Stream](https://immigration.ca/alberta-tourism-and-hospitality-stream/): for workers employed full time in eligible tourism and hospitality occupations with an Alberta employer.
+
+
+### Entrepreneur streams
+  * [Rural Entrepreneur Stream](https://immigration.ca/alberta-immigration-rural-entrepreneur-stream/): for entrepreneurs who want to start or buy a business in a rural Alberta community.
+  * [Graduate Entrepreneur Stream](https://immigration.ca/alberta-graduate-entrepreneur-stream/): for international graduates of Alberta post-secondary institutions who want to establish or operate a business in the province.
+  * [Foreign Graduate Entrepreneur Stream](https://immigration.ca/alberta-immigration-foreign-graduate-entrepreneur-stream/): for graduates of institutions outside Canada who want to launch a start-up in Alberta.
+  * [Farm Stream](https://immigration.ca/alberta-immigration-farm-stream/): for experienced farm managers with the financial resources to establish or buy a farming business in Alberta.
+
+
+On August 12, 2026, Alberta added more detail to the entrepreneur stream pages on the existing economic establishment requirement, which also applies during the monitoring phase after a business application is approved.
 ## AAIP Draws
-Alberta conducts [periodic draws](https://immigration.ca/alberta-immigration-draws) through the provincial Expression of Interest system and federal Express Entry system. Candidates are invited to apply for Alberta immigration through one of the province’s streams.
-### Frequently Asked Questions (FAQ)
+Alberta conducts [AAIP draws](https://immigration.ca/alberta-immigration-draws/) from the WEOI pool as needed. Draws are not regularly scheduled, and Alberta does not disclose all of the parameters it uses. Each draw targets a specific stream, pathway or priority sector and publishes a minimum score and the number of invitations.
+Recent examples from Alberta’s draw table include:
+  * October 7, 2026 – Alberta Express Entry Stream, priority sectors (aviation): 22 invitations, minimum score 56
+  * October 2, 2026 – Alberta Opportunity Stream: 123 invitations, minimum score 54
+  * September 29, 2026 – Alberta Express Entry Stream, priority sectors (general): 200 invitations, minimum score 64
+  * September 24, 2026 – Rural Renewal Stream: 131 invitations, minimum score 51
+  * September 22, 2026 – Accelerated Tech Pathway: 100 invitations, minimum score 59
+
+
+As of early October 2026, more than 34,000 WEOIs were in the selection pool, about 21,700 of them identifying the Alberta Opportunity Stream. With demand far above the available nominations, a strong score and a job offer in a priority sector both matter.
+## Frequently Asked Questions
 ##### What is the Alberta Advantage Immigration Program (AAIP)?
-The Alberta Advantage Immigration Program (AAIP) is a provincial immigration program designed to attract skilled workers and entrepreneurs to Alberta. It helps fill labour shortages in key industries by offering pathways to permanent residency through multiple streams. Candidates must first apply for provincial nomination, and if successful, they can apply for permanent residence with Immigration, Refugees and Citizenship Canada (IRCC). Alberta receives a limited number of nominations from the federal government each year.
-##### How does the Alberta Expression of Interest (EOI) system work?
-The Alberta Expression of Interest (EOI) system allows skilled workers to apply for immigration under AAIP by submitting an online profile. Candidates are ranked based on factors like education, work experience, language skills, and job offers. Alberta regularly holds draws to select top-ranking candidates for provincial nomination. Although submitting an EOI is free, selection is not guaranteed. Successful candidates receive an invitation to apply for nomination and, if approved, can apply for permanent residence.
-##### What are the main AAIP immigration streams?
-AAIP has multiple worker and business streams to support Alberta's labour market and economic growth. Worker streams include the Alberta Opportunity Stream, Express Entry Stream, Rural Renewal Stream, and Tourism and Hospitality Stream. Business streams include the Farm Stream, Foreign Graduate Entrepreneur Stream, Graduate Entrepreneur Stream, and Rural Entrepreneur Stream. Each stream has specific eligibility criteria, including job offers, work experience, education, and investment requirements.
-##### How does Alberta select candidates for nomination?
-Alberta selects candidates through regular AAIP draws based on EOI rankings and provincial labour market needs. Candidates with high scores and relevant job offers are prioritized. Those selected receive an invitation to apply for nomination, and if approved, they can apply for permanent residence with IRCC. Express Entry candidates who receive a provincial nomination get an additional 600 Comprehensive Ranking System (CRS) points, significantly boosting their chances of receiving an Invitation to Apply (ITA) for permanent residence.
+The AAIP is Alberta's Provincial Nominee Program. It nominates skilled workers, international graduates and entrepreneurs whose skills meet the province's labour market needs. A nomination allows the candidate to apply to IRCC for permanent residence, and Alberta can issue only a limited number each year – 6,603 in 2026.
+##### Does it cost anything to submit an Alberta Worker Expression of Interest?
+Yes. Since April 7, 2026, Alberta charges a $135 fee to submit a Worker Expression of Interest, which must be paid online within 24 hours or the profile is cancelled. The fee covers a WEOI valid for 12 months and is not refunded if you are not invited. Before April 7, 2026, there was no WEOI fee.
+##### Can I apply directly to an AAIP worker stream?
+No. You can only apply to an AAIP worker stream if you are invited. You must first submit a Worker Expression of Interest, and if you are selected in a draw, AAIP emails you an invitation to apply to a specific stream or pathway within 15 days.
+##### How does Alberta select candidates from the WEOI pool?
+Alberta holds draws as needed, selecting candidates based on their WEOI score out of 100, provincial labour market needs and priorities, available nominations and application volumes. Draws often target specific streams or sectors, such as health care, technology, construction, manufacturing, aviation and agriculture.
+##### How does an Alberta nomination affect Express Entry?
+A nomination through the Alberta Express Entry Stream, including its Accelerated Tech, Law Enforcement and priority-sector pathways, adds 600 points to your Comprehensive Ranking System score. That effectively guarantees an Invitation to Apply for permanent residence in a following federal Express Entry draw.
+##### What are the main AAIP streams?
+The worker streams are the Alberta Opportunity Stream, the Alberta Express Entry Stream, the Dedicated Health Care Pathways, the Rural Renewal Stream and the Tourism and Hospitality Stream. The entrepreneur streams are the Rural Entrepreneur, Graduate Entrepreneur, Foreign Graduate Entrepreneur and Farm streams, each with its own requirements.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
 About the author
 ![Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
@@ -375,10 +447,14 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 [Barreau du Québec · 35+ yrs](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe "Verify licence with the Barreau du Quebec")[House of Commons testimony](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence "Read the official House of Commons record")[Law360 / LexisNexis contributor](https://www.law360.ca/ca/search?q=Colin+Singer "Law360 contributions")[Governor, Fondation du Barreau](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1 "Fondation du Barreau du Quebec governors")
 [Full profile →](https://immigration.ca/author/colin-singer/)[Verify licence](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe)[LinkedIn](https://www.linkedin.com/company/immigration-ca)[X / Twitter](https://twitter.com/immigrationca)[Book a consultation](https://immigration.ca/immigration-consultation/)
 **Stay ahead on Canadian immigration news.** Make immigration.ca your preferred source on Google to see our latest stories first in Top Stories.  [ Add as preferred source ](https://google.com/preferences/source?q=immigration.ca)
-  * Tags: [AAIP](https://immigration.ca/tag/aaip/), [Alberta Immigration](https://immigration.ca/tag/alberta-immigration/), [Alberta Opportunity Stream](https://immigration.ca/tag/alberta-opportunity-stream/), [Canada immigration](https://immigration.ca/tag/canada-immigration/), [canadian lawyer](https://immigration.ca/tag/canadian-lawyer/), [Rural Renewal Stream](https://immigration.ca/tag/rural-renewal-stream/), [skilled worker](https://immigration.ca/tag/skilled-worker/)
+  * Tags: [AAIP](https://immigration.ca/tag/aaip/), [AAIP draw](https://immigration.ca/tag/aaip-draw/), [AAIP Rural Renewal Stream](https://immigration.ca/tag/aaip-rural-renewal-stream/), [AAIP worker streams](https://immigration.ca/tag/aaip-worker-streams/), [Alberta EOI system](https://immigration.ca/tag/alberta-eoi-system/), [Alberta Express Entry Stream](https://immigration.ca/tag/alberta-express-entry-stream/), [Alberta Immigration](https://immigration.ca/tag/alberta-immigration/), [Alberta Opportunity Stream](https://immigration.ca/tag/alberta-opportunity-stream/), [Canada immigration](https://immigration.ca/tag/canada-immigration/), [canadian lawyer](https://immigration.ca/tag/canadian-lawyer/), [Rural Renewal Stream](https://immigration.ca/tag/rural-renewal-stream/), [skilled worker](https://immigration.ca/tag/skilled-worker/)
 
 
 Latest News
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/04/Office-workers-reviewing-submitted-job-applications-for-employment-opportunity-40x40.jpg)](https://immigration.ca/a-2027-comprehensive-guide-to-corporate-immigration-pathways-in-canada/)
+[A 2027 Comprehensive Guide to Corporate Immigration Pathways in Canada](https://immigration.ca/a-2027-comprehensive-guide-to-corporate-immigration-pathways-in-canada/)October 21, 2026
+  * [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-october-20-2026/)
+[British Columbia Invites Entrepreneurs At Score 118 In October 20 BC PNP Draw](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-october-20-2026/)October 21, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/11/Canadian-Election-40x40.jpg)](https://immigration.ca/alberta-rejects-separation-as-voters-back-greater-control-over-immigration/)
 [Alberta Rejects Separation As Voters Back Greater Control Over Immigration](https://immigration.ca/alberta-rejects-separation-as-voters-back-greater-control-over-immigration/)October 20, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2018/08/More-Information-About-Each-Business-Immigration-Canada-Program-scaled-40x40.jpeg)](https://immigration.ca/canada-issues-new-express-entry-instructions-for-job-offers-without-lmias/)
@@ -387,10 +463,6 @@ Latest News
 [Newfoundland and Labrador Issues 126 Invitations in October 16 Draw](https://immigration.ca/newfoundland-and-labrador-issues-126-invitations-october-16-2026/)October 19, 2026
   * [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)
 [Prince Edward Island Issues 164 Invitations in October 16 PNP Draw](https://immigration.ca/prince-edward-island-issues-163-invitations-october-16-2026-pnp-draw/)October 17, 2026
-  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)
-[British Columbia Invites 16 Candidates In October 15 BC PNP Rural Health Draw](https://immigration.ca/british-columbia-invites-16-rural-health-bc-pnp-draw-october-15-2026/)October 16, 2026
-  * [![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)
-[Canada Invites 5,000 French-Speaking Candidates in October 16 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-435-october-16-2026/)October 16, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -419,4 +491,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/alberta-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=f221098e-2d0a-4e1e-88ac-9f2651a02c31&bo=1&sid=34e56c20cddb11f180a073a300f8a711&vid=34e55cb0cddb11f18aafbfdc1eb2a598&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Alberta%20Immigration%202026%3A%20AAIP%20Streams%20%26%20Nominations&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&r=&lt=1277&evt=pageLoad&sv=2&cdb=AQAQ&rn=836967)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=f221098e-2d0a-4e1e-88ac-9f2651a02c31&bo=2&sid=34e56c20cddb11f180a073a300f8a711&vid=34e55cb0cddb11f18aafbfdc1eb2a598&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=575818)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=358f994e-a05a-4309-a71e-dc21bb6e1738&bo=1&sid=68ee83e0cea411f1b5a1df31be382a2a&vid=68ee7e60cea411f1a07d073104d03224&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Alberta%20Immigration%202026%3A%20AAIP%20Streams,%20EOI%20Fee%20%26%20Draws&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&r=&lt=1012&evt=pageLoad&sv=2&cdb=AQAQ&rn=586458)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=358f994e-a05a-4309-a71e-dc21bb6e1738&bo=2&sid=68ee83e0cea411f1b5a1df31be382a2a&vid=68ee7e60cea411f1a07d073104d03224&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=360129)
