@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 54c7d4ee7ede83a2
+content_hash: eff0054539b88e95
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-23'
+last_updated: '2026-10-24'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-300x169.jpg)](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Manitoba Issues 1,304 Letters of Advice to Apply in MPNP Draw #282 ](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
+[ Read More » ](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
+Colin Singer  October 23, 2026 
+[![Thunder Bay Rural Community Immigration Pilot Stream 2026](https://immigration.ca/wp-content/uploads/2026/02/Thunder-Bay-Rural-Community-Immigration-Pilot-Stream-2026-300x169.jpg)](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada’s Work Permit Population Rises Despite 57% Drop In New Arrivals ](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)
-[ Read More » ](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)
-Colin R. Singer  October 22, 2026 
-[![How Immigration Has Helped With Canada’s Aging Population](https://immigration.ca/wp-content/uploads/2024/05/How-Immigration-Has-Helped-With-Canadas-Aging-Population-300x169.jpg)](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada’s Immigration Cuts Deepening Its Ageing Workforce Problem ](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)
-[ Read More » ](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)
-Colin R. Singer  October 22, 2026 
+###  [ Ontario Reopens Regional Immigration Pathway For Six Communities Until 2027 ](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)
+[ Read More » ](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)
+Colin R. Singer  October 23, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -65,6 +65,10 @@ Colin R. Singer  March 26, 2018
 Canada’s latest Express Entry draw issued 646 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-646-invitations-in-latest-provincial-nominee-program-express-entry-draw/)
 Melissa Gosselin  February 17, 2025 
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
+[Manitoba Issues 1,304 Letters of Advice to Apply in MPNP Draw #282](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)October 23, 2026
+[![Thunder Bay Rural Community Immigration Pilot Stream 2026](https://immigration.ca/wp-content/uploads/2026/02/Thunder-Bay-Rural-Community-Immigration-Pilot-Stream-2026-40x40.jpg)](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)
+[Ontario Reopens Regional Immigration Pathway For Six Communities Until 2027](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)October 23, 2026
 [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)
 [Canada’s Work Permit Population Rises Despite 57% Drop In New Arrivals](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)October 22, 2026
 [![How Immigration Has Helped With Canada’s Aging Population](https://immigration.ca/wp-content/uploads/2024/05/How-Immigration-Has-Helped-With-Canadas-Aging-Population-40x40.jpg)](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)
@@ -73,7 +77,3 @@ Melissa Gosselin  February 17, 2025
 [A 2027 Comprehensive Guide to Corporate Immigration Pathways in Canada](https://immigration.ca/a-2027-comprehensive-guide-to-corporate-immigration-pathways-in-canada/)October 21, 2026
 [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-october-20-2026/)
 [British Columbia Invites Entrepreneurs At Score 118 In October 20 BC PNP Draw](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-october-20-2026/)October 21, 2026
-[![](https://immigration.ca/wp-content/uploads/2024/11/Canadian-Election-40x40.jpg)](https://immigration.ca/alberta-rejects-separation-as-voters-back-greater-control-over-immigration/)
-[Alberta Rejects Separation As Voters Back Greater Control Over Immigration](https://immigration.ca/alberta-rejects-separation-as-voters-back-greater-control-over-immigration/)October 20, 2026
-[![](https://immigration.ca/wp-content/uploads/2018/08/More-Information-About-Each-Business-Immigration-Canada-Program-scaled-40x40.jpeg)](https://immigration.ca/canada-issues-new-express-entry-instructions-for-job-offers-without-lmias/)
-[Canada Issues New Express Entry Instructions For Job Offers Without LMIAs](https://immigration.ca/canada-issues-new-express-entry-instructions-for-job-offers-without-lmias/)October 19, 2026
