@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 69869affb7dcb34f
+content_hash: 2dc09d75920ac83c
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
+[![Quebec Premier Tries and Fails to Force Federal Election Centred on Immigration](https://immigration.ca/wp-content/uploads/2024/09/Quebec-Premier-Tries-and-Fails-to-Force-Federal-Election-Centred-on-Immigration-300x157.jpg)](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Quebec Renames Immigration Ministry As New Government Prepares Immigration Cuts ](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
+[ Read More » ](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
+Colin R. Singer  October 26, 2026 
 [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-300x169.jpg)](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Alberta Issues More Than 560 Invitations Across Five AAIP Draws From October 9 To October 20 ](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
 [ Read More » ](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
 Colin Singer  October 24, 2026 
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Manitoba Issues 1,304 Letters of Advice to Apply in MPNP Draw #282 ](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
-[ Read More » ](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
-Colin Singer  October 23, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -48,23 +48,27 @@ Colin R. Singer  November 8, 2017
 Discover Canada’s latest Express Entry draw, which issued 4,500 Invitations to Apply (ITAs) in the French language proficiency category.
 [ Read More » ](https://immigration.ca/canada-issues-4500-invitations-to-french-speakers-in-latest-express-entry-draw/)
 Melissa Gosselin  March 6, 2025 
-###  [ Latest Express Entry Draw Sees 3,000 Candidates Invited To Apply ](https://immigration.ca/latest-express-entry-draw-sees-3000-candidates-invited-to-apply/)
-March 14, 2018 – Canadian immigration authorities have conducted another large Express Entry draw, with 3,000 candidates issued Invitations to Apply (ITAs) for permanent residence
-[ Read More » ](https://immigration.ca/latest-express-entry-draw-sees-3000-candidates-invited-to-apply/)
-Colin R. Singer  March 26, 2018 
+[![Indian Citizens Dominate Canada’s 2019 Permanent Resident Arrivals](https://immigration.ca/wp-content/uploads/2018/08/British-Columbia_162644667-300x200.jpeg)](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
+###  [ Latest Canada Express Entry Draw Matches Lowest CRS Score and Highest Number of Invitations in 2018 ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
+Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
+[ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
+Colin R. Singer  October 15, 2018 
 ###  [ CRS Score Drops to 446 in Latest Canada Express Entry Immigration Draw ](https://immigration.ca/crs-score-drops-to-446-in-latest-canada-express-entry-immigration-draw/)
 March 26, 2018 – Canadian immigration authorities have conducted another large Express Entry draw, with 3,000 candidates issued Invitations to Apply (ITAs) for permanent residence
 [ Read More » ](https://immigration.ca/crs-score-drops-to-446-in-latest-canada-express-entry-immigration-draw/)
 Colin R. Singer  March 26, 2018 
-###  [ 3,000 Candidates Invited To Apply in Latest Canada Express Entry Draw ](https://immigration.ca/3000-candidates-invited-apply-latest-canada-express-entry-draw/)
-February 21, 2018 – Canadian immigration authorities have conducted another large Express Entry draw, with 3,000 candidates issued Invitations to Apply (ITAs) for permanent residence
-[ Read More » ](https://immigration.ca/3000-candidates-invited-apply-latest-canada-express-entry-draw/)
-Colin R. Singer  March 26, 2018 
-[![Canada Issues 648 Invitations In New Provincial Nominee Program Express Entry Draw](https://immigration.ca/wp-content/uploads/2024/10/Canada-Issues-648-Invitations-In-New-Provincial-Nominee-Program-Express-Entry-Draw-300x157.jpg)](https://immigration.ca/canada-issues-646-invitations-in-latest-provincial-nominee-program-express-entry-draw/)
-###  [ Canada Issues 646 Invitations in Latest Provincial Nominee Program Express Entry Draw ](https://immigration.ca/canada-issues-646-invitations-in-latest-provincial-nominee-program-express-entry-draw/)
-Canada’s latest Express Entry draw issued 646 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
-[ Read More » ](https://immigration.ca/canada-issues-646-invitations-in-latest-provincial-nominee-program-express-entry-draw/)
-Melissa Gosselin  February 17, 2025 
+[![](https://immigration.ca/wp-content/uploads/2025/03/Canada-Issues-Latest-Express-Entry-Draw-300x157.jpg)](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
+###  [ Canada Issues 536 Invitations in Latest PNP Express Entry Draw ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
+Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
+[ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
+Colin R. Singer  March 17, 2025 
+[![Canadian Experience Class Express Entry Draw](https://immigration.ca/wp-content/uploads/2025/12/Canadian-Experience-Class-Express-Entry-Draw-300x169.jpg)](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
+###  [ Latest Express Entry Draw Features Lowest CRS of 2025 For Canadian Experience Class ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
+Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
+[ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
+Colin R. Singer  December 17, 2025 
+[![Quebec Premier Tries and Fails to Force Federal Election Centred on Immigration](https://immigration.ca/wp-content/uploads/2024/09/Quebec-Premier-Tries-and-Fails-to-Force-Federal-Election-Centred-on-Immigration-40x40.jpg)](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
+[Quebec Renames Immigration Ministry As New Government Prepares Immigration Cuts](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)October 26, 2026
 [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
 [Alberta Issues More Than 560 Invitations Across Five AAIP Draws From October 9 To October 20](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)October 24, 2026
 [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
@@ -75,5 +79,3 @@ Melissa Gosselin  February 17, 2025
 [Canada’s Work Permit Population Rises Despite 57% Drop In New Arrivals](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)October 22, 2026
 [![How Immigration Has Helped With Canada’s Aging Population](https://immigration.ca/wp-content/uploads/2024/05/How-Immigration-Has-Helped-With-Canadas-Aging-Population-40x40.jpg)](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)
 [Canada’s Immigration Cuts Deepening Its Ageing Workforce Problem](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)October 22, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/04/Office-workers-reviewing-submitted-job-applications-for-employment-opportunity-40x40.jpg)](https://immigration.ca/a-2027-comprehensive-guide-to-corporate-immigration-pathways-in-canada/)
-[A 2027 Comprehensive Guide to Corporate Immigration Pathways in Canada](https://immigration.ca/a-2027-comprehensive-guide-to-corporate-immigration-pathways-in-canada/)October 21, 2026
