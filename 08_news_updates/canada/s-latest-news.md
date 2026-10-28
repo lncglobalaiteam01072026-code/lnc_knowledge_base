@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 2dc09d75920ac83c
+content_hash: 8f3d86f0ed253678
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-27'
+last_updated: '2026-10-28'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Quebec Premier Tries and Fails to Force Federal Election Centred on Immigration](https://immigration.ca/wp-content/uploads/2024/09/Quebec-Premier-Tries-and-Fails-to-Force-Federal-Election-Centred-on-Immigration-300x157.jpg)](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
+[![](https://immigration.ca/wp-content/uploads/2022/11/Quebec_499697506-300x169.jpeg)](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Quebec Renames Immigration Ministry As New Government Prepares Immigration Cuts ](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
-[ Read More » ](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
-Colin R. Singer  October 26, 2026 
-[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-300x169.jpg)](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
+###  [ Quebec Experience Program Application Window Closes October 31 – Who Can Still Apply? ](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
+[ Read More » ](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
+Colin R. Singer  October 27, 2026 
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-300x169.jpg)](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Alberta Issues More Than 560 Invitations Across Five AAIP Draws From October 9 To October 20 ](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
-[ Read More » ](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
-Colin Singer  October 24, 2026 
+###  [ Canada Invites 792 Provincial Nominees in October 26 Express Entry Draw ](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
+Colin Singer  October 27, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -67,6 +67,10 @@ Colin R. Singer  March 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
+[![](https://immigration.ca/wp-content/uploads/2022/11/Quebec_499697506-scaled-40x40.jpeg)](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
+[Quebec Experience Program Application Window Closes October 31 – Who Can Still Apply?](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)October 27, 2026
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
+[Canada Invites 792 Provincial Nominees in October 26 Express Entry Draw](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)October 27, 2026
 [![Quebec Premier Tries and Fails to Force Federal Election Centred on Immigration](https://immigration.ca/wp-content/uploads/2024/09/Quebec-Premier-Tries-and-Fails-to-Force-Federal-Election-Centred-on-Immigration-40x40.jpg)](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
 [Quebec Renames Immigration Ministry As New Government Prepares Immigration Cuts](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)October 26, 2026
 [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
@@ -75,7 +79,3 @@ Colin R. Singer  December 17, 2025
 [Manitoba Issues 1,304 Letters of Advice to Apply in MPNP Draw #282](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)October 23, 2026
 [![Thunder Bay Rural Community Immigration Pilot Stream 2026](https://immigration.ca/wp-content/uploads/2026/02/Thunder-Bay-Rural-Community-Immigration-Pilot-Stream-2026-40x40.jpg)](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)
 [Ontario Reopens Regional Immigration Pathway For Six Communities Until 2027](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)October 23, 2026
-[![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)
-[Canada’s Work Permit Population Rises Despite 57% Drop In New Arrivals](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)October 22, 2026
-[![How Immigration Has Helped With Canada’s Aging Population](https://immigration.ca/wp-content/uploads/2024/05/How-Immigration-Has-Helped-With-Canadas-Aging-Population-40x40.jpg)](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)
-[Canada’s Immigration Cuts Deepening Its Ageing Workforce Problem](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)October 22, 2026
