@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 8f3d86f0ed253678
+content_hash: 3fbe845d246a52fa
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2022/11/Quebec_499697506-300x169.jpeg)](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
+[![](https://immigration.ca/wp-content/uploads/2026/10/Genealogist-300x169.jpg)](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Quebec Experience Program Application Window Closes October 31 – Who Can Still Apply? ](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
-[ Read More » ](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
-Colin R. Singer  October 27, 2026 
-[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-300x169.jpg)](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Invites 792 Provincial Nominees in October 26 Express Entry Draw ](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
-[ Read More » ](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
-Colin Singer  October 27, 2026 
+###  [ Q&A: A Genealogist Traces His Own Path to Canadian Citizenship by Descent ](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
+[ Read More » ](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
+Colin R. Singer  October 28, 2026 
+[![A happy family holding Canadian flags](https://immigration.ca/wp-content/uploads/2026/10/Canadian-Family-2-300x169.jpg)](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
+![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Bill C-3 Could Bring 280,000 Lost Canadians and Their Spouses From the US, Estimate Suggests ](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
+[ Read More » ](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
+Colin R. Singer  October 28, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -67,15 +67,15 @@ Colin R. Singer  March 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
+[![](https://immigration.ca/wp-content/uploads/2026/10/Genealogist-scaled-40x40.jpg)](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
+[Q&A: A Genealogist Traces His Own Path to Canadian Citizenship by Descent](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)October 28, 2026
+[![A happy family holding Canadian flags](https://immigration.ca/wp-content/uploads/2026/10/Canadian-Family-2-40x40.jpg)](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
+[Bill C-3 Could Bring 280,000 Lost Canadians and Their Spouses From the US, Estimate Suggests](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)October 28, 2026
+[![Streamlining Entry for International Talent Amid Canada's Urgent Need for Skilled Trades](https://immigration.ca/wp-content/uploads/2024/08/Streamlining-Entry-for-International-Talent-Amid-Canadas-Urgent-Need-for-Skilled-Trades-40x40.jpg)](https://immigration.ca/canada-signs-uae-trade-deal-with-new-provisions-for-skilled-workers/)
+[Canada Signs UAE Trade Deal With New Provisions For Skilled Workers](https://immigration.ca/canada-signs-uae-trade-deal-with-new-provisions-for-skilled-workers/)October 28, 2026
+[![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-407-october-27-2026/)
+[Canada Invites 5,000 French-Speaking Candidates in October 27 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-407-october-27-2026/)October 28, 2026
 [![](https://immigration.ca/wp-content/uploads/2022/11/Quebec_499697506-scaled-40x40.jpeg)](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
 [Quebec Experience Program Application Window Closes October 31 – Who Can Still Apply?](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)October 27, 2026
 [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
 [Canada Invites 792 Provincial Nominees in October 26 Express Entry Draw](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)October 27, 2026
-[![Quebec Premier Tries and Fails to Force Federal Election Centred on Immigration](https://immigration.ca/wp-content/uploads/2024/09/Quebec-Premier-Tries-and-Fails-to-Force-Federal-Election-Centred-on-Immigration-40x40.jpg)](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
-[Quebec Renames Immigration Ministry As New Government Prepares Immigration Cuts](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)October 26, 2026
-[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
-[Alberta Issues More Than 560 Invitations Across Five AAIP Draws From October 9 To October 20](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)October 24, 2026
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
-[Manitoba Issues 1,304 Letters of Advice to Apply in MPNP Draw #282](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)October 23, 2026
-[![Thunder Bay Rural Community Immigration Pilot Stream 2026](https://immigration.ca/wp-content/uploads/2026/02/Thunder-Bay-Rural-Community-Immigration-Pilot-Stream-2026-40x40.jpg)](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)
-[Ontario Reopens Regional Immigration Pathway For Six Communities Until 2027](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)October 23, 2026
