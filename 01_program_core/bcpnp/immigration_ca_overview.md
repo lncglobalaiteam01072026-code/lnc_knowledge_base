@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 44c51f9067aa991f
+content_hash: 24180026846051d0
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-10-29'
+last_updated: '2026-10-30'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -86,7 +86,7 @@ Search
     * [Buy a Business and Move to Canada](https://businesses.immigration.ca)
     * [International Business Immigration Programs](https://immigration.ca/international-business-immigration-programs/)
   * [Work](https://immigration.ca/hire-foreign-workers-canada/)
-    * [Work Permits](https://immigration.ca/canada-work-visa/)
+    * [Work Permits](https://immigration.ca/how-to-apply-work-permit-canada/)
       * [LMIA-Based Work Permits](https://immigration.ca/labour-market-impact-assessments-lmia-in-canada/)
       * [LMIA-Exemptions](https://immigration.ca/jobs-that-are-exempt-from-the-lmia-requirement/)
       * [Work Permit Exemptions](https://immigration.ca/jobs-that-do-not-require-a-work-permit-in-canada/)
@@ -126,7 +126,7 @@ Search
     * [Canada Temporary Visa Overview](https://immigration.ca/canada-temporary-visa-overview/)
     * [Canada Visitor Visa Guide](https://immigration.ca/canada-visitor-visa-guide/)
     * [Electronic Travel Authorization (eTA)](https://immigration.ca/electronic-travel-authorization/)
-    * [Canada Work Permit](https://immigration.ca/canada-work-visa/)
+    * [Canada Work Permit](https://immigration.ca/how-to-apply-work-permit-canada/)
     * [Parents and Grandparents Super Visa](https://immigration.ca/super-visa-canada/)
   * Citizenship
     * [How to Apply for Canada Citizenship: A Step-by-Step Guide](https://immigration.ca/apply-for-citizenship/)
@@ -222,7 +222,7 @@ Search
     * [Buy a Business and Move to Canada](https://businesses.immigration.ca)
     * [International Business Immigration Programs](https://immigration.ca/international-business-immigration-programs/)
   * [Work](https://immigration.ca/hire-foreign-workers-canada/)
-    * [Work Permits](https://immigration.ca/canada-work-visa/)
+    * [Work Permits](https://immigration.ca/how-to-apply-work-permit-canada/)
       * [LMIA-Based Work Permits](https://immigration.ca/labour-market-impact-assessments-lmia-in-canada/)
       * [LMIA-Exemptions](https://immigration.ca/jobs-that-are-exempt-from-the-lmia-requirement/)
       * [Work Permit Exemptions](https://immigration.ca/jobs-that-do-not-require-a-work-permit-in-canada/)
@@ -262,7 +262,7 @@ Search
     * [Canada Temporary Visa Overview](https://immigration.ca/canada-temporary-visa-overview/)
     * [Canada Visitor Visa Guide](https://immigration.ca/canada-visitor-visa-guide/)
     * [Electronic Travel Authorization (eTA)](https://immigration.ca/electronic-travel-authorization/)
-    * [Canada Work Permit](https://immigration.ca/canada-work-visa/)
+    * [Canada Work Permit](https://immigration.ca/how-to-apply-work-permit-canada/)
     * [Parents and Grandparents Super Visa](https://immigration.ca/super-visa-canada/)
   * Citizenship
     * [How to Apply for Canada Citizenship: A Step-by-Step Guide](https://immigration.ca/apply-for-citizenship/)
@@ -419,6 +419,8 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2023/07/Aircraft-Inspector_218990497-40x40.jpeg)](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)
+[Canada Invites 150 Transport Workers in October 28 Express Entry Draw at CRS 477](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)October 29, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Genealogist-scaled-40x40.jpg)](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
 [Q&A: A Genealogist Traces His Own Path to Canadian Citizenship by Descent](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)October 28, 2026
   * [![A happy family holding Canadian flags](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Canadian-Family-2-40x40.jpg)](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
@@ -429,8 +431,6 @@ Latest News
 [Canada Invites 5,000 French-Speaking Candidates in October 27 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-407-october-27-2026/)October 28, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2022/11/Quebec_499697506-scaled-40x40.jpeg)](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
 [Quebec Experience Program Application Window Closes October 31 – Who Can Still Apply?](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)October 27, 2026
-  * [![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
-[Canada Invites 792 Provincial Nominees in October 26 Express Entry Draw](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)October 27, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -459,4 +459,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/british-columbia-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=007e1d18-07e7-4c01-bf78-c80051f9f209&bo=1&sid=eb9d52a0d36311f1bef3c106d0f76347&vid=eb9d70b0d36311f1bdb837077cdaa4c1&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=1268&evt=pageLoad&sv=2&cdb=AQAQ&rn=767364)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=007e1d18-07e7-4c01-bf78-c80051f9f209&bo=2&sid=eb9d52a0d36311f1bef3c106d0f76347&vid=eb9d70b0d36311f1bdb837077cdaa4c1&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=942065)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=2c3fbf5e-dea4-413a-9360-e5d7db6f93a4&bo=1&sid=4f19b040d42d11f1989501737eed0ed9&vid=4f199a20d42d11f186581deefc8f5717&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=1236&evt=pageLoad&sv=2&cdb=AQAQ&rn=759264)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=2c3fbf5e-dea4-413a-9360-e5d7db6f93a4&bo=2&sid=4f19b040d42d11f1989501737eed0ed9&vid=4f199a20d42d11f186581deefc8f5717&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=753012)

@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 3fbe845d246a52fa
+content_hash: df177c4b8c4325a9
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-29'
+last_updated: '2026-10-30'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2026/10/Genealogist-300x169.jpg)](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
+[![Immigration Consultation](https://immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-300x169.jpg)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Q&A: A Genealogist Traces His Own Path to Canadian Citizenship by Descent ](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
-[ Read More » ](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
-Colin R. Singer  October 28, 2026 
-[![A happy family holding Canadian flags](https://immigration.ca/wp-content/uploads/2026/10/Canadian-Family-2-300x169.jpg)](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
+###  [ Book a Canadian Citizenship-by-Descent Consultation ($125 Discount Applied) ](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)
+[ Read More » ](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)
+Colin R. Singer  October 30, 2026 
+[![Canada Issues 1,613 Invitations In New PNP Express Entry Draw](https://immigration.ca/wp-content/uploads/2024/10/Canada-Issues-1613-Invitations-In-New-PNP-Express-Entry-Draw-300x157.jpg)](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Bill C-3 Could Bring 280,000 Lost Canadians and Their Spouses From the US, Estimate Suggests ](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
-[ Read More » ](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
-Colin R. Singer  October 28, 2026 
+###  [ Ottawa Must Pause Economic Immigration To Clear The Lost Canadians Backlog ](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)
+[ Read More » ](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)
+Colin R. Singer  October 29, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -34,7 +34,7 @@ Colin R. Singer  December 30, 2016
 ###  [ Canada Immigration Application Processing Times 2026 ](https://immigration.ca/canada-immigration-applications-processing-times/)
 Check the latest Canada immigration processing times for 2025, including Express Entry, study permits, work visas, and sponsorships. Updated as of November 4, 2025.
 [ Read More » ](https://immigration.ca/canada-immigration-applications-processing-times/)
-Colin R. Singer  October 21, 2026 
+Colin R. Singer  October 29, 2026 
 ###  [ CRS Score Drops To 444 In Latest Canada Express Entry Draw ](https://immigration.ca/crs-score-drops-444-latest-canada-express-entry-draw/)
 January 24, 2017 – Canadian immigration authorities conducted the 2nd round of invitations under Express Entry in 2018 and 82nd overall, with 2,750 candidates issued Invitations to Apply
 [ Read More » ](https://immigration.ca/crs-score-drops-444-latest-canada-express-entry-draw/)
@@ -67,15 +67,15 @@ Colin R. Singer  March 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
+[![Immigration Consultation](https://immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)
+[Book a Canadian Citizenship-by-Descent Consultation ($125 Discount Applied)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)October 30, 2026
+[![Canada Issues 1,613 Invitations In New PNP Express Entry Draw](https://immigration.ca/wp-content/uploads/2024/10/Canada-Issues-1613-Invitations-In-New-PNP-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)
+[Ottawa Must Pause Economic Immigration To Clear The Lost Canadians Backlog](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)October 29, 2026
+[![How to Easily Apply for Extension of Work Permit](https://immigration.ca/wp-content/uploads/2015/08/How-to-Easily-Apply-for-Extension-of-Work-Permit-40x40.jpg)](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)
+[Canada Removes 90-Day Limit For Work Permit Applicants Awaiting LMIAs](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)October 29, 2026
+[![](https://immigration.ca/wp-content/uploads/2023/07/Aircraft-Inspector_218990497-40x40.jpeg)](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)
+[Canada Invites 150 Transport Workers in October 28 Express Entry Draw at CRS 477](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)October 29, 2026
 [![](https://immigration.ca/wp-content/uploads/2026/10/Genealogist-scaled-40x40.jpg)](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
 [Q&A: A Genealogist Traces His Own Path to Canadian Citizenship by Descent](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)October 28, 2026
 [![A happy family holding Canadian flags](https://immigration.ca/wp-content/uploads/2026/10/Canadian-Family-2-40x40.jpg)](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
 [Bill C-3 Could Bring 280,000 Lost Canadians and Their Spouses From the US, Estimate Suggests](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)October 28, 2026
-[![Streamlining Entry for International Talent Amid Canada's Urgent Need for Skilled Trades](https://immigration.ca/wp-content/uploads/2024/08/Streamlining-Entry-for-International-Talent-Amid-Canadas-Urgent-Need-for-Skilled-Trades-40x40.jpg)](https://immigration.ca/canada-signs-uae-trade-deal-with-new-provisions-for-skilled-workers/)
-[Canada Signs UAE Trade Deal With New Provisions For Skilled Workers](https://immigration.ca/canada-signs-uae-trade-deal-with-new-provisions-for-skilled-workers/)October 28, 2026
-[![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-407-october-27-2026/)
-[Canada Invites 5,000 French-Speaking Candidates in October 27 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-407-october-27-2026/)October 28, 2026
-[![](https://immigration.ca/wp-content/uploads/2022/11/Quebec_499697506-scaled-40x40.jpeg)](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
-[Quebec Experience Program Application Window Closes October 31 – Who Can Still Apply?](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)October 27, 2026
-[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)
-[Canada Invites 792 Provincial Nominees in October 26 Express Entry Draw](https://immigration.ca/canada-invites-792-provincial-nominees-express-entry-october-26-2026/)October 27, 2026

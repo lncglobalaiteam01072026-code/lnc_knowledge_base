@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: e4acf4f8586b7fd6
+content_hash: 4265016926a38fb9
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-10-29'
+last_updated: '2026-10-30'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -86,7 +86,7 @@ Search
     * [Buy a Business and Move to Canada](https://businesses.immigration.ca)
     * [International Business Immigration Programs](https://immigration.ca/international-business-immigration-programs/)
   * [Work](https://immigration.ca/hire-foreign-workers-canada/)
-    * [Work Permits](https://immigration.ca/canada-work-visa/)
+    * [Work Permits](https://immigration.ca/how-to-apply-work-permit-canada/)
       * [LMIA-Based Work Permits](https://immigration.ca/labour-market-impact-assessments-lmia-in-canada/)
       * [LMIA-Exemptions](https://immigration.ca/jobs-that-are-exempt-from-the-lmia-requirement/)
       * [Work Permit Exemptions](https://immigration.ca/jobs-that-do-not-require-a-work-permit-in-canada/)
@@ -126,7 +126,7 @@ Search
     * [Canada Temporary Visa Overview](https://immigration.ca/canada-temporary-visa-overview/)
     * [Canada Visitor Visa Guide](https://immigration.ca/canada-visitor-visa-guide/)
     * [Electronic Travel Authorization (eTA)](https://immigration.ca/electronic-travel-authorization/)
-    * [Canada Work Permit](https://immigration.ca/canada-work-visa/)
+    * [Canada Work Permit](https://immigration.ca/how-to-apply-work-permit-canada/)
     * [Parents and Grandparents Super Visa](https://immigration.ca/super-visa-canada/)
   * Citizenship
     * [How to Apply for Canada Citizenship: A Step-by-Step Guide](https://immigration.ca/apply-for-citizenship/)
@@ -222,7 +222,7 @@ Search
     * [Buy a Business and Move to Canada](https://businesses.immigration.ca)
     * [International Business Immigration Programs](https://immigration.ca/international-business-immigration-programs/)
   * [Work](https://immigration.ca/hire-foreign-workers-canada/)
-    * [Work Permits](https://immigration.ca/canada-work-visa/)
+    * [Work Permits](https://immigration.ca/how-to-apply-work-permit-canada/)
       * [LMIA-Based Work Permits](https://immigration.ca/labour-market-impact-assessments-lmia-in-canada/)
       * [LMIA-Exemptions](https://immigration.ca/jobs-that-are-exempt-from-the-lmia-requirement/)
       * [Work Permit Exemptions](https://immigration.ca/jobs-that-do-not-require-a-work-permit-in-canada/)
@@ -262,7 +262,7 @@ Search
     * [Canada Temporary Visa Overview](https://immigration.ca/canada-temporary-visa-overview/)
     * [Canada Visitor Visa Guide](https://immigration.ca/canada-visitor-visa-guide/)
     * [Electronic Travel Authorization (eTA)](https://immigration.ca/electronic-travel-authorization/)
-    * [Canada Work Permit](https://immigration.ca/canada-work-visa/)
+    * [Canada Work Permit](https://immigration.ca/how-to-apply-work-permit-canada/)
     * [Parents and Grandparents Super Visa](https://immigration.ca/super-visa-canada/)
   * Citizenship
     * [How to Apply for Canada Citizenship: A Step-by-Step Guide](https://immigration.ca/apply-for-citizenship/)
@@ -304,7 +304,7 @@ Search
 Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
 Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
 Published: **February 16, 2013**
-Last updated: **October 22, 2026**
+Last updated: **October 29, 2026**
 Reading time: 5 min
 Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
 ![Alberta To Launch New Expression of Interest System Next Month](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Alberta-To-Launch-New-Expression-of-Interest-System-Next-Month.jpg)
@@ -360,7 +360,7 @@ Applying to an Alberta worker stream follows three steps:
   3. **Submit and pay for your application.** Once you create an application, you have 30 days to complete it, upload every document on the worker stream checklist and pay the $1,500 application fee. Incomplete or ineligible applications are declined and fees are not refunded.
 
 
-Alberta Express Entry Stream candidates must also maintain an active federal Express Entry profile. For the federal side of the process, see our overview of [Express Entry](https://immigration.ca/canada-express-entry-immigration/), and if you still need work authorization, our [Canada work permit guide](https://immigration.ca/canada-work-visa/). To compare Alberta with other routes, see [12 ways you can immigrate to Canada](https://immigration.ca/12-ways-you-can-immigrate-to-canada/).
+Alberta Express Entry Stream candidates must also maintain an active federal Express Entry profile. For the federal side of the process, see our overview of [Express Entry](https://immigration.ca/canada-express-entry-immigration/), and if you still need work authorization, our [Canada work permit guide](https://immigration.ca/how-to-apply-work-permit-canada/). To compare Alberta with other routes, see [12 ways you can immigrate to Canada](https://immigration.ca/12-ways-you-can-immigrate-to-canada/).
 ## AAIP Fees in 2026
 Alberta’s fee schedule effective April 7, 2026 sets the following main fees:
   * Worker Expression of Interest: $135
@@ -451,18 +451,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![Quebec Premier Tries and Fails to Force Federal Election Centred on Immigration](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Quebec-Premier-Tries-and-Fails-to-Force-Federal-Election-Centred-on-Immigration-40x40.jpg)](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)
-[Quebec Renames Immigration Ministry As New Government Prepares Immigration Cuts](https://immigration.ca/quebec-renames-immigration-ministry-as-new-government-prepares-immigration-cuts/)October 26, 2026
-  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)
-[Alberta Issues More Than 560 Invitations Across Five AAIP Draws From October 9 To October 20](https://immigration.ca/alberta-issues-560-invitations-five-aaip-draws-october-2026/)October 24, 2026
-  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)
-[Manitoba Issues 1,304 Letters of Advice to Apply in MPNP Draw #282](https://immigration.ca/manitoba-issues-1304-letters-of-advice-to-apply-mpnp-draw-282-october-22-2026/)October 23, 2026
-  * [![Thunder Bay Rural Community Immigration Pilot Stream 2026](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Thunder-Bay-Rural-Community-Immigration-Pilot-Stream-2026-40x40.jpg)](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)
-[Ontario Reopens Regional Immigration Pathway For Six Communities Until 2027](https://immigration.ca/ontario-reopens-regional-immigration-pathway-for-six-communities-until-2027/)October 23, 2026
-  * [![Block 16: The Reason for Issuing this Record of Employment \(ROE\). Learn more about what each code signifies and when employers would use them.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2016/11/Canada-To-Give-Open-Work-Permits-To-Certain-Temporary-Foreign-Workers-Awaiting-PNP-Processing-40x40.jpg)](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)
-[Canada’s Work Permit Population Rises Despite 57% Drop In New Arrivals](https://immigration.ca/canadas-work-permit-population-rises-despite-57-drop-in-new-arrivals/)October 22, 2026
-  * [![How Immigration Has Helped With Canada’s Aging Population](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/05/How-Immigration-Has-Helped-With-Canadas-Aging-Population-40x40.jpg)](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)
-[Canada’s Immigration Cuts Deepening Its Ageing Workforce Problem](https://immigration.ca/canadas-immigration-cuts-deepening-its-ageing-workforce-problem/)October 22, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2023/07/Aircraft-Inspector_218990497-40x40.jpeg)](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)
+[Canada Invites 150 Transport Workers in October 28 Express Entry Draw at CRS 477](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)October 29, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Genealogist-scaled-40x40.jpg)](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
+[Q&A: A Genealogist Traces His Own Path to Canadian Citizenship by Descent](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)October 28, 2026
+  * [![A happy family holding Canadian flags](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Canadian-Family-2-40x40.jpg)](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
+[Bill C-3 Could Bring 280,000 Lost Canadians and Their Spouses From the US, Estimate Suggests](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)October 28, 2026
+  * [![Streamlining Entry for International Talent Amid Canada's Urgent Need for Skilled Trades](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Streamlining-Entry-for-International-Talent-Amid-Canadas-Urgent-Need-for-Skilled-Trades-40x40.jpg)](https://immigration.ca/canada-signs-uae-trade-deal-with-new-provisions-for-skilled-workers/)
+[Canada Signs UAE Trade Deal With New Provisions For Skilled Workers](https://immigration.ca/canada-signs-uae-trade-deal-with-new-provisions-for-skilled-workers/)October 28, 2026
+  * [![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-407-october-27-2026/)
+[Canada Invites 5,000 French-Speaking Candidates in October 27 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-407-october-27-2026/)October 28, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2022/11/Quebec_499697506-scaled-40x40.jpeg)](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
+[Quebec Experience Program Application Window Closes October 31 – Who Can Still Apply?](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)October 27, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -491,4 +491,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/alberta-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=537db9da-496b-4072-99a4-b9945f4d2c54&bo=1&sid=eba86ec0d36311f1b43b3748259ffba6&vid=eba8ff90d36311f1beb9a3e740634aca&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Alberta%20Immigration%202026%3A%20AAIP%20Streams,%20EOI%20Fee%20%26%20Draws&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&r=&lt=1667&evt=pageLoad&sv=2&cdb=AQAQ&rn=88272)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=537db9da-496b-4072-99a4-b9945f4d2c54&bo=2&sid=eba86ec0d36311f1b43b3748259ffba6&vid=eba8ff90d36311f1beb9a3e740634aca&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=309933)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=08987eab-0693-4217-a351-1b79d55487ed&bo=1&sid=4f2067d0d42d11f1af1c552c91d0c29a&vid=4f210080d42d11f19e52517e786e42fa&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Alberta%20Immigration%202026%3A%20AAIP%20Streams,%20EOI%20Fee%20%26%20Draws&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&r=&lt=1312&evt=pageLoad&sv=2&cdb=AQAQ&rn=216616)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=08987eab-0693-4217-a351-1b79d55487ed&bo=2&sid=4f2067d0d42d11f1af1c552c91d0c29a&vid=4f210080d42d11f19e52517e786e42fa&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=649952)
