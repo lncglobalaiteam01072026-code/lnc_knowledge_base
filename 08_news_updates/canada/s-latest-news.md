@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 6e96947e55814ee5
+content_hash: aa9395117f3e3d42
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-10-31'
+last_updated: '2026-11-01'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-300x169.jpg)](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ British Columbia Invites 772 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026 ](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)
+[ Read More » ](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)
+Colin Singer  October 31, 2026 
 [![](https://immigration.ca/wp-content/uploads/2026/10/Scam-300x169.jpg)](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Canada Introduces $1.5 Million Penalties For Immigration Fraud And Unauthorized Consultants ](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)
 [ Read More » ](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)
 Colin R. Singer  October 30, 2026 
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)
-![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Newfoundland and Labrador Issues 85 Invitations in October 29 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)
-[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)
-Colin Singer  October 30, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -67,6 +67,8 @@ Colin R. Singer  March 17, 2025
 Canada has conducted a new Express Entry draw aimed at the Canadian Experience Class, issuing 5,000 Invitations to Apply (ITAs) on December 16. 
 [ Read More » ](https://immigration.ca/latest-express-entry-draw-features-lowest-crs-of-2025-for-canadian-experience-class/)
 Colin R. Singer  December 17, 2025 
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)
+[British Columbia Invites 772 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)October 31, 2026
 [![](https://immigration.ca/wp-content/uploads/2026/10/Scam-40x40.jpg)](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)
 [Canada Introduces $1.5 Million Penalties For Immigration Fraud And Unauthorized Consultants](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)October 30, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)
@@ -77,5 +79,3 @@ Colin R. Singer  December 17, 2025
 [Ottawa Must Pause Economic Immigration To Clear The Lost Canadians Backlog](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)October 29, 2026
 [![How to Easily Apply for Extension of Work Permit](https://immigration.ca/wp-content/uploads/2015/08/How-to-Easily-Apply-for-Extension-of-Work-Permit-40x40.jpg)](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)
 [Canada Removes 90-Day Limit For Work Permit Applicants Awaiting LMIAs](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)October 29, 2026
-[![](https://immigration.ca/wp-content/uploads/2023/07/Aircraft-Inspector_218990497-40x40.jpeg)](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)
-[Canada Invites 150 Transport Workers in October 28 Express Entry Draw at CRS 477](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)October 29, 2026
