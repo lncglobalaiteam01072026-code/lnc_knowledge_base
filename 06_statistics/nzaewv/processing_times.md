@@ -1,11 +1,11 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 601c7c4a7b1126ba
+content_hash: 087437ba7b6d0448
 country: NZ
 file_role: processing_times
 lang: en
-last_updated: '2026-10-01'
+last_updated: '2026-11-01'
 priority_weight: 1
 program: NZAEWV
 retrieval_strategy: direct
@@ -39,7 +39,7 @@ Topics
 
 Key information about the Accredited Employer Work Visa (AEWV).
 
-Latest update: 10 September 2026.
+Latest update: 13 October 2026.
 
 ## What is the Accredited Employer Work Visa (AEWV)?
 
@@ -81,7 +81,7 @@ We are continuing to review how we allocate AEWV applications for processing. Yo
 
 Accreditation applications opened on 23 May 2022, job check applications opened on 20 June 2022 and work visa applications opened on 4 July 2022.
 
-As at 31 August 2026 Immigration New Zealand (INZ) has approved more than 209,000 AEWV applications since the scheme opened. There are more than 29,000 accredited employers and more than 94,000 AEWV holders.
+As at 30 September 2026 Immigration New Zealand (INZ) has approved more than 211,000 AEWV applications since the scheme opened. There are more than 30,000 accredited employers and more than 94,000 AEWV holders.
 
 On 7 April 2024, changes were announced to the Accredited Employer Work Visa scheme. These include:
 
@@ -92,7 +92,7 @@ On 7 April 2024, changes were announced to the Accredited Employer Work Visa sch
   for most ANZSCO level 4 and 5 roles from 5 years to 3 years
 - The franchisee accreditation category will be disestablished and these businesses will be to apply to bring in workers from overseas through the standard, high-volume, or triangular employment accreditation
 
-Note: the number of AEWV holders is higher than previous updates as they now include migrants who have varied their AEWV conditions, or who have applied to transfer their visa into a new passport).
+**Note:** the number of AEWV holders is higher than previous updates as they now include migrants who have varied their AEWV conditions, or who have applied to transfer their visa into a new passport).
 
 [Changes to the Accredited Employer Work Visa (AEWV)](/about-us/news-centre/changes-to-the-accredited-employer-work-visa-aewv/)
 
@@ -117,13 +117,13 @@ Post-accreditation checks are a routine process introduced as part of the scheme
 
 We expect employers to take their responsibilities seriously and comply with AEWV conditions, and there are penalties for employers who do not comply with employment or immigration laws.
 
-### As at 31 August 2026
+### As at 30 September 2026
 
-- Since 1 July 2022 MBIE has received 9,461 complaints against accredited employers. This number only indicates an allegation involving an Accredited Employer has been received, not whether the allegation can be substantiated.
-- INZ has undertaken 9,551 post-accreditation checks on 6,566 employers. An additional 24 are underway.
-- There are currently 107 active investigations on 119 Accredited Employers underway (as some are multiple employers recorded under one investigation case).
-- 1,641 employers have had their accreditation revoked and 1,049 have had their accreditation suspended.
-- 91 employers are currently under assessment to have their accreditation revoked or suspended.
+- Since 1 July 2022 MBIE has received 9,594 complaints against accredited employers. This number only indicates an allegation involving an Accredited Employer has been received, not whether the allegation can be substantiated.
+- INZ has undertaken 9,611 post-accreditation checks on 6,592 employers. An additional 24 are underway.
+- There are currently 101 active investigations on 115 accredited employers underway (as some are multiple employers recorded under 1 investigation case).
+- 1,728 employers have had their accreditation revoked and 1,087 have had their accreditation suspended.
+- 49 employers are currently under assessment to have their accreditation revoked or suspended.
 
 ### Revoking and suspending employer accreditation
 
