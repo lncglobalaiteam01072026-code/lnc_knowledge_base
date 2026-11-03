@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 3461a561f12c58d0
+content_hash: 5ddcf51cfb19ae45
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-11-02'
+last_updated: '2026-11-03'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -419,18 +419,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2023/07/Aircraft-Inspector_218990497-40x40.jpeg)](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)
-[Canada Invites 150 Transport Workers in October 28 Express Entry Draw at CRS 477](https://immigration.ca/canada-invites-150-transport-workers-express-entry-crs-477-october-28-2026/)October 29, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Genealogist-scaled-40x40.jpg)](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)
-[Q&A: A Genealogist Traces His Own Path to Canadian Citizenship by Descent](https://immigration.ca/genealogist-canadian-citizenship-by-descent-qa/)October 28, 2026
-  * [![A happy family holding Canadian flags](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Canadian-Family-2-40x40.jpg)](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)
-[Bill C-3 Could Bring 280,000 Lost Canadians and Their Spouses From the US, Estimate Suggests](https://immigration.ca/bill-c-3-280000-lost-canadians-could-move-to-canada/)October 28, 2026
-  * [![Streamlining Entry for International Talent Amid Canada's Urgent Need for Skilled Trades](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Streamlining-Entry-for-International-Talent-Amid-Canadas-Urgent-Need-for-Skilled-Trades-40x40.jpg)](https://immigration.ca/canada-signs-uae-trade-deal-with-new-provisions-for-skilled-workers/)
-[Canada Signs UAE Trade Deal With New Provisions For Skilled Workers](https://immigration.ca/canada-signs-uae-trade-deal-with-new-provisions-for-skilled-workers/)October 28, 2026
-  * [![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-407-october-27-2026/)
-[Canada Invites 5,000 French-Speaking Candidates in October 27 Express Entry Draw](https://immigration.ca/canada-invites-5000-french-speaking-candidates-express-entry-crs-407-october-27-2026/)October 28, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2022/11/Quebec_499697506-scaled-40x40.jpeg)](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)
-[Quebec Experience Program Application Window Closes October 31 – Who Can Still Apply?](https://immigration.ca/quebec-experience-program-application-window-closes-october-31-who-can-still-apply/)October 27, 2026
+  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)
+[British Columbia Invites 772 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)October 31, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Scam-40x40.jpg)](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)
+[Canada Introduces $1.5 Million Penalties For Immigration Fraud And Unauthorized Consultants](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)October 30, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)
+[Newfoundland and Labrador Issues 85 Invitations in October 29 Draw](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)October 30, 2026
+  * [![Immigration Consultation](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)
+[Book a Canadian Citizenship-by-Descent Consultation ($125 Discount Applied)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)October 30, 2026
+  * [![Canada Issues 1,613 Invitations In New PNP Express Entry Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Canada-Issues-1613-Invitations-In-New-PNP-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)
+[Ottawa Must Pause Economic Immigration To Clear The Lost Canadians Backlog](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)October 29, 2026
+  * [![How to Easily Apply for Extension of Work Permit](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2015/08/How-to-Easily-Apply-for-Extension-of-Work-Permit-40x40.jpg)](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)
+[Canada Removes 90-Day Limit For Work Permit Applicants Awaiting LMIAs](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)October 29, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -459,4 +459,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/british-columbia-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=47866363-0a83-4063-b08f-5a323eaa38df&bo=1&sid=fae495a0d68b11f18d87e582d3660816&vid=fae49be0d68b11f1beaa5172e841beb7&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=1039&evt=pageLoad&sv=2&cdb=AQAQ&rn=798809)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=47866363-0a83-4063-b08f-5a323eaa38df&bo=2&sid=fae495a0d68b11f18d87e582d3660816&vid=fae49be0d68b11f1beaa5172e841beb7&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=961611)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=80565dd2-383b-4b77-910b-ff170876b2f5&bo=1&sid=630d3750d75811f19f1ad1f6b54577a5&vid=630d5e10d75811f18bd35f7cab72471b&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=1457&evt=pageLoad&sv=2&cdb=AQAQ&rn=979578)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=80565dd2-383b-4b77-910b-ff170876b2f5&bo=2&sid=630d3750d75811f19f1ad1f6b54577a5&vid=630d5e10d75811f18bd35f7cab72471b&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=138316)
