@@ -3641,3 +3641,6 @@
 {"run_id": "2026-11-05T07:38Z_daily", "source_id": "immigration_ca_aaip", "status": "ok", "changed": true, "duration_s": 6.5, "timestamp": "2026-11-05T07:38:58.867943+00:00"}
 {"run_id": "2026-11-05T07:38Z_daily", "source_id": "immigration_ca_bcpnp", "status": "ok", "changed": true, "duration_s": 6.5, "timestamp": "2026-11-05T07:38:58.867943+00:00"}
 {"run_id": "2026-11-05T07:38Z_daily", "source_id": "immigration_ca_news_canada", "status": "ok", "changed": true, "duration_s": 6.8, "timestamp": "2026-11-05T07:38:58.867943+00:00"}
+{"run_id": "2026-11-05T09:15Z_ircc_processing_times", "source_id": "ircc_processing_times", "status": "ok", "changed": true, "duration_s": 1.1, "timestamp": "2026-11-05T09:15:13.724000+00:00"}
+{"run_id": "2026-11-05T09:15Z_ircc_pnp_approvals", "source_id": "ircc_pnp_approvals", "status": "ok", "changed": false, "duration_s": 1.0, "timestamp": "2026-11-05T09:15:15.610862+00:00"}
+{"run_id": "2026-11-05T09:15Z_ircc_ee_pnp_link", "source_id": "ircc_ee_pnp_link", "status": "ok", "changed": true, "duration_s": 1.1, "timestamp": "2026-11-05T09:15:17.311152+00:00"}
