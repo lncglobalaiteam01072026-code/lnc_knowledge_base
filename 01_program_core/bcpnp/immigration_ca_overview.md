@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 01837150234d150d
+content_hash: acd18ee869c933b7
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-11-05'
+last_updated: '2026-11-06'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -304,7 +304,7 @@ Search
 Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
 Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
 Published: **November 23, 2018**
-Last updated: **September 10, 2026**
+Last updated: **November 5, 2026**
 Reading time: 8 min
 Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
 ![British Columbia PNP Draw Province Issues 200 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/British-Columbia-PNP-Draw-Province-Issues-200-Canada-Immigration-Invitations.jpg)
@@ -333,7 +333,7 @@ For context on how the province arrived here:
   * The 2026 figure of 6,254, after the August top-up, is marginally above the final 2025 total.
 
 
-Nationally, the 2026-2028 Immigration Levels Plan sets a Provincial Nominee Program admissions target of 91,500 for 2026, within a range of 82,000 to 105,000. Provincial allocations are set separately by IRCC and can be topped up during the year, as happened in both 2025 and 2026.
+Nationally, the 2026-2028 Immigration Levels Plan sets a Provincial Nominee Program admissions target of 91,500 for 2026, within a range of 82,000 to 105,000. Provincial allocations are set separately by IRCC and can be topped up during the year, as happened in both 2025 and 2026. The [2027-2029 Immigration Levels Plan](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/), tabled with Budget 2026 on November 5, 2026, keeps overall permanent resident admissions at 380,000 a year through 2029; its Provincial Nominee Program targets for 2027-2029 have not yet been published.
 The practical consequence for candidates is that the BC PNP invites a small number of people, in narrowly defined categories, at high scores. Applicants who do not fit a current priority should look at other [provincial nominee programs](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/) or at federal [Express Entry](https://immigration.ca/canada-express-entry-immigration/) options.
 ## BC PNP Streams Open in 2026
 The BC PNP now has two main pathways: Skills Immigration for workers, and Entrepreneur Immigration for entrepreneurs and businesses.
@@ -419,18 +419,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![Canada To Help More Refugees From Gaza](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/05/Canada-To-Help-More-Refugees-From-Gaza-40x40.jpg)](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)
+[Canada Introduces New Refugee Claim Rules With 60-Day Application Deadline](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)November 5, 2026
+  * [![Prime Minister Mark Carney in a dark suit and blue tie, photographed in front of industrial pipefitting equipment at a Calgary union training facility.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/09/Mark_Carney_in_Calgary_after_Canada%E2%80%93Alberta_energy_agreement_May_15_2026-40x40.jpg)](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/)
+[2027-2029 Immigration Levels Plan: Canada Holds Targets At 380,000 Permanent Residents In Budget 2026](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/)November 5, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-25-invitations-november-4-2026/)
+[Newfoundland and Labrador Issues 25 Invitations in November 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-25-invitations-november-4-2026/)November 5, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)
+[Canada Express Entry Changes In Effect From Today](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)November 3, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)
+[Newfoundland and Labrador Issues 50 Invitations in November 2 Draw](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)November 3, 2026
   * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)
 [British Columbia Invites 772 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)October 31, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Scam-40x40.jpg)](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)
-[Canada Introduces $1.5 Million Penalties For Immigration Fraud And Unauthorized Consultants](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)October 30, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)
-[Newfoundland and Labrador Issues 85 Invitations in October 29 Draw](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)October 30, 2026
-  * [![Immigration Consultation](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)
-[Book a Canadian Citizenship-by-Descent Consultation ($125 Discount Applied)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)October 30, 2026
-  * [![Canada Issues 1,613 Invitations In New PNP Express Entry Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Canada-Issues-1613-Invitations-In-New-PNP-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)
-[Ottawa Must Pause Economic Immigration To Clear The Lost Canadians Backlog](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)October 29, 2026
-  * [![How to Easily Apply for Extension of Work Permit](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2015/08/How-to-Easily-Apply-for-Extension-of-Work-Permit-40x40.jpg)](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)
-[Canada Removes 90-Day Limit For Work Permit Applicants Awaiting LMIAs](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)October 29, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -459,4 +459,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/british-columbia-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=0a62bad0-dd6c-4eb3-96be-59e45592f0d0&bo=1&sid=f8a17cb0d8eb11f19be46df645906099&vid=f8a26cf0d8eb11f192d5939cc618a0e4&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=1841&evt=pageLoad&sv=2&cdb=AQAQ&rn=699178)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=0a62bad0-dd6c-4eb3-96be-59e45592f0d0&bo=2&sid=f8a17cb0d8eb11f19be46df645906099&vid=f8a26cf0d8eb11f192d5939cc618a0e4&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=577856)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=0535e495-21d5-4ae4-b789-640876f7165e&bo=1&sid=ab54e330d9b411f184ee411b3cf0b314&vid=ab552490d9b411f1ad183194cf0ebaca&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=1267&evt=pageLoad&sv=2&cdb=AQAQ&rn=409722)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=0535e495-21d5-4ae4-b789-640876f7165e&bo=2&sid=ab54e330d9b411f184ee411b3cf0b314&vid=ab552490d9b411f1ad183194cf0ebaca&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=151703)

@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 91c1e81be107bd1a
+content_hash: 44bc0e8d260f9ad2
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-11-05'
+last_updated: '2026-11-06'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -451,18 +451,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![Prime Minister Mark Carney in a dark suit and blue tie, photographed in front of industrial pipefitting equipment at a Calgary union training facility.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/09/Mark_Carney_in_Calgary_after_Canada%E2%80%93Alberta_energy_agreement_May_15_2026-40x40.jpg)](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/)
+[2027-2029 Immigration Levels Plan: Canada Holds Targets At 380,000 Permanent Residents In Budget 2026](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/)November 5, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-25-invitations-november-4-2026/)
+[Newfoundland and Labrador Issues 25 Invitations in November 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-25-invitations-november-4-2026/)November 5, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)
+[Canada Express Entry Changes In Effect From Today](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)November 3, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)
+[Newfoundland and Labrador Issues 50 Invitations in November 2 Draw](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)November 3, 2026
   * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)
 [British Columbia Invites 772 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)October 31, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Scam-40x40.jpg)](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)
 [Canada Introduces $1.5 Million Penalties For Immigration Fraud And Unauthorized Consultants](https://immigration.ca/canada-introduces-1-5-million-penalties-for-immigration-fraud-and-unauthorized-consultants/)October 30, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)
-[Newfoundland and Labrador Issues 85 Invitations in October 29 Draw](https://immigration.ca/newfoundland-and-labrador-issues-85-invitations-october-29-2026/)October 30, 2026
-  * [![Immigration Consultation](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2013/07/Immigration-Consultation-40x40.jpg)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)
-[Book a Canadian Citizenship-by-Descent Consultation ($125 Discount Applied)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/)October 30, 2026
-  * [![Canada Issues 1,613 Invitations In New PNP Express Entry Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Canada-Issues-1613-Invitations-In-New-PNP-Express-Entry-Draw-40x40.jpg)](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)
-[Ottawa Must Pause Economic Immigration To Clear The Lost Canadians Backlog](https://immigration.ca/pause-economic-immigration-bill-c-3-backlog-2027-levels/)October 29, 2026
-  * [![How to Easily Apply for Extension of Work Permit](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2015/08/How-to-Easily-Apply-for-Extension-of-Work-Permit-40x40.jpg)](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)
-[Canada Removes 90-Day Limit For Work Permit Applicants Awaiting LMIAs](https://immigration.ca/canada-removes-90-day-limit-for-work-permit-applicants-awaiting-lmias/)October 29, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -491,4 +491,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/alberta-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=04e47202-7e84-4d29-9149-a2871d190a03&bo=1&sid=f8a43320d8eb11f19e8f4db6a18b35a8&vid=f8a46920d8eb11f18057aff669680a0d&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Alberta%20Immigration%202026%3A%20AAIP%20Streams,%20EOI%20Fee%20%26%20Draws&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&r=&lt=1763&evt=pageLoad&sv=2&cdb=AQAQ&rn=61486)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=04e47202-7e84-4d29-9149-a2871d190a03&bo=2&sid=f8a43320d8eb11f19e8f4db6a18b35a8&vid=f8a46920d8eb11f18057aff669680a0d&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=102913)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=c29f8bda-4269-4f31-a167-c3ed6df05266&bo=1&sid=ab46d3a0d9b411f19b0b49f7ce04d3ff&vid=ab471a90d9b411f1a5ad01fc0b3df50e&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Alberta%20Immigration%202026%3A%20AAIP%20Streams,%20EOI%20Fee%20%26%20Draws&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&r=&lt=1275&evt=pageLoad&sv=2&cdb=AQAQ&rn=216058)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=c29f8bda-4269-4f31-a167-c3ed6df05266&bo=2&sid=ab46d3a0d9b411f19b0b49f7ce04d3ff&vid=ab471a90d9b411f1a5ad01fc0b3df50e&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=607684)
