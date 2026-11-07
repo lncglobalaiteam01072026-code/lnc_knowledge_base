@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: acd18ee869c933b7
+content_hash: 2fee05c0179471ab
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-11-06'
+last_updated: '2026-11-07'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -419,18 +419,18 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)
+[Manitoba Issues 526 Letters of Advice to Apply in MPNP Draw #283](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)November 6, 2026
   * [![Canada To Help More Refugees From Gaza](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/05/Canada-To-Help-More-Refugees-From-Gaza-40x40.jpg)](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)
 [Canada Introduces New Refugee Claim Rules With 60-Day Application Deadline](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)November 5, 2026
   * [![Prime Minister Mark Carney in a dark suit and blue tie, photographed in front of industrial pipefitting equipment at a Calgary union training facility.](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/09/Mark_Carney_in_Calgary_after_Canada%E2%80%93Alberta_energy_agreement_May_15_2026-40x40.jpg)](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/)
-[2027-2029 Immigration Levels Plan: Canada Holds Targets At 380,000 Permanent Residents In Budget 2026](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/)November 5, 2026
+[2027-2029 Immigration Levels Plan: Canada Confirms 380,000 PR Target, Express Entry Cuts And New Pathways](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/)November 5, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-25-invitations-november-4-2026/)
 [Newfoundland and Labrador Issues 25 Invitations in November 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-25-invitations-november-4-2026/)November 5, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)
 [Canada Express Entry Changes In Effect From Today](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)November 3, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)
 [Newfoundland and Labrador Issues 50 Invitations in November 2 Draw](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)November 3, 2026
-  * [![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)
-[British Columbia Invites 772 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-772-high-economic-impact-workers-bc-pnp-october-29-2026/)October 31, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -459,4 +459,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/british-columbia-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=0535e495-21d5-4ae4-b789-640876f7165e&bo=1&sid=ab54e330d9b411f184ee411b3cf0b314&vid=ab552490d9b411f1ad183194cf0ebaca&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=1267&evt=pageLoad&sv=2&cdb=AQAQ&rn=409722)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=0535e495-21d5-4ae4-b789-640876f7165e&bo=2&sid=ab54e330d9b411f184ee411b3cf0b314&vid=ab552490d9b411f1ad183194cf0ebaca&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=151703)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=f2eeb6ef-1399-4d44-b97c-b022a91e61a8&bo=1&sid=0eaf3580da7711f1969ac1f1d882d12b&vid=0eaf5e20da7711f1bd1fedcd1a6a7eda&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=841&evt=pageLoad&sv=2&cdb=AQAQ&rn=1320)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=f2eeb6ef-1399-4d44-b97c-b022a91e61a8&bo=2&sid=0eaf3580da7711f1969ac1f1d882d12b&vid=0eaf5e20da7711f1bd1fedcd1a6a7eda&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=436699)
