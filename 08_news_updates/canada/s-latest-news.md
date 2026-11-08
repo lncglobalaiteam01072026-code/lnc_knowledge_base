@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 9a8adc43297c151a
+content_hash: 572ff06981e3b1f3
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-11-07'
+last_updated: '2026-11-08'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
+[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-300x169.jpg)](https://immigration.ca/alberta-issues-425-invitations-five-aaip-draws-october-november-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Alberta Issues 425 Invitations Across Five AAIP Draws From October 23 To November 2 ](https://immigration.ca/alberta-issues-425-invitations-five-aaip-draws-october-november-2026/)
+[ Read More » ](https://immigration.ca/alberta-issues-425-invitations-five-aaip-draws-october-november-2026/)
+Colin Singer  November 7, 2026 
 [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-300x157.jpg)](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
 ###  [ Manitoba Issues 526 Letters of Advice to Apply in MPNP Draw #283 ](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)
 [ Read More » ](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)
 Colin Singer  November 6, 2026 
-[![Canada To Help More Refugees From Gaza](https://immigration.ca/wp-content/uploads/2024/05/Canada-To-Help-More-Refugees-From-Gaza-300x169.jpg)](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Introduces New Refugee Claim Rules With 60-Day Application Deadline ](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)
-[ Read More » ](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)
-Colin R. Singer  November 5, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -67,6 +67,8 @@ Melissa Gosselin  May 1, 2025
 Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
 Colin R. Singer  March 17, 2025 
+[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-425-invitations-five-aaip-draws-october-november-2026/)
+[Alberta Issues 425 Invitations Across Five AAIP Draws From October 23 To November 2](https://immigration.ca/alberta-issues-425-invitations-five-aaip-draws-october-november-2026/)November 7, 2026
 [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)
 [Manitoba Issues 526 Letters of Advice to Apply in MPNP Draw #283](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)November 6, 2026
 [![Canada To Help More Refugees From Gaza](https://immigration.ca/wp-content/uploads/2024/05/Canada-To-Help-More-Refugees-From-Gaza-40x40.jpg)](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)
@@ -77,5 +79,3 @@ Colin R. Singer  March 17, 2025
 [Newfoundland and Labrador Issues 25 Invitations in November 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-25-invitations-november-4-2026/)November 5, 2026
 [![](https://immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)
 [Canada Express Entry Changes In Effect From Today](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)November 3, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)
-[Newfoundland and Labrador Issues 50 Invitations in November 2 Draw](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)November 3, 2026

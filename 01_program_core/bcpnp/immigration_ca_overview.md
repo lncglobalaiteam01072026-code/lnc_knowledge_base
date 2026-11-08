@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 2fee05c0179471ab
+content_hash: 2637523ee8c67c50
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-11-07'
+last_updated: '2026-11-08'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -459,4 +459,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/british-columbia-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=f2eeb6ef-1399-4d44-b97c-b022a91e61a8&bo=1&sid=0eaf3580da7711f1969ac1f1d882d12b&vid=0eaf5e20da7711f1bd1fedcd1a6a7eda&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=841&evt=pageLoad&sv=2&cdb=AQAQ&rn=1320)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=f2eeb6ef-1399-4d44-b97c-b022a91e61a8&bo=2&sid=0eaf3580da7711f1969ac1f1d882d12b&vid=0eaf5e20da7711f1bd1fedcd1a6a7eda&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=436699)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=6ec2e379-aff5-4412-8008-f3862ed62f46&bo=1&sid=232ad9a0db4111f19a75d9a09cfb6623&vid=232b4b80db4111f1a54c8dfda5d30439&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=972&evt=pageLoad&sv=2&cdb=AQAQ&rn=114460)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=6ec2e379-aff5-4412-8008-f3862ed62f46&bo=2&sid=232ad9a0db4111f19a75d9a09cfb6623&vid=232b4b80db4111f1a54c8dfda5d30439&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=705713)
