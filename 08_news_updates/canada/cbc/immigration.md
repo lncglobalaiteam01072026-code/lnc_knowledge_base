@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: baaaed0ed50f344e
+content_hash: 99434d4ad4d273e4
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-11-02'
+last_updated: '2026-11-09'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -17,10 +17,8 @@ topic: immigration_news
 version: '1.0'
 ---
 
+Advertisement-Report
 [Skip to Main Content](#content)[Accessibility Help](https://cbchelp.cbc.ca/hc/en-ca/categories/31606111569053-Accessibility)
-Voting is Live!
-Choose Canada's Artist for the Eurovision Song Contest 2027
-[Vote Now](https://eurovision.cbc.radio-canada.ca/?lang=en&utm_source=cbcautopromo&utm_campaign=nat.eng-vote-eurovision-f26&utm_medium=interne&utm_term=cbc&utm_content=globaleventnav)
 [MenuMenu](https://www.cbc.ca/news/canada/</www.cbc.ca/sitemap>)[TelevisionCBC Gem](https://gem.cbc.ca/)[headphoneCBC Listen](https://www.cbc.ca/listen)
 [](https://www.cbc.ca/news/canada/</>)
 Search
