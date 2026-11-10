@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 11fd1eec56ee3ee3
+content_hash: 9e5ac7ebf6c6d5f8
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-11-09'
+last_updated: '2026-11-10'
 priority_weight: 0.7
 program: AAIP
 province: AB
@@ -491,4 +491,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/alberta-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=18543b32-98ae-417b-8033-1be7a96614d3&bo=1&sid=f5df6780dc0f11f1a6a75386c8c9cd7d&vid=f5dfbfe0dc0f11f1881197b4411ce6c5&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Alberta%20Immigration%202026%3A%20AAIP%20Streams,%20EOI%20Fee%20%26%20Draws&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&r=&lt=1638&evt=pageLoad&sv=2&cdb=AQAQ&rn=479575)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=18543b32-98ae-417b-8033-1be7a96614d3&bo=2&sid=f5df6780dc0f11f1a6a75386c8c9cd7d&vid=f5dfbfe0dc0f11f1881197b4411ce6c5&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=725762)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=ef7c5c22-6906-4bca-98a4-4b3765ac1bec&bo=1&sid=6fa67130dcdc11f1a8e71341ee4aa990&vid=6fa72a10dcdc11f1aeb059f1c5cc97ff&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Alberta%20Immigration%202026%3A%20AAIP%20Streams,%20EOI%20Fee%20%26%20Draws&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&r=&lt=720&evt=pageLoad&sv=2&cdb=AQAQ&rn=672083)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=ef7c5c22-6906-4bca-98a4-4b3765ac1bec&bo=2&sid=6fa67130dcdc11f1a8e71341ee4aa990&vid=6fa72a10dcdc11f1aeb059f1c5cc97ff&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Falberta-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=771968)
