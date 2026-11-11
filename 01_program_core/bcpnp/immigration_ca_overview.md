@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 4c650e7080346aaf
+content_hash: 76aa6e03a02b71dd
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-11-10'
+last_updated: '2026-11-11'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -419,6 +419,10 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 
 Latest News
+  * [![Canada Doubles Penalties for Employers Abusing the Temporary Foreign Worker Program](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/01/Canada-Doubles-Penalties-for-Employers-Abusing-the-Temporary-Foreign-Worker-Program-40x40.jpg)](https://immigration.ca/canada-makes-major-lmia-changes-to-temporary-foreign-worker-program/)
+[Canada Makes Major LMIA Changes To Temporary Foreign Worker Program](https://immigration.ca/canada-makes-major-lmia-changes-to-temporary-foreign-worker-program/)November 9, 2026
+  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-425-invitations-five-aaip-draws-october-november-2026/)
+[Alberta Issues 425 Invitations Across Five AAIP Draws From October 23 To November 2](https://immigration.ca/alberta-issues-425-invitations-five-aaip-draws-october-november-2026/)November 7, 2026
   * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)
 [Manitoba Issues 526 Letters of Advice to Apply in MPNP Draw #283](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)November 6, 2026
   * [![Canada To Help More Refugees From Gaza](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/05/Canada-To-Help-More-Refugees-From-Gaza-40x40.jpg)](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)
@@ -427,10 +431,6 @@ Latest News
 [2027-2029 Immigration Levels Plan: Canada Confirms 380,000 PR Target, Express Entry Cuts And New Pathways](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/)November 5, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-25-invitations-november-4-2026/)
 [Newfoundland and Labrador Issues 25 Invitations in November 4 Draw](https://immigration.ca/newfoundland-and-labrador-issues-25-invitations-november-4-2026/)November 5, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/02/Express-Entry-Canadian-Experience-Class-40x40.jpg)](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)
-[Canada Express Entry Changes In Effect From Today](https://immigration.ca/canada-express-entry-changes-in-effect-from-today/)November 3, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)
-[Newfoundland and Labrador Issues 50 Invitations in November 2 Draw](https://immigration.ca/newfoundland-and-labrador-issues-50-invitations-november-2-2026/)November 3, 2026
 
 
 Colin Singer, Managing Partner is an experienced authority on all aspects of Canadian immigration.
@@ -459,4 +459,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/british-columbia-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=697f4446-cb7d-4939-b002-eaa0df02d3ca&bo=1&sid=6f968ac0dcdc11f1986fedc96cc58a3a&vid=6f9699c0dcdc11f1996b19ec60ab6ac0&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=645&evt=pageLoad&sv=2&cdb=AQAQ&rn=133859)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=697f4446-cb7d-4939-b002-eaa0df02d3ca&bo=2&sid=6f968ac0dcdc11f1986fedc96cc58a3a&vid=6f9699c0dcdc11f1996b19ec60ab6ac0&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=17760)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=51bda705-8ebc-4e96-b783-ba167d107600&bo=1&sid=67d8ec20dda111f1b92a5d1509eacd5d&vid=67d90190dda111f194b4bda2ce390e65&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=1401&evt=pageLoad&sv=2&cdb=AQAQ&rn=633523)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=51bda705-8ebc-4e96-b783-ba167d107600&bo=2&sid=67d8ec20dda111f1b92a5d1509eacd5d&vid=67d90190dda111f194b4bda2ce390e65&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=328405)
