@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: e3c3271dca8966a1
+content_hash: 8004484c31210ef9
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2024/03/Everything-You-Need-To-Know-About-Rural-Community-Immigration-Pilot--300x157.jpg)](https://immigration.ca/canada-makes-rural-immigration-pilot-permanent-new-pr-rules-14-communities-and-2027-targets/)
+[![First 15 Things to Do as a New Immigrant in Vancouver, Canada](https://immigration.ca/wp-content/uploads/2024/10/First-15-Things-to-Do-as-a-New-Immigrant-in-Vancouver-Canada-300x157.jpg)](https://immigration.ca/canada-announces-plans-to-clear-major-permanent-residence-backlogs/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Makes Rural Immigration Pilot Permanent – New PR Rules, 14 Communities And 2027 Targets ](https://immigration.ca/canada-makes-rural-immigration-pilot-permanent-new-pr-rules-14-communities-and-2027-targets/)
-[ Read More » ](https://immigration.ca/canada-makes-rural-immigration-pilot-permanent-new-pr-rules-14-communities-and-2027-targets/)
-Colin R. Singer  November 10, 2026 
-[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-300x157.jpg)](https://immigration.ca/prince-edward-island-issues-192-invitations-november-9-2026-pnp-draw/)
+###  [ Canada Announces Plans to Clear Major Permanent Residence Backlogs ](https://immigration.ca/canada-announces-plans-to-clear-major-permanent-residence-backlogs/)
+[ Read More » ](https://immigration.ca/canada-announces-plans-to-clear-major-permanent-residence-backlogs/)
+Colin R. Singer  November 11, 2026 
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-9-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Prince Edward Island Issues 192 Invitations in November 9 PNP Draw ](https://immigration.ca/prince-edward-island-issues-192-invitations-november-9-2026-pnp-draw/)
-[ Read More » ](https://immigration.ca/prince-edward-island-issues-192-invitations-november-9-2026-pnp-draw/)
-Colin Singer  November 10, 2026 
+###  [ Newfoundland and Labrador Issues 57 Invitations in November 9 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-9-2026/)
+[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-9-2026/)
+Colin Singer  November 11, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -67,6 +67,10 @@ Melissa Gosselin  May 1, 2025
 Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
 Colin R. Singer  March 17, 2025 
+[![First 15 Things to Do as a New Immigrant in Vancouver, Canada](https://immigration.ca/wp-content/uploads/2024/10/First-15-Things-to-Do-as-a-New-Immigrant-in-Vancouver-Canada-40x40.jpg)](https://immigration.ca/canada-announces-plans-to-clear-major-permanent-residence-backlogs/)
+[Canada Announces Plans to Clear Major Permanent Residence Backlogs](https://immigration.ca/canada-announces-plans-to-clear-major-permanent-residence-backlogs/)November 11, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-9-2026/)
+[Newfoundland and Labrador Issues 57 Invitations in November 9 Draw](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-9-2026/)November 11, 2026
 [![](https://immigration.ca/wp-content/uploads/2024/03/Everything-You-Need-To-Know-About-Rural-Community-Immigration-Pilot--40x40.jpg)](https://immigration.ca/canada-makes-rural-immigration-pilot-permanent-new-pr-rules-14-communities-and-2027-targets/)
 [Canada Makes Rural Immigration Pilot Permanent – New PR Rules, 14 Communities And 2027 Targets](https://immigration.ca/canada-makes-rural-immigration-pilot-permanent-new-pr-rules-14-communities-and-2027-targets/)November 10, 2026
 [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-192-invitations-november-9-2026-pnp-draw/)
@@ -75,7 +79,3 @@ Colin R. Singer  March 17, 2025
 [Canada Makes Major LMIA Changes To Temporary Foreign Worker Program](https://immigration.ca/canada-makes-major-lmia-changes-to-temporary-foreign-worker-program/)November 9, 2026
 [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-425-invitations-five-aaip-draws-october-november-2026/)
 [Alberta Issues 425 Invitations Across Five AAIP Draws From October 23 To November 2](https://immigration.ca/alberta-issues-425-invitations-five-aaip-draws-october-november-2026/)November 7, 2026
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)
-[Manitoba Issues 526 Letters of Advice to Apply in MPNP Draw #283](https://immigration.ca/manitoba-issues-526-letters-of-advice-to-apply-mpnp-draw-283-november-5-2026/)November 6, 2026
-[![Canada To Help More Refugees From Gaza](https://immigration.ca/wp-content/uploads/2024/05/Canada-To-Help-More-Refugees-From-Gaza-40x40.jpg)](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)
-[Canada Introduces New Refugee Claim Rules With 60-Day Application Deadline](https://immigration.ca/canada-introduces-new-refugee-claim-rules-with-60-day-application-deadline/)November 5, 2026
