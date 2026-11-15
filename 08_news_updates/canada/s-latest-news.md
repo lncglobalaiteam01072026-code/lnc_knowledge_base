@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 1b28d3756b12d761
+content_hash: 66aaffe6e38a06ac
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-11-14'
+last_updated: '2026-11-15'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2015/07/Work-Off-Campus-Student-Visa-Canada-300x157.jpg)](https://immigration.ca/canada-plans-new-lmia-occupation-restrictions-for-2027-which-employers-and-workers-could-be-affected/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Plans New LMIA Occupation Restrictions For 2027 – Which Employers And Workers Could Be Affected? ](https://immigration.ca/canada-plans-new-lmia-occupation-restrictions-for-2027-which-employers-and-workers-could-be-affected/)
-[ Read More » ](https://immigration.ca/canada-plans-new-lmia-occupation-restrictions-for-2027-which-employers-and-workers-could-be-affected/)
-Colin R. Singer  November 13, 2026 
-[![Canadian Agriculture Sector Against Proposed Cutbacks in Temporary Immigration](https://immigration.ca/wp-content/uploads/2024/06/Canadian-Agriculture-Sector-Against-Proposed-Cutbacks-in-Temporary-Immigration-300x169.jpg)](https://immigration.ca/canada-shifts-immigration-towards-provinces-and-rural-communities-as-express-entry-target-falls/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Shifts Immigration Towards Provinces And Rural Communities As Express Entry Target Falls ](https://immigration.ca/canada-shifts-immigration-towards-provinces-and-rural-communities-as-express-entry-target-falls/)
-[ Read More » ](https://immigration.ca/canada-shifts-immigration-towards-provinces-and-rural-communities-as-express-entry-target-falls/)
-Colin R. Singer  November 12, 2026 
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-38-invitations-november-13-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Newfoundland and Labrador Issues 38 Invitations in November 13 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-38-invitations-november-13-2026/)
+[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-38-invitations-november-13-2026/)
+Colin Singer  November 14, 2026 
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-300x169.jpg)](https://immigration.ca/british-columbia-invites-care-construction-workers-bc-pnp-draw-november-13-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ British Columbia Invites Over 380 Care And Construction Workers In November 13 BC PNP Draw ](https://immigration.ca/british-columbia-invites-care-construction-workers-bc-pnp-draw-november-13-2026/)
+[ Read More » ](https://immigration.ca/british-columbia-invites-care-construction-workers-bc-pnp-draw-november-13-2026/)
+Colin Singer  November 14, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -67,6 +67,10 @@ Melissa Gosselin  May 1, 2025
 Canada’s latest Express Entry draw issued 536 Invitations to Apply (ITAs) in the Provincial Nominee Program category.
 [ Read More » ](https://immigration.ca/canada-issues-536-invitations-in-latest-pnp-express-entry-draw/)
 Colin R. Singer  March 17, 2025 
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-38-invitations-november-13-2026/)
+[Newfoundland and Labrador Issues 38 Invitations in November 13 Draw](https://immigration.ca/newfoundland-and-labrador-issues-38-invitations-november-13-2026/)November 14, 2026
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-care-construction-workers-bc-pnp-draw-november-13-2026/)
+[British Columbia Invites Over 380 Care And Construction Workers In November 13 BC PNP Draw](https://immigration.ca/british-columbia-invites-care-construction-workers-bc-pnp-draw-november-13-2026/)November 14, 2026
 [![](https://immigration.ca/wp-content/uploads/2015/07/Work-Off-Campus-Student-Visa-Canada-40x40.jpg)](https://immigration.ca/canada-plans-new-lmia-occupation-restrictions-for-2027-which-employers-and-workers-could-be-affected/)
 [Canada Plans New LMIA Occupation Restrictions For 2027 – Which Employers And Workers Could Be Affected?](https://immigration.ca/canada-plans-new-lmia-occupation-restrictions-for-2027-which-employers-and-workers-could-be-affected/)November 13, 2026
 [![Canadian Agriculture Sector Against Proposed Cutbacks in Temporary Immigration](https://immigration.ca/wp-content/uploads/2024/06/Canadian-Agriculture-Sector-Against-Proposed-Cutbacks-in-Temporary-Immigration-40x40.jpg)](https://immigration.ca/canada-shifts-immigration-towards-provinces-and-rural-communities-as-express-entry-target-falls/)
@@ -75,7 +79,3 @@ Colin R. Singer  March 17, 2025
 [Canada Announces Plans to Clear Major Permanent Residence Backlogs](https://immigration.ca/canada-announces-plans-to-clear-major-permanent-residence-backlogs/)November 11, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-9-2026/)
 [Newfoundland and Labrador Issues 57 Invitations in November 9 Draw](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-9-2026/)November 11, 2026
-[![](https://immigration.ca/wp-content/uploads/2024/03/Everything-You-Need-To-Know-About-Rural-Community-Immigration-Pilot--40x40.jpg)](https://immigration.ca/canada-makes-rural-immigration-pilot-permanent-new-pr-rules-14-communities-and-2027-targets/)
-[Canada Makes Rural Immigration Pilot Permanent – New PR Rules, 14 Communities And 2027 Targets](https://immigration.ca/canada-makes-rural-immigration-pilot-permanent-new-pr-rules-14-communities-and-2027-targets/)November 10, 2026
-[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-192-invitations-november-9-2026-pnp-draw/)
-[Prince Edward Island Issues 192 Invitations in November 9 PNP Draw](https://immigration.ca/prince-edward-island-issues-192-invitations-november-9-2026-pnp-draw/)November 10, 2026
