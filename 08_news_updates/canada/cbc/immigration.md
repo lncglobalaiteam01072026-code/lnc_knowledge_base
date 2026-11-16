@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 99434d4ad4d273e4
+content_hash: ad5656800ea4208c
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-11-09'
+last_updated: '2026-11-16'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -17,7 +17,6 @@ topic: immigration_news
 version: '1.0'
 ---
 
-Advertisement-Report
 [Skip to Main Content](#content)[Accessibility Help](https://cbchelp.cbc.ca/hc/en-ca/categories/31606111569053-Accessibility)
 [MenuMenu](https://www.cbc.ca/news/canada/</www.cbc.ca/sitemap>)[TelevisionCBC Gem](https://gem.cbc.ca/)[headphoneCBC Listen](https://www.cbc.ca/listen)
 [](https://www.cbc.ca/news/canada/</>)
