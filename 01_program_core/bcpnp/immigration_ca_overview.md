@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 68e963ae42f2e61c
+content_hash: a6bf2a75e99e53ef
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-11-19'
+last_updated: '2026-11-20'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -34,7 +34,7 @@ Search
   * Immigration
     * [Canada Immigration Overview](https://immigration.ca/immigration-to-canada-overview/)
     * [Express Entry Overview](https://immigration.ca/canada-express-entry-immigration/)
-      * [Express Entry for Skilled Immigration to Canada](https://immigration.ca/express-entry-skilled-immigration/)
+      * [Express Entry for Skilled Immigration](https://immigration.ca/express-entry-skilled-immigration/)
       * [Express Entry Draws in 2026](https://immigration.ca/express-entry-draws-2026/)
       * [Comprehensive Ranking System (CRS)](https://immigration.ca/comprehensive-ranking-system-crs/)
       * [Express Entry Invitations to Apply (ITAs)](https://immigration.ca/invitations-apply-permanent-residence-itas/)
@@ -169,7 +169,7 @@ Search
   * Immigration
     * [Canada Immigration Overview](https://immigration.ca/immigration-to-canada-overview/)
     * [Express Entry Overview](https://immigration.ca/canada-express-entry-immigration/)
-      * [Express Entry for Skilled Immigration to Canada](https://immigration.ca/express-entry-skilled-immigration/)
+      * [Express Entry for Skilled Immigration](https://immigration.ca/express-entry-skilled-immigration/)
       * [Express Entry Draws in 2026](https://immigration.ca/express-entry-draws-2026/)
       * [Comprehensive Ranking System (CRS)](https://immigration.ca/comprehensive-ranking-system-crs/)
       * [Express Entry Invitations to Apply (ITAs)](https://immigration.ca/invitations-apply-permanent-residence-itas/)
@@ -418,6 +418,8 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 
 [![Canadian citizenship by descent consultation - $150 off, book by November 30](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w1-nov-sale-150.webp)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_holiday_2026_final&utm_content=sidebar-w1-sale)[![Canadian roots? Citizenship by descent consultation - $150 off, book by November 30](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w2-nov-sale-150.webp)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_holiday_2026_final&utm_content=sidebar-w2-sale)[![Canadian citizenship can run in the family - $150 off consultations, book by November 30](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w3-nov-sale-150.webp)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_holiday_2026_final&utm_content=sidebar-w3-sale)[![Find out if you qualify for Canadian citizenship by descent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w1-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w1-autumn)[![Canadian roots? Find out if you qualify for citizenship by descent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w2-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w2-autumn)[![Canadian citizenship can run in the family - find out if you qualify](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w3-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w3-autumn)
 Latest News
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Canada-Immigration-Pilot-Programs-40x40.jpg)](https://immigration.ca/canada-changes-express-entry-rules-for-university-researchers-and-professors/)
+[Canada Changes Express Entry Rules For University Researchers And Professors](https://immigration.ca/canada-changes-express-entry-rules-for-university-researchers-and-professors/)November 18, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-issues-463-invitations-three-immigration-rounds-november-2026/)
 [New Brunswick Issues 463 Invitations Across Three November 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-463-invitations-three-immigration-rounds-november-2026/)November 18, 2026
   * [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-november-17-2026/)
@@ -428,8 +430,6 @@ Latest News
 [Canada Could Fast-Track PR Applications Under Closed Immigration Programs – Who Could Benefit?](https://immigration.ca/canada-could-fast-track-pr-applications-under-closed-immigration-programs-who-could-benefit/)November 17, 2026
   * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-54-invitations-november-16-2026/)
 [Newfoundland and Labrador Issues 54 Invitations in November 16 Draw](https://immigration.ca/newfoundland-and-labrador-issues-54-invitations-november-16-2026/)November 17, 2026
-  * [![A happy family holding Canadian flags](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/10/Canadian-Family-2-40x40.jpg)](https://immigration.ca/canada-offers-provinces-extra-pnp-places-for-100000-workers-and-families-in-2027/)
-[Canada Offers Provinces Extra PNP Places For 100,000 Workers And Families In 2027](https://immigration.ca/canada-offers-provinces-extra-pnp-places-for-100000-workers-and-families-in-2027/)November 16, 2026
 
 
 [![Find out if you qualify for Canadian citizenship by descent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w1-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w1-autumn)[![Canadian roots? Find out if you qualify for citizenship by descent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w2-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w2-autumn)[![Canadian citizenship can run in the family - find out if you qualify](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w3-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w3-autumn)
@@ -459,4 +459,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/british-columbia-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=227bd623-3da7-4d64-bf45-ac93cc31ea2b&bo=1&sid=ef4ab4b0e3f111f1be24f528f91f4f7e&vid=ef4abb60e3f111f1983c594c2314aabe&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=972&evt=pageLoad&sv=2&cdb=AQAQ&rn=499549)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=227bd623-3da7-4d64-bf45-ac93cc31ea2b&bo=2&sid=ef4ab4b0e3f111f1be24f528f91f4f7e&vid=ef4abb60e3f111f1983c594c2314aabe&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=635532)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=74882bff-930c-4ccc-8a01-085a86725ccc&bo=1&sid=5b7a24e0e4b811f1ad6423ca1f3e338a&vid=5b7a1c40e4b811f192672b12a0d4e609&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=860&evt=pageLoad&sv=2&cdb=AQAQ&rn=89746)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=74882bff-930c-4ccc-8a01-085a86725ccc&bo=2&sid=5b7a24e0e4b811f1ad6423ca1f3e338a&vid=5b7a1c40e4b811f192672b12a0d4e609&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=868815)
