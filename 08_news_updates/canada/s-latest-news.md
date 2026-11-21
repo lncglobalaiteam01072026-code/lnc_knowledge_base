@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: cf44e435d42af87b
+content_hash: d967c91240827fb0
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-11-20'
+last_updated: '2026-11-21'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![](https://immigration.ca/wp-content/uploads/2025/05/Hotel-and-Hospitality-Workers-Immigrate-to-Canada-300x157.jpg)](https://immigration.ca/canada-job-vacancies-rise-in-hospitality-transport-and-manufacturing-as-health-care-demand-falls/)
+[![Newcomers guide to renting vs. buying in Canada](https://immigration.ca/wp-content/uploads/2024/05/Newcomers-guide-to-renting-vs.-buying-in-Canada-300x169.jpg)](https://immigration.ca/canada-could-admit-up-to-662000-permanent-residents-in-2027-economists-warn/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Job Vacancies Rise In Hospitality, Transport And Manufacturing As Health Care Demand Falls ](https://immigration.ca/canada-job-vacancies-rise-in-hospitality-transport-and-manufacturing-as-health-care-demand-falls/)
-[ Read More » ](https://immigration.ca/canada-job-vacancies-rise-in-hospitality-transport-and-manufacturing-as-health-care-demand-falls/)
-Colin R. Singer  November 19, 2026 
-[![](https://immigration.ca/wp-content/uploads/2025/10/Canada-Immigration-Pilot-Programs-300x157.jpg)](https://immigration.ca/canada-changes-express-entry-rules-for-university-researchers-and-professors/)
-![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Changes Express Entry Rules For University Researchers And Professors ](https://immigration.ca/canada-changes-express-entry-rules-for-university-researchers-and-professors/)
-[ Read More » ](https://immigration.ca/canada-changes-express-entry-rules-for-university-researchers-and-professors/)
-Colin R. Singer  November 18, 2026 
+###  [ Canada Could Admit Up To 662,000 Permanent Residents In 2027, Economists Warn ](https://immigration.ca/canada-could-admit-up-to-662000-permanent-residents-in-2027-economists-warn/)
+[ Read More » ](https://immigration.ca/canada-could-admit-up-to-662000-permanent-residents-in-2027-economists-warn/)
+Colin R. Singer  November 20, 2026 
+[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-300x169.jpg)](https://immigration.ca/alberta-issues-374-invitations-three-aaip-draws-november-2026/)
+![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
+###  [ Alberta Issues 374 Invitations in Three AAIP Draws Between November 6 and 13, 2026 ](https://immigration.ca/alberta-issues-374-invitations-three-aaip-draws-november-2026/)
+[ Read More » ](https://immigration.ca/alberta-issues-374-invitations-three-aaip-draws-november-2026/)
+Colin Singer  November 20, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -67,15 +67,15 @@ Melissa Gosselin  March 6, 2025
 Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
 [ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
 Colin R. Singer  October 15, 2018 
+[![Newcomers guide to renting vs. buying in Canada](https://immigration.ca/wp-content/uploads/2024/05/Newcomers-guide-to-renting-vs.-buying-in-Canada-40x40.jpg)](https://immigration.ca/canada-could-admit-up-to-662000-permanent-residents-in-2027-economists-warn/)
+[Canada Could Admit Up To 662,000 Permanent Residents In 2027, Economists Warn](https://immigration.ca/canada-could-admit-up-to-662000-permanent-residents-in-2027-economists-warn/)November 20, 2026
+[![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-374-invitations-three-aaip-draws-november-2026/)
+[Alberta Issues 374 Invitations in Three AAIP Draws Between November 6 and 13, 2026](https://immigration.ca/alberta-issues-374-invitations-three-aaip-draws-november-2026/)November 20, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-98-invitations-november-19-2026/)
+[Newfoundland and Labrador Issues 98 Invitations in November 19 Draw](https://immigration.ca/newfoundland-and-labrador-issues-98-invitations-november-19-2026/)November 20, 2026
+[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-1116-letters-of-advice-to-apply-mpnp-draw-284-november-19-2026/)
+[Manitoba Issues 1,116 Letters of Advice to Apply in MPNP Draw #284](https://immigration.ca/manitoba-issues-1116-letters-of-advice-to-apply-mpnp-draw-284-november-19-2026/)November 20, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/05/Hotel-and-Hospitality-Workers-Immigrate-to-Canada-40x40.jpg)](https://immigration.ca/canada-job-vacancies-rise-in-hospitality-transport-and-manufacturing-as-health-care-demand-falls/)
 [Canada Job Vacancies Rise In Hospitality, Transport And Manufacturing As Health Care Demand Falls](https://immigration.ca/canada-job-vacancies-rise-in-hospitality-transport-and-manufacturing-as-health-care-demand-falls/)November 19, 2026
 [![](https://immigration.ca/wp-content/uploads/2025/10/Canada-Immigration-Pilot-Programs-40x40.jpg)](https://immigration.ca/canada-changes-express-entry-rules-for-university-researchers-and-professors/)
 [Canada Changes Express Entry Rules For University Researchers And Professors](https://immigration.ca/canada-changes-express-entry-rules-for-university-researchers-and-professors/)November 18, 2026
-[![](https://immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-issues-463-invitations-three-immigration-rounds-november-2026/)
-[New Brunswick Issues 463 Invitations Across Three November 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-463-invitations-three-immigration-rounds-november-2026/)November 18, 2026
-[![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-november-17-2026/)
-[British Columbia Invites Entrepreneurs At Score 117 In November 17 BC PNP Draw](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-november-17-2026/)November 18, 2026
-[![Canada Prime Minister Justin Trudeau Waiting To Receive Quebec’s Immigration Plan](https://immigration.ca/wp-content/uploads/2024/10/Canada-Prime-Minister-Justin-Trudeau-Waiting-To-Receive-Quebecs-Immigration-Plan-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-35-months/)
-[Proof Of Canadian Citizenship Now Takes 35 Months As The Queue Hits A New High](https://immigration.ca/proof-of-canadian-citizenship-processing-time-35-months/)November 17, 2026
-[![Canada Announces Cap on Start-Up Visa Applications to Reduce Processing Times](https://immigration.ca/wp-content/uploads/2024/04/Canada-Announces-Cap-on-Start-Up-Visa-Applications-to-Reduce-Processing-Times-1-40x40.jpg)](https://immigration.ca/canada-could-fast-track-pr-applications-under-closed-immigration-programs-who-could-benefit/)
-[Canada Could Fast-Track PR Applications Under Closed Immigration Programs – Who Could Benefit?](https://immigration.ca/canada-could-fast-track-pr-applications-under-closed-immigration-programs-who-could-benefit/)November 17, 2026
