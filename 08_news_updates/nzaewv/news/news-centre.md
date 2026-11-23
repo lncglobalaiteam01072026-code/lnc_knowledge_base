@@ -1,12 +1,12 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 1e336659583bbdaa
+content_hash: 7d9e55f3c83d5c69
 country: NZ
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-11-16'
+last_updated: '2026-11-23'
 priority_weight: 0.9
 program: NZAEWV
 retrieval_strategy: direct
@@ -18,14 +18,6 @@ version: '1.0'
 ---
 
 [Skip to main content](#main) [Skip to main navigation](#nav) [Skip to secondary navigation](#secondary-nav) [Skip to search](#search-button)
-### Application system issue
-**Issued:** Friday 13 Nov 2026, 09:50 am NZDT
-Customers can now apply for visas again through our enhanced Immigration Online platform now that the global Microsoft outage issue has been fixed. The processing of applications has resumed.
-[ Impact of Microsoft outage ](https://www.immigration.govt.nz/about-us/news-centre/impact-of-microsoft-outage/)
-### Planned upgrade
-**Issued:** Monday 16 Nov 2026, 04:00 pm NZDT
-From 05:00 to 07:30 Thursday 19 November (NZDT), you cannot access some visa applications and application forms. Wait for 30 minutes and try again. Check the applications affected by this upgrade:
-[Planned upgrades for 2026](https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/applying-online/planned-upgrades/)
 [](https://www.immigration.govt.nz/about-us/news-centre/</>)
   * [ Process to apply ](https://www.immigration.govt.nz/process-to-apply/)
   * [ For employers ](https://www.immigration.govt.nz/work/for-employers/)
@@ -105,7 +97,7 @@ Login
 What would you like to do?
 Loading...
 [](https://www.immigration.govt.nz/about-us/news-centre/</> "Immigration NZ")
-![Waharoa Pattern](https://www.immigration.govt.nz/_resources/themes/app/dist/patterns/waharoa.svg?m=1794268422)
+![Waharoa Pattern](https://www.immigration.govt.nz/_resources/themes/app/dist/patterns/waharoa.svg?m=1795427756)
 # WelcomeNau mai, haere mai
   1. [ Home ](https://www.immigration.govt.nz/about-us/news-centre/</>) ... 
   2. [ About us ](https://www.immigration.govt.nz/about-us/)
@@ -148,11 +140,11 @@ Topics
 
 Keyword search 
 Search 
-Displaying 1 - 12 of 530 news items
+Displaying 1 - 12 of 533 news items
 Select sort by
 Sort by: **Relevance**
 Loading...
-[12 November 2026Impact of Microsoft outage Immigration New Zealand systems are back up and running following the fixing of the global Microsoft issue.AnnouncementMediaVisa holders and applicants](https://www.immigration.govt.nz/about-us/news-centre/impact-of-microsoft-outage/)[11 November 2026Visa waiver travel suspended for Kuwait nationals The Minister of Immigration has temporarily suspended visa waiver travel for people travelling on Kuwait passports.AnnouncementMediaPolicy, law and strategy](https://www.immigration.govt.nz/about-us/news-centre/visa-waiver-travel-changes-for-kuwait-nationals/)[10 November 2026Technical issue affecting Parent Category November draw The technical issue that affected the 10 November 2026 Parent Category draw has been resolved.AnnouncementJoin or bring family](https://www.immigration.govt.nz/about-us/news-centre/technical-issue-affecting-parent-category-november-draw/)[9 November 2026Changes for resident visa applications if dependent children are unlawfully in New Zealand From 12 November 2026, immigration rules are changing so that parents and any other secondary applicants will no longer ...AnnouncementJoin or bring family](https://www.immigration.govt.nz/about-us/news-centre/changes-for-resident-visa-applications-if-dependent-children-are-unlawfully-in-new-zealand/)[4 November 2026MBIE seeks investor insights on the Active Investor Plus visa MBIE is undertaking research on how the Active Investor Plus Visa is performing and is inviting investors to share their...Announcement](https://www.immigration.govt.nz/about-us/news-centre/mbie-seeks-investor-insights-on-the-active-investor-plus-visa/)[2 November 2026Changes to the Green List from 8 March 2027 The Government is making changes to the Green List following the introduction of new Skilled Migrant Category (SMC) path...AnnouncementImmigration rules and processesWork](https://www.immigration.govt.nz/about-us/news-centre/changes-to-the-green-list-from-march-2027/)[29 October 2026Parent Category estimated selection dates now available People with a Parent Resident Visa expression of interest (EOI) have now received information about their queue entry an...AnnouncementJoin or bring family](https://www.immigration.govt.nz/about-us/news-centre/parent-category-estimated-selection-dates-now-available/)[28 October 2026Up to 98-hour weeks, paid for 40: Christchurch motel owner sentenced for exploiting migrant workers A Christchurch motel owner who forced migrant workers to be on call from early morning until late at night, 7 days a wee...Media release](https://www.immigration.govt.nz/about-us/news-centre/christchurch-motel-owner-sentenced-for-exploiting-migrant-workers/)[26 October 2026Changes to student visas Immigration New Zealand (INZ) is making 3 changes to protect the integrity of student visas, and a fourth change to help...AnnouncementImmigration rules and processesStudy](https://www.immigration.govt.nz/about-us/news-centre/changes-to-student-visas/)[19 October 2026Important Employment Court decision: overseas payments for New Zealand jobs are illegal The Employment Court has made an important decision, confirming overseas payments made for a New Zealand job are illegal...Announcement](https://www.immigration.govt.nz/about-us/news-centre/important-employment-court-decision-overseas-payments-for-new-zealand-jobs-are-illegal/)[19 October 2026India–New Zealand Free Trade Agreement brings new visa commitments The India–New Zealand Free Trade Agreement (FTA) has entered into force today, 20 October 2026, with new visa commitment...AnnouncementVisa holders and applicantsWork](https://www.immigration.govt.nz/about-us/news-centre/india-new-zealand-free-trade-agreement-brings-new-visa-commitments/)[14 October 2026Planning summer travel? Submit your investment documents early If you have received approval in principle for an Active Investor Plus or Parent Retirement Resident Visa and plan to tr...AnnouncementInvest or start a business](https://www.immigration.govt.nz/about-us/news-centre/planning-summer-travel-submit-your-investment-documents-early/)
+[22 November 2026Post-Study and Short-Term Graduate Work Visas now on enhanced Immigration Online On 23 November 2026, applications for Post-Study Work Visas and Short-Term Graduate Work Visas moved to Immigration New ...AnnouncementStudy to workUsing INZ online systems](https://www.immigration.govt.nz/about-us/news-centre/post-study-and-short-term-graduate-work-visas-now-on-enhanced-immigration-online/)[18 November 2026Parent category November 2026 draw The November 2026 parent category draw has now been completed, and all successful people have been issued an invitation ...AnnouncementJoin or bring family](https://www.immigration.govt.nz/about-us/news-centre/parent-category-november-2026-draw/)[16 November 2026MBIE operation targets employment and immigration risks in Gisborne Teams from the Ministry of Business, Innovation and Employment (MBIE) last week carried out an operation in Gisborne to ...Media releaseCompliance](https://www.immigration.govt.nz/about-us/news-centre/mbie-operation-targets-employment-and-immigration-risks-in-gisborne/)[12 November 2026Impact of Microsoft outage Immigration New Zealand systems are back up and running following the fixing of the global Microsoft issue.AnnouncementMediaVisa holders and applicants](https://www.immigration.govt.nz/about-us/news-centre/impact-of-microsoft-outage/)[11 November 2026Visa waiver travel suspended for Kuwait nationals The Minister of Immigration has temporarily suspended visa waiver travel for people travelling on Kuwait passports.AnnouncementMediaPolicy, law and strategy](https://www.immigration.govt.nz/about-us/news-centre/visa-waiver-travel-changes-for-kuwait-nationals/)[10 November 2026Technical issue affecting Parent Category November draw The technical issue that affected the 10 November 2026 Parent Category draw has been resolved.AnnouncementJoin or bring family](https://www.immigration.govt.nz/about-us/news-centre/technical-issue-affecting-parent-category-november-draw/)[9 November 2026Changes for resident visa applications if dependent children are unlawfully in New Zealand From 12 November 2026, immigration rules are changing so that parents and any other secondary applicants will no longer ...AnnouncementJoin or bring family](https://www.immigration.govt.nz/about-us/news-centre/changes-for-resident-visa-applications-if-dependent-children-are-unlawfully-in-new-zealand/)[4 November 2026MBIE seeks investor insights on the Active Investor Plus visa MBIE is undertaking research on how the Active Investor Plus Visa is performing and is inviting investors to share their...Announcement](https://www.immigration.govt.nz/about-us/news-centre/mbie-seeks-investor-insights-on-the-active-investor-plus-visa/)[2 November 2026Changes to the Green List from 8 March 2027 The Government is making changes to the Green List following the introduction of new Skilled Migrant Category (SMC) path...AnnouncementImmigration rules and processesWork](https://www.immigration.govt.nz/about-us/news-centre/changes-to-the-green-list-from-march-2027/)[29 October 2026Parent Category estimated selection dates now available People with a Parent Resident Visa expression of interest (EOI) have now received information about their queue entry an...AnnouncementJoin or bring family](https://www.immigration.govt.nz/about-us/news-centre/parent-category-estimated-selection-dates-now-available/)[28 October 2026Up to 98-hour weeks, paid for 40: Christchurch motel owner sentenced for exploiting migrant workers A Christchurch motel owner who forced migrant workers to be on call from early morning until late at night, 7 days a wee...Media release](https://www.immigration.govt.nz/about-us/news-centre/christchurch-motel-owner-sentenced-for-exploiting-migrant-workers/)[26 October 2026Changes to student visas Immigration New Zealand (INZ) is making 3 changes to protect the integrity of student visas, and a fourth change to help...AnnouncementImmigration rules and processesStudy](https://www.immigration.govt.nz/about-us/news-centre/changes-to-student-visas/)
   * 1
   * [2](https://www.immigration.govt.nz/about-us/news-centre/<#> "View page 2 of 45")
   * [3](https://www.immigration.govt.nz/about-us/news-centre/<#> "View page 3 of 45")...
@@ -179,7 +171,7 @@ Popular information
   * [ Documents and proof ](https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/)
 
 
-[Hīkina Whakatutuki](https://www.mbie.govt.nz/ "Ministry of Business, Innovation and Employment - ")[![Women’s Refuge Shielded Site](https://www.immigration.govt.nz/_resources/vendor/andrewandante/womens-refuge-shield/img/logos/custom-logo.png?m=1794268422)](https://www.immigration.govt.nz/about-us/news-centre/<#>)
+[Hīkina Whakatutuki](https://www.mbie.govt.nz/ "Ministry of Business, Innovation and Employment - ")[![Women’s Refuge Shielded Site](https://www.immigration.govt.nz/_resources/vendor/andrewandante/womens-refuge-shield/img/logos/custom-logo.png?m=1795427756)](https://www.immigration.govt.nz/about-us/news-centre/<#>)
 [New Zealand Government / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
   * [ Glossary ](https://www.immigration.govt.nz/about-us/glossary/)
   * [ Accessibility ](https://www.immigration.govt.nz/about-us/about-this-site/accessibility/)

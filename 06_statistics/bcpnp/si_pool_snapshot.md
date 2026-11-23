@@ -4,7 +4,7 @@ chunk_strategy: structured
 content_hash: 30a6ad3cacefed7d
 file_role: si_pool_snapshot
 lang: en
-last_updated: '2026-11-16'
+last_updated: '2026-11-23'
 priority_weight: 1
 program: BCPNP
 province: BC

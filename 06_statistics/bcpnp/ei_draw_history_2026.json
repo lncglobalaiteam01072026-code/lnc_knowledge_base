@@ -2,10 +2,16 @@
   "metadata": {
     "source_id": "bcpnp_invitations",
     "source_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
-    "last_updated": "2026-11-16",
+    "last_updated": "2026-11-23",
     "program": "BCPNP"
   },
   "data": [
+    {
+      "date": "November 17, 2026",
+      "stream": "Base",
+      "minimum_score": "117",
+      "number_of_invitations": "12"
+    },
     {
       "date": "October 20, 2026",
       "stream": "Base",
