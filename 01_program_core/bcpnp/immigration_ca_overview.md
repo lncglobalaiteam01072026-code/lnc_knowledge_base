@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: standard
-content_hash: 7ee4de3b270a5619
+content_hash: 64465f102c3573ad
 file_role: immigration_ca_overview
 lang: en
-last_updated: '2026-11-23'
+last_updated: '2026-11-24'
 priority_weight: 0.7
 program: BCPNP
 province: BC
@@ -297,81 +297,85 @@ Search
       * [Temporary Residence Permits (TRP)](https://immigration.ca/criminal-inadmissibility-temporary-residence-permit-trp/)
 
 
-# British Columbia Immigration: The BC PNP in 2026
+# British Columbia Immigration
 ![Colin R. Singer, Canadian immigration lawyer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
 Written by [Colin R. Singer](https://immigration.ca/author/colin-singer/), LL.L, BA✓ Licensed lawyer
 Canadian Immigration Lawyer, [Barreau du Québec](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe) · 35+ years of practice · Founder, immigration.ca
 Published: **November 23, 2018**
-Last updated: **November 5, 2026**
-Reading time: 8 min
+Last updated: **November 23, 2026**
+Reading time: 9 min
 Reviewed for accuracy under our [Editorial Code of Conduct](https://immigration.ca/editorial-code-of-conduct/)
 ![British Columbia PNP Draw Province Issues 200 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/British-Columbia-PNP-Draw-Province-Issues-200-Canada-Immigration-Invitations.jpg)
 ### On This Page, You Will Find:
-  * British Columbia’s 2026 nomination allocation and what it means for applicants
-  * How the BC Provincial Nominee Program works
-  * Which BC PNP streams are open, closed or paused in 2026
-  * The Care, Build and Innovate priorities and the occupations they target
-  * What happened to the BC PNP tech draws
-  * BC PNP draws, minimum scores and the registration pool
-  * How to register and apply, step by step
-  * Fees and processing
+  * British Columbia’s 2026 nomination allocation
+  * BC PNP streams open in 2026
+  * The 2026 priorities: Care, Build and Innovate
+  * Temporary Rural/Remote Health Support Initiative
+  * What happened to the BC PNP tech stream
+  * BC PNP draws and scores in 2026
+  * How to register and apply
+  * Fees
   * Frequently asked questions
 
 
 The British Columbia Provincial Nominee Program (BC PNP) is the province’s only economic immigration tool. It offers a pathway to [Canadian permanent residence](https://immigration.ca/benefits-obligations-permanent-resident-canada/) for skilled workers, entrepreneurs and businesses that meet B.C.’s labour market and economic development needs.
-The program is operated by the Province of British Columbia in partnership with Immigration, Refugees and Citizenship Canada (IRCC). Candidates follow a two-stage process: they apply to the province for a nomination, and then, if nominated, apply to the federal government for permanent residence.
+The program is operated by the Province of British Columbia in partnership with Immigration, Refugees and Citizenship Canada (IRCC). Candidates follow a two-stage process: they apply to the province for a nomination and then, if nominated, apply to the federal government for permanent residence.
 In 2026 the defining feature of the program is scarcity. B.C. has fewer nominations than it says it needs, and it has rebuilt its selection rules around that constraint.
 ## British Columbia’s 2026 Nomination Allocation
-IRCC notified the province on 18 December 2025 that B.C.’s opening 2026 allocation for the BC PNP was 5,254 nominations.
-That figure has since gone up. On 18 August 2026 the province confirmed it had received an additional 1,000 nominations from the federal government, taking the **2026 allocation to 6,254**. The BC PNP says it plans to use its full allocation by 31 December 2026, and the extra nominations are being applied to the program objectives announced on 23 April 2026.
-British Columbia had requested 9,000 nominations for 2026 to address its labour market needs, so even after the top-up it holds roughly 70 per cent of what it asked for, and it has said it will continue to discuss the allocation with IRCC.
+IRCC notified the province on December 18, 2025 that B.C.’s opening 2026 allocation for the BC PNP was 5,254 nominations.
+That figure has since gone up. On August 18, 2026 the province confirmed it had received an additional 1,000 nominations from the federal government, taking the **2026 allocation to 6,254**. The BC PNP says it plans to use its full allocation by December 31, 2026, and the extra nominations are being applied to the program objectives announced on April 23, 2026.
+British Columbia had requested 9,000 nominations for 2026, so even after the top-up it holds roughly 70 per cent of what it asked for, and the province continues to advocate for higher allocations in 2026 and future years.
 For context on how the province arrived here:
   * B.C.’s 2025 allocation opened at 4,000 nominations, a 50 per cent reduction from 2024.
   * Additional federal nominations in October and December 2025 brought the 2025 total to 6,214.
   * The 2026 figure of 6,254, after the August top-up, is marginally above the final 2025 total.
 
 
-Nationally, the 2026-2028 Immigration Levels Plan sets a Provincial Nominee Program admissions target of 91,500 for 2026, within a range of 82,000 to 105,000. Provincial allocations are set separately by IRCC and can be topped up during the year, as happened in both 2025 and 2026. The [2027-2029 Immigration Levels Plan](https://immigration.ca/2027-2029-immigration-levels-plan-budget-2026/), tabled with Budget 2026 on November 5, 2026, keeps overall permanent resident admissions at 380,000 a year through 2029; its Provincial Nominee Program targets for 2027-2029 have not yet been published.
-The practical consequence for candidates is that the BC PNP invites a small number of people, in narrowly defined categories, at high scores. Applicants who do not fit a current priority should look at other [provincial nominee programs](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/) or at federal [Express Entry](https://immigration.ca/canada-express-entry-immigration/) options.
+Nationally, the [2027–2029 Immigration Levels Plan](https://immigration.ca/immigration-levels-plan/) sets a Provincial Nominee Program admissions target of 95,000 a year for 2027 to 2029, within a range of 83,000 to 106,000. Provincial allocations are set separately by IRCC and can be topped up during the year, as happened in both 2025 and 2026.
+The practical consequence for candidates is that the BC PNP invites a limited number of people, in narrowly defined categories, at competitive scores. Applicants who do not fit a current priority should look at other [provincial nominee programs](https://immigration.ca/canada-provincial-nominee-immigration-programs-overview/) or at federal [Express Entry](https://immigration.ca/canada-express-entry-immigration/) options.
 ## BC PNP Streams Open in 2026
-The BC PNP now has two main pathways: Skills Immigration for workers, and Entrepreneur Immigration for entrepreneurs and businesses.
+The BC PNP has two main pathways: Skills Immigration for workers, and Entrepreneur Immigration for entrepreneurs and businesses.
 Under [Skills Immigration](https://immigration.ca/british-columbia-skills-immigration-streams/), workers choose between two streams based on their job offer:
   * **Skilled Worker stream** – requires a full-time, indeterminate job offer from an eligible B.C. employer in a NOC TEER 0, 1, 2 or 3 occupation, at least two years of full-time equivalent work experience, and Canadian Language Benchmark level 4 or higher.
   * **Health Authority stream** – requires a full-time, indeterminate job offer from a B.C. health authority employer in a health authority-eligible occupation.
 
 
 Both streams have an [Express Entry BC option](https://immigration.ca/british-columbia-express-entry-streams/). Candidates already in the federal Express Entry pool who meet the stream criteria can select the Express Entry BC version of their stream when they register, which links the provincial nomination to the federal profile.
-[Entrepreneur Immigration](https://immigration.ca/british-columbia-business-immigration/) continues under three routes: the Base stream and the Regional stream for individual entrepreneurs, and the Strategic Projects stream for businesses establishing operations in B.C. Entrepreneur draws have run monthly through 2026.
-Two important changes announced on 23 April 2026:
-  * The Entry Level and Semi-Skilled (ELSS) stream is officially closed. Its last invitations were issued on 10 December 2024 and it is being removed from the registration system and Program Guide.
+[Entrepreneur Immigration](https://immigration.ca/british-columbia-business-immigration/) continues under three routes: the Base stream and the Regional stream for individual entrepreneurs, and the Strategic Projects stream for businesses establishing operations in B.C. Entrepreneur draws have run roughly monthly through 2026.
+Two important changes were announced on April 23, 2026:
+  * The Entry Level and Semi-Skilled (ELSS) stream is officially closed. Its last invitations were issued on December 10, 2024, and it is being removed from the registration system and Program Guide.
   * The BC PNP will not launch new student streams. International graduates must use the existing streams, although study completed in B.C. or elsewhere in Canada still earns additional registration points.
 
 
+An updated Skills Immigration Program Guide reflecting these changes took effect on May 28, 2026. Applications are assessed against the criteria in place on the date they are submitted.
 ## The 2026 Priorities: Care, Build and Innovate
-On 23 April 2026 the province reorganised the BC PNP around three objectives aligned with its Look West strategy. At least 35 per cent of nominations are expected to go to candidates working outside Metro Vancouver.
-**Care** covers 36 in-demand occupations in health care, education, childcare and veterinary care. Certified early childhood educators, veterinarians and veterinary technologists working toward Canadian certification are prioritised. French-speaking teachers in the province’s public K-12 system are also targeted, using federal allocations available for francophone recruitment.
+On April 23, 2026 the province reorganized the BC PNP around three objectives aligned with its Look West strategy. At least 35 per cent of nominations are expected to go to candidates working in communities outside Metro Vancouver.
+**Care** covers 36 in-demand occupations in health care, education, childcare and veterinary care. The Health Authority stream continues to nominate public-sector health professionals, and select health occupations in the broader health sector are also targeted. Certified early childhood educators, veterinarians and veterinary technologists working toward Canadian certification are prioritized. French-speaking teachers in the province’s public K-12 system are also targeted, using federal allocations available for francophone recruitment.
 **Build** targets nine certified skilled trades supporting construction and major infrastructure, including welders, electricians, plumbers, steamfitters, carpenters, millwrights, heavy-duty equipment mechanics and HVAC mechanics. A valid SkilledTradesBC certificate or registered apprenticeship is required to receive a targeted invitation.
 **Innovate** is delivered through High Economic Impact invitations, which target top talent across all sectors, including experienced entrepreneurs.
-The province also runs a time-limited initiative in 2026: the Temporary Rural/Remote Health Support Initiative, which will nominate up to 250 workers already employed by a health authority in a cleaning or security role in a rural or remote community. Registration opened on 15 June 2026. It was originally due to close on 31 August 2026, but on 13 August 2026 the BC PNP extended the intake to 11:59 pm on **7 October 2026** to account for wildfire-related impacts.
+The province is also expanding its list of ineligible occupations and employers to focus nominations on these priorities and strengthen program integrity.
+## Temporary Rural/Remote Health Support Initiative
+In 2026 the BC PNP ran a one-time initiative to retain up to 250 workers already employed by a health authority in a cleaning or security role in a rural or remote community. The Express Entry BC option was not available for this initiative.
+Registration opened on June 15, 2026 and was originally due to close on August 31, 2026. On August 13, 2026 the BC PNP extended the intake to 11:59 pm on October 7, 2026 to account for wildfire-related impacts. **That deadline has now passed, and registration for the initiative is closed.** The BC PNP has not announced any further extension.
+Invitations have been issued to registrants already in the pool: 60 invitations on July 23, 2026 (minimum score 50), 33 on September 17, 2026 (minimum score 60) and 16 on October 15, 2026 (minimum score 54). Workers who did not register before October 7 cannot use this initiative and would need to qualify under the regular Skilled Worker or Health Authority streams.
 ## What Happened to the BC PNP Tech Stream
 There is no longer a standalone technology stream or dedicated tech draw at the BC PNP.
-The final draw for BC PNP priority technology occupations took place on 3 December 2024. Since then, technology talent has been selected through the High Economic Impact invitations rather than through a separate tech list.
+The final draw for BC PNP priority technology occupations took place on December 3, 2024. Since then, technology talent has been selected through High Economic Impact invitations rather than through a separate tech list.
 All occupations that appeared on the previous technology occupations list remain eligible for the BC PNP. Tech workers therefore still qualify, but they compete on wage and score against candidates from every other sector.
 ## BC PNP Draws and Scores in 2026
 Invitations to apply are issued periodically from the registration pool. Registrations are scored on human capital factors such as work experience, education and language, plus economic factors such as wage and job location in B.C. A registration stays in the pool for up to 12 months.
-Two patterns are visible in 2026. Targeted Care and Build draws run roughly every six to seven weeks, and High Economic Impact draws run on their own schedule.
-In the draw of 6 August 2026, the BC PNP issued invitations as follows:
-  * Care: Childcare – 183 invitations, minimum score 102
-  * Care: Health – 124 invitations, minimum score 84
-  * Care: Education – fewer than five invitations, minimum score 68
-  * Care: Veterinary Care – six invitations, minimum score 72
-  * Build: Construction Trades – 187 invitations, minimum score 88
+Two patterns are visible in 2026. Targeted Care and Build draws run roughly every four to five weeks, and High Economic Impact draws run on their own schedule.
+In the most recent Care and Build draw, on November 13, 2026, the BC PNP issued invitations as follows:
+  * Care: Childcare (early childhood educators only) – 153 invitations, minimum score 95
+  * Care: Health – 103 invitations, minimum score 72
+  * Care: Veterinary Care – fewer than five invitations, minimum score 100
+  * Build: Construction Trades – 128 invitations, minimum score 94
 
 
-The High Economic Impact draw of 16 July 2026 issued 223 invitations to candidates with a job offer in NOC TEER 0, 1, 2 or 3 paying at least $58 an hour and $115,000 a year, plus a further 346 invitations at a minimum score of 132.
-Minimum scores in the targeted categories have eased through 2026. The Care: Health cut-off fell from 108 in May to 84 in August, and Build: Construction Trades fell from 108 to 88 over the same period.
-As of 4 August 2026 there were 8,306 registrations in the Skills Immigration pool, with 1,312 scoring 120 or above.
-Entrepreneur Immigration draws in 2026 have invited between seven and 15 Base stream candidates a month, with minimum scores between 115 and 121.
+The High Economic Impact draw of October 29, 2026 issued 524 invitations to candidates with a job offer in NOC TEER 0, 1, 2 or 3 paying at least $49 an hour and $99,000 a year, plus a further 248 invitations at a minimum score of 131. Wage thresholds in these draws have fallen through the year, from $70 an hour and $145,000 in early February to $49 an hour and $99,000 by late October.
+Minimum scores in the targeted categories have also eased. The Care: Health cut-off fell from 108 in May to 72 in November, and Care: Childcare fell from 115 to 95. Build: Construction Trades dropped from 108 in May to a low of 88 in August before settling at 94 from September to November.
+As of November 3, 2026 there were 7,235 registrations in the Skills Immigration pool, with 865 scoring 120 or above.
+Entrepreneur Immigration draws in 2026 have invited between seven and 15 Base stream candidates a month, with minimum scores between 115 and 121, plus a small number of Regional stream invitations.
 ## How to Register and Apply
 The Skills Immigration process has four components: registration, invitation, application and decision.
   * **Choose your stream** – Skilled Worker or Health Authority, and decide whether to use the Express Entry BC option.
@@ -382,28 +386,36 @@ The Skills Immigration process has four components: registration, invitation, ap
   * **Apply to IRCC** – submit the permanent residence application before the nomination expires. A provincial nomination adds 600 points to an Express Entry profile.
 
 
-Some occupations are excluded from every Skills Immigration stream, including executive assistants, administrative officers and assistants, human resources officers, accounting technicians and bookkeepers, retail and food service supervisors, real estate agents, and religious leaders and workers.
+Some occupations are excluded from every Skills Immigration stream, including executive assistants, administrative officers and assistants, human resources officers, accounting technicians and bookkeepers, retail and food service supervisors, real estate agents, and religious leaders and workers. Check the current Program Guide, as the province has said this list is being expanded.
 ## Fees
-The BC PNP increased its Skills Immigration application fee on 22 January 2026. Current fees are:
+The BC PNP increased its Skills Immigration application fee from $1,475 to $1,750 on January 22, 2026. Current fees are:
   * Registration – no fee
   * Skills Immigration application – $1,750 CAD
   * Request for review – $500 CAD, non-refundable
 
 
-Federal fees are separate. See our guide to [Canadian immigration processing times](https://immigration.ca/canada-immigration-applications-processing-times/) for what to expect after nomination.
+Federal permanent residence fees are separate and rose on April 30, 2026: a provincial nominee principal applicant now pays a $990 processing fee plus the $600 right of permanent residence fee. See our [immigration fee schedule](https://immigration.ca/government-of-canada-immigration-fee-schedule/) for the full list, and our guide to [Canadian immigration processing times](https://immigration.ca/canada-immigration-applications-processing-times/) for what to expect after nomination.
+## Sources
+  * [WelcomeBC – BC PNP news (allocation, April 23 priorities, Rural/Remote Health Support Initiative, fees)](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news)
+  * [WelcomeBC – BC PNP invitations to apply and registration pool](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply)
+  * [WelcomeBC – Skills Immigration for workers](https://www.welcomebc.ca/immigrate-to-b-c/for-workers)
+  * [IRCC – Supplementary Information for the 2027–2029 Immigration Levels Plan](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/immigration-system/levels/supplementary-immigration-levels-2027-2029.html)
+  * [IRCC – Fee changes (April 30, 2026 permanent residence fees)](https://ircc.canada.ca/english/information/fees/fee-changes.asp)
+
+
 ## Frequently Asked Questions
 ### How many nominations does British Columbia have in 2026?
-The BC PNP’s 2026 allocation is 6,254 nominations. IRCC set the opening allocation at 5,254 on 18 December 2025 and added a further 1,000 on 18 August 2026. British Columbia had asked for 9,000, and the province says it will keep discussing the figure with the federal government.
+The BC PNP’s 2026 allocation is 6,254 nominations. IRCC set the opening allocation at 5,254 on December 18, 2025 and added a further 1,000 on August 18, 2026. British Columbia had asked for 9,000 and plans to use its full allocation by December 31, 2026.
+### Can I still register for the Temporary Rural/Remote Health Support Initiative?
+No. Registration for the initiative, which targets health authority cleaning and security workers in rural or remote communities, closed at 11:59 pm on October 7, 2026 after an extension for wildfire impacts. The BC PNP has continued to issue invitations to people who registered before the deadline, including 16 invitations on October 15, 2026.
 ### Is there still a BC PNP tech stream?
-No. The last targeted draw for BC PNP priority technology occupations was held on 3 December 2024. Technology occupations remain eligible for the program, but tech candidates are now selected through High Economic Impact invitations that cover all sectors rather than through a dedicated tech draw.
+No. The last targeted draw for BC PNP priority technology occupations was held on December 3, 2024. Technology occupations remain eligible, but tech candidates are now selected through High Economic Impact invitations that cover all sectors rather than through a dedicated tech draw.
 ### Do I need a job offer for the BC PNP?
 Yes, for Skills Immigration. Both the Skilled Worker stream and the Health Authority stream require a full-time, indeterminate job offer from an eligible British Columbia employer, supported by a completed Employer Declaration Form. Entrepreneur Immigration does not require a job offer.
 ### What score do I need to be invited by the BC PNP?
-It depends on the category and the draw. In the 6 August 2026 draw, minimum scores ranged from 68 for priority education occupations to 102 for early childhood educators. High Economic Impact draws have required around 132 to 138 points, or a job offer meeting a set wage threshold instead of a score.
+It depends on the category and the draw. In the November 13, 2026 draw, minimum scores ranged from 72 for priority health occupations to 100 for veterinary care, with early childhood educators at 95. The October 29, 2026 High Economic Impact draw required 131 points, or a TEER 0–3 job offer paying at least $49 an hour and $99,000 a year.
 ### Can international graduates still use the BC PNP?
-There are no BC PNP student streams and the province confirmed in April 2026 that it will not launch new ones. Graduates can register under the Skilled Worker or Health Authority streams if they hold a qualifying job offer, and studies completed in B.C. or elsewhere in Canada still earn extra registration points.
-### How long is a BC PNP nomination valid?
-A Confirmation of Nomination has an expiry date, and the federal permanent residence application must be submitted before it expires. Provincial nomination processing and federal processing are separate stages, each with its own timelines, so applicants should check IRCC’s current processing times before planning a move.
+There are no BC PNP student streams, and the province confirmed in April 2026 that it will not launch new ones. Graduates can register under the Skilled Worker or Health Authority streams if they hold a qualifying job offer, and studies completed in B.C. or elsewhere in Canada still earn extra registration points.
 [ Schedule your immigration consultation ](https://immigration.ca/immigration-consultation/)
 About the author
 ![Colin R. Singer](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/09/Colin-Singer-v3-300x300.jpg)
@@ -413,23 +425,23 @@ Colin R. Singer has been a licensed immigration lawyer in good standing with the
 [Barreau du Québec · 35+ yrs](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe "Verify licence with the Barreau du Quebec")[House of Commons testimony](https://www.ourcommons.ca/DocumentViewer/en/37-1/CIMM/meeting-20/evidence "Read the official House of Commons record")[Law360 / LexisNexis contributor](https://www.law360.ca/ca/search?q=Colin+Singer "Law360 contributions")[Governor, Fondation du Barreau](https://fondationdubarreau.qc.ca/gouverneurs?recherche=&lettre%5B0%5D=s&page=1 "Fondation du Barreau du Quebec governors")
 [Full profile →](https://immigration.ca/author/colin-singer/)[Verify licence](https://www.barreau.qc.ca/en/find-a-lawyer/member/?id=4dc09ec70a6707009bc4c46e5414293a1531a37086ad3b698852c1f3b61ca2fe)[LinkedIn](https://www.linkedin.com/company/immigration-ca)[X / Twitter](https://twitter.com/immigrationca)[Book a consultation](https://immigration.ca/immigration-consultation/)
 **Stay ahead on Canadian immigration news.** Make immigration.ca your preferred source on Google to see our latest stories first in Top Stories.  [ Add as preferred source ](https://google.com/preferences/source?q=immigration.ca)
-  * Tags: [BC PNP](https://immigration.ca/tag/bc-pnp/), [BC PNP 2026](https://immigration.ca/tag/bc-pnp-2026/), [BC PNP allocation](https://immigration.ca/tag/bc-pnp-allocation/), [BC PNP draws](https://immigration.ca/tag/bc-pnp-draws/), [British Columbia Immigration](https://immigration.ca/tag/british-columbia-immigration/), [British Columbia Provincial Nominee Program](https://immigration.ca/tag/british-columbia-provincial-nominee-program/), [Immigrate to British Columbia](https://immigration.ca/tag/immigrate-to-british-columbia/), [Skills Immigration](https://immigration.ca/tag/skills-immigration/)
+  * Tags: [BC PNP](https://immigration.ca/tag/bc-pnp/), [BC PNP draw](https://immigration.ca/tag/bc-pnp-draw/), [BC Provincial Nominee Program](https://immigration.ca/tag/bc-provincial-nominee-program/), [British Columbia Immigration](https://immigration.ca/tag/british-columbia-immigration/), [British Columbia Provincial Nominee Program](https://immigration.ca/tag/british-columbia-provincial-nominee-program/), [Canada immigration](https://immigration.ca/tag/canada-immigration/), [Express Entry](https://immigration.ca/tag/express-entry/), [Provincial Nominee Program](https://immigration.ca/tag/provincial-nominee-program/)
 
 
 [![Canadian citizenship by descent consultation - $150 off, book by November 30](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w1-nov-sale-150.webp)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_holiday_2026_final&utm_content=sidebar-w1-sale)[![Canadian roots? Citizenship by descent consultation - $150 off, book by November 30](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w2-nov-sale-150.webp)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_holiday_2026_final&utm_content=sidebar-w2-sale)[![Canadian citizenship can run in the family - $150 off consultations, book by November 30](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w3-nov-sale-150.webp)](https://immigration.ca/citizenship-by-descent-consultation-125-discount-applied/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_holiday_2026_final&utm_content=sidebar-w3-sale)[![Find out if you qualify for Canadian citizenship by descent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w1-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w1-autumn)[![Canadian roots? Find out if you qualify for citizenship by descent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w2-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w2-autumn)[![Canadian citizenship can run in the family - find out if you qualify](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w3-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w3-autumn)
 Latest News
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Canada-Immigration-Pilot-Programs-40x40.jpg)](https://immigration.ca/canada-changes-express-entry-rules-for-university-researchers-and-professors/)
-[Canada Changes Express Entry Rules For University Researchers And Professors](https://immigration.ca/canada-changes-express-entry-rules-for-university-researchers-and-professors/)November 18, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2012/12/New-Brunswick-Immigration-40x40.jpg)](https://immigration.ca/new-brunswick-issues-463-invitations-three-immigration-rounds-november-2026/)
-[New Brunswick Issues 463 Invitations Across Three November 2026 Immigration Rounds](https://immigration.ca/new-brunswick-issues-463-invitations-three-immigration-rounds-november-2026/)November 18, 2026
-  * [![BC PNP Draw Targets Tech, Childcare, Construction and Healthcare](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/06/BC-PNP-Draw-Targets-Tech-Childcare-Construction-and-Healthcare-40x40.jpg)](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-november-17-2026/)
-[British Columbia Invites Entrepreneurs At Score 117 In November 17 BC PNP Draw](https://immigration.ca/british-columbia-invites-entrepreneurs-bc-pnp-draw-november-17-2026/)November 18, 2026
-  * [![Canada Prime Minister Justin Trudeau Waiting To Receive Quebec’s Immigration Plan](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Canada-Prime-Minister-Justin-Trudeau-Waiting-To-Receive-Quebecs-Immigration-Plan-40x40.jpg)](https://immigration.ca/proof-of-canadian-citizenship-processing-time-35-months/)
-[Proof Of Canadian Citizenship Now Takes 35 Months As The Queue Hits A New High](https://immigration.ca/proof-of-canadian-citizenship-processing-time-35-months/)November 17, 2026
-  * [![Canada Announces Cap on Start-Up Visa Applications to Reduce Processing Times](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/04/Canada-Announces-Cap-on-Start-Up-Visa-Applications-to-Reduce-Processing-Times-1-40x40.jpg)](https://immigration.ca/canada-could-fast-track-pr-applications-under-closed-immigration-programs-who-could-benefit/)
-[Canada Could Fast-Track PR Applications Under Closed Immigration Programs – Who Could Benefit?](https://immigration.ca/canada-could-fast-track-pr-applications-under-closed-immigration-programs-who-could-benefit/)November 17, 2026
-  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-54-invitations-november-16-2026/)
-[Newfoundland and Labrador Issues 54 Invitations in November 16 Draw](https://immigration.ca/newfoundland-and-labrador-issues-54-invitations-november-16-2026/)November 17, 2026
+  * [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-116-invitations-november-20-2026-pnp-draw/)
+[Prince Edward Island Issues 116 Invitations in November 20 PNP Draw](https://immigration.ca/prince-edward-island-issues-116-invitations-november-20-2026-pnp-draw/)November 21, 2026
+  * [![Newcomers guide to renting vs. buying in Canada](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/05/Newcomers-guide-to-renting-vs.-buying-in-Canada-40x40.jpg)](https://immigration.ca/canada-could-admit-up-to-662000-permanent-residents-in-2027-economists-warn/)
+[Canada Could Admit Up To 662,000 Permanent Residents In 2027, Economists Warn](https://immigration.ca/canada-could-admit-up-to-662000-permanent-residents-in-2027-economists-warn/)November 20, 2026
+  * [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-374-invitations-three-aaip-draws-november-2026/)
+[Alberta Issues 374 Invitations in Three AAIP Draws Between November 6 and 13, 2026](https://immigration.ca/alberta-issues-374-invitations-three-aaip-draws-november-2026/)November 20, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-98-invitations-november-19-2026/)
+[Newfoundland and Labrador Issues 98 Invitations in November 19 Draw](https://immigration.ca/newfoundland-and-labrador-issues-98-invitations-november-19-2026/)November 20, 2026
+  * [![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-1116-letters-of-advice-to-apply-mpnp-draw-284-november-19-2026/)
+[Manitoba Issues 1,116 Letters of Advice to Apply in MPNP Draw #284](https://immigration.ca/manitoba-issues-1116-letters-of-advice-to-apply-mpnp-draw-284-november-19-2026/)November 20, 2026
+  * [![](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2025/05/Hotel-and-Hospitality-Workers-Immigrate-to-Canada-40x40.jpg)](https://immigration.ca/canada-job-vacancies-rise-in-hospitality-transport-and-manufacturing-as-health-care-demand-falls/)
+[Canada Job Vacancies Rise In Hospitality, Transport And Manufacturing As Health Care Demand Falls](https://immigration.ca/canada-job-vacancies-rise-in-hospitality-transport-and-manufacturing-as-health-care-demand-falls/)November 19, 2026
 
 
 [![Find out if you qualify for Canadian citizenship by descent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w1-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w1-autumn)[![Canadian roots? Find out if you qualify for citizenship by descent](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w2-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w2-autumn)[![Canadian citizenship can run in the family - find out if you qualify](https://immigration.ca/nitropack_static/LoajYdBTWDqCSJMggZglhyiUJEMYjedR/assets/images/optimized/rev-a94f802/immigration.ca/wp-content/uploads/2026/11/c3-sidebar-w3-autumn.webp)](https://immigration.ca/canadian-citizenship-by-descent-calculator/?utm_source=immigration.ca&utm_medium=sidebar&utm_campaign=c3_sidebar&utm_content=sidebar-w3-autumn)
@@ -459,4 +471,4 @@ Colin Singer, Managing Partner is an experienced authority on all aspects of Can
 
 [ Linkedin ](https://www.linkedin.com/company/immigration-ca?trk=cws-cpw-coname-0-0) [ Facebook ](https://www.facebook.com/immigrationca/?fref=nf) [ Instagram ](https://www.instagram.com/immigrationca/) [ Youtube ](https://www.youtube.com/channel/UCVFZoaRpiDQb2WL2Z6Fp9Og) [ Twitter ](https://twitter.com/immigrationca) [ Podcast ](https://www.podcast.immigration.ca/)
 [Go to Top](https://immigration.ca/british-columbia-immigration/<#>)
-![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=60d1e323-15f6-427b-be14-2bb0a06f248b&bo=1&sid=53b7ee30e71811f1866da7e0675520e4&vid=53b81780e71811f18d01051bfd0f6789&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%3A%20BC%20PNP%20Guide%20for%202026&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=587&evt=pageLoad&sv=2&cdb=AQAQ&rn=954452)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=60d1e323-15f6-427b-be14-2bb0a06f248b&bo=2&sid=53b7ee30e71811f1866da7e0675520e4&vid=53b81780e71811f18d01051bfd0f6789&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=617765)
+![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=1f62b8d1-58d4-4879-b622-36c73019614d&bo=1&sid=34ff1520e7f311f1bf841ba2d2d753af&vid=34ff2850e7f311f1be29cf76161ae0e5&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=British%20Columbia%20Immigration%202026%3A%20BC%20PNP%20Guide%20%26%20Draws&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&r=&lt=697&evt=pageLoad&sv=2&cdb=AQAQ&rn=42575)![](https://bat.bing.com/action/0?ti=343280034&tm=gtm002&Ver=2&mid=1f62b8d1-58d4-4879-b622-36c73019614d&bo=2&sid=34ff1520e7f311f1bf841ba2d2d753af&vid=34ff2850e7f311f1be29cf76161ae0e5&vids=0&msclkid=N&tpp=1&ea=debug_test&en=Y&p=https%3A%2F%2Fimmigration.ca%2Fbritish-columbia-immigration%2F&sw=1080&sh=600&sc=24&evt=custom&cdb=AQAQ&rn=709046)
