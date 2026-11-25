@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: a29cf8387cb612c0
+content_hash: 4b43cad174592e64
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-11-24'
+last_updated: '2026-11-25'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![IRCC Improves Immigration Application Processing Time Tool](https://immigration.ca/wp-content/uploads/2024/05/IRCC-Improves-Immigration-Application-Processing-Time-Tool-300x169.jpg)](https://immigration.ca/canada-plans-13-immigration-department-staffing-reduction-what-could-it-mean-for-processing-times/)
+[![Canada Doubles Penalties for Employers Abusing the Temporary Foreign Worker Program](https://immigration.ca/wp-content/uploads/2025/01/Canada-Doubles-Penalties-for-Employers-Abusing-the-Temporary-Foreign-Worker-Program-300x157.jpg)](https://immigration.ca/canada-updates-foreign-worker-wages-employers-face-january-1-deadline/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Plans 13% Immigration Department Staffing Reduction – What Could It Mean For Processing Times? ](https://immigration.ca/canada-plans-13-immigration-department-staffing-reduction-what-could-it-mean-for-processing-times/)
-[ Read More » ](https://immigration.ca/canada-plans-13-immigration-department-staffing-reduction-what-could-it-mean-for-processing-times/)
-Colin R. Singer  November 23, 2026 
-[![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-300x157.jpg)](https://immigration.ca/prince-edward-island-issues-116-invitations-november-20-2026-pnp-draw/)
+###  [ Canada Updates Foreign Worker Wages – Employers Face January 1 Deadline ](https://immigration.ca/canada-updates-foreign-worker-wages-employers-face-january-1-deadline/)
+[ Read More » ](https://immigration.ca/canada-updates-foreign-worker-wages-employers-face-january-1-deadline/)
+Colin R. Singer  November 24, 2026 
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-300x169.jpg)](https://immigration.ca/canada-invites-1999-provincial-nominees-express-entry-crs-673-november-23-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Prince Edward Island Issues 116 Invitations in November 20 PNP Draw ](https://immigration.ca/prince-edward-island-issues-116-invitations-november-20-2026-pnp-draw/)
-[ Read More » ](https://immigration.ca/prince-edward-island-issues-116-invitations-november-20-2026-pnp-draw/)
-Colin Singer  November 21, 2026 
+###  [ Canada Invites 1,999 Provincial Nominees in November 23 Express Entry Draw ](https://immigration.ca/canada-invites-1999-provincial-nominees-express-entry-crs-673-november-23-2026/)
+[ Read More » ](https://immigration.ca/canada-invites-1999-provincial-nominees-express-entry-crs-673-november-23-2026/)
+Colin Singer  November 24, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -67,6 +67,10 @@ Melissa Gosselin  March 6, 2025
 Canada immigration authorities match the largest number of Invitations to Apply and the lowest Comprehensive Ranking System score in 2018 in the latest Express Entry
 [ Read More » ](https://immigration.ca/latest-canada-express-entry-draw-matches-lowest-crs-score-and-highest-number-of-invitations-in-2018/)
 Colin R. Singer  October 15, 2018 
+[![Canada Doubles Penalties for Employers Abusing the Temporary Foreign Worker Program](https://immigration.ca/wp-content/uploads/2025/01/Canada-Doubles-Penalties-for-Employers-Abusing-the-Temporary-Foreign-Worker-Program-40x40.jpg)](https://immigration.ca/canada-updates-foreign-worker-wages-employers-face-january-1-deadline/)
+[Canada Updates Foreign Worker Wages – Employers Face January 1 Deadline](https://immigration.ca/canada-updates-foreign-worker-wages-employers-face-january-1-deadline/)November 24, 2026
+[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-1999-provincial-nominees-express-entry-crs-673-november-23-2026/)
+[Canada Invites 1,999 Provincial Nominees in November 23 Express Entry Draw](https://immigration.ca/canada-invites-1999-provincial-nominees-express-entry-crs-673-november-23-2026/)November 24, 2026
 [![IRCC Improves Immigration Application Processing Time Tool](https://immigration.ca/wp-content/uploads/2024/05/IRCC-Improves-Immigration-Application-Processing-Time-Tool-40x40.jpg)](https://immigration.ca/canada-plans-13-immigration-department-staffing-reduction-what-could-it-mean-for-processing-times/)
 [Canada Plans 13% Immigration Department Staffing Reduction – What Could It Mean For Processing Times?](https://immigration.ca/canada-plans-13-immigration-department-staffing-reduction-what-could-it-mean-for-processing-times/)November 23, 2026
 [![Immigrate to Prince Edward Island, Canada](https://immigration.ca/wp-content/uploads/2012/12/Immigrate-to-Prince-Edward-Island-Canada-40x40.jpg)](https://immigration.ca/prince-edward-island-issues-116-invitations-november-20-2026-pnp-draw/)
@@ -75,7 +79,3 @@ Colin R. Singer  October 15, 2018
 [Canada Could Admit Up To 662,000 Permanent Residents In 2027, Economists Warn](https://immigration.ca/canada-could-admit-up-to-662000-permanent-residents-in-2027-economists-warn/)November 20, 2026
 [![Alberta Targets Healthcare Skilled Workers With 41 Canada Immigration Invitations](https://immigration.ca/wp-content/uploads/2024/08/Alberta-Targets-Healthcare-Skilled-Workers-With-41-Canada-Immigration-Invitations-40x40.jpg)](https://immigration.ca/alberta-issues-374-invitations-three-aaip-draws-november-2026/)
 [Alberta Issues 374 Invitations in Three AAIP Draws Between November 6 and 13, 2026](https://immigration.ca/alberta-issues-374-invitations-three-aaip-draws-november-2026/)November 20, 2026
-[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-98-invitations-november-19-2026/)
-[Newfoundland and Labrador Issues 98 Invitations in November 19 Draw](https://immigration.ca/newfoundland-and-labrador-issues-98-invitations-november-19-2026/)November 20, 2026
-[![Manitoba Issues 234 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/10/Manitoba-Issues-234-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/manitoba-issues-1116-letters-of-advice-to-apply-mpnp-draw-284-november-19-2026/)
-[Manitoba Issues 1,116 Letters of Advice to Apply in MPNP Draw #284](https://immigration.ca/manitoba-issues-1116-letters-of-advice-to-apply-mpnp-draw-284-november-19-2026/)November 20, 2026
