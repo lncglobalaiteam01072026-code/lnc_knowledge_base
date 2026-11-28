@@ -1,12 +1,12 @@
 ---
 access_level: internal
 chunk_strategy: standard
-content_hash: 880259464343edcf
+content_hash: a2e60bed8233fdd0
 country: CA
 crawl_depth_level: 1
 file_role: deep_crawl_page
 lang: en
-last_updated: '2026-11-27'
+last_updated: '2026-11-28'
 priority_weight: 0.8
 program: NEWS
 retrieval_strategy: direct
@@ -16,16 +16,16 @@ topic: immigration_news
 version: '1.0'
 ---
 
-[![Canada Issues 1,800 Express Entry Invitations to Apply \(ITAs\) For Trade Occupations](https://immigration.ca/wp-content/uploads/2024/07/Canada-Issues-1800-Express-Entry-Invitations-to-Apply-ITAs-For-Trade-Occupations-300x169.jpg)](https://immigration.ca/ontario-court-ruling-offers-new-hope-to-2600-skilled-trades-immigration-applicants/)
+[![Find Out Which Sectors Have Most Canada Job Vacancies](https://immigration.ca/wp-content/uploads/2024/06/Find-Out-Which-Sectors-Have-Most-Canada-Job-Vacancies-300x169.jpg)](https://immigration.ca/canada-job-vacancies-jump-7-3-as-demand-rises-in-retail-manufacturing-and-hospitality/)
 ![Colin R. Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Ontario Court Ruling Offers New Hope To 2,600 Skilled Trades Immigration Applicants ](https://immigration.ca/ontario-court-ruling-offers-new-hope-to-2600-skilled-trades-immigration-applicants/)
-[ Read More » ](https://immigration.ca/ontario-court-ruling-offers-new-hope-to-2600-skilled-trades-immigration-applicants/)
-Colin R. Singer  November 26, 2026 
-[![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-300x169.jpg)](https://immigration.ca/canada-invites-6000-french-speaking-candidates-express-entry-crs-401-november-25-2026/)
+###  [ Canada Job Vacancies Jump 7.3% As Demand Rises In Retail, Manufacturing And Hospitality ](https://immigration.ca/canada-job-vacancies-jump-7-3-as-demand-rises-in-retail-manufacturing-and-hospitality/)
+[ Read More » ](https://immigration.ca/canada-job-vacancies-jump-7-3-as-demand-rises-in-retail-manufacturing-and-hospitality/)
+Colin R. Singer  November 27, 2026 
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-300x157.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-26-2026/)
 ![Colin Singer](https://immigration.ca/wp-content/uploads/2024/05/cropped-UrFzrSqO_400x400-128x128.jpg)
-###  [ Canada Invites 6,000 French-Speaking Candidates in November 25 Express Entry Draw ](https://immigration.ca/canada-invites-6000-french-speaking-candidates-express-entry-crs-401-november-25-2026/)
-[ Read More » ](https://immigration.ca/canada-invites-6000-french-speaking-candidates-express-entry-crs-401-november-25-2026/)
-Colin Singer  November 26, 2026 
+###  [ Newfoundland and Labrador Issues 57 Invitations in November 26 Draw ](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-26-2026/)
+[ Read More » ](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-26-2026/)
+Colin Singer  November 27, 2026 
 ###  [ Livestream Video: Latest News in World of Canadian Immigration Analyzed ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
 Immigration.ca’s first livestream sees Canadian Immigration Lawyer and Managing Partner Colin Singer bring you up to date with the latest developments in the world of
 [ Read More » ](https://immigration.ca/livestream-video-latest-news-world-canadian-immigration-analyzed/)
@@ -68,15 +68,15 @@ Colin R. Singer  October 15, 2018
 Canada’s latest Express Entry draw issued 511 Invitations to Apply (ITAs) in the Provincial Nominee Program. The May 12 draw saw a minimum. Comprehensive Ranking System (CRS) score of 706 points. 
 [ Read More » ](https://immigration.ca/canada-invites-511-pnp-candidates-in-latest-express-entry-draw/)
 Melissa Gosselin  May 12, 2025 
+[![Find Out Which Sectors Have Most Canada Job Vacancies](https://immigration.ca/wp-content/uploads/2024/06/Find-Out-Which-Sectors-Have-Most-Canada-Job-Vacancies-40x40.jpg)](https://immigration.ca/canada-job-vacancies-jump-7-3-as-demand-rises-in-retail-manufacturing-and-hospitality/)
+[Canada Job Vacancies Jump 7.3% As Demand Rises In Retail, Manufacturing And Hospitality](https://immigration.ca/canada-job-vacancies-jump-7-3-as-demand-rises-in-retail-manufacturing-and-hospitality/)November 27, 2026
+[![](https://immigration.ca/wp-content/uploads/2025/10/Newfoundland-40x40.jpg)](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-26-2026/)
+[Newfoundland and Labrador Issues 57 Invitations in November 26 Draw](https://immigration.ca/newfoundland-and-labrador-issues-57-invitations-november-26-2026/)November 27, 2026
+[![British Columbia Issues 88 Canada Immigration Invitations In New PNP Draw](https://immigration.ca/wp-content/uploads/2024/04/British-Columbia-Issues-88-Canada-Immigration-Invitations-In-New-PNP-Draw-40x40.jpg)](https://immigration.ca/british-columbia-invites-784-high-economic-impact-workers-bc-pnp-november-26-2026/)
+[British Columbia Invites 784 High Economic Impact Workers In Largest BC PNP Innovate Draw Of 2026](https://immigration.ca/british-columbia-invites-784-high-economic-impact-workers-bc-pnp-november-26-2026/)November 27, 2026
+[![Canada Issues 4,500 Express Entry Invitations to Apply for STEM Occupations](https://immigration.ca/wp-content/uploads/2024/04/Canada-Issues-4500-Express-Entry-Invitations-to-Apply-for-STEM-Occupations-40x40.jpg)](https://immigration.ca/canada-invites-600-stem-workers-express-entry-crs-547-november-26-2026/)
+[Canada Invites 600 STEM Workers in First Express Entry STEM Draw Since 2024](https://immigration.ca/canada-invites-600-stem-workers-express-entry-crs-547-november-26-2026/)November 27, 2026
 [![Canada Issues 1,800 Express Entry Invitations to Apply \(ITAs\) For Trade Occupations](https://immigration.ca/wp-content/uploads/2024/07/Canada-Issues-1800-Express-Entry-Invitations-to-Apply-ITAs-For-Trade-Occupations-40x40.jpg)](https://immigration.ca/ontario-court-ruling-offers-new-hope-to-2600-skilled-trades-immigration-applicants/)
 [Ontario Court Ruling Offers New Hope To 2,600 Skilled Trades Immigration Applicants](https://immigration.ca/ontario-court-ruling-offers-new-hope-to-2600-skilled-trades-immigration-applicants/)November 26, 2026
 [![Canada Express Entry Draw Issues 1,000 ITAs in French Language Proficiency Category](https://immigration.ca/wp-content/uploads/2024/09/Canada-Express-Entry-Draw-Issues-1000-ITAs-in-French-Language-Proficiency-Category-40x40.jpg)](https://immigration.ca/canada-invites-6000-french-speaking-candidates-express-entry-crs-401-november-25-2026/)
 [Canada Invites 6,000 French-Speaking Candidates in November 25 Express Entry Draw](https://immigration.ca/canada-invites-6000-french-speaking-candidates-express-entry-crs-401-november-25-2026/)November 26, 2026
-[![Toronto's skyline looking north from Lake Ontario, with the CN Tower and SkyDome prominent in the foreground](https://immigration.ca/wp-content/uploads/2025/07/Toronto-Skyline-40x40.jpg)](https://immigration.ca/fewer-than-half-of-canadas-new-immigrants-now-settle-in-toronto-vancouver-and-montreal/)
-[Fewer Than Half Of Canada’s New Immigrants Now Settle In Toronto, Vancouver And Montreal](https://immigration.ca/fewer-than-half-of-canadas-new-immigrants-now-settle-in-toronto-vancouver-and-montreal/)November 25, 2026
-[![Canada Doubles Penalties for Employers Abusing the Temporary Foreign Worker Program](https://immigration.ca/wp-content/uploads/2025/01/Canada-Doubles-Penalties-for-Employers-Abusing-the-Temporary-Foreign-Worker-Program-40x40.jpg)](https://immigration.ca/canada-updates-foreign-worker-wages-employers-face-january-1-deadline/)
-[Canada Updates Foreign Worker Wages – Employers Face January 1 Deadline](https://immigration.ca/canada-updates-foreign-worker-wages-employers-face-january-1-deadline/)November 24, 2026
-[![Canada Express Entry Draw Issues 964 ITAs for Provincial Nominee Program](https://immigration.ca/wp-content/uploads/2024/07/Canada-Express-Entry-Draw-Issues-964-ITAs-for-Provincial-Nominee-Program-40x40.jpg)](https://immigration.ca/canada-invites-1999-provincial-nominees-express-entry-crs-673-november-23-2026/)
-[Canada Invites 1,999 Provincial Nominees in November 23 Express Entry Draw](https://immigration.ca/canada-invites-1999-provincial-nominees-express-entry-crs-673-november-23-2026/)November 24, 2026
-[![IRCC Improves Immigration Application Processing Time Tool](https://immigration.ca/wp-content/uploads/2024/05/IRCC-Improves-Immigration-Application-Processing-Time-Tool-40x40.jpg)](https://immigration.ca/canada-plans-13-immigration-department-staffing-reduction-what-could-it-mean-for-processing-times/)
-[Canada Plans 13% Immigration Department Staffing Reduction – What Could It Mean For Processing Times?](https://immigration.ca/canada-plans-13-immigration-department-staffing-reduction-what-could-it-mean-for-processing-times/)November 23, 2026
